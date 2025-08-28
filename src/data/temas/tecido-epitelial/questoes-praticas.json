@@ -1,0 +1,27 @@
+[
+  {
+    "id": 2,
+    "tema": "Tecido Epitelial",
+    "imagem": "https://images.pexels.com/photos/3938022/pexels-photo-3938022.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "enunciado": "Analise a estrutura epitelial apresentada na lâmina. Qual tipo de epitélio está sendo mostrado?",
+    "alternativas": [
+      {
+        "texto": "Epitélio Simples Pavimentoso",
+        "explicacao": "Incorreto. O epitélio simples pavimentoso é formado por uma única camada de células achatadas, não correspondendo à estrutura observada."
+      },
+      {
+        "texto": "Epitélio Estratificado Pavimentoso",
+        "explicacao": "Correto! A imagem mostra epitélio estratificado pavimentoso, caracterizado por múltiplas camadas de células, com as mais superficiais achatadas e as basais mais cuboides."
+      },
+      {
+        "texto": "Epitélio Simples Colunar",
+        "explicacao": "Incorreto. O epitélio simples colunar apresenta uma única camada de células altas, diferente da estrutura multicamada observada."
+      },
+      {
+        "texto": "Epitélio Pseudoestratificado",
+        "explicacao": "Incorreto. O epitélio pseudoestratificado aparenta ter múltiplas camadas, mas todas as células tocam a membrana basal, o que não ocorre nesta imagem."
+      }
+    ],
+    "respostaCorreta": 1
+  }
+]

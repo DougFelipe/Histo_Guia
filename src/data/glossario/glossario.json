@@ -1,0 +1,122 @@
+[
+  {
+    "termo": "Actina",
+    "definicao": "Proteína filamentosa que forma parte do citoesqueleto celular e é essencial para a contração muscular.",
+    "categoria": "Proteína"
+  },
+  {
+    "termo": "Adipócito",
+    "definicao": "Célula especializada no armazenamento de lipídios, principal componente do tecido adiposo.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Bainha de Mielina",
+    "definicao": "Estrutura lipídica que envolve os axônios, aumentando a velocidade de condução dos impulsos nervosos.",
+    "categoria": "Estrutura Neural"
+  },
+  {
+    "termo": "Colágeno",
+    "definicao": "Proteína fibrosa mais abundante no corpo humano, principal componente da matriz extracelular do tecido conjuntivo.",
+    "categoria": "Proteína"
+  },
+  {
+    "termo": "Desmossomo",
+    "definicao": "Junção celular que proporciona adesão forte entre células epiteliais adjacentes.",
+    "categoria": "Junção Celular"
+  },
+  {
+    "termo": "Epitélio",
+    "definicao": "Tecido formado por células justapostas com pouca matriz extracelular, que reveste superfícies e cavidades do corpo.",
+    "categoria": "Tecido"
+  },
+  {
+    "termo": "Fibroblasto",
+    "definicao": "Célula responsável pela síntese de fibras colágenas, elásticas e componentes da matriz extracelular do tecido conjuntivo.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Glândula Endócrina",
+    "definicao": "Glândula que secreta hormônios diretamente na corrente sanguínea, sem ductos excretores.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Hemácia",
+    "definicao": "Célula sanguínea anucleada responsável pelo transporte de oxigênio e dióxido de carbono.",
+    "categoria": "Célula Sanguínea"
+  },
+  {
+    "termo": "Íntima",
+    "definicao": "Camada mais interna da parede dos vasos sanguíneos, formada pelo endotélio e tecido conjuntivo subendotelial.",
+    "categoria": "Estrutura Vascular"
+  },
+  {
+    "termo": "Junção Comunicante",
+    "definicao": "Tipo de junção celular que permite a passagem de pequenas moléculas entre células adjacentes.",
+    "categoria": "Junção Celular"
+  },
+  {
+    "termo": "Queratina",
+    "definicao": "Proteína fibrosa resistente que forma a principal estrutura de cabelos, unhas e camada córnea da pele.",
+    "categoria": "Proteína"
+  },
+  {
+    "termo": "Lâmina Basal",
+    "definicao": "Estrutura acelular que separa o epitélio do tecido conjuntivo subjacente, importante para adesão e filtração.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Matriz Extracelular",
+    "definicao": "Conjunto de substâncias secretadas pelas células que preenchem os espaços entre elas, fornecendo suporte estrutural.",
+    "categoria": "Componente Celular"
+  },
+  {
+    "termo": "Neurônio",
+    "definicao": "Célula especializada na recepção, processamento e transmissão de informações através de impulsos elétricos.",
+    "categoria": "Célula Neural"
+  },
+  {
+    "termo": "Osteócito",
+    "definicao": "Célula óssea madura localizada em lacunas dentro da matriz óssea mineralizada.",
+    "categoria": "Célula Óssea"
+  },
+  {
+    "termo": "Plaqueta",
+    "definicao": "Fragmento celular anucleado derivado dos megacariócitos, essencial para a coagulação sanguínea.",
+    "categoria": "Célula Sanguínea"
+  },
+  {
+    "termo": "Queratinócito",
+    "definicao": "Célula predominante da epiderme que produz queratina e forma a barreira protetora da pele.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Retículo Endoplasmático",
+    "definicao": "Sistema de membranas intracelulares responsável pela síntese de proteínas e lipídios.",
+    "categoria": "Organela"
+  },
+  {
+    "termo": "Sarcômero",
+    "definicao": "Unidade contrátil básica do músculo estriado, delimitada por duas linhas Z consecutivas.",
+    "categoria": "Estrutura Muscular"
+  },
+  {
+    "termo": "Tecido Conjuntivo",
+    "definicao": "Tecido caracterizado por abundante matriz extracelular, com funções de sustentação, preenchimento e defesa.",
+    "categoria": "Tecido"
+  },
+  {
+    "termo": "Urotélio",
+    "definicao": "Epitélio de transição especializado que reveste o trato urinário, capaz de se distender.",
+    "categoria": "Tecido Especializado"
+  },
+  {
+    "termo": "Vaso Sanguíneo",
+    "definicao": "Estrutura tubular que transporta sangue pelo corpo, incluindo artérias, veias e capilares.",
+    "categoria": "Estrutura Vascular"
+  },
+  {
+    "termo": "Zonula Occludens",
+    "definicao": "Tipo de junção celular que forma uma barreira impermeável entre células epiteliais adjacentes.",
+    "categoria": "Junção Celular"
+  }
+]

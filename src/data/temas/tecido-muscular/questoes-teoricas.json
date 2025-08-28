@@ -1,0 +1,29 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Qual característica distingue o músculo esquelético do músculo cardíaco?",
+    "nivel": "médio",
+    "subtopico": "tipos de músculo",
+    "tipo": "múltipla escolha",
+    "tags": ["esquelético", "cardíaco", "controle"],
+    "alternativas": [
+      {
+        "texto": "Presença de estriações transversais",
+        "explicacao": "Incorreto. Tanto o músculo esquelético quanto o cardíaco apresentam estriações transversais devido ao arranjo regular dos filamentos de actina e miosina."
+      },
+      {
+        "texto": "Controle voluntário versus involuntário",
+        "explicacao": "Correto! O músculo esquelético está sob controle voluntário (consciente), enquanto o músculo cardíaco funciona de forma involuntária (inconsciente), controlado pelo sistema nervoso autônomo."
+      },
+      {
+        "texto": "Presença de núcleos nas células",
+        "explicacao": "Incorreto. Ambos os tipos musculares possuem núcleos, embora sua distribuição seja diferente (periféricos no esquelético, centrais no cardíaco)."
+      },
+      {
+        "texto": "Capacidade de contração",
+        "explicacao": "Incorreto. Ambos os tipos musculares têm capacidade contrátil, que é uma característica fundamental do tecido muscular."
+      }
+    ],
+    "respostaCorreta": 1
+  }
+]

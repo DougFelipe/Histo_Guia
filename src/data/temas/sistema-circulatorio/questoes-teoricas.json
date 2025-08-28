@@ -1,0 +1,29 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Qual camada da parede arterial é responsável pela regulação do diâmetro do vaso?",
+    "nivel": "médio",
+    "subtopico": "histologia vascular",
+    "tipo": "múltipla escolha",
+    "tags": ["artéria", "músculo liso", "vasoconstrição"],
+    "alternativas": [
+      {
+        "texto": "Túnica íntima",
+        "explicacao": "Incorreto. A túnica íntima é a camada mais interna, formada pelo endotélio, e sua função principal é o revestimento interno do vaso, não a regulação do diâmetro."
+      },
+      {
+        "texto": "Túnica média",
+        "explicacao": "Correto! A túnica média contém músculo liso que pode se contrair (vasoconstrição) ou relaxar (vasodilatação), regulando assim o diâmetro do vaso sanguíneo e o fluxo sanguíneo."
+      },
+      {
+        "texto": "Túnica adventícia",
+        "explicacao": "Incorreto. A túnica adventícia é a camada mais externa, composta principalmente por tecido conjuntivo, e sua função é dar suporte estrutural, não regular o diâmetro."
+      },
+      {
+        "texto": "Lâmina elástica interna",
+        "explicacao": "Incorreto. Embora a lâmina elástica interna contribua para a elasticidade do vaso, a regulação ativa do diâmetro é função do músculo liso da túnica média."
+      }
+    ],
+    "respostaCorreta": 1
+  }
+]

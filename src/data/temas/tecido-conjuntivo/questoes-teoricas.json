@@ -1,0 +1,56 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Qual célula é responsável pela produção das fibras colágenas no tecido conjuntivo?",
+    "nivel": "fácil",
+    "subtopico": "células do tecido conjuntivo",
+    "tipo": "múltipla escolha",
+    "tags": ["fibroblasto", "colágeno", "síntese"],
+    "alternativas": [
+      {
+        "texto": "Macrófago",
+        "explicacao": "Incorreto. Os macrófagos são células especializadas na fagocitose e na resposta imunológica, não na síntese de fibras colágenas."
+      },
+      {
+        "texto": "Fibroblasto",
+        "explicacao": "Correto! Os fibroblastos são as principais células responsáveis pela síntese e secreção de colágeno, elastina e outros componentes da matriz extracelular do tecido conjuntivo."
+      },
+      {
+        "texto": "Mastócito",
+        "explicacao": "Incorreto. Os mastócitos são células envolvidas em reações alérgicas e inflamatórias, liberando histamina e outras substâncias, mas não produzem fibras colágenas."
+      },
+      {
+        "texto": "Plasmócito",
+        "explicacao": "Incorreto. Os plasmócitos são células especializadas na produção de anticorpos, não de fibras colágenas."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 2,
+    "enunciado": "Qual tipo de tecido conjuntivo é encontrado nos tendões?",
+    "nivel": "médio",
+    "subtopico": "tipos de tecido conjuntivo",
+    "tipo": "múltipla escolha",
+    "tags": ["tendão", "colágeno", "denso"],
+    "alternativas": [
+      {
+        "texto": "Tecido conjuntivo frouxo",
+        "explicacao": "Incorreto. O tecido conjuntivo frouxo tem fibras colágenas dispostas de forma irregular e não seria adequado para resistir às forças de tração dos tendões."
+      },
+      {
+        "texto": "Tecido conjuntivo denso modelado",
+        "explicacao": "Correto! Os tendões são compostos por tecido conjuntivo denso modelado, onde as fibras colágenas estão organizadas paralelamente, proporcionando grande resistência à tração."
+      },
+      {
+        "texto": "Tecido conjuntivo reticular",
+        "explicacao": "Incorreto. O tecido conjuntivo reticular é encontrado em órgãos linfoides e na medula óssea, formando uma rede de sustentação, não nos tendões."
+      },
+      {
+        "texto": "Tecido adiposo",
+        "explicacao": "Incorreto. O tecido adiposo é especializado no armazenamento de gordura e não tem a resistência mecânica necessária para formar tendões."
+      }
+    ],
+    "respostaCorreta": 1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 5,
+    "tema": "Sistema Circulatório",
+    "imagem": "https://images.pexels.com/photos/3938026/pexels-photo-3938026.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "enunciado": "Analise a estrutura vascular apresentada na lâmina histológica. Qual tipo de vaso sanguíneo está sendo mostrado?",
+    "alternativas": [
+      {
+        "texto": "Capilar",
+        "explicacao": "Incorreto. Os capilares são estruturas muito pequenas, formadas apenas por endotélio, sem as camadas musculares visíveis nesta imagem."
+      },
+      {
+        "texto": "Veia",
+        "explicacao": "Incorreto. As veias geralmente apresentam parede mais fina e lúmen maior em relação à espessura da parede, diferindo da estrutura observada."
+      },
+      {
+        "texto": "Artéria",
+        "explicacao": "Correto! A imagem mostra uma artéria, caracterizada por parede espessa com túnica média bem desenvolvida, rica em músculo liso, e lúmen relativamente pequeno."
+      },
+      {
+        "texto": "Vaso Linfático",
+        "explicacao": "Incorreto. Os vasos linfáticos apresentam parede mais delgada e estrutura diferente da mostrada na preparação."
+      }
+    ],
+    "respostaCorreta": 2
+  }
+]

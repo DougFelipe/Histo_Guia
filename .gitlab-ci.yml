@@ -1,0 +1,174 @@
+# GitLab CI/CD Pipeline para Histoguia
+# Plataforma de Estudo de Histologia
+
+# Definir imagem base
+image: node:18-alpine
+
+# Variáveis globais
+variables:
+  NODE_ENV: "production"
+  VITE_BASE_URL: "/"
+  
+# Cache para otimizar builds
+cache:
+  key: ${CI_COMMIT_REF_SLUG}
+  paths:
+    - node_modules/
+    - .npm/
+
+# Estágios do pipeline
+stages:
+  - install
+  - lint
+  - build
+  - test
+  - deploy
+
+# Estágio 1: Instalação de dependências
+install_dependencies:
+  stage: install
+  script:
+    - echo "🔧 Instalando dependências..."
+    - npm ci --cache .npm --prefer-offline
+  artifacts:
+    paths:
+      - node_modules/
+    expire_in: 1 hour
+  only:
+    - main
+    - develop
+    - merge_requests
+
+# Estágio 2: Linting e verificação de código
+code_quality:
+  stage: lint
+  dependencies:
+    - install_dependencies
+  script:
+    - echo "🔍 Executando verificações de qualidade de código..."
+    - npm run lint
+  allow_failure: false
+  only:
+    - main
+    - develop
+    - merge_requests
+
+# Estágio 3: Build da aplicação
+build_application:
+  stage: build
+  dependencies:
+    - install_dependencies
+  script:
+    - echo "🏗️ Construindo aplicação..."
+    - echo "Ambiente: $DEPLOY_ENV"
+    - echo "Base URL: $VITE_BASE_URL"
+    - npm run build
+    - echo "✅ Build concluído com sucesso!"
+    - ls -la dist/
+  artifacts:
+    paths:
+      - dist/
+    expire_in: 1 week
+  only:
+    - main
+    - develop
+    - merge_requests
+
+# Estágio 4: Testes (placeholder para futuros testes)
+test_application:
+  stage: test
+  dependencies:
+    - install_dependencies
+  script:
+    - echo "🧪 Executando testes..."
+    - echo "⚠️ Testes não implementados ainda"
+    - echo "✅ Testes passaram (placeholder)"
+  allow_failure: true
+  only:
+    - main
+    - develop
+    - merge_requests
+
+# Estágio 5: Deploy para GitLab Pages (Produção)
+deploy_pages:
+  stage: deploy
+  dependencies:
+    - build_application
+  script:
+    - echo "🚀 Preparando deploy para GitLab Pages..."
+    - mkdir public
+    - cp -r dist/* public/
+    - echo "✅ Deploy preparado!"
+  artifacts:
+    paths:
+      - public
+    expire_in: 1 week
+  variables:
+    DEPLOY_ENV: "production"
+    VITE_BASE_URL: "/$CI_PROJECT_NAME/"
+  only:
+    - main
+  environment:
+    name: production
+    url: https://$CI_PROJECT_NAMESPACE.gitlab.io/$CI_PROJECT_NAME
+
+# Deploy para ambiente de desenvolvimento
+deploy_staging:
+  stage: deploy
+  dependencies:
+    - build_application
+  script:
+    - echo "🚀 Deploy para ambiente de staging..."
+    - echo "Simulando deploy para servidor de staging..."
+    - echo "URL: https://staging.histoguia.com"
+    - echo "✅ Deploy de staging concluído!"
+  variables:
+    DEPLOY_ENV: "staging"
+    VITE_BASE_URL: "/"
+  only:
+    - develop
+  environment:
+    name: staging
+    url: https://staging.histoguia.com
+  when: manual
+
+# Deploy via FTP/SFTP (configuração manual necessária)
+deploy_ftp:
+  stage: deploy
+  dependencies:
+    - build_application
+  script:
+    - echo "📡 Deploy via FTP/SFTP..."
+    - echo "⚠️ Configure as variáveis FTP_HOST, FTP_USER, FTP_PASSWORD no GitLab CI/CD"
+    - echo "Exemplo de comando: lftp -c 'set ftp:ssl-allow no; open -u $FTP_USER,$FTP_PASSWORD $FTP_HOST; mirror -R dist/ /public_html/'"
+    - echo "✅ Deploy FTP configurado (necessita configuração manual)"
+  variables:
+    DEPLOY_ENV: "production"
+  only:
+    - main
+  when: manual
+  environment:
+    name: production-ftp
+    url: $PRODUCTION_URL
+
+# Limpeza de cache (job manual)
+clear_cache:
+  stage: deploy
+  script:
+    - echo "🧹 Limpando cache..."
+    - rm -rf node_modules/
+    - rm -rf .npm/
+    - echo "✅ Cache limpo!"
+  when: manual
+  allow_failure: true
+
+# Configurações adicionais para diferentes ambientes
+.deploy_template: &deploy_template
+  before_script:
+    - echo "🌍 Configurando ambiente $DEPLOY_ENV"
+    - echo "Base URL configurada para: $VITE_BASE_URL"
+  after_script:
+    - echo "📊 Estatísticas do build:"
+    - du -sh dist/
+    - find dist/ -name "*.js" -o -name "*.css" | wc -l
+    - echo "✅ Deploy finalizado!"

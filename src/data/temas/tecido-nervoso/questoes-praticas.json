@@ -1,0 +1,27 @@
+[
+  {
+    "id": 4,
+    "tema": "Tecido Nervoso",
+    "imagem": "https://images.pexels.com/photos/3938025/pexels-photo-3938025.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "enunciado": "Observe a preparação do sistema nervoso. Identifique a estrutura neural predominante na imagem.",
+    "alternativas": [
+      {
+        "texto": "Corpo Celular de Neurônio",
+        "explicacao": "Incorreto. Embora possam estar presentes, os corpos celulares não são a estrutura predominante nesta preparação."
+      },
+      {
+        "texto": "Fibras Nervosas Mielinizadas",
+        "explicacao": "Correto! A imagem mostra fibras nervosas mielinizadas, caracterizadas pela presença da bainha de mielina que aparece como estruturas circulares claras ao redor dos axônios."
+      },
+      {
+        "texto": "Células da Glia",
+        "explicacao": "Incorreto. Embora células da glia estejam presentes, elas não são a estrutura mais evidente nesta preparação."
+      },
+      {
+        "texto": "Capilares Sanguíneos",
+        "explicacao": "Incorreto. Os capilares podem estar presentes, mas não são a estrutura neural principal mostrada na lâmina."
+      }
+    ],
+    "respostaCorreta": 1
+  }
+]

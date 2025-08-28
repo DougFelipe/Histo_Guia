@@ -1,0 +1,29 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Qual é a função principal dos oligodendrócitos no sistema nervoso central?",
+    "nivel": "difícil",
+    "subtopico": "células da glia",
+    "tipo": "múltipla escolha",
+    "tags": ["oligodendrócito", "mielina", "SNC"],
+    "alternativas": [
+      {
+        "texto": "Fagocitose de debris celulares",
+        "explicacao": "Incorreto. A fagocitose é função principal da microglia, não dos oligodendrócitos."
+      },
+      {
+        "texto": "Produção de mielina",
+        "explicacao": "Correto! Os oligodendrócitos são responsáveis pela produção e manutenção da bainha de mielina que envolve os axônios no sistema nervoso central, permitindo a condução rápida dos impulsos nervosos."
+      },
+      {
+        "texto": "Regulação da barreira hematoencefálica",
+        "explicacao": "Incorreto. A barreira hematoencefálica é principalmente regulada pelos astrócitos, que envolvem os capilares cerebrais."
+      },
+      {
+        "texto": "Produção de líquor",
+        "explicacao": "Incorreto. O líquor é produzido principalmente pelo plexo coroide, não pelos oligodendrócitos."
+      }
+    ],
+    "respostaCorreta": 1
+  }
+]

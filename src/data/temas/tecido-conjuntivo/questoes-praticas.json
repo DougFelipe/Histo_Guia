@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "tema": "Tecido Conjuntivo",
+    "imagem": "https://images.pexels.com/photos/3938023/pexels-photo-3938023.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "enunciado": "Observe a lâmina histológica apresentada. Identifique o tipo de tecido conjuntivo mostrado na imagem.",
+    "alternativas": [
+      {
+        "texto": "Tecido Conjuntivo Frouxo",
+        "explicacao": "Correto! A imagem mostra tecido conjuntivo frouxo, caracterizado por fibras colágenas dispostas de forma irregular, presença de células diversas como fibroblastos e macrófagos, e abundante substância fundamental amorfa."
+      },
+      {
+        "texto": "Cartilagem Hialina",
+        "explicacao": "Incorreto. A cartilagem hialina apresenta matriz homogênea e brilhante, com condrócitos em lacunas, características não observadas nesta lâmina."
+      },
+      {
+        "texto": "Tecido Adiposo",
+        "explicacao": "Incorreto. O tecido adiposo é formado principalmente por adipócitos com grandes vacúolos lipídicos, que não são visíveis nesta preparação."
+      },
+      {
+        "texto": "Tecido Conjuntivo Denso",
+        "explicacao": "Incorreto. O tecido conjuntivo denso apresenta fibras colágenas organizadas e densamente empacotadas, diferente do padrão observado na imagem."
+      }
+    ],
+    "respostaCorreta": 0
+  }
+]

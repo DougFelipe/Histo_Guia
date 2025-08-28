@@ -1,0 +1,27 @@
+[
+  {
+    "id": 6,
+    "tema": "Cartilagem",
+    "imagem": "https://images.pexels.com/photos/3938027/pexels-photo-3938027.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "enunciado": "Examine o tecido cartilaginoso na preparação histológica. Identifique o tipo de cartilagem apresentado.",
+    "alternativas": [
+      {
+        "texto": "Cartilagem Hialina",
+        "explicacao": "Correto! A imagem mostra cartilagem hialina, caracterizada por matriz homogênea e translúcida, com condrócitos dispostos em lacunas, frequentemente em grupos isógenos."
+      },
+      {
+        "texto": "Cartilagem Elástica",
+        "explicacao": "Incorreto. A cartilagem elástica apresenta fibras elásticas visíveis na matriz, que não são evidentes nesta preparação."
+      },
+      {
+        "texto": "Cartilagem Fibrosa",
+        "explicacao": "Incorreto. A cartilagem fibrosa (fibrocartilagem) apresenta feixes de fibras colágenas bem evidentes na matriz, não observados nesta imagem."
+      },
+      {
+        "texto": "Tecido Ósseo",
+        "explicacao": "Incorreto. O tecido ósseo apresenta matriz mineralizada com osteócitos em lacunas e sistema de Havers, estruturas não visíveis nesta preparação."
+      }
+    ],
+    "respostaCorreta": 0
+  }
+]

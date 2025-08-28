@@ -1,0 +1,83 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Qual das seguintes características é exclusiva do tecido epitelial de revestimento?",
+    "nivel": "fácil",
+    "subtopico": "tecido epitelial",
+    "tipo": "múltipla escolha",
+    "tags": ["estrutura", "função", "revestimento"],
+    "alternativas": [
+      {
+        "texto": "Presença de abundante matriz extracelular",
+        "explicacao": "Incorreto. O tecido epitelial é caracterizado pela pouca matriz extracelular, com células muito próximas umas das outras. A abundante matriz extracelular é característica do tecido conjuntivo."
+      },
+      {
+        "texto": "Células justapostas com pouca matriz extracelular",
+        "explicacao": "Correto! Esta é uma característica fundamental do tecido epitelial. As células estão muito próximas umas das outras (justapostas) com muito pouca matriz extracelular entre elas, formando barreiras eficazes para proteção e controle de trocas."
+      },
+      {
+        "texto": "Presença de vasos sanguíneos entre as células",
+        "explicacao": "Incorreto. O tecido epitelial é avascular, ou seja, não possui vasos sanguíneos. A nutrição das células epiteliais ocorre por difusão através da membrana basal, a partir dos vasos do tecido conjuntivo subjacente."
+      },
+      {
+        "texto": "Capacidade de contração muscular",
+        "explicacao": "Incorreto. A capacidade de contração é específica do tecido muscular, não do tecido epitelial. Embora algumas células epiteliais possam ter microfilamentos, elas não têm a função primária de contração."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 2,
+    "enunciado": "O epitélio pseudoestratificado ciliado é encontrado principalmente em qual estrutura?",
+    "nivel": "médio",
+    "subtopico": "epitélio respiratório",
+    "tipo": "múltipla escolha",
+    "tags": ["respiratório", "cílios", "pseudoestratificado"],
+    "alternativas": [
+      {
+        "texto": "Intestino delgado",
+        "explicacao": "Incorreto. O intestino delgado é revestido por epitélio simples colunar com microvilosidades (epitélio intestinal), não pseudoestratificado ciliado."
+      },
+      {
+        "texto": "Traqueia e brônquios",
+        "explicacao": "Correto! O epitélio pseudoestratificado ciliado é característico do trato respiratório superior, incluindo traqueia e brônquios. Os cílios ajudam a mover o muco e partículas estranhas para fora dos pulmões."
+      },
+      {
+        "texto": "Bexiga urinária",
+        "explicacao": "Incorreto. A bexiga urinária é revestida por epitélio de transição (urotélio), que pode se esticar conforme a bexiga se enche."
+      },
+      {
+        "texto": "Pele",
+        "explicacao": "Incorreto. A pele é revestida por epitélio estratificado pavimentoso queratinizado, não pseudoestratificado ciliado."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 3,
+    "enunciado": "Qual é a principal função da membrana basal no tecido epitelial?",
+    "nivel": "médio",
+    "subtopico": "membrana basal",
+    "tipo": "múltipla escolha",
+    "tags": ["membrana basal", "adesão", "filtração"],
+    "alternativas": [
+      {
+        "texto": "Produzir hormônios para regulação metabólica",
+        "explicacao": "Incorreto. A produção de hormônios não é função da membrana basal, mas sim de glândulas endócrinas específicas."
+      },
+      {
+        "texto": "Servir como barreira seletiva e ancoragem para células epiteliais",
+        "explicacao": "Correto! A membrana basal tem duas funções principais: serve como uma barreira seletiva que controla a passagem de moléculas entre o epitélio e o tecido conjuntivo, e fornece ancoragem estrutural para as células epiteliais."
+      },
+      {
+        "texto": "Realizar a fagocitose de microrganismos",
+        "explicacao": "Incorreto. A fagocitose é uma função de células especializadas como macrófagos e neutrófilos, não da membrana basal."
+      },
+      {
+        "texto": "Contrair para auxiliar no movimento corporal",
+        "explicacao": "Incorreto. A contração é função do tecido muscular. A membrana basal é uma estrutura acelular que não tem capacidade contrátil."
+      }
+    ],
+    "respostaCorreta": 1
+  }
+]

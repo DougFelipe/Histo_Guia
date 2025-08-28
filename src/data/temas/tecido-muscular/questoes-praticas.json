@@ -1,0 +1,27 @@
+[
+  {
+    "id": 3,
+    "tema": "Tecido Muscular",
+    "imagem": "https://images.pexels.com/photos/3938024/pexels-photo-3938024.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "enunciado": "Examine as fibras musculares na preparação histológica. Identifique o tipo de tecido muscular apresentado.",
+    "alternativas": [
+      {
+        "texto": "Músculo Liso",
+        "explicacao": "Incorreto. O músculo liso apresenta células fusiformes sem estriações transversais, características não observadas nesta lâmina."
+      },
+      {
+        "texto": "Músculo Cardíaco",
+        "explicacao": "Incorreto. O músculo cardíaco possui estriações transversais e discos intercalares, além de núcleos centrais, diferindo da estrutura mostrada."
+      },
+      {
+        "texto": "Músculo Esquelético",
+        "explicacao": "Correto! A imagem mostra músculo esquelético, caracterizado por fibras longas, cilíndricas, multinucleadas com núcleos periféricos e estriações transversais bem definidas."
+      },
+      {
+        "texto": "Tecido Conjuntivo",
+        "explicacao": "Incorreto. Embora possa haver tecido conjuntivo entre as fibras, a estrutura principal mostrada é claramente muscular estriada."
+      }
+    ],
+    "respostaCorreta": 2
+  }
+]
