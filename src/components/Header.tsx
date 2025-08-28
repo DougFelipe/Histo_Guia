@@ -33,12 +33,14 @@ const Header: React.FC<HeaderProps> = ({ title = "Histoguia" }) => {
             >
               Questões Teóricas
             </Link>
+            {/* 
             <Link 
               to="/questoes-praticas" 
               className="text-slate-600 hover:text-purple-600 transition-colors duration-200 font-medium"
             >
               Questões Práticas
             </Link>
+            */}
             <div className="relative group">
               <button className="text-slate-600 hover:text-purple-600 transition-colors duration-200 font-medium">
                 Flashcards

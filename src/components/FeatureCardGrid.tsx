@@ -48,41 +48,43 @@ const FeatureCardGrid: React.FC = () => {
             </div>
           </Link>
 
-          {/* Questões Práticas */}
-          <Link to="/questoes-praticas" className="group block">
+            {/* Questões Práticas */}
+            {/*
+            <Link to="/questoes-praticas" className="group block">
             <div className="bg-gradient-to-r from-emerald-500 to-teal-600 p-8 rounded-3xl shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
               <div className="flex items-center justify-between">
-                <div className="flex items-center space-x-6">
-                  <div className="bg-white bg-opacity-20 p-4 rounded-2xl">
-                    <Microscope className="w-10 h-10 text-white" />
+              <div className="flex items-center space-x-6">
+                <div className="bg-white bg-opacity-20 p-4 rounded-2xl">
+                <Microscope className="w-10 h-10 text-white" />
+                </div>
+                <div className="flex-1">
+                <h3 className="text-2xl font-bold text-white mb-2">Questões Práticas</h3>
+                <p className="text-white text-opacity-90 text-base leading-relaxed mb-4">
+                  Analise lâminas histológicas em alta definição e teste seus conhecimentos práticos.
+                </p>
+                <div className="flex space-x-6">
+                  <div className="text-center">
+                  <div className="text-white font-bold text-lg">6+</div>
+                  <div className="text-white text-opacity-80 text-sm">Temas</div>
                   </div>
-                  <div className="flex-1">
-                    <h3 className="text-2xl font-bold text-white mb-2">Questões Práticas</h3>
-                    <p className="text-white text-opacity-90 text-base leading-relaxed mb-4">
-                      Analise lâminas histológicas em alta definição e teste seus conhecimentos práticos.
-                    </p>
-                    <div className="flex space-x-6">
-                      <div className="text-center">
-                        <div className="text-white font-bold text-lg">6+</div>
-                        <div className="text-white text-opacity-80 text-sm">Temas</div>
-                      </div>
-                      <div className="text-center">
-                        <div className="text-white font-bold text-lg">50+</div>
-                        <div className="text-white text-opacity-80 text-sm">Lâminas</div>
-                      </div>
-                      <div className="text-center">
-                        <div className="text-white font-bold text-lg">HD</div>
-                        <div className="text-white text-opacity-80 text-sm">Imagens</div>
-                      </div>
-                    </div>
+                  <div className="text-center">
+                  <div className="text-white font-bold text-lg">50+</div>
+                  <div className="text-white text-opacity-80 text-sm">Lâminas</div>
+                  </div>
+                  <div className="text-center">
+                  <div className="text-white font-bold text-lg">HD</div>
+                  <div className="text-white text-opacity-80 text-sm">Imagens</div>
                   </div>
                 </div>
-                <div className="bg-white bg-opacity-20 p-4 rounded-full group-hover:bg-opacity-30 transition-all duration-300">
-                  <ArrowRight className="w-6 h-6 text-white transform group-hover:translate-x-1 transition-transform duration-300" />
                 </div>
               </div>
+              <div className="bg-white bg-opacity-20 p-4 rounded-full group-hover:bg-opacity-30 transition-all duration-300">
+                <ArrowRight className="w-6 h-6 text-white transform group-hover:translate-x-1 transition-transform duration-300" />
+              </div>
+              </div>
             </div>
-          </Link>
+            </Link>
+            */}
 
           {/* Flashcards Teóricos */}
           <Link to="/flashcards/teoricos" className="group block">
