@@ -9,19 +9,19 @@
     "alternativas": [
       {
         "texto": "Presença de abundante matriz extracelular",
-        "explicacao": "Incorreto. O tecido epitelial é caracterizado pela pouca matriz extracelular, com células muito próximas umas das outras. A abundante matriz extracelular é característica do tecido conjuntivo."
+        "explicacao": "O tecido epitelial é caracterizado pela pouca matriz extracelular, com células muito próximas umas das outras. A abundante matriz extracelular é característica do tecido conjuntivo."
       },
       {
         "texto": "Células justapostas com pouca matriz extracelular",
-        "explicacao": "Correto! Esta é uma característica fundamental do tecido epitelial. As células estão muito próximas umas das outras (justapostas) com muito pouca matriz extracelular entre elas, formando barreiras eficazes para proteção e controle de trocas."
+        "explicacao": "Esta é uma característica fundamental do tecido epitelial. As células estão muito próximas umas das outras (justapostas) com muito pouca matriz extracelular entre elas, formando barreiras eficazes para proteção e controle de trocas."
       },
       {
         "texto": "Presença de vasos sanguíneos entre as células",
-        "explicacao": "Incorreto. O tecido epitelial é avascular, ou seja, não possui vasos sanguíneos. A nutrição das células epiteliais ocorre por difusão através da membrana basal, a partir dos vasos do tecido conjuntivo subjacente."
+        "explicacao": "O tecido epitelial é avascular, ou seja, não possui vasos sanguíneos. A nutrição das células epiteliais ocorre por difusão através da membrana basal, a partir dos vasos do tecido conjuntivo subjacente."
       },
       {
         "texto": "Capacidade de contração muscular",
-        "explicacao": "Incorreto. A capacidade de contração é específica do tecido muscular, não do tecido epitelial. Embora algumas células epiteliais possam ter microfilamentos, elas não têm a função primária de contração."
+        "explicacao": "A capacidade de contração é específica do tecido muscular, não do tecido epitelial. Embora algumas células epiteliais possam ter microfilamentos, elas não têm a função primária de contração."
       }
     ],
     "respostaCorreta": 1
@@ -36,19 +36,19 @@
     "alternativas": [
       {
         "texto": "Intestino delgado",
-        "explicacao": "Incorreto. O intestino delgado é revestido por epitélio simples colunar com microvilosidades (epitélio intestinal), não pseudoestratificado ciliado."
+        "explicacao": "O intestino delgado é revestido por epitélio simples colunar com microvilosidades (epitélio intestinal), não pseudoestratificado ciliado."
       },
       {
         "texto": "Traqueia e brônquios",
-        "explicacao": "Correto! O epitélio pseudoestratificado ciliado é característico do trato respiratório superior, incluindo traqueia e brônquios. Os cílios ajudam a mover o muco e partículas estranhas para fora dos pulmões."
+        "explicacao": "O epitélio pseudoestratificado ciliado é característico do trato respiratório superior, incluindo traqueia e brônquios. Os cílios ajudam a mover o muco e partículas estranhas para fora dos pulmões."
       },
       {
         "texto": "Bexiga urinária",
-        "explicacao": "Incorreto. A bexiga urinária é revestida por epitélio de transição (urotélio), que pode se esticar conforme a bexiga se enche."
+        "explicacao": "A bexiga urinária é revestida por epitélio de transição (urotélio), que pode se esticar conforme a bexiga se enche."
       },
       {
         "texto": "Pele",
-        "explicacao": "Incorreto. A pele é revestida por epitélio estratificado pavimentoso queratinizado, não pseudoestratificado ciliado."
+        "explicacao": "A pele é revestida por epitélio estratificado pavimentoso queratinizado, não pseudoestratificado ciliado."
       }
     ],
     "respostaCorreta": 1
@@ -63,21 +63,291 @@
     "alternativas": [
       {
         "texto": "Produzir hormônios para regulação metabólica",
-        "explicacao": "Incorreto. A produção de hormônios não é função da membrana basal, mas sim de glândulas endócrinas específicas."
+        "explicacao": "A produção de hormônios não é função da membrana basal, mas sim de glândulas endócrinas específicas."
       },
       {
         "texto": "Servir como barreira seletiva e ancoragem para células epiteliais",
-        "explicacao": "Correto! A membrana basal tem duas funções principais: serve como uma barreira seletiva que controla a passagem de moléculas entre o epitélio e o tecido conjuntivo, e fornece ancoragem estrutural para as células epiteliais."
+        "explicacao": "A membrana basal tem duas funções principais: serve como uma barreira seletiva que controla a passagem de moléculas entre o epitélio e o tecido conjuntivo, e fornece ancoragem estrutural para as células epiteliais."
       },
       {
         "texto": "Realizar a fagocitose de microrganismos",
-        "explicacao": "Incorreto. A fagocitose é uma função de células especializadas como macrófagos e neutrófilos, não da membrana basal."
+        "explicacao": "A fagocitose é uma função de células especializadas como macrófagos e neutrófilos, não da membrana basal."
       },
       {
         "texto": "Contrair para auxiliar no movimento corporal",
-        "explicacao": "Incorreto. A contração é função do tecido muscular. A membrana basal é uma estrutura acelular que não tem capacidade contrátil."
+        "explicacao": "A contração é função do tecido muscular. A membrana basal é uma estrutura acelular que não tem capacidade contrátil."
       }
     ],
     "respostaCorreta": 1
+  },
+  {
+    "numero": 4,
+    "enunciado": "Um paciente com fibrose cística apresenta muco espesso no trato respiratório, dificultando sua remoção. Qual componente celular do epitélio respiratório é diretamente responsável pela produção deste muco?",
+    "nivel": "médio",
+    "subtopico": "epitélio respiratório",
+    "tipo": "múltipla escolha",
+    "tags": ["células caliciformes", "muco", "patologia"],
+    "alternativas": [
+      {
+        "texto": "Células ciliadas",
+        "explicacao": "As células ciliadas são responsáveis por mover o muco, mas não por produzi-lo. Sua função é de 'limpeza', varrendo o muco e as partículas presas para fora das vias aéreas."
+      },
+      {
+        "texto": "Células basais",
+        "explicacao": "As células basais são células-tronco do epitélio, responsáveis pela renovação e regeneração celular, mas não pela produção de muco."
+      },
+      {
+        "texto": "Células caliciformes",
+        "explicacao": "Estas são as células especializadas na produção e secreção de mucina, o principal componente do muco. Em condições como a fibrose cística, a função de secreção é afetada, levando ao acúmulo de muco."
+      },
+      {
+        "texto": "Células de Club (Clara)",
+        "explicacao": "As células de Club, encontradas nos bronquíolos, secretam um surfactante e têm funções de defesa, mas não são as principais produtoras do muco que reveste a traqueia e os brônquios."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 5,
+    "enunciado": "Em qual das seguintes localizações o epitélio de transição (urotélio) é fundamental para a função do órgão?",
+    "nivel": "fácil",
+    "subtopico": "tipos de epitélio",
+    "tipo": "múltipla escolha",
+    "tags": ["urotélio", "distensão", "sistema urinário"],
+    "alternativas": [
+      {
+        "texto": "Nos alvéolos pulmonares, para trocas gasosas.",
+        "explicacao": "Os alvéolos são revestidos por epitélio simples pavimentoso, extremamente delgado para facilitar a difusão de gases, e não pelo urotélio."
+      },
+      {
+        "texto": "Na bexiga urinária, para permitir a distensão.",
+        "explicacao": "O epitélio de transição é exclusivo do sistema urinário. Sua capacidade de alterar o número de camadas celulares aparentes permite que órgãos como a bexiga se estendam significativamente para armazenar urina e depois retornem ao estado contraído."
+      },
+      {
+        "texto": "No esôfago, para proteção contra o atrito do alimento.",
+        "explicacao": "O esôfago é revestido por epitélio estratificado pavimentoso não queratinizado, que oferece proteção mecânica, mas não possui a capacidade de distensão do urotélio."
+      },
+      {
+        "texto": "Nos túbulos renais, para reabsorção de íons.",
+        "explicacao": "Os túbulos renais são revestidos por epitélio simples cúbico ou colunar, especializado em transporte ativo e reabsorção, não em distensão."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 6,
+    "enunciado": "Qual tipo de junção celular é primordial para impedir a passagem de substâncias entre as células do epitélio intestinal, forçando a absorção a ocorrer através das células (via transcelular)?",
+    "nivel": "médio",
+    "subtopico": "junções celulares",
+    "tipo": "múltipla escolha",
+    "tags": ["junções oclusivas", "absorção", "intestino"],
+    "alternativas": [
+      {
+        "texto": "Junções comunicantes (Gap junctions)",
+        "explicacao": "Estas junções formam canais que permitem a comunicação direta e a passagem de pequenas moléculas entre células adjacentes, mas não selam o espaço intercelular para impedir a passagem de substâncias."
+      },
+      {
+        "texto": "Desmossomos (Mácula de adesão)",
+        "explicacao": "Os desmossomos são como 'pontos de solda' que conferem forte adesão entre as células, resistindo ao estresse mecânico. No entanto, eles não vedam o espaço intercelular."
+      },
+      {
+        "texto": "Junções de oclusão (Zônula de oclusão)",
+        "explicacao": "Também conhecidas como 'tight junctions', estas junções criam uma vedação completa no ápice das células epiteliais, impedindo a via paracelular (entre as células) e garantindo que a absorção de nutrientes seja um processo controlado através da membrana celular."
+      },
+      {
+        "texto": "Hemidesmossomos",
+        "explicacao": "Os hemidesmossomos ancoram as células epiteliais à lâmina basal subjacente, não a outras células. Portanto, não participam da vedação do espaço intercelular."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 7,
+    "enunciado": "Uma glândula que libera seu produto de secreção (ex: suor) na superfície de um epitélio através de um ducto é classificada como:",
+    "nivel": "fácil",
+    "subtopico": "epitélio glandular",
+    "tipo": "múltipla escolha",
+    "tags": ["glândula", "exócrina", "endócrina", "secreção"],
+    "alternativas": [
+      {
+        "texto": "Endócrina",
+        "explicacao": "As glândulas endócrinas não possuem ductos e liberam seus produtos (hormônios) diretamente na corrente sanguínea ou no sistema linfático."
+      },
+      {
+        "texto": "Parácrina",
+        "explicacao": "A secreção parácrina envolve células que liberam sinais que afetam células vizinhas, sem a necessidade de um ducto ou de entrar na corrente sanguínea."
+      },
+      {
+        "texto": "Exócrina",
+        "explicacao": "Esta é a definição clássica de uma glândula exócrina. Elas mantêm uma conexão com a superfície epitelial através de um ducto, por onde seu produto é liberado (ex: glândulas salivares, sudoríparas, mamárias)."
+      },
+      {
+        "texto": "Autócrina",
+        "explicacao": "Na sinalização autócrina, a célula libera uma substância que age sobre seus próprios receptores. É um tipo de sinalização celular, não uma classificação de glândula."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 8,
+    "enunciado": "A pele, por estar em constante atrito com o meio externo, necessita de um epitélio resistente. Qual classificação descreve corretamente o epitélio da epiderme?",
+    "nivel": "médio",
+    "subtopico": "tipos de epitélio",
+    "tipo": "múltipla escolha",
+    "tags": ["pele", "queratina", "estratificado", "proteção"],
+    "alternativas": [
+      {
+        "texto": "Epitélio simples pavimentoso",
+        "explicacao": "Este tipo de epitélio é muito delgado e ideal para trocas, como nos alvéolos pulmonares e vasos sanguíneos, mas não ofereceria proteção adequada contra o atrito."
+      },
+      {
+        "texto": "Epitélio estratificado pavimentoso queratinizado",
+        "explicacao": "Esta é a classificação correta. 'Estratificado' indica múltiplas camadas, 'pavimentoso' refere-se ao formato achatado das células superficiais, e 'queratinizado' indica a presença de uma camada superficial de células mortas cheias de queratina, que confere impermeabilidade e alta resistência."
+      },
+      {
+        "texto": "Epitélio estratificado cúbico",
+        "explicacao": "Este tipo de epitélio é raro, encontrado principalmente nos ductos de glândulas sudoríparas. Não é a principal camada protetora da pele."
+      },
+      {
+        "texto": "Epitélio pseudoestratificado colunar",
+        "explicacao": "Este epitélio, típico das vias aéreas, parece ter várias camadas, mas na verdade todas as células tocam a membrana basal. Não é encontrado na pele."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 9,
+    "enunciado": "As microvilosidades, presentes no epitélio do intestino delgado, e os cílios, no epitélio da traqueia, são especializações da superfície apical. Apesar da semelhança visual em microscopia de luz, qual é a diferença funcional fundamental entre eles?",
+    "nivel": "difícil",
+    "subtopico": "especializações de superfície",
+    "tipo": "múltipla escolha",
+    "tags": ["microvilosidades", "cílios", "função", "estrutura"],
+    "alternativas": [
+      {
+        "texto": "Microvilosidades são móveis e batem ritmicamente, enquanto cílios são imóveis.",
+        "explicacao": "O oposto é verdadeiro. Os cílios são estruturas móveis, dotadas de um axonema de microtúbulos, que batem para propelir fluidos. As microvilosidades são projeções imóveis sustentadas por filamentos de actina."
+      },
+      {
+        "texto": "Microvilosidades aumentam a área de superfície para absorção, enquanto cílios movem fluidos e partículas.",
+        "explicacao": "Esta é a distinção correta. A principal função das microvilosidades é aumentar drasticamente a área de superfície da membrana plasmática, otimizando a absorção de nutrientes. A função dos cílios é a motilidade, gerando um fluxo sobre a superfície epitelial."
+      },
+      {
+        "texto": "Ambos são responsáveis pela secreção de muco.",
+        "explicacao": "Nenhuma das duas estruturas é responsável pela secreção de muco. Essa função é realizada por células especializadas, como as células caliciformes."
+      },
+      {
+        "texto": "Microvilosidades são encontradas apenas em epitélios estratificados, e cílios em epitélios simples.",
+        "explicacao": "Esta afirmação é incorreta. As microvilosidades são típicas do epitélio simples colunar (intestino), e os cílios são característicos do epitélio pseudoestratificado (traqueia)."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 10,
+    "enunciado": "Um paciente fumante crônico realiza uma biópsia brônquica que revela a substituição do epitélio respiratório normal por um epitélio estratificado pavimentoso. Este fenômeno adaptativo é conhecido como:",
+    "nivel": "difícil",
+    "subtopico": "patologia epitelial",
+    "tipo": "múltipla escolha",
+    "tags": ["metaplasia", "tabagismo", "epitélio respiratório", "adaptação"],
+    "alternativas": [
+      {
+        "texto": "Displasia",
+        "explicacao": "Displasia se refere a um crescimento celular desordenado, com variações no tamanho, forma e organização das células. É uma lesão pré-cancerosa, mais grave que a metaplasia."
+      },
+      {
+        "texto": "Neoplasia",
+        "explicacao": "Neoplasia significa 'novo crescimento' e se refere à formação de um tumor, que pode ser benigno ou maligno. É um processo de proliferação celular anormal e autônoma."
+      },
+      {
+        "texto": "Anaplasia",
+        "explicacao": "Anaplasia é a perda de diferenciação celular e estrutural, sendo uma característica de tumores malignos. Representa um estado mais avançado de alteração celular."
+      },
+      {
+        "texto": "Metaplasia",
+        "explicacao": "Metaplasia é a alteração reversível na qual um tipo celular diferenciado é substituído por outro tipo celular. No caso, o epitélio pseudoestratificado, mais sensível, é substituído pelo estratificado pavimentoso, mais resistente à agressão da fumaça do cigarro, porém perde suas funções normais (produção de muco e movimento ciliar)."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 11,
+    "enunciado": "O epitélio simples cúbico é frequentemente associado a funções de secreção e absorção. Qual dos seguintes locais é um exemplo clássico da presença deste tipo de epitélio?",
+    "nivel": "médio",
+    "subtopico": "tipos de epitélio",
+    "tipo": "múltipla escolha",
+    "tags": ["epitélio cúbico", "rim", "secreção", "absorção"],
+    "alternativas": [
+      {
+        "texto": "Revestimento interno dos vasos sanguíneos (endotélio).",
+        "explicacao": "O endotélio é um epitélio simples pavimentoso, cujas células achatadas facilitam a troca de substâncias entre o sangue e os tecidos."
+      },
+      {
+        "texto": "Superfície da pele (epiderme).",
+        "explicacao": "A epiderme é um epitélio estratificado pavimentoso queratinizado, projetado para proteção e não para secreção ou absorção primária."
+      },
+      {
+        "texto": "Túbulos contorcidos proximais do rim.",
+        "explicacao": "Este é um exemplo perfeito. As células cúbicas dos túbulos renais possuem um citoplasma abundante com muitas mitocôndrias para fornecer energia para o transporte ativo envolvido na reabsorção de água, íons e nutrientes do filtrado glomerular."
+      },
+      {
+        "texto": "Revestimento da traqueia.",
+        "explicacao": "A traqueia é revestida por epitélio pseudoestratificado colunar ciliado, especializado na limpeza das vias aéreas."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 12,
+    "enunciado": "As glândulas sebáceas da pele liberam sua secreção (sebo) através da lise completa da célula secretora. Este tipo de secreção glandular é classificado como:",
+    "nivel": "médio",
+    "subtopico": "epitélio glandular",
+    "tipo": "múltipla escolha",
+    "tags": ["glândula", "secreção", "holócrina", "pele"],
+    "alternativas": [
+      {
+        "texto": "Merócrina",
+        "explicacao": "Na secreção merócrina (ou écrina), o produto é liberado por exocitose, sem perda de citoplasma. É o mecanismo mais comum, usado pelas glândulas salivares e sudoríparas."
+      },
+      {
+        "texto": "Apócrina",
+        "explicacao": "Na secreção apócrina, uma porção do citoplasma apical da célula é perdida junto com o produto de secreção. Ocorre em algumas glândulas sudoríparas e na glândula mamária."
+      },
+      {
+        "texto": "Holócrina",
+        "explicacao": "Este mecanismo envolve a morte programada e desintegração da célula inteira, que se torna o próprio produto de secreção. É o método característico das glândulas sebáceas."
+      },
+      {
+        "texto": "Endócrina",
+        "explicacao": "Este termo descreve glândulas que secretam hormônios na corrente sanguínea, e não o mecanismo de liberação celular de uma glândula exócrina."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 13,
+    "enunciado": "Qual molécula proteica é o principal componente dos filamentos intermediários que se ancoram nos desmossomos e hemidesmossomos, conferindo resistência mecânica às células epiteliais?",
+    "nivel": "difícil",
+    "subtopico": "citoesqueleto e junções",
+    "tipo": "múltipla escolha",
+    "tags": ["queratina", "citoesqueleto", "desmossomo", "filamento intermediário"],
+    "alternativas": [
+      {
+        "texto": "Actina",
+        "explicacao": "A actina forma microfilamentos e está associada a junções de adesão (zônula de adesão) e à sustentação de microvilosidades, mas não é o principal componente dos filamentos que se ligam aos desmossomos."
+      },
+      {
+        "texto": "Miosina",
+        "explicacao": "A miosina é uma proteína motora que interage com a actina para gerar contração muscular e outros movimentos celulares, não sendo um componente estrutural primário das junções de ancoragem."
+      },
+      {
+        "texto": "Tubulina",
+        "explicacao": "A tubulina forma os microtúbulos, que são importantes para a forma celular, transporte intracelular e motilidade (cílios e flagelos), mas não se ancoram nos desmossomos."
+      },
+      {
+        "texto": "Queratina (Citoqueratinas)",
+        "explicacao": "As citoqueratinas são os filamentos intermediários característicos das células epiteliais. Elas formam uma rede intracelular que se conecta aos desmossomos e hemidesmossomos, distribuindo as forças de tensão através do tecido e conferindo-lhe grande resistência mecânica."
+      }
+    ],
+    "respostaCorreta": 3
   }
 ]
