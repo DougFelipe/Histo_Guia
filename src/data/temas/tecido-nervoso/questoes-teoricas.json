@@ -9,21 +9,291 @@
     "alternativas": [
       {
         "texto": "Fagocitose de debris celulares",
-        "explicacao": "Incorreto. A fagocitose é função principal da microglia, não dos oligodendrócitos."
+        "explicacao": "A fagocitose de patógenos e restos celulares no SNC é uma função executada primariamente pela microglia."
       },
       {
         "texto": "Produção de mielina",
-        "explicacao": "Correto! Os oligodendrócitos são responsáveis pela produção e manutenção da bainha de mielina que envolve os axônios no sistema nervoso central, permitindo a condução rápida dos impulsos nervosos."
+        "explicacao": "Os oligodendrócitos são responsáveis pela produção e manutenção da bainha de mielina que envolve múltiplos axônios no sistema nervoso central, permitindo a condução saltatória, que é muito mais rápida."
       },
       {
         "texto": "Regulação da barreira hematoencefálica",
-        "explicacao": "Incorreto. A barreira hematoencefálica é principalmente regulada pelos astrócitos, que envolvem os capilares cerebrais."
+        "explicacao": "A barreira hematoencefálica é principalmente formada e mantida pelos pés vasculares dos astrócitos, que envolvem os capilares cerebrais."
       },
       {
         "texto": "Produção de líquor",
-        "explicacao": "Incorreto. O líquor é produzido principalmente pelo plexo coroide, não pelos oligodendrócitos."
+        "explicacao": "O líquido cefalorraquidiano (líquor) é produzido pelas células ependimárias modificadas localizadas no plexo coroide dos ventrículos cerebrais."
       }
     ],
     "respostaCorreta": 1
+  },
+  {
+    "numero": 2,
+    "enunciado": "Um paciente é diagnosticado com Esclerose Múltipla, uma doença autoimune que afeta a velocidade da condução nervosa. Qual tipo celular é o principal alvo do sistema imune nesta condição?",
+    "nivel": "difícil",
+    "subtopico": "patologia do SNC",
+    "tipo": "múltipla escolha",
+    "tags": ["esclerose múltipla", "mielina", "oligodendrócito"],
+    "alternativas": [
+      {
+        "texto": "Astrócitos",
+        "explicacao": "Embora os astrócitos participem da resposta inflamatória (gliose reativa), eles não são o alvo primário que leva à desmielinização característica da Esclerose Múltipla."
+      },
+      {
+        "texto": "Neurônios",
+        "explicacao": "Os neurônios sofrem danos secundários devido à perda da bainha de mielina, mas o ataque inicial do sistema imune é direcionado às células que produzem essa bainha."
+      },
+      {
+        "texto": "Oligodendrócitos",
+        "explicacao": "Na Esclerose Múltipla, o sistema imune ataca e destrói os oligodendrócitos e a bainha de mielina no SNC. Essa perda de mielina (desmielinização) prejudica a condução dos impulsos nervosos, causando os sintomas neurológicos."
+      },
+      {
+        "texto": "Células de Schwann",
+        "explicacao": "As células de Schwann produzem mielina no Sistema Nervoso Periférico (SNP). A Esclerose Múltipla é uma doença do SNC, portanto, as células de Schwann não são o alvo."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 3,
+    "enunciado": "Qual estrutura do neurônio é especializada em receber os estímulos nervosos de outros neurônios ou de células sensoriais?",
+    "nivel": "fácil",
+    "subtopico": "estrutura do neurônio",
+    "tipo": "múltipla escolha",
+    "tags": ["dendrito", "sinapse", "recepção"],
+    "alternativas": [
+      {
+        "texto": "Axônio",
+        "explicacao": "O axônio é a estrutura especializada em transmitir o impulso nervoso para longe do corpo celular, em direção a outros neurônios, músculos ou glândulas."
+      },
+      {
+        "texto": "Dendritos",
+        "explicacao": "Os dendritos são prolongamentos ramificados do corpo celular que funcionam como a principal zona receptora do neurônio, aumentando a área de superfície para receber sinapses de outros neurônios."
+      },
+      {
+        "texto": "Bainha de mielina",
+        "explicacao": "A bainha de mielina é um invólucro lipídico que isola o axônio, sua função é aumentar a velocidade de condução do impulso nervoso, não receber estímulos."
+      },
+      {
+        "texto": "Terminal axônico",
+        "explicacao": "O terminal axônico é a porção final do axônio, responsável por transmitir o sinal para a célula seguinte através da liberação de neurotransmissores, e não por receber o estímulo inicial."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 4,
+    "enunciado": "A barreira hematoencefálica é uma estrutura crucial para proteger o cérebro de substâncias tóxicas presentes no sangue. Qual célula da glia desempenha o papel mais importante na sua manutenção?",
+    "nivel": "médio",
+    "subtopico": "células da glia",
+    "tipo": "múltipla escolha",
+    "tags": ["barreira hematoencefálica", "astrócito", "proteção"],
+    "alternativas": [
+      {
+        "texto": "Micróglia",
+        "explicacao": "A micróglia atua como o sistema imunológico do cérebro, fagocitando patógenos e detritos, mas não participa diretamente na formação da barreira hematoencefálica."
+      },
+      {
+        "texto": "Células ependimárias",
+        "explicacao": "As células ependimárias revestem os ventrículos cerebrais e o canal central da medula espinhal, ajudando na produção e circulação do líquor, mas não formam a barreira."
+      },
+      {
+        "texto": "Oligodendrócitos",
+        "explicacao": "A função dos oligodendrócitos é a mielinização dos axônios no SNC, não tendo um papel direto na regulação do fluxo de substâncias do sangue para o cérebro."
+      },
+      {
+        "texto": "Astrócitos",
+        "explicacao": "Os astrócitos emitem prolongamentos chamados 'pés vasculares' que envolvem completamente os capilares sanguíneos do cérebro, regulando a permeabilidade e mantendo a integridade da barreira hematoencefálica."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 5,
+    "enunciado": "No sistema nervoso, um conjunto de corpos celulares de neurônios localizado fora do sistema nervoso central é denominado:",
+    "nivel": "médio",
+    "subtopico": "organização do tecido nervoso",
+    "tipo": "múltipla escolha",
+    "tags": ["gânglio", "núcleo", "SNP", "SNC"],
+    "alternativas": [
+      {
+        "texto": "Núcleo",
+        "explicacao": "Um núcleo é um agrupamento de corpos celulares de neurônios localizado DENTRO do sistema nervoso central (cérebro ou medula espinhal)."
+      },
+      {
+        "texto": "Trato",
+        "explicacao": "Um trato (ou fascículo) é um feixe de axônios localizado DENTRO do sistema nervoso central, conectando diferentes áreas."
+      },
+      {
+        "texto": "Gânglio",
+        "explicacao": "Um gânglio é exatamente isso: um agrupamento de corpos de neurônios que se encontra FORA do SNC, fazendo parte do sistema nervoso periférico (SNP)."
+      },
+      {
+        "texto": "Nervo",
+        "explicacao": "Um nervo é um feixe de axônios localizado FORA do sistema nervoso central, ou seja, no SNP."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 6,
+    "enunciado": "Qual é a principal diferença funcional entre um oligodendrócito e uma célula de Schwann?",
+    "nivel": "médio",
+    "subtopico": "células da glia",
+    "tipo": "múltipla escolha",
+    "tags": ["oligodendrócito", "célula de Schwann", "mielina", "SNC", "SNP"],
+    "alternativas": [
+      {
+        "texto": "Oligodendrócitos estão no SNP e células de Schwann no SNC.",
+        "explicacao": "Esta afirmação inverte a localização. Oligodendrócitos são exclusivos do SNC, enquanto as células de Schwann são encontradas apenas no SNP."
+      },
+      {
+        "texto": "Um oligodendrócito mieliniza vários axônios, enquanto uma célula de Schwann mieliniza apenas um segmento de um axônio.",
+        "explicacao": "Esta é a diferença fundamental. Um único oligodendrócito emite múltiplos prolongamentos, cada um formando um segmento de mielina em um axônio diferente. Já uma única célula de Schwann se enrola em torno de um único segmento de um único axônio no SNP."
+      },
+      {
+        "texto": "Apenas as células de Schwann produzem mielina.",
+        "explicacao": "Ambos os tipos celulares são responsáveis pela produção de mielina, mas em diferentes compartimentos do sistema nervoso (SNC e SNP, respectivamente)."
+      },
+      {
+        "texto": "Oligodendrócitos dão suporte metabólico, enquanto células de Schwann têm função fagocitária.",
+        "explicacao": "Ambas as células dão suporte aos axônios que envolvem. A principal função fagocitária no SNC é da micróglia, e no SNP, dos macrófagos."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 7,
+    "enunciado": "A transmissão de informação através de uma sinapse química depende diretamente da liberação de qual tipo de substância na fenda sináptica?",
+    "nivel": "fácil",
+    "subtopico": "sinapse",
+    "tipo": "múltipla escolha",
+    "tags": ["sinapse", "neurotransmissor", "comunicação"],
+    "alternativas": [
+      {
+        "texto": "Hormônios",
+        "explicacao": "Hormônios são liberados na corrente sanguínea por glândulas endócrinas para atuar em células-alvo distantes, não sendo o mediador típico da comunicação sináptica."
+      },
+      {
+        "texto": "Íons de cálcio (Ca²⁺)",
+        "explicacao": "A entrada de íons de cálcio no terminal pré-sináptico é o gatilho para a liberação das vesículas sinápticas, mas o cálcio em si não é a molécula que atravessa a fenda para transmitir o sinal."
+      },
+      {
+        "texto": "Neurotransmissores",
+        "explicacao": "Neurotransmissores (como acetilcolina, dopamina, serotonina) são as moléculas químicas liberadas pelo neurônio pré-sináptico que se difundem pela fenda sináptica e se ligam a receptores no neurônio pós-sináptico, transmitindo o sinal."
+      },
+      {
+        "texto": "ATP (Trifosfato de Adenosina)",
+        "explicacao": "O ATP é a principal fonte de energia celular e pode atuar como um cotransmissor em algumas sinapses, mas não é a classe principal de moléculas de sinalização na comunicação sináptica."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 8,
+    "enunciado": "Após uma lesão no cérebro, um tipo específico de célula glial migra para a área danificada e atua como um macrófago, removendo neurônios mortos e outros detritos. Que célula é essa?",
+    "nivel": "médio",
+    "subtopico": "células da glia",
+    "tipo": "múltipla escolha",
+    "tags": ["micróglia", "fagocitose", "lesão cerebral"],
+    "alternativas": [
+      {
+        "texto": "Astrócito",
+        "explicacao": "Os astrócitos respondem à lesão formando uma 'cicatriz glial' (gliose), mas não são as principais células fagocitárias do SNC."
+      },
+      {
+        "texto": "Micróglia",
+        "explicacao": "A micróglia é considerada o 'sistema imunológico' residente do SNC. Em resposta a uma lesão ou infecção, elas se tornam ativadas, mudam sua morfologia e atuam como fagócitos eficientes, limpando a área danificada."
+      },
+      {
+        "texto": "Célula de Schwann",
+        "explicacao": "As células de Schwann pertencem ao SNP e, embora ajudem na regeneração de nervos periféricos, não estão presentes no cérebro para responder a uma lesão central."
+      },
+      {
+        "texto": "Célula Ependimária",
+        "explicacao": "As células ependimárias revestem as cavidades do SNC e não possuem uma função fagocitária em resposta a lesões no tecido."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 9,
+    "enunciado": "Os corpúsculos de Nissl, que são proeminentes no corpo celular e dendritos de grandes neurônios motores, correspondem a qual organela quando observados na microscopia eletrônica?",
+    "nivel": "difícil",
+    "subtopico": "estrutura do neurônio",
+    "tipo": "múltipla escolha",
+    "tags": ["corpúsculos de Nissl", "síntese proteica", "neurônio motor"],
+    "alternativas": [
+      {
+        "texto": "Mitocôndrias",
+        "explicacao": "As mitocôndrias são abundantes nos neurônios para suprir a alta demanda energética, mas não correspondem aos basofílicos corpúsculos de Nissl."
+      },
+      {
+        "texto": "Complexo de Golgi",
+        "explicacao": "O complexo de Golgi está envolvido no processamento e empacotamento de proteínas, mas não forma as grandes agregações visíveis como corpúsculos de Nissl."
+      },
+      {
+        "texto": "Retículo endoplasmático rugoso e polirribossomos",
+        "explicacao": "Exatamente. Os corpúsculos de Nissl são agregados de retículo endoplasmático rugoso e ribossomos livres. Sua abundância reflete a intensa atividade de síntese proteica do neurônio, necessária para manter o axônio e produzir neurotransmissores."
+      },
+      {
+        "texto": "Lisossomos",
+        "explicacao": "Os lisossomos são organelas envolvidas na digestão intracelular e degradação de resíduos, não na síntese de proteínas em larga escala."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 10,
+    "enunciado": "O potencial de ação que percorre um axônio é um fenômeno de 'tudo ou nada' que depende da abertura e fechamento rápido de canais iônicos. A fase de despolarização rápida da membrana é causada principalmente pelo influxo de qual íon?",
+    "nivel": "fácil",
+    "subtopico": "potencial de ação",
+    "tipo": "múltipla escolha",
+    "tags": ["potencial de ação", "despolarização", "íon sódio"],
+    "alternativas": [
+      {
+        "texto": "Potássio (K⁺)",
+        "explicacao": "O efluxo (saída) de íons potássio é responsável pela fase de repolarização, quando o potencial da membrana retorna ao seu valor de repouso."
+      },
+      {
+        "texto": "Cloreto (Cl⁻)",
+        "explicacao": "O influxo de cloreto geralmente causa hiperpolarização (torna o interior da célula mais negativo), o que inibe a geração de um potencial de ação."
+      },
+      {
+        "texto": "Cálcio (Ca²⁺)",
+        "explicacao": "O influxo de cálcio é crucial para a liberação de neurotransmissores no terminal axônico, mas não é o principal responsável pela fase de despolarização ao longo do axônio."
+      },
+      {
+        "texto": "Sódio (Na⁺)",
+        "explicacao": "Quando um estímulo atinge o limiar, canais de sódio dependentes de voltagem se abrem rapidamente, permitindo uma grande entrada de íons Na⁺. Esse influxo de carga positiva causa a rápida despolarização da membrana, que caracteriza o pico do potencial de ação."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 11,
+    "enunciado": "O revestimento dos ventrículos cerebrais e do canal central da medula espinhal é feito por um tipo especializado de epitélio. Qual é o nome das células que formam esse revestimento?",
+    "nivel": "fácil",
+    "subtopico": "células da glia",
+    "tipo": "múltipla escolha",
+    "tags": ["células ependimárias", "líquor", "ventrículos"],
+    "alternativas": [
+      {
+        "texto": "Astrócitos",
+        "explicacao": "Os astrócitos estão localizados no parênquima cerebral, dando suporte aos neurônios, e não revestindo as cavidades internas do SNC."
+      },
+      {
+        "texto": "Oligodendrócitos",
+        "explicacao": "Os oligodendrócitos estão envolvidos na mielinização dos axônios no interior do tecido nervoso, não no seu revestimento."
+      },
+      {
+        "texto": "Células da micróglia",
+        "explicacao": "As células da micróglia são as células imunes do SNC e se movem através do tecido, não formando uma camada de revestimento."
+      },
+      {
+        "texto": "Células ependimárias",
+        "explicacao": "As células ependimárias formam o ependima, uma camada de células epiteliais colunares ou cúbicas, muitas vezes ciliadas, que reveste os ventrículos e o canal central. Elas estão envolvidas na produção e circulação do líquido cefalorraquidiano."
+      }
+    ],
+    "respostaCorreta": 3
   }
 ]

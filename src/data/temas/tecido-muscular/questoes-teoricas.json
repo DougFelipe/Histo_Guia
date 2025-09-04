@@ -9,21 +9,291 @@
     "alternativas": [
       {
         "texto": "Presença de estriações transversais",
-        "explicacao": "Incorreto. Tanto o músculo esquelético quanto o cardíaco apresentam estriações transversais devido ao arranjo regular dos filamentos de actina e miosina."
+        "explicacao": "Tanto o músculo esquelético quanto o cardíaco apresentam estriações transversais devido ao arranjo regular dos filamentos de actina e miosina."
       },
       {
         "texto": "Controle voluntário versus involuntário",
-        "explicacao": "Correto! O músculo esquelético está sob controle voluntário (consciente), enquanto o músculo cardíaco funciona de forma involuntária (inconsciente), controlado pelo sistema nervoso autônomo."
+        "explicacao": "O músculo esquelético está sob controle voluntário (consciente), enquanto o músculo cardíaco funciona de forma involuntária (inconsciente), controlado pelo sistema nervoso autônomo."
       },
       {
         "texto": "Presença de núcleos nas células",
-        "explicacao": "Incorreto. Ambos os tipos musculares possuem núcleos, embora sua distribuição seja diferente (periféricos no esquelético, centrais no cardíaco)."
+        "explicacao": "Ambos os tipos musculares possuem núcleos, embora sua distribuição seja diferente (periféricos e múltiplos no esquelético, centrais e únicos/duplos no cardíaco)."
       },
       {
         "texto": "Capacidade de contração",
-        "explicacao": "Incorreto. Ambos os tipos musculares têm capacidade contrátil, que é uma característica fundamental do tecido muscular."
+        "explicacao": "A capacidade contrátil é a característica fundamental de todo tecido muscular, não sendo um fator de distinção entre esses dois tipos."
       }
     ],
     "respostaCorreta": 1
+  },
+  {
+    "numero": 2,
+    "enunciado": "As células do músculo cardíaco são unidas por estruturas especializadas que permitem a rápida propagação do impulso elétrico e forte adesão mecânica. Qual o nome dessas estruturas?",
+    "nivel": "médio",
+    "subtopico": "músculo cardíaco",
+    "tipo": "múltipla escolha",
+    "tags": ["cardíaco", "discos intercalares", "junções"],
+    "alternativas": [
+      {
+        "texto": "Sinapses químicas",
+        "explicacao": "As sinapses químicas são a forma de comunicação entre neurônios ou entre um neurônio e uma célula muscular esquelética (junção neuromuscular), mas não entre células musculares cardíacas."
+      },
+      {
+        "texto": "Discos intercalares",
+        "explicacao": "Os discos intercalares são complexos juncionais exclusivos do músculo cardíaco. Eles contêm desmossomos para adesão forte e junções comunicantes (gap) que permitem a passagem de íons, sincronizando a contração do coração."
+      },
+      {
+        "texto": "Nós de Ranvier",
+        "explicacao": "Os nós de Ranvier são interrupções na bainha de mielina ao longo de axônios no tecido nervoso, essenciais para a condução saltatória do impulso nervoso."
+      },
+      {
+        "texto": "Sarcômeros",
+        "explicacao": "O sarcômero é a unidade contrátil fundamental dos músculos estriados (esquelético e cardíaco), mas não é uma estrutura de união entre células."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 3,
+    "enunciado": "Qual tipo de músculo é responsável pelos movimentos peristálticos no trato gastrointestinal?",
+    "nivel": "fácil",
+    "subtopico": "músculo liso",
+    "tipo": "múltipla escolha",
+    "tags": ["liso", "peristaltismo", "involuntário"],
+    "alternativas": [
+      {
+        "texto": "Músculo estriado esquelético",
+        "explicacao": "Este músculo é de contração voluntária e está ligado ao esqueleto, responsável pelos movimentos corporais, não pelos movimentos internos dos órgãos."
+      },
+      {
+        "texto": "Músculo estriado cardíaco",
+        "explicacao": "Este músculo é encontrado exclusivamente no coração e é responsável por bombear o sangue."
+      },
+      {
+        "texto": "Músculo liso",
+        "explicacao": "O músculo liso, de contração lenta e involuntária, forma as paredes de órgãos ocos como o intestino, estômago e vasos sanguíneos, sendo responsável pelo peristaltismo e controle do fluxo."
+      },
+      {
+        "texto": "Músculo esquelético visceral",
+        "explicacao": "Embora exista músculo esquelético em algumas vísceras (ex: parte superior do esôfago), os movimentos peristálticos difusos do trato digestivo são realizados pelo músculo liso."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 4,
+    "enunciado": "A liberação de íons de cálcio (Ca²⁺) de qual organela é o gatilho direto para a contração muscular na fibra esquelética?",
+    "nivel": "médio",
+    "subtopico": "contração muscular",
+    "tipo": "múltipla escolha",
+    "tags": ["cálcio", "retículo sarcoplasmático", "contração"],
+    "alternativas": [
+      {
+        "texto": "Mitocôndrias",
+        "explicacao": "As mitocôndrias são responsáveis pela produção de ATP, a energia necessária para a contração, mas não armazenam nem liberam o cálcio que inicia o processo."
+      },
+      {
+        "texto": "Complexo de Golgi",
+        "explicacao": "O complexo de Golgi está envolvido no processamento e empacotamento de proteínas e lipídios, não tendo relação com o armazenamento de cálcio para a contração."
+      },
+      {
+        "texto": "Retículo sarcoplasmático",
+        "explicacao": "O retículo sarcoplasmático é uma forma especializada de retículo endoplasmático liso que armazena altas concentrações de íons de cálcio. A chegada de um potencial de ação causa a sua liberação no citosol, iniciando a contração."
+      },
+      {
+        "texto": "Núcleo",
+        "explicacao": "O núcleo contém o material genético da célula e controla a síntese de proteínas, mas não participa do armazenamento e liberação de cálcio para a contração."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 5,
+    "enunciado": "Qual proteína reguladora bloqueia os sítios de ligação da miosina na actina quando o músculo está em repouso?",
+    "nivel": "difícil",
+    "subtopico": "contração muscular",
+    "tipo": "múltipla escolha",
+    "tags": ["tropomiosina", "troponina", "contração", "regulação"],
+    "alternativas": [
+      {
+        "texto": "Troponina",
+        "explicacao": "A troponina é a proteína que se liga ao cálcio. Essa ligação causa uma mudança conformacional que desloca a tropomiosina, mas não é a troponina que bloqueia diretamente os sítios de ligação."
+      },
+      {
+        "texto": "Actina",
+        "explicacao": "A actina é a proteína que forma o filamento fino e possui os sítios de ligação para a miosina, mas ela não os bloqueia."
+      },
+      {
+        "texto": "Miosina",
+        "explicacao": "A miosina forma o filamento grosso e suas 'cabeças' se ligam à actina para gerar a contração, mas ela não tem função de bloqueio."
+      },
+      {
+        "texto": "Tropomiosina",
+        "explicacao": "A tropomiosina é uma proteína filamentosa que se enrola ao redor da actina, cobrindo fisicamente os sítios de ligação da miosina em estado de repouso, impedindo a contração."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 6,
+    "enunciado": "A Distrofia Muscular de Duchenne é uma doença genética que causa degeneração progressiva das fibras musculares. Ela é causada pela ausência de qual proteína estrutural?",
+    "nivel": "difícil",
+    "subtopico": "patologia muscular",
+    "tipo": "múltipla escolha",
+    "tags": ["distrofina", "Duchenne", "sarcolema"],
+    "alternativas": [
+      {
+        "texto": "Miosina",
+        "explicacao": "A ausência de miosina seria incompatível com a vida, pois é a proteína motora essencial para a contração. A doença afeta uma proteína de ligação, não a motora."
+      },
+      {
+        "texto": "Distrofina",
+        "explicacao": "A distrofina é uma proteína crucial que conecta o citoesqueleto de actina da fibra muscular à matriz extracelular (via sarcolema). Sua ausência torna a membrana da célula muscular frágil e suscetível a danos durante a contração."
+      },
+      {
+        "texto": "Titina",
+        "explicacao": "A titina é uma proteína gigante que funciona como uma mola no sarcômero, contribuindo para a elasticidade passiva do músculo, mas sua ausência não causa a distrofia de Duchenne."
+      },
+      {
+        "texto": "Actina",
+        "explicacao": "A actina é fundamental para a contração e para a estrutura celular, sendo que sua ausência completa também seria letal."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 7,
+    "enunciado": "A unidade funcional e estrutural da contração no músculo estriado, que se estende de uma linha Z a outra, é chamada de:",
+    "nivel": "fácil",
+    "subtopico": "estrutura da fibra muscular",
+    "tipo": "múltipla escolha",
+    "tags": ["sarcômero", "contração", "linha Z"],
+    "alternativas": [
+      {
+        "texto": "Miofibrila",
+        "explicacao": "A miofibrila é uma estrutura cilíndrica longa, composta por uma sequência de sarcômeros. É um componente da fibra muscular, mas não a unidade funcional básica."
+      },
+      {
+        "texto": "Fibra muscular",
+        "explicacao": "A fibra muscular é a célula muscular em si, que contém múltiplas miofibrilas."
+      },
+      {
+        "texto": "Sarcômero",
+        "explicacao": "O sarcômero é a menor unidade repetitiva do músculo estriado que realiza a contração. Durante a contração, as linhas Z se aproximam à medida que os filamentos de actina deslizam sobre os de miosina."
+      },
+      {
+        "texto": "Sarcolema",
+        "explicacao": "O sarcolema é a membrana plasmática da célula muscular. Ele envolve a célula, mas não é a unidade contrátil."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 8,
+    "enunciado": "Qual das seguintes características histológicas é exclusiva do músculo liso?",
+    "nivel": "médio",
+    "subtopico": "músculo liso",
+    "tipo": "múltipla escolha",
+    "tags": ["liso", "morfologia", "núcleo central"],
+    "alternativas": [
+      {
+        "texto": "Células multinucleadas",
+        "explicacao": "A presença de múltiplos núcleos periféricos é uma característica do músculo esquelético. As células do músculo liso são mononucleadas."
+      },
+      {
+        "texto": "Presença de estriações transversais",
+        "explicacao": "As estriações são a marca registrada dos músculos esquelético e cardíaco, devido à organização dos sarcômeros. O músculo liso não possui essa organização e, portanto, não tem estrias."
+      },
+      {
+        "texto": "Células fusiformes com núcleo único e central",
+        "explicacao": "Esta é a morfologia clássica da célula muscular lisa. Elas são alongadas, com extremidades afiladas (fusiformes) e possuem um único núcleo localizado no centro da célula."
+      },
+      {
+        "texto": "Presença de discos intercalares",
+        "explicacao": "Os discos intercalares são estruturas especializadas que unem as células do músculo cardíaco, não sendo encontrados no músculo liso."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 9,
+    "enunciado": "O envoltório de tecido conjuntivo que recobre um feixe (fascículo) de fibras musculares é o:",
+    "nivel": "médio",
+    "subtopico": "organização do músculo",
+    "tipo": "múltipla escolha",
+    "tags": ["perimísio", "epimísio", "endomísio", "tecido conjuntivo"],
+    "alternativas": [
+      {
+        "texto": "Endomísio",
+        "explicacao": "O endomísio é a camada mais interna de tecido conjuntivo, que envolve individualmente cada fibra (célula) muscular."
+      },
+      {
+        "texto": "Epimísio",
+        "explicacao": "O epimísio é a camada mais externa de tecido conjuntivo denso que envolve o músculo inteiro."
+      },
+      {
+        "texto": "Perimísio",
+        "explicacao": "O perimísio é a camada de tecido conjuntivo que agrupa as fibras musculares em feixes ou fascículos. Ele contém vasos sanguíneos e nervos que suprem esses fascículos."
+      },
+      {
+        "texto": "Fáscia muscular",
+        "explicacao": "A fáscia é uma lâmina de tecido conjuntivo que separa músculos ou grupos musculares, sendo mais externa que o epimísio."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 10,
+    "enunciado": "Um atleta de maratona e um levantador de peso possuem predominância de diferentes tipos de fibras musculares esqueléticas. As fibras de contração lenta (Tipo I), ricas em mioglobina e mitocôndrias, são ideais para:",
+    "nivel": "difícil",
+    "subtopico": "tipos de fibra muscular",
+    "tipo": "múltipla escolha",
+    "tags": ["fibra tipo I", "metabolismo aeróbico", "resistência"],
+    "alternativas": [
+      {
+        "texto": "Atividades de curta duração e alta intensidade, como um sprint de 100 metros.",
+        "explicacao": "Essas atividades dependem de fibras de contração rápida (Tipo IIb), que utilizam metabolismo anaeróbico para gerar força explosiva, mas fadigam rapidamente."
+      },
+      {
+        "texto": "Atividades de resistência e longa duração, como uma maratona.",
+        "explicacao": "As fibras do Tipo I são altamente resistentes à fadiga devido ao seu eficiente metabolismo aeróbico, possibilitado pela abundância de mitocôndrias e um bom suprimento de oxigênio (via mioglobina e capilares)."
+      },
+      {
+        "texto": "Movimentos que exigem força máxima em um único esforço, como o levantamento de peso.",
+        "explicacao": "O levantamento de peso recruta principalmente as fibras de contração rápida (Tipo IIx/b), que são maiores e geram mais força, mas por um período curto."
+      },
+      {
+        "texto": "Reflexos rápidos e involuntários.",
+        "explicacao": "Reflexos rápidos também utilizam as fibras de contração rápida para uma resposta imediata, e não as fibras de contração lenta."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 11,
+    "enunciado": "Qual é o papel da acetilcolina na junção neuromuscular do músculo esquelético?",
+    "nivel": "médio",
+    "subtopico": "junção neuromuscular",
+    "tipo": "múltipla escolha",
+    "tags": ["acetilcolina", "neurotransmissor", "junção neuromuscular"],
+    "alternativas": [
+      {
+        "texto": "Inibir a contração muscular, causando relaxamento.",
+        "explicacao": "A acetilcolina é o neurotransmissor excitatório primário na junção neuromuscular. A inibição ocorre em outras sinapses do sistema nervoso, mas não nesta junção."
+      },
+      {
+        "texto": "Atuar como fonte de energia direta para o deslizamento dos filamentos.",
+        "explicacao": "A fonte de energia direta para a contração é a hidrólise do ATP pela miosina, não a acetilcolina."
+      },
+      {
+        "texto": "Ligar-se a receptores no sarcolema, gerando um potencial de ação na fibra muscular.",
+        "explicacao": "Liberada pelo neurônio motor, a acetilcolina atravessa a fenda sináptica e se liga a receptores nicotínicos na placa motora do músculo, causando a despolarização da membrana e iniciando o potencial de ação que levará à contração."
+      },
+      {
+        "texto": "Promover a recaptação de cálcio para dentro do retículo sarcoplasmático.",
+        "explicacao": "A recaptação de cálcio é um processo ativo realizado por bombas de Ca²⁺-ATPase no retículo, que ocorre para finalizar a contração, não sendo mediado pela acetilcolina."
+      }
+    ],
+    "respostaCorreta": 2
   }
 ]

@@ -14,6 +14,10 @@ const WelcomeSection: React.FC = () => {
             Explore questões organizadas por temas, com explicações detalhadas 
             e feedback interativo para potencializar seu aprendizado.
           </p>
+          <p className="text-lg text-slate-600 mb-8 animate-fade-in bg-lavender-100 p-4 rounded-lg">
+            Plataforma em desenvolvimento.<br />
+            Dúvidas, críticas, sugestões ou erros encontrados devem ser encaminhados para guia.histologia.ufrn@gmail.com
+          </p>
           
           <div className="grid md:grid-cols-3 gap-8 mt-16">
             <div className="flex flex-col items-center p-6 bg-white rounded-2xl shadow-lg hover:shadow-xl transition-shadow duration-300 animate-slide-up">
