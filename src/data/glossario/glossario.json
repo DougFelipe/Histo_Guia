@@ -118,5 +118,1405 @@
     "termo": "Zonula Occludens",
     "definicao": "Tipo de junção celular que forma uma barreira impermeável entre células epiteliais adjacentes.",
     "categoria": "Junção Celular"
+  },
+  {
+    "termo": "Astrócito",
+    "definicao": "Célula da glia em forma de estrela que fornece suporte estrutural e metabólico aos neurônios no Sistema Nervoso Central.",
+    "categoria": "Célula Neural"
+  },
+  {
+    "termo": "Axônio",
+    "definicao": "Prolongamento único e longo de um neurônio, especializado na condução de impulsos nervosos para outras células.",
+    "categoria": "Estrutura Neural"
+  },
+  {
+    "termo": "Célula Caliciforme",
+    "definicao": "Glândula unicelular, encontrada em epitélios como o respiratório e o intestinal, que secreta muco.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Célula de Schwann",
+    "definicao": "Célula da glia que forma a bainha de mielina ao redor de um segmento de um axônio no Sistema Nervoso Periférico (SNP).",
+    "categoria": "Célula Neural"
+  },
+  {
+    "termo": "Condrócito",
+    "definicao": "Célula madura do tecido cartilaginoso, localizada em espaços da matriz chamados de lacunas.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Discos Intercalares",
+    "definicao": "Complexos juncionais especializados que unem as células musculares cardíacas, garantindo a coesão e a comunicação iônica.",
+    "categoria": "Junção Celular"
+  },
+  {
+    "termo": "Endomísio",
+    "definicao": "Fina camada de tecido conjuntivo reticular que envolve individualmente cada fibra muscular.",
+    "categoria": "Tecido Conjuntivo"
+  },
+  {
+    "termo": "Endotélio",
+    "definicao": "Tipo de epitélio simples pavimentoso que reveste a superfície interna dos vasos sanguíneos e linfáticos.",
+    "categoria": "Tecido Especializado"
+  },
+  {
+    "termo": "Epimísio",
+    "definicao": "Camada externa de tecido conjuntivo denso que reveste todo o músculo esquelético.",
+    "categoria": "Tecido Conjuntivo"
+  },
+  {
+    "termo": "Fibras Elásticas",
+    "definicao": "Fibras compostas pela proteína elastina que conferem elasticidade e resiliência a tecidos como a pele e as artérias.",
+    "categoria": "Componente da Matriz"
+  },
+  {
+    "termo": "Fibras Reticulares",
+    "definicao": "Fibras de colágeno tipo III muito finas que formam uma rede de sustentação em órgãos hematopoiéticos e linfoides.",
+    "categoria": "Componente da Matriz"
+  },
+  {
+    "termo": "Gânglio Nervoso",
+    "definicao": "Aglomerado de corpos celulares de neurônios localizado fora do Sistema Nervoso Central (no SNP).",
+    "categoria": "Estrutura Neural"
+  },
+  {
+    "termo": "Glândula Exócrina",
+    "definicao": "Glândula que secreta seus produtos para uma superfície externa ou interna através de um sistema de ductos.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Hematopoese",
+    "definicao": "Processo de formação, desenvolvimento e maturação das células do sangue a partir de um precursor comum.",
+    "categoria": "Processo Biológico"
+  },
+  {
+    "termo": "Junção Neuromuscular",
+    "definicao": "Região de sinapse especializada onde um terminal axônico de um neurônio motor contata uma fibra muscular esquelética.",
+    "categoria": "Estrutura Neural"
+  },
+  {
+    "termo": "Lâmina Própria",
+    "definicao": "Camada de tecido conjuntivo frouxo que se localiza imediatamente abaixo do epitélio de revestimento das mucosas.",
+    "categoria": "Tecido"
+  },
+  {
+    "termo": "Leucócito",
+    "definicao": "Nome genérico para as células brancas do sangue (neutrófilos, linfócitos, monócitos, etc.), que atuam na defesa do organismo.",
+    "categoria": "Célula Sanguínea"
+  },
+  {
+    "termo": "Macrófago",
+    "definicao": "Célula fagocitária de grandes dimensões, derivada de monócitos, que participa da resposta imune e da remoção de detritos celulares.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Mastócito",
+    "definicao": "Célula do tecido conjuntivo cujos grânulos contêm mediadores químicos como histamina e heparina, importantes em alergias e inflamações.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Melanócito",
+    "definicao": "Célula produtora de melanina, pigmento responsável pela cor da pele e dos pelos, localizada na epiderme.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Metaplasia",
+    "definicao": "Alteração reversível na qual um tipo de tecido adulto diferenciado é substituído por outro tipo de tecido adulto.",
+    "categoria": "Processo Celular"
+  },
+  {
+    "termo": "Micróglia",
+    "definicao": "Célula com função fagocitária no sistema nervoso central, considerada o macrófago residente do cérebro e da medula espinhal.",
+    "categoria": "Célula Neural"
+  },
+  {
+    "termo": "Miosina",
+    "definicao": "Proteína motora que forma os filamentos grossos do sarcômero e utiliza ATP para gerar a força da contração muscular.",
+    "categoria": "Proteína"
+  },
+  {
+    "termo": "Oligodendrócito",
+    "definicao": "Célula da glia que produz a bainha de mielina para múltiplos axônios dentro do Sistema Nervoso Central (SNC).",
+    "categoria": "Célula Neural"
+  },
+  {
+    "termo": "Osteoblasto",
+    "definicao": "Célula responsável pela síntese da matriz orgânica do osso (osteoide) e pela sua mineralização.",
+    "categoria": "Célula Óssea"
+  },
+  {
+    "termo": "Osteoclasto",
+    "definicao": "Célula grande e multinucleada responsável pela reabsorção e remodelação da matriz óssea.",
+    "categoria": "Célula Óssea"
+  },
+  {
+    "termo": "Pericôndrio",
+    "definicao": "Membrana de tecido conjuntivo denso que reveste a superfície da maioria das cartilagens, responsável pela nutrição e crescimento.",
+    "categoria": "Tecido Conjuntivo"
+  },
+  {
+    "termo": "Perimísio",
+    "definicao": "Camada de tecido conjuntivo que envolve um grupo de fibras musculares, formando um fascículo.",
+    "categoria": "Tecido Conjuntivo"
+  },
+  {
+    "termo": "Sarcolema",
+    "definicao": "Membrana plasmática que envolve a fibra (célula) muscular.",
+    "categoria": "Estrutura Muscular"
+  },
+  {
+    "termo": "Sinapse",
+    "definicao": "Região de comunicação especializada entre um neurônio e outra célula (neurônio, músculo ou glândula).",
+    "categoria": "Estrutura Neural"
+  },
+  {
+    "termo": "Banda A",
+    "definicao": "Região central e escura do sarcômero que corresponde ao comprimento total dos filamentos grossos de miosina.",
+    "categoria": "Estrutura Muscular"
+  },
+  {
+    "termo": "Banda I",
+    "definicao": "Região clara do sarcômero que contém apenas filamentos finos de actina e é dividida ao meio pela Linha Z.",
+    "categoria": "Estrutura Muscular"
+  },
+  {
+    "termo": "Canalículos Ósseos",
+    "definicao": "Pequenos canais na matriz óssea que conectam as lacunas dos osteócitos entre si e com os canais centrais, permitindo a comunicação e nutrição.",
+    "categoria": "Estrutura Óssea"
+  },
+  {
+    "termo": "Células Satélite (Muscular)",
+    "definicao": "Células-tronco quiescentes localizadas na periferia das fibras musculares esqueléticas, responsáveis pela regeneração muscular.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Cílios",
+    "definicao": "Projeções móveis da superfície celular, sustentadas por microtúbulos, encontradas em epitélios como o da traqueia para mover fluidos e partículas.",
+    "categoria": "Especialização de Superfície"
+  },
+  {
+    "termo": "Corpúsculo de Nissl",
+    "definicao": "Agregados de retículo endoplasmático rugoso e polirribossomos no citoplasma de neurônios, indicando intensa atividade de síntese proteica.",
+    "categoria": "Organela"
+  },
+  {
+    "termo": "Endósteo",
+    "definicao": "Fina camada de tecido conjuntivo que reveste as superfícies internas do osso, incluindo o canal medular e os canais de Havers.",
+    "categoria": "Tecido Conjuntivo"
+  },
+  {
+    "termo": "Estereocílios",
+    "definicao": "Longas projeções imóveis da superfície apical celular, funcionalmente semelhantes a microvilosidades, encontradas no epidídimo e no ouvido interno.",
+    "categoria": "Especialização de Superfície"
+  },
+  {
+    "termo": "Glicosaminoglicanos (GAGs)",
+    "definicao": "Polissacarídeos longos e não ramificados que atraem água, formando um gel hidratado na substância fundamental da matriz extracelular.",
+    "categoria": "Molécula"
+  },
+  {
+    "termo": "Grupo Isógeno",
+    "definicao": "Aglomerado de dois ou mais condrócitos dentro da mesma lacuna na cartilagem, originados da divisão de uma única célula precursora.",
+    "categoria": "Estrutura Cartilaginosa"
+  },
+  {
+    "termo": "Linha Z",
+    "definicao": "Estrutura proteica densa que delimita as extremidades de um sarcômero e serve como ponto de ancoragem para os filamentos finos de actina.",
+    "categoria": "Estrutura Muscular"
+  },
+  {
+    "termo": "Linfócito",
+    "definicao": "Tipo de leucócito agranulócito central na resposta imune adaptativa, dividido em linfócitos B, T e células NK.",
+    "categoria": "Célula Sanguínea"
+  },
+  {
+    "termo": "Medula Óssea Vermelha",
+    "definicao": "Tecido hematopoiético encontrado no interior de ossos esponjosos, responsável pela produção de todas as células sanguíneas.",
+    "categoria": "Tecido"
+  },
+  {
+    "termo": "Megacariócito",
+    "definicao": "Célula gigante e polipoide da medula óssea cujos fragmentos citoplasmáticos dão origem às plaquetas.",
+    "categoria": "Célula Sanguínea"
+  },
+  {
+    "termo": "Microvilosidades",
+    "definicao": "Pequenas projeções digitiformes e imóveis da membrana plasmática que aumentam a área de superfície para absorção, como no intestino.",
+    "categoria": "Especialização de Superfície"
+  },
+  {
+    "termo": "Neutrófilo",
+    "definicao": "O tipo mais comum de leucócito granulócito, caracterizado por seu núcleo multilobulado e função fagocitária na defesa contra bactérias.",
+    "categoria": "Célula Sanguínea"
+  },
+  {
+    "termo": "Nó de Ranvier",
+    "definicao": "Intervalo na bainha de mielina entre duas células de Schwann (SNP) ou prolongamentos de oligodendrócitos (SNC) adjacentes, essencial para a condução saltatória.",
+    "categoria": "Estrutura Neural"
+  },
+  {
+    "termo": "Osteoide",
+    "definicao": "Matriz orgânica do osso recém-sintetizada pelos osteoblastos, antes de sofrer o processo de mineralização.",
+    "categoria": "Componente da Matriz"
+  },
+  {
+    "termo": "Periósteo",
+    "definicao": "Membrana fibrosa de tecido conjuntivo que reveste a superfície externa dos ossos, fundamental para o crescimento e reparo ósseo.",
+    "categoria": "Tecido Conjuntivo"
+  },
+  {
+    "termo": "Placa Motora",
+    "definicao": "Região especializada do sarcolema de uma fibra muscular que contém receptores para acetilcolina, formando a parte pós-sináptica da junção neuromuscular.",
+    "categoria": "Estrutura Muscular"
+  },
+  {
+    "termo": "Plasmócito",
+    "definicao": "Célula do tecido conjuntivo derivada do linfócito B, especializada na produção e secreção de grandes quantidades de anticorpos.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Proteoglicanos",
+    "definicao": "Macromoléculas formadas por um eixo proteico central ao qual se ligam covalentemente um ou mais Glicosaminoglicanos (GAGs).",
+    "categoria": "Molécula"
+  },
+  {
+    "termo": "Retículo Sarcoplasmático",
+    "definicao": "Rede especializada de retículo endoplasmático liso nas células musculares que armazena, libera e recapta íons de cálcio.",
+    "categoria": "Organela"
+  },
+  {
+    "termo": "Secreção Apócrina",
+    "definicao": "Mecanismo de secreção glandular no qual o produto é liberado junto com uma porção do citoplasma apical da célula.",
+    "categoria": "Processo Celular"
+  },
+  {
+    "termo": "Secreção Holócrina",
+    "definicao": "Mecanismo de secreção no qual a célula secretora inteira se desintegra para liberar seu conteúdo, como nas glândulas sebáceas.",
+    "categoria": "Processo Celular"
+  },
+  {
+    "termo": "Secreção Merócrina",
+    "definicao": "O mecanismo de secreção mais comum, onde o produto é liberado por exocitose, sem perda de material celular. Também chamada de écrina.",
+    "categoria": "Processo Celular"
+  },
+  {
+    "termo": "Sistema de Havers (Osteon)",
+    "definicao": "Unidade estrutural do osso compacto, consistindo em lamelas concêntricas de matriz óssea organizadas ao redor de um canal central (canal de Havers).",
+    "categoria": "Estrutura Óssea"
+  },
+  {
+    "termo": "Substância Branca",
+    "definicao": "Região do sistema nervoso central composta principalmente por axônios mielinizados, que lhe conferem a cor esbranquiçada.",
+    "categoria": "Tecido"
+  },
+  {
+    "termo": "Substância Cinzenta",
+    "definicao": "Região do sistema nervoso central rica em corpos celulares de neurônios, dendritos, axônios não mielinizados e células da glia.",
+    "categoria": "Tecido"
+  },
+  {
+    "termo": "Túbulos T",
+    "definicao": "Invaginações profundas do sarcolema que penetram na fibra muscular, permitindo a rápida transmissão do potencial de ação para o interior da célula.",
+    "categoria": "Estrutura Muscular"
+  },
+  {
+    "termo": "Apoptose",
+    "definicao": "Processo de morte celular programada, geneticamente controlada, que não desencadeia uma resposta inflamatória.",
+    "categoria": "Processo Celular"
+  },
+  {
+    "termo": "Basófilo",
+    "definicao": "Tipo menos comum de leucócito granulócito, cujos grânulos contêm histamina e heparina, envolvido em reações alérgicas.",
+    "categoria": "Célula Sanguínea"
+  },
+  {
+    "termo": "Cartilagem Elástica",
+    "definicao": "Tipo de cartilagem rica em fibras elásticas, que lhe confere grande flexibilidade. Encontrada no pavilhão auditivo e na epiglote.",
+    "categoria": "Tecido"
+  },
+  {
+    "termo": "Cartilagem Fibrosa (Fibrocartilagem)",
+    "definicao": "Tipo de cartilagem com abundante colágeno tipo I, que oferece resistência à tensão e compressão. Encontrada nos discos intervertebrais.",
+    "categoria": "Tecido"
+  },
+  {
+    "termo": "Cartilagem Hialina",
+    "definicao": "O tipo mais comum de cartilagem, com matriz translúcida e rica em colágeno tipo II. Forma o esqueleto fetal e reveste as superfícies articulares.",
+    "categoria": "Tecido"
+  },
+  {
+    "termo": "Célula de Langerhans",
+    "definicao": "Célula apresentadora de antígenos encontrada na epiderme, que faz parte do sistema imune da pele.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Célula Mesenquimal",
+    "definicao": "Célula-tronco multipotente encontrada no tecido conjuntivo embrionário, capaz de se diferenciar em diversos tipos celulares (fibroblastos, osteoblastos, etc.).",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Corpo Celular (Soma)",
+    "definicao": "Parte central do neurônio que contém o núcleo e as principais organelas, responsável pelo metabolismo da célula.",
+    "categoria": "Estrutura Neural"
+  },
+  {
+    "termo": "Dendrito",
+    "definicao": "Prolongamentos curtos e ramificados do neurônio, especializados em receber os estímulos de outras células nervosas.",
+    "categoria": "Estrutura Neural"
+  },
+  {
+    "termo": "Endoneuro",
+    "definicao": "Fina camada de tecido conjuntivo frouxo que envolve individualmente cada fibra nervosa (axônio e sua bainha de Schwann) dentro de um nervo.",
+    "categoria": "Tecido Conjuntivo"
+  },
+  {
+    "termo": "Eosinófilo",
+    "definicao": "Leucócito granulócito com grânulos acidófilos (róseos), envolvido na defesa contra parasitas e em reações alérgicas.",
+    "categoria": "Célula Sanguínea"
+  },
+  {
+    "termo": "Epineuro",
+    "definicao": "Camada mais externa de tecido conjuntivo denso que reveste um nervo periférico inteiro, protegendo os fascículos nervosos.",
+    "categoria": "Tecido Conjuntivo"
+  },
+  {
+    "termo": "Hemidesmossomo",
+    "definicao": "Junção celular especializada que ancora a membrana basal das células epiteliais à lâmina basal subjacente.",
+    "categoria": "Junção Celular"
+  },
+  {
+    "termo": "Histamina",
+    "definicao": "Amina vasoativa liberada por mastócitos e basófilos durante reações alérgicas e inflamatórias, que aumenta a permeabilidade vascular.",
+    "categoria": "Molécula"
+  },
+  {
+    "termo": "Junção de Adesão (Zônula de Adesão)",
+    "definicao": "Cinturão de adesão que circunda a célula epitelial, conectando o citoesqueleto de actina de células adjacentes.",
+    "categoria": "Junção Celular"
+  },
+  {
+    "termo": "Lamelas Ósseas",
+    "definicao": "Camadas concêntricas ou paralelas de matriz óssea mineralizada, que compõem a estrutura organizada do osso lamelar.",
+    "categoria": "Estrutura Óssea"
+  },
+  {
+    "termo": "Lisossomo",
+    "definicao": "Organela citoplasmática contendo enzimas hidrolíticas, responsável pela digestão de partículas e pela reciclagem de componentes celulares.",
+    "categoria": "Organela"
+  },
+  {
+    "termo": "Medula Óssea Amarela",
+    "definicao": "Tecido encontrado na cavidade medular de ossos longos em adultos, composto principalmente por tecido adiposo.",
+    "categoria": "Tecido"
+  },
+  {
+    "termo": "Membrana Sinovial",
+    "definicao": "Camada de tecido conjuntivo que reveste a cápsula de articulações móveis (sinoviais) e produz o líquido sinovial.",
+    "categoria": "Tecido Especializado"
+  },
+  {
+    "termo": "Mitocôndria",
+    "definicao": "Organela responsável pela respiração celular e produção da maior parte do ATP (energia) da célula.",
+    "categoria": "Organela"
+  },
+  {
+    "termo": "Monócito",
+    "definicao": "O maior tipo de leucócito, que circula no sangue e migra para os tecidos, onde se diferencia em macrófago.",
+    "categoria": "Célula Sanguínea"
+  },
+  {
+    "termo": "Necrose",
+    "definicao": "Morte celular patológica resultante de uma lesão aguda, que causa o extravasamento do conteúdo celular e uma resposta inflamatória.",
+    "categoria": "Processo Celular"
+  },
+  {
+    "termo": "Ossificação Endocondral",
+    "definicao": "Processo de formação óssea no qual um molde de cartilagem hialina é gradualmente substituído por tecido ósseo. Ocorre em ossos longos.",
+    "categoria": "Processo Biológico"
+  },
+  {
+    "termo": "Ossificação Intramembranosa",
+    "definicao": "Processo de formação óssea que ocorre diretamente a partir de uma membrana de tecido conjuntivo mesenquimal. Ocorre em ossos chatos.",
+    "categoria": "Processo Biológico"
+  },
+  {
+    "termo": "Pericito",
+    "definicao": "Célula contrátil localizada ao redor de capilares e vênulas, que participa da regulação do fluxo sanguíneo e da angiogênese.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Perineuro",
+    "definicao": "Camada de tecido conjuntivo especializado que envolve um fascículo de fibras nervosas, formando a barreira hemato-neural.",
+    "categoria": "Tecido Conjuntivo"
+  },
+  {
+    "termo": "Sistema Porta",
+    "definicao": "Arranjo vascular no qual uma veia ou arteríola se interpõe entre duas redes de capilares, como no fígado e na hipófise.",
+    "categoria": "Estrutura Vascular"
+  },
+  {
+    "termo": "Tecido Adiposo Multilocular (Marrom)",
+    "definicao": "Tipo de tecido adiposo especializado na produção de calor (termogênese), cujas células contêm múltiplas gotículas de lipídio e muitas mitocôndrias.",
+    "categoria": "Tecido"
+  },
+  {
+    "termo": "Titina",
+    "definicao": "Proteína gigante do sarcômero que funciona como uma mola molecular, responsável pela elasticidade passiva do músculo.",
+    "categoria": "Proteína"
+  },
+  {
+    "termo": "Tríade Muscular",
+    "definicao": "Estrutura da fibra muscular esquelética formada por um túbulo T e duas cisternas terminais do retículo sarcoplasmático, crucial para o acoplamento excitação-contração.",
+    "categoria": "Estrutura Muscular"
+  },
+  {
+    "termo": "Alvéolo Pulmonar",
+    "definicao": "Pequena cavidade em forma de saco no final dos bronquíolos, onde ocorre a troca gasosa entre o ar e o sangue.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Canal de Havers",
+    "definicao": "Canal central do osteon (Sistema de Havers) no osso compacto, que contém vasos sanguíneos, nervos e tecido conjuntivo frouxo.",
+    "categoria": "Estrutura Óssea"
+  },
+  {
+    "termo": "Célula de Merkel",
+    "definicao": "Mecanorreceptor de toque lento encontrado na camada basal da epiderme, associado a uma terminação nervosa.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Célula de Paneth",
+    "definicao": "Célula encontrada na base das criptas intestinais que secreta substâncias antimicrobianas, como a lisozima, contribuindo para a imunidade inata.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Célula M (Microfold)",
+    "definicao": "Célula epitelial especializada sobre as Placas de Peyer no intestino, que transporta antígenos do lúmen para as células imunes subjacentes.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Células Mioepiteliais",
+    "definicao": "Células com características de músculo liso e epitélio, que se contraem para ajudar a expelir secreções de glândulas como as mamárias e salivares.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Citoesqueleto",
+    "definicao": "Rede tridimensional de filamentos proteicos (microtúbulos, filamentos de actina e filamentos intermediários) que dá forma e suporte à célula.",
+    "categoria": "Componente Celular"
+  },
+  {
+    "termo": "Coloração H&E (Hematoxilina e Eosina)",
+    "definicao": "A técnica de coloração mais comum em histologia, onde a hematoxilina cora núcleos de roxo/azul e a eosina cora o citoplasma de rosa/vermelho.",
+    "categoria": "Técnica Histológica"
+  },
+  {
+    "termo": "Corpúsculo de Meissner",
+    "definicao": "Receptor sensorial encapsulado na derme papilar da pele, especializado na detecção de toques leves e vibrações de baixa frequência.",
+    "categoria": "Estrutura Neural"
+  },
+  {
+    "termo": "Corpúsculo de Pacini",
+    "definicao": "Receptor sensorial lamelado encontrado na derme profunda e hipoderme, sensível a pressão e vibrações de alta frequência.",
+    "categoria": "Estrutura Neural"
+  },
+  {
+    "termo": "Córtex (de um órgão)",
+    "definicao": "A camada mais externa de um órgão, como o rim, o linfonodo ou a glândula adrenal, frequentemente com estrutura e função distintas da medula interna.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Diapedese",
+    "definicao": "Processo pelo qual os leucócitos atravessam a parede dos capilares e vênulas para migrar do sangue para os tecidos.",
+    "categoria": "Processo Celular"
+  },
+  {
+    "termo": "Eritropoese",
+    "definicao": "Processo de produção, diferenciação e maturação das hemácias (eritrócitos) na medula óssea vermelha.",
+    "categoria": "Processo Biológico"
+  },
+  {
+    "termo": "Fagocitose",
+    "definicao": "Processo pelo qual uma célula (como um macrófago) engloba e digere partículas sólidas, como bactérias ou detritos celulares.",
+    "categoria": "Processo Celular"
+  },
+  {
+    "termo": "Fibra de Purkinje",
+    "definicao": "Fibra muscular cardíaca modificada que compõe a parte terminal do sistema de condução do coração, garantindo a contração sincronizada dos ventrículos.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Glomérulo Renal",
+    "definicao": "Emaranhado de capilares sanguíneos localizado dentro da cápsula de Bowman no rim, onde ocorre a filtração do sangue.",
+    "categoria": "Estrutura Vascular"
+  },
+  {
+    "termo": "Hepatócito",
+    "definicao": "A principal célula parenquimatosa do fígado, responsável por uma vasta gama de funções metabólicas, de síntese e de detoxificação.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Ilhotas de Langerhans",
+    "definicao": "Aglomerados de células endócrinas no pâncreas que produzem hormônios como a insulina e o glucagon, regulando a glicemia.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Matriz Territorial",
+    "definicao": "Região da matriz cartilaginosa imediatamente ao redor de um condrócito ou grupo isógeno, mais rica em glicosaminoglicanos.",
+    "categoria": "Componente da Matriz"
+  },
+  {
+    "termo": "Medula (de um órgão)",
+    "definicao": "A porção mais interna de um órgão, como o rim, o linfonodo ou a glândula adrenal, distinta do córtex externo.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Mioglobina",
+    "definicao": "Proteína presente nas células musculares que se liga ao oxigênio, servindo como uma reserva intracelular de O2.",
+    "categoria": "Proteína"
+  },
+  {
+    "termo": "Néfron",
+    "definicao": "A unidade funcional e estrutural do rim, composta pelo corpúsculo renal (glomérulo e cápsula de Bowman) e pelo túbulo renal.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Parênquima",
+    "definicao": "A parte funcional de um órgão, composta pelas células que executam as funções específicas daquele órgão (ex: hepatócitos no fígado).",
+    "categoria": "Tecido"
+  },
+  {
+    "termo": "Peroxissomo",
+    "definicao": "Organela que contém enzimas oxidativas, envolvida no metabolismo de lipídios e na detoxificação de substâncias nocivas.",
+    "categoria": "Organela"
+  },
+  {
+    "termo": "Placas de Peyer",
+    "definicao": "Grandes agregados de tecido linfoide encontrados na parede do intestino delgado, especialmente no íleo, importantes para a vigilância imunológica.",
+    "categoria": "Estrutura Linfoide"
+  },
+  {
+    "termo": "Pneumócito Tipo I",
+    "definicao": "Célula epitelial pavimentosa extremamente delgada que reveste a maior parte da superfície alveolar, otimizada para a troca gasosa.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Pneumócito Tipo II",
+    "definicao": "Célula epitelial cúbica nos alvéolos que secreta o surfactante pulmonar, uma substância que reduz a tensão superficial e impede o colapso alveolar.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Podócito",
+    "definicao": "Célula especializada do folheto visceral da cápsula de Bowman no rim, cujos prolongamentos (pedicelos) formam as fendas de filtração glomerular.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Estroma",
+    "definicao": "A estrutura de suporte de um órgão, composta principalmente por tecido conjuntivo, que sustenta o parênquima.",
+    "categoria": "Tecido"
+  },
+  {
+    "termo": "Vilosidade Intestinal",
+    "definicao": "Projeção em forma de dedo da mucosa do intestino delgado que aumenta drasticamente a área de superfície para a absorção de nutrientes.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Ácino Seroso",
+    "definicao": "Unidade secretora de glândulas (como pâncreas e parótida) com formato esférico, composta por células que produzem uma secreção fluida e rica em proteínas.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Aparelho Justaglomerular",
+    "definicao": "Estrutura microscópica no rim, localizada perto do glomérulo, que regula a função renal e a pressão arterial através da secreção de renina.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Axônio",
+    "definicao": "Prolongamento longo e único de um neurônio, especializado em conduzir impulsos nervosos para longe do corpo celular.",
+    "categoria": "Estrutura Neural"
+  },
+  {
+    "termo": "Barreira Hematotesticular",
+    "definicao": "Barreira física formada pelas junções oclusivas entre as células de Sertoli nos testículos, que isola os espermatozoides em desenvolvimento do sistema imune.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Célula Caliciforme",
+    "definicao": "Glândula unicelular encontrada em epitélios (como intestinal e respiratório) que secreta muco.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Célula de Kupffer",
+    "definicao": "Macrófago residente nos sinusoides hepáticos do fígado, responsável pela fagocitose de partículas, hemácias velhas e patógenos do sangue.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Célula de Leydig",
+    "definicao": "Célula endócrina encontrada no interstício dos testículos, responsável pela produção de testosterona.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Célula de Sertoli",
+    "definicao": "Célula epitelial dos túbulos seminíferos que dá suporte, nutrição e proteção às células germinativas em desenvolvimento.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Célula Parietal",
+    "definicao": "Célula encontrada nas glândulas gástricas, responsável pela secreção de ácido clorídrico (HCl) e fator intrínseco.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Centro Germinativo",
+    "definicao": "Região central de um folículo linfoide secundário onde os linfócitos B proliferam, se diferenciam e sofrem maturação de afinidade durante uma resposta imune.",
+    "categoria": "Estrutura Linfoide"
+  },
+  {
+    "termo": "Condroblasto",
+    "definicao": "Célula jovem e ativa que sintetiza a matriz extracelular da cartilagem. Após aprisionada na matriz, torna-se um condrócito.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Corpo Lúteo",
+    "definicao": "Estrutura glandular endócrina temporária formada no ovário após a ovulação, que secreta progesterona e estrogênio.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Corpúsculo de Hassall",
+    "definicao": "Estrutura formada por células epiteliais reticulares dispostas concentricamente, encontrada na medula do timo.",
+    "categoria": "Estrutura Linfoide"
+  },
+  {
+    "termo": "Criptas de Lieberkühn",
+    "definicao": "Gândulas tubulares simples encontradas na mucosa do intestino delgado e grosso, contendo células-tronco e células secretoras.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Endométrio",
+    "definicao": "Mucosa que reveste a cavidade interna do útero, que sofre alterações cíclicas durante o ciclo menstrual.",
+    "categoria": "Tecido"
+  },
+  {
+    "termo": "Endotélio",
+    "definicao": "Epitélio simples pavimentoso que reveste a superfície interna dos vasos sanguíneos e linfáticos e do coração.",
+    "categoria": "Tecido Especializado"
+  },
+  {
+    "termo": "Espaço Porta (Tríade Portal)",
+    "definicao": "Região de tecido conjuntivo nos vértices dos lóbulos hepáticos que contém um ramo da artéria hepática, da veia porta e um ducto biliar.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Estrato Córneo",
+    "definicao": "A camada mais externa da epiderme, composta por células mortas, anucleadas e achatadas, repletas de queratina.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Folículo Linfoide",
+    "definicao": "Aglomerado esférico e denso de linfócitos, principalmente linfócitos B, que é a unidade estrutural do tecido linfoide.",
+    "categoria": "Estrutura Linfoide"
+  },
+  {
+    "termo": "Folículo Ovariano",
+    "definicao": "Unidade funcional do ovário, composta por um oócito circundado por uma ou mais camadas de células foliculares (ou da granulosa).",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Folículo Tireoidiano",
+    "definicao": "Unidade esférica e funcional da glândula tireoide, cuja parede é formada por células foliculares que produzem e armazenam hormônios tireoidianos no coloide central.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Imunohistoquímica",
+    "definicao": "Técnica que utiliza anticorpos marcados para detectar e localizar antígenos (proteínas) específicos em um corte de tecido.",
+    "categoria": "Técnica Histológica"
+  },
+  {
+    "termo": "Mastócito",
+    "definicao": "Célula do tecido conjuntivo cujos grânulos citoplasmáticos contêm mediadores inflamatórios como histamina e heparina.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Mesotélio",
+    "definicao": "Epitélio simples pavimentoso que reveste as grandes cavidades corporais (pleura, pericárdio, peritônio).",
+    "categoria": "Tecido Especializado"
+  },
+  {
+    "termo": "Pericôndrio",
+    "definicao": "Camada de tecido conjuntivo denso que reveste a maioria das cartilagens, responsável pela sua nutrição, oxigenação e crescimento.",
+    "categoria": "Tecido Conjuntivo"
+  },
+  {
+    "termo": "Polpa Branca",
+    "definicao": "Componente linfoide do baço, composto por folículos linfoides e bainhas linfáticas periarteriolares, onde ocorrem as respostas imunes.",
+    "categoria": "Estrutura Linfoide"
+  },
+  {
+    "termo": "Polpa Vermelha",
+    "definicao": "Componente sanguíneo do baço, composto por sinusoides esplênicos e cordões de Billroth, responsável pela filtragem do sangue e remoção de hemácias velhas.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Reticulócito",
+    "definicao": "Hemácia imatura, recém-liberada da medula óssea, que ainda contém resquícios de ribossomos e RNA.",
+    "categoria": "Célula Sanguínea"
+  },
+  {
+    "termo": "Sinusoide Hepático",
+    "definicao": "Capilar sanguíneo de grande calibre e parede descontínua no fígado, que permite o contato direto do sangue com os hepatócitos.",
+    "categoria": "Estrutura Vascular"
+  },
+  {
+    "termo": "Timo",
+    "definicao": "Órgão linfoide primário localizado no mediastino, responsável pela maturação e seleção dos linfócitos T.",
+    "categoria": "Órgão Linfoide"
+  },
+   {
+    "termo": "Cariólise",
+    "definicao": "A dissolução completa do núcleo de uma célula moribunda, caracterizada pelo desaparecimento da cromatina. É um dos sinais de necrose.",
+    "categoria": "Processo Celular"
+  },
+  {
+    "termo": "Cariorrexe",
+    "definicao": "A fragmentação destrutiva do núcleo de uma célula em processo de morte, onde a cromatina se desfaz em múltiplos pedaços.",
+    "categoria": "Processo Celular"
+  },
+  {
+    "termo": "Cinetócoro",
+    "definicao": "Estrutura proteica localizada nos centrômeros dos cromossomos, onde as fibras do fuso mitótico se ligam durante a divisão celular.",
+    "categoria": "Estrutura Nuclear"
+  },
+  {
+    "termo": "Geleia de Wharton",
+    "definicao": "Tecido conjuntivo mucoso encontrado no cordão umbilical, rico em ácido hialurônico e colágeno, que protege os vasos umbilicais.",
+    "categoria": "Tecido Especializado"
+  },
+  {
+    "termo": "Anel de Waldeyer",
+    "definicao": "Anel de tecido linfoide formado pelas tonsilas na entrada da faringe, atuando como uma barreira imunológica inicial.",
+    "categoria": "Estrutura Linfoide"
+  },
+  {
+    "termo": "Corpúsculo de Barr",
+    "definicao": "Massa de cromatina sexual condensada correspondente ao cromossomo X inativado, visível no núcleo de células de fêmeas de mamíferos.",
+    "categoria": "Estrutura Nuclear"
+  },
+  {
+    "termo": "Xantoma",
+    "definicao": "Lesão caracterizada pelo acúmulo dérmico de macrófagos com citoplasma espumoso por estarem repletos de lipídios.",
+    "categoria": "Patologia"
+  },
+  {
+    "termo": "Saco Vitelino",
+    "definicao": "Anexo embrionário, histologicamente relevante por ser o local da primeira hematopoese e da origem das células germinativas primordiais.",
+    "categoria": "Estrutura Embrionária"
+  },
+  {
+    "termo": "Zona Pelúcida",
+    "definicao": "Camada glicoproteica acelular que envolve o oócito, importante para a ligação do espermatozoide e para prevenir a poliespermia.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Zona Reticular",
+    "definicao": "A camada mais interna do córtex da glândula adrenal, responsável pela produção de andrógenos.",
+    "categoria": "Estrutura Glandular"
+  },
+    {
+    "termo": "Ameloblasto",
+    "definicao": "Célula de origem epitelial responsável pela formação do esmalte dentário durante a odontogênese.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Anáfase",
+    "definicao": "Fase da mitose ou meiose em que os cromossomos duplicados (ou homólogos) se separam e se movem para os polos opostos da célula.",
+    "categoria": "Processo Celular"
+  },
+  {
+    "termo": "Artefato de Técnica",
+    "definicao": "Alteração estrutural em um corte histológico que não existe no tecido vivo, causada por algum passo do processamento (fixação, inclusão, corte, etc.).",
+    "categoria": "Técnica Histológica"
+  },
+  {
+    "termo": "Borda em Escova",
+    "definicao": "Aparência característica da superfície apical de certas células epiteliais (como nos túbulos renais) em microscopia de luz, formada por microvilosidades densas e longas.",
+    "categoria": "Especialização de Superfície"
+  },
+  {
+    "termo": "Célula de Clara (Célula Club)",
+    "definicao": "Célula não ciliada encontrada nos bronquíolos que secreta um componente do surfactante e enzimas para detoxificação.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Célula Folicular (Tireoide)",
+    "definicao": "Célula epitelial cúbica que forma a parede dos folículos tireoidianos, responsável pela síntese dos hormônios T3 e T4.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Célula Ganglionar (Retina)",
+    "definicao": "Tipo de neurônio localizado na camada mais interna da retina, cujos axônios se unem para formar o nervo óptico.",
+    "categoria": "Célula Neural"
+  },
+  {
+    "termo": "Célula Principal (Gástrica)",
+    "definicao": "Célula encontrada nas glândulas gástricas que secreta pepsinogênio, o precursor inativo da enzima pepsina.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Coloide",
+    "definicao": "Material gelatinoso rico em tireoglobulina armazenado no lúmen dos folículos tireoidianos, servindo como um depósito de hormônios.",
+    "categoria": "Componente Glandular"
+  },
+  {
+    "termo": "Corpúsculo Amiláceo",
+    "definicao": "Concreção calcificada de material glicoproteico, frequentemente encontrada no lúmen dos ácinos da próstata em homens mais velhos.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Corpúsculo Renal",
+    "definicao": "A unidade de filtração do néfron, composta pelo glomérulo e pela cápsula de Bowman que o envolve.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Cromatina",
+    "definicao": "Complexo de DNA e proteínas (principalmente histonas) que compõe os cromossomos dentro do núcleo das células eucarióticas.",
+    "categoria": "Estrutura Nuclear"
+  },
+  {
+    "termo": "Ducto Intercalar",
+    "definicao": "A porção inicial do sistema de ductos de uma glândula exócrina (como a salivar), que se conecta diretamente ao ácino secretor.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Ependimócito",
+    "definicao": "Célula glial de revestimento que forma o epêndima, uma camada epitelial que reveste os ventrículos cerebrais e o canal central da medula espinhal.",
+    "categoria": "Célula Neural"
+  },
+  {
+    "termo": "Esclera",
+    "definicao": "A camada externa, fibrosa, resistente e branca do globo ocular, que protege as estruturas internas e serve de inserção para os músculos extrínsecos.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Fotorreceptor",
+    "definicao": "Neurônio especializado da retina (cone ou bastonete) capaz de converter a luz em sinais elétricos.",
+    "categoria": "Célula Neural"
+  },
+  {
+    "termo": "Glândula de Brunner",
+    "definicao": "Glândulas tubulares ramificadas localizadas na submucosa do duodeno, que secretam um muco alcalino para neutralizar o quimo ácido do estômago.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Mácula Densa",
+    "definicao": "Região de células epiteliais especializadas no túbulo contorcido distal do rim, que atua como um quimiorreceptor sensível à concentração de íons no filtrado.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Odontoblasto",
+    "definicao": "Célula de origem mesenquimal que forma a dentina, a principal massa do dente.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Órgão de Corti",
+    "definicao": "Estrutura complexa localizada na cóclea do ouvido interno, que contém as células ciliadas responsáveis pela transdução dos estímulos sonoros em sinais neurais.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Osso Esponjoso",
+    "definicao": "Tipo de tecido ósseo formado por uma rede tridimensional de trabéculas, entre as quais se localiza a medula óssea.",
+    "categoria": "Tecido"
+  },
+  {
+    "termo": "Papila Dérmica",
+    "definicao": "Projeção da derme para dentro da epiderme, que aumenta a área de contato entre as duas camadas e contém capilares e terminações nervosas.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Papila Gustativa",
+    "definicao": "Estrutura sensorial localizada principalmente na língua, que contém as células receptoras responsáveis pela detecção dos sabores.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Pericárdio",
+    "definicao": "Saco fibro-seroso de dupla camada que envolve o coração e as raízes dos grandes vasos sanguíneos.",
+    "categoria": "Tecido"
+  },
+  {
+    "termo": "Plexo Coroide",
+    "definicao": "Estrutura altamente vascularizada nos ventrículos cerebrais, formada por ependimócitos modificados, responsável pela produção do líquido cefalorraquidiano (líquor).",
+    "categoria": "Estrutura Neural"
+  },
+  {
+    "termo": "Plexo Mioentérico (de Auerbach)",
+    "definicao": "Rede de neurônios do sistema nervoso entérico, localizada entre as camadas musculares circular e longitudinal do trato gastrointestinal, que controla a motilidade.",
+    "categoria": "Estrutura Neural"
+  },
+  {
+    "termo": "Serosa",
+    "definicao": "Membrana que reveste certas cavidades corporais e órgãos, composta por uma camada de mesotélio e tecido conjuntivo subjacente.",
+    "categoria": "Tecido Especializado"
+  },
+  {
+    "termo": "Tricrômico de Masson",
+    "definicao": "Técnica de coloração de três cores usada para distinguir células de tecido conjuntivo. Tipicamente, cora núcleos de preto, citoplasma de vermelho e colágeno de azul/verde.",
+    "categoria": "Técnica Histológica"
+  },
+  {
+    "termo": "Túnica Média",
+    "definicao": "A camada intermediária da parede de um vaso sanguíneo, composta principalmente por células musculares lisas e fibras elásticas.",
+    "categoria": "Estrutura Vascular"
+  },
+  {
+    "termo": "Zona Glomerulosa",
+    "definicao": "A camada mais externa do córtex da glândula adrenal, cujas células se arranjam em glomérulos e são responsáveis pela produção de mineralocorticoides (ex: aldosterona).",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Acrossomo",
+    "definicao": "Vesícula em forma de capuz na cabeça do espermatozoide, contendo enzimas hidrolíticas essenciais para a penetração na zona pelúcida do óvulo.",
+    "categoria": "Estrutura Celular"
+  },
+  {
+    "termo": "Adeno-hipófise",
+    "definicao": "O lobo anterior da glândula pituitária, de origem epitelial, responsável pela produção e secreção de múltiplos hormônios tróficos (GH, TSH, ACTH, etc.).",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Célula da Granulosa",
+    "definicao": "Célula epitelial que forma camadas ao redor do oócito no folículo ovariano, responsável pela produção de estrogênio.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Célula Oxífila",
+    "definicao": "Célula encontrada na glândula paratireoide, maior e mais acidófila que a célula principal, cuja função exata ainda é incerta.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Centríolo",
+    "definicao": "Estrutura cilíndrica composta por microtúbulos, que organiza o fuso mitótico durante a divisão celular e forma a base de cílios e flagelos.",
+    "categoria": "Organela"
+  },
+  {
+    "termo": "Corpúsculos de Herring",
+    "definicao": "Dilatações nos terminais axônicos na neuro-hipófise, que representam o local de armazenamento dos hormônios ADH e ocitocina.",
+    "categoria": "Estrutura Neural"
+  },
+  {
+    "termo": "Corpos Arenáceos (Areia Cerebral)",
+    "definicao": "Concreções calcificadas que se acumulam com a idade na glândula pineal, servindo como um marco radiológico.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Decídua",
+    "definicao": "A camada funcional do endométrio durante a gravidez, que é modificada para facilitar a implantação e nutrição do embrião.",
+    "categoria": "Tecido Especializado"
+  },
+  {
+    "termo": "Epidídimo",
+    "definicao": "Ducto longo e enovelado localizado na parte posterior do testículo, onde os espermatozoides sofrem maturação e são armazenados.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Espermátide",
+    "definicao": "Célula haploide resultante da segunda divisão meiótica na espermatogênese, que se diferencia em espermatozoide através da espermiogênese.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Espermatogênese",
+    "definicao": "Processo complexo de diferenciação celular que ocorre nos túbulos seminíferos e leva à formação de espermatozoides a partir de células germinativas.",
+    "categoria": "Processo Biológico"
+  },
+  {
+    "termo": "Eucromatina",
+    "definicao": "Forma menos condensada da cromatina, que se cora fracamente e contém genes que estão sendo ativamente transcritos.",
+    "categoria": "Estrutura Nuclear"
+  },
+  {
+    "termo": "Folículo Piloso",
+    "definicao": "Estrutura complexa da derme e epiderme que produz o pelo, associada a uma glândula sebácea e ao músculo eretor do pelo.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Glândula Pineal",
+    "definicao": "Pequena glândula endócrina localizada no cérebro, responsável pela produção de melatonina, que regula o ciclo circadiano.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Glândula Sebácea",
+    "definicao": "Glândula exócrina holócrina, geralmente associada a um folículo piloso, que secreta sebo para lubrificar a pele e o pelo.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Glândula Sudorípara Apócrina",
+    "definicao": "Tipo de glândula sudorípara encontrada nas axilas e região genital, cuja secreção viscosa é decomposta por bactérias, produzindo odor.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Glândula Sudorípara Écrina",
+    "definicao": "Tipo mais comum de glândula sudorípara, que se abre diretamente na superfície da pele e secreta um suor aquoso para a termorregulação.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Heterocromatina",
+    "definicao": "Forma altamente condensada da cromatina, que se cora intensamente e contém DNA geneticamente inativo.",
+    "categoria": "Estrutura Nuclear"
+  },
+  {
+    "termo": "Metáfase",
+    "definicao": "Fase da divisão celular em que os cromossomos atingem seu grau máximo de condensação e se alinham na placa equatorial da célula.",
+    "categoria": "Processo Celular"
+  },
+  {
+    "termo": "Miométrio",
+    "definicao": "A espessa camada de músculo liso do útero, responsável pelas contrações durante o parto.",
+    "categoria": "Estrutura Muscular"
+  },
+  {
+    "termo": "Músculo Eretor do Pelo",
+    "definicao": "Pequeno feixe de músculo liso que se insere no folículo piloso, cuja contração causa a ereção do pelo (arrepio).",
+    "categoria": "Estrutura Muscular"
+  },
+  {
+    "termo": "Neuro-hipófise",
+    "definicao": "O lobo posterior da glândula pituitária, de origem neural, que armazena e libera os hormônios ADH e ocitocina produzidos no hipotálamo.",
+    "categoria": "Estrutura Neural"
+  },
+  {
+    "termo": "Nucléolo",
+    "definicao": "Estrutura densa e não membranosa dentro do núcleo, responsável pela síntese do RNA ribossômico e pela montagem dos ribossomos.",
+    "categoria": "Estrutura Nuclear"
+  },
+  {
+    "termo": "Pinealócito",
+    "definicao": "A principal célula da glândula pineal, responsável pela síntese e secreção de melatonina.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Pituícito",
+    "definicao": "Célula glial específica da neuro-hipófise, que dá suporte aos terminais axônicos e regula a liberação hormonal.",
+    "categoria": "Célula Neural"
+  },
+  {
+    "termo": "Prófase",
+    "definicao": "A primeira fase da divisão celular, caracterizada pela condensação dos cromossomos, desaparecimento do nucléolo e início da formação do fuso mitótico.",
+    "categoria": "Processo Celular"
+  },
+  {
+    "termo": "Teca Folicular",
+    "definicao": "Camada de células do estroma ovariano que se organiza ao redor de um folículo em desenvolvimento, dividindo-se em teca interna e externa.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Telófase",
+    "definicao": "A fase final da divisão celular, na qual os cromossomos chegam aos polos, se descondensam e um novo envelope nuclear é formado ao redor de cada conjunto.",
+    "categoria": "Processo Celular"
+  },
+  {
+    "termo": "Túbulo Contorcido Distal",
+    "definicao": "Segmento do néfron localizado após a alça de Henle, envolvido na reabsorção de íons e na regulação do pH e da concentração da urina.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Túbulos Seminíferos",
+    "definicao": "Estruturas tubulares longas e enoveladas localizadas nos testículos, onde ocorre o processo de espermatogênese.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Alça de Henle",
+    "definicao": "Segmento do néfron em forma de U, que mergulha na medula renal, crucial para a criação de um gradiente de concentração e a reabsorção de água.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Amígdala (Tonsila)",
+    "definicao": "Agregado de tecido linfoide parcialmente encapsulado, localizado na faringe, que faz parte do sistema imune de mucosas (MALT).",
+    "categoria": "Estrutura Linfoide"
+  },
+  {
+    "termo": "Barreira Alvéolo-Capilar",
+    "definicao": "Estrutura extremamente fina no pulmão, composta pelo pneumócito tipo I, membrana basal fundida e endotélio capilar, onde ocorrem as trocas gasosas.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Canal de Volkmann",
+    "definicao": "Canais transversais no osso compacto que conectam os Canais de Havers entre si e com a superfície do osso, permitindo a passagem de vasos e nervos.",
+    "categoria": "Estrutura Óssea"
+  },
+  {
+    "termo": "Cápsula de Bowman",
+    "definicao": "Estrutura em forma de taça com parede dupla que envolve o glomérulo, coletando o filtrado sanguíneo para formar a urina primária.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Célula de Poeira (Macrófago Alveolar)",
+    "definicao": "Macrófago residente nos alvéolos pulmonares, responsável por fagocitar partículas inaladas, como poeira e patógenos.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Células Cromafins",
+    "definicao": "Neurônios modificados localizados na medula da glândula adrenal, que sintetizam e secretam catecolaminas (adrenalina e noradrenalina) no sangue.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Células Justaglomerulares",
+    "definicao": "Células musculares lisas modificadas na parede da arteríola aferente do rim, que atuam como barorreceptores e secretam renina.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Cérvix (Colo Uterino)",
+    "definicao": "A porção inferior e estreita do útero, cuja histologia de transição entre epitélio glandular e estratificado é de grande importância clínica.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Citocinese",
+    "definicao": "A divisão do citoplasma que ocorre no final da mitose ou meiose, resultando na separação física em duas células-filhas.",
+    "categoria": "Processo Celular"
+  },
+  {
+    "termo": "Citotrofoblasto",
+    "definicao": "A camada interna de células-tronco do trofoblasto na placenta, que prolifera e se funde para formar o sinciciotrofoblasto.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Cone (Fotorreceptor)",
+    "definicao": "Tipo de célula fotorreceptora na retina, responsável pela visão de cores e pela acuidade visual em alta luminosidade.",
+    "categoria": "Célula Neural"
+  },
+  {
+    "termo": "Coroide",
+    "definicao": "Camada vascular e pigmentada do globo ocular, localizada entre a esclera e a retina, responsável pela nutrição das camadas externas da retina.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Córnea",
+    "definicao": "A estrutura transparente e avascular na parte anterior do olho, composta por camadas organizadas de colágeno, que atua como a principal lente refrativa.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Ducto Deferente",
+    "definicao": "Tubo muscular que transporta os espermatozoides do epidídimo até o ducto ejaculatório, caracterizado por uma espessa parede de músculo liso.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Ducto Torácico",
+    "definicao": "O maior vaso linfático do corpo, que coleta a linfa da maior parte do corpo e a drena para a circulação venosa.",
+    "categoria": "Estrutura Vascular"
+  },
+  {
+    "termo": "Fibras de Sharpey",
+    "definicao": "Feixes de fibras colágenas que se estendem do periósteo para dentro da matriz óssea, ancorando firmemente o periósteo ao osso.",
+    "categoria": "Estrutura Óssea"
+  },
+  {
+    "termo": "Fovea Centralis",
+    "definicao": "Pequena depressão no centro da mácula da retina, densamente preenchida por cones, que é o ponto de maior acuidade visual.",
+    "categoria": "Estrutura Neural"
+  },
+  {
+    "termo": "Glândula Parótida",
+    "definicao": "A maior das glândulas salivares, que produz uma secreção puramente serosa, rica em amilase.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Glândula Sublingual",
+    "definicao": "Glândula salivar localizada sob a língua, que produz uma secreção predominantemente mucosa.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Lente (Cristalino)",
+    "definicao": "Estrutura biconvexa, transparente e avascular no olho, composta por fibras de cristalina, que ajusta seu foco para a visão de perto e de longe.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Membrana de Descemet",
+    "definicao": "A espessa lâmina basal do endotélio da córnea, que serve como uma barreira protetora.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Periodic acid-Schiff (PAS)",
+    "definicao": "Técnica de coloração histoquímica usada para detectar polissacarídeos (como glicogênio) e mucossubstâncias, corando-os de magenta.",
+    "categoria": "Técnica Histológica"
+  },
+  {
+    "termo": "Placenta",
+    "definicao": "Órgão temporário que conecta o feto em desenvolvimento à parede uterina, permitindo a troca de nutrientes, gases e resíduos, além de produzir hormônios.",
+    "categoria": "Órgão"
+  },
+  {
+    "termo": "Sinciciotrofoblasto",
+    "definicao": "Camada externa multinucleada (sincício) do trofoblasto da placenta, que invade o endométrio e secreta hormônios como o hCG.",
+    "categoria": "Tecido Especializado"
+  },
+  {
+    "termo": "Vesícula Seminal",
+    "definicao": "Glândula par do sistema reprodutor masculino que secreta um fluido viscoso e alcalino, rico em frutose, que compõe a maior parte do sêmen.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Bastonete (Fotorreceptor)",
+    "definicao": "Tipo de célula fotorreceptora na retina, altamente sensível à luz, responsável pela visão em baixa luminosidade (visão noturna).",
+    "categoria": "Célula Neural"
+  },
+  {
+    "termo": "Glândula Submandibular",
+    "definicao": "Glândula salivar que produz uma secreção mista (seromucosa), sendo predominantemente serosa.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Vilosidade Corial",
+    "definicao": "Projeções da placenta que se estendem para o sangue materno, formando a principal unidade de troca entre a mãe e o feto.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Zona Fasciculada",
+    "definicao": "A camada intermediária e mais espessa do córtex adrenal, cujas células se arranjam em cordões e produzem glicocorticoides (ex: cortisol).",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Adventícia",
+    "definicao": "A camada mais externa de tecido conjuntivo frouxo que envolve um órgão, vaso sanguíneo ou outra estrutura, fundindo-se com os tecidos circundantes.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Célula Enteroendócrina",
+    "definicao": "Célula hormonal dispersa no epitélio do trato gastrointestinal e pâncreas, que secreta hormônios como serotonina, somatostatina e gastrina.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Centrossomo",
+    "definicao": "O principal centro organizador de microtúbulos na célula animal, composto por dois centríolos ortogonais e material pericentriolar.",
+    "categoria": "Organela"
+  },
+  {
+    "termo": "Corpo Ciliar",
+    "definicao": "Estrutura do olho, em forma de anel, que contém o músculo ciliar (para foco da lente) e os processos ciliares (para produção do humor aquoso).",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Corpo Vítrio",
+    "definicao": "Massa de gel transparente, composta principalmente por água e ácido hialurônico, que preenche a cavidade posterior do globo ocular.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Descalcificação",
+    "definicao": "Etapa do processamento histológico de tecidos duros, como osso e dente, que utiliza ácidos ou agentes quelantes para remover os minerais de cálcio antes do corte.",
+    "categoria": "Técnica Histológica"
+  },
+  {
+    "termo": "Disco de Merkel",
+    "definicao": "O complexo formado por uma célula de Merkel e sua terminação nervosa aferente associada, que funciona como um mecanorreceptor de adaptação lenta para o tato.",
+    "categoria": "Estrutura Neural"
+  },
+  {
+    "termo": "Endocitose",
+    "definicao": "Processo pelo qual a célula internaliza substâncias do meio externo, envolvendo a invaginação da membrana plasmática para formar uma vesícula.",
+    "categoria": "Processo Celular"
+  },
+  {
+    "termo": "Epitélio Germinativo",
+    "definicao": "Camada de epitélio simples cúbico que reveste a superfície do ovário. Apesar do nome, não dá origem aos oócitos.",
+    "categoria": "Tecido Especializado"
+  },
+  {
+    "termo": "Epitélio Olfatório",
+    "definicao": "Epitélio pseudoestratificado especializado localizado no teto da cavidade nasal, que contém os neurônios receptores olfatórios.",
+    "categoria": "Tecido Especializado"
+  },
+  {
+    "termo": "Espermatozoide",
+    "definicao": "A célula gamética masculina madura, altamente especializada e móvel, capaz de fertilizar um oócito.",
+    "categoria": "Célula"
+  },
+  {
+    "termo": "Estrato Basal (Germinativo)",
+    "definicao": "A camada mais profunda da epiderme, composta por uma única fileira de células cuboides ou colunares metabolicamente ativas, responsáveis pela renovação celular.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Estrato Espinhoso",
+    "definicao": "Camada da epiderme localizada acima do estrato basal, cujas células (espinócitos) são unidas por numerosos desmossomos, conferindo resistência.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Estrato Granuloso",
+    "definicao": "Camada da epiderme onde os queratinócitos contêm grânulos de querato-hialina e iniciam o processo de queratinização e morte celular.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Estrato Lúcido",
+    "definicao": "Camada delgada e translúcida da epiderme, presente apenas na pele espessa (palmas e plantas), localizada entre o estrato granuloso e o córneo.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Exocitose",
+    "definicao": "Processo pelo qual uma célula libera substâncias para o meio extracelular através da fusão de uma vesícula secretora com a membrana plasmática.",
+    "categoria": "Processo Celular"
+  },
+  {
+    "termo": "Fixação",
+    "definicao": "O primeiro passo crucial no processamento de tecidos, que utiliza agentes químicos (como a formalina) para preservar a morfologia celular e tecidual, evitando a autólise.",
+    "categoria": "Técnica Histológica"
+  },
+  {
+    "termo": "Glândula de Meibomius",
+    "definicao": "Glândula sebácea modificada localizada nas pálpebras, cuja secreção lipídica compõe a camada externa do filme lacrimal, prevenindo sua evaporação.",
+    "categoria": "Estrutura Glandular"
+  },
+  {
+    "termo": "Hipoderme",
+    "definicao": "Camada de tecido conjuntivo frouxo e adiposo localizada abaixo da derme, que serve como isolante térmico, reserva de energia e conecta a pele às estruturas subjacentes.",
+    "categoria": "Tecido"
+  },
+  {
+    "termo": "Humor Aquoso",
+    "definicao": "Fluido aquoso e transparente que preenche as câmaras anterior e posterior do olho, responsável pela nutrição da córnea e do cristalino e pela manutenção da pressão intraocular.",
+    "categoria": "Secreção"
+  },
+  {
+    "termo": "Íris",
+    "definicao": "A porção pigmentada e contrátil do olho, que funciona como um diafragma para controlar o diâmetro da pupila e regular a quantidade de luz que entra.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Linfonodo",
+    "definicao": "Pequeno órgão linfoide encapsulado, distribuído ao longo dos vasos linfáticos, que filtra a linfa e monta respostas imunes.",
+    "categoria": "Órgão Linfoide"
+  },
+  {
+    "termo": "Membrana de Bowman",
+    "definicao": "Camada acelular e homogênea da córnea, localizada entre o epitélio e o estroma, que serve como uma barreira protetora.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Mesângio",
+    "definicao": "Estrutura composta por células mesangiais e matriz no corpúsculo renal, que oferece suporte aos capilares glomerulares, tem atividade fagocitária e contrátil.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Oogênese",
+    "definicao": "Processo de formação e maturação do gameta feminino (óvulo) a partir de células germinativas primordiais nos ovários.",
+    "categoria": "Processo Biológico"
+  },
+  {
+    "termo": "Próstata",
+    "definicao": "Glândula acessória do sistema reprodutor masculino que produz um fluido fino e leitoso, rico em enzimas, que contribui para o volume e a viabilidade do sêmen.",
+    "categoria": "Órgão"
+  },
+  {
+    "termo": "Pupila",
+    "definicao": "A abertura central da íris que permite a passagem de luz para o interior do olho.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Rete Testis (Rede Testicular)",
+    "definicao": "Rede de canais anastomosados no mediastino do testículo, que transporta os espermatozoides dos túbulos seminíferos para os ductos eferentes.",
+    "categoria": "Estrutura"
+  },
+  {
+    "termo": "Túnica Albugínea",
+    "definicao": "Cápsula espessa de tecido conjuntivo denso que reveste os testículos e os ovários.",
+    "categoria": "Tecido Conjuntivo"
+  },
+  {
+    "termo": "Uretra",
+    "definicao": "Tubo que transporta a urina da bexiga para fora do corpo. No homem, também serve como passagem para o sêmen.",
+    "categoria": "Estrutura"
   }
 ]
