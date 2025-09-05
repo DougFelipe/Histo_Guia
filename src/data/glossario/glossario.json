@@ -1518,5 +1518,608 @@
     "termo": "Uretra",
     "definicao": "Tubo que transporta a urina da bexiga para fora do corpo. No homem, também serve como passagem para o sêmen.",
     "categoria": "Estrutura"
-  }
+  },
+  {
+  "termo": "Glicocálix",
+  "definicao": "Camada rica em glicoproteínas e glicolipídios na superfície externa da membrana plasmática, importante para proteção, reconhecimento celular e adesão.",
+  "categoria": "Componente Celular"
+},
+{
+  "termo": "Cavéolas",
+  "definicao": "Invaginações em forma de frasco da membrana plasmática associadas à endocitose, sinalização e transdução mecânica, ricas em caveolinas.",
+  "categoria": "Estrutura de Membrana"
+},
+{
+  "termo": "Fosseta Revestida (Clatrina)",
+  "definicao": "Depressão da membrana plasmática recoberta por clatrina que participa da endocitose mediada por receptor.",
+  "categoria": "Estrutura de Membrana"
+},
+{
+  "termo": "Clatrina",
+  "definicao": "Proteína estrutural que forma um revestimento poliédrico ao redor de vesículas endocíticas e do aparelho de Golgi.",
+  "categoria": "Proteína"
+},
+{
+  "termo": "Laminina",
+  "definicao": "Glicoproteína da membrana basal que promove adesão celular e organiza a lâmina basal.",
+  "categoria": "Componente da Matriz"
+},
+{
+  "termo": "Fibronectina",
+  "definicao": "Glicoproteína da matriz extracelular que medeia adesão, migração e reparo tecidual por ligação a integrinas e colágeno.",
+  "categoria": "Componente da Matriz"
+},
+{
+  "termo": "Integrina",
+  "definicao": "Receptor transmembrana que conecta a matriz extracelular ao citoesqueleto, essencial para adesão e sinalização celular.",
+  "categoria": "Molécula de Adesão"
+},
+{
+  "termo": "Caderina",
+  "definicao": "Proteína de adesão célula–célula dependente de cálcio, componente central dos desmossomos e zônulas de adesão.",
+  "categoria": "Molécula de Adesão"
+},
+{
+  "termo": "Selectina",
+  "definicao": "Família de moléculas de adesão que medeia interações transitórias leucócito–endotélio durante a resposta inflamatória.",
+  "categoria": "Molécula de Adesão"
+},
+{
+  "termo": "Elastina",
+  "definicao": "Proteína principal das fibras elásticas, responsável pela elasticidade de tecidos como pele, pulmões e artérias.",
+  "categoria": "Proteína"
+},
+{
+  "termo": "Colágeno Tipo I",
+  "definicao": "Tipo de colágeno mais abundante, confere resistência à tração em tendões, derme e osso.",
+  "categoria": "Proteína"
+},
+{
+  "termo": "Colágeno Tipo II",
+  "definicao": "Colágeno predominante na cartilagem hialina e elástica, importante para resistência à compressão.",
+  "categoria": "Proteína"
+},
+{
+  "termo": "Colágeno Tipo III",
+  "definicao": "Colágeno de fibras reticulares, forma redes de suporte em órgãos linfoides e na lâmina reticular.",
+  "categoria": "Proteína"
+},
+{
+  "termo": "Corpo Basal",
+  "definicao": "Estrutura derivada do centríolo que ancora cílios e flagelos na base, organizando o axonema.",
+  "categoria": "Estrutura Celular"
+},
+{
+  "termo": "Axonema",
+  "definicao": "Arranjo de microtúbulos (9+2 ou 9+0) que constitui o esqueleto interno de cílios e flagelos.",
+  "categoria": "Especialização de Superfície"
+},
+{
+  "termo": "Lâmina Nuclear",
+  "definicao": "Rede de filamentos intermediários (laminas) subjacente ao envelope nuclear, confere suporte ao núcleo.",
+  "categoria": "Estrutura Nuclear"
+},
+{
+  "termo": "Poros Nucleares",
+  "definicao": "Complexos proteicos no envelope nuclear que regulam o tráfego de RNAs e proteínas entre núcleo e citoplasma.",
+  "categoria": "Estrutura Nuclear"
+},
+{
+  "termo": "Epitélio Simples Cúbico",
+  "definicao": "Epitélio de uma camada de células cúbicas, típico de túbulos renais e ductos de pequenas glândulas.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Epitélio Simples Cilíndrico",
+  "definicao": "Epitélio de uma camada de células altas, comum no intestino e no útero, frequentemente com microvilosidades.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Epitélio Estratificado Pavimentoso Queratinizado",
+  "definicao": "Epitélio de múltiplas camadas com superfície queratinizada, característico da pele espessa e fina.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Epitélio Estratificado Pavimentoso Não Queratinizado",
+  "definicao": "Epitélio pluriestratificado úmido, presente em cavidade oral, esôfago e vagina.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Tecido Conjuntivo Frouxo (Areolar)",
+  "definicao": "Tecido rico em substância fundamental e fibras delicadas, com alta celularidade e vascularização.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Tecido Conjuntivo Denso Modelado",
+  "definicao": "Tecido com feixes de colágeno paralelos, confere grande resistência à tração em tendões e ligamentos.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Tecido Conjuntivo Denso Não Modelado",
+  "definicao": "Tecido com feixes de colágeno orientados irregularmente, típico da derme reticular e cápsulas de órgãos.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Miofibroblasto",
+  "definicao": "Célula com características de fibroblasto e músculo liso, contrátil, fundamental na contração de feridas.",
+  "categoria": "Célula"
+},
+{
+  "termo": "Corpos Densos (Músculo Liso)",
+  "definicao": "Estruturas citoplasmáticas que ancoram filamentos de actina no músculo liso, análogas às linhas Z.",
+  "categoria": "Estrutura Muscular"
+},
+{
+  "termo": "Vasa Vasorum",
+  "definicao": "Rede de pequenos vasos sanguíneos que nutre a túnica adventícia e parte da túnica média de grandes artérias e veias.",
+  "categoria": "Estrutura Vascular"
+},
+{
+  "termo": "Capilar Fenestrado",
+  "definicao": "Tipo de capilar com poros na célula endotelial que facilitam a troca, comum em glomérulos renais e glândulas endócrinas.",
+  "categoria": "Estrutura Vascular"
+},
+{
+  "termo": "Espaço de Disse",
+  "definicao": "Micronicho entre o endotélio sinusoidal e os hepatócitos no fígado, local de troca metabólica e depósito de vitamina A.",
+  "categoria": "Estrutura"
+},
+{
+  "termo": "Célula Estrelada Hepática (Célula de Ito)",
+  "definicao": "Célula perisinusoidal do fígado que armazena vitamina A e participa da fibrogênese hepática quando ativada.",
+  "categoria": "Célula"
+},
+{
+  "termo": "Epitélio Pseudoestratificado Cilíndrico",
+  "definicao": "Epitélio com núcleos em diferentes alturas que dão aparência de múltiplas camadas, embora todas as células toquem a membrana basal; comum no trato respiratório.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Epitélio Estratificado Cúbico",
+  "definicao": "Epitélio com duas ou mais camadas de células cúbicas, encontrado em ductos de glândulas maiores.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Epitélio Estratificado Cilíndrico",
+  "definicao": "Epitélio com múltiplas camadas, cuja camada superficial é de células cilíndricas; raro, presente em porções de uretra e ductos excretores.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Epitélio Pavimentoso Simples",
+  "definicao": "Epitélio de única camada de células achatadas, especializado em difusão e filtração; reveste alvéolos e cápsula de Bowman.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Lâmina Reticular",
+  "definicao": "Componente da membrana basal rico em fibras reticulares (colágeno III) produzido pelo tecido conjuntivo subjacente.",
+  "categoria": "Componente da Matriz"
+},
+{
+  "termo": "Membrana Basal",
+  "definicao": "Estrutura acelular sob o epitélio composta por lâmina basal e lâmina reticular, essencial para suporte e filtração.",
+  "categoria": "Estrutura"
+},
+{
+  "termo": "Filamentos Intermediários",
+  "definicao": "Componentes do citoesqueleto com função mecânica, como queratinas, vimentina e neurofilamentos.",
+  "categoria": "Componente Celular"
+},
+{
+  "termo": "Microfilamentos de Actina",
+  "definicao": "Fios de actina que participam da motilidade celular, contração e manutenção da forma celular.",
+  "categoria": "Componente Celular"
+},
+{
+  "termo": "Microtúbulos",
+  "definicao": "Cilindros proteicos de tubulina envolvidos no transporte intracelular, cílios/flagelos e fuso mitótico.",
+  "categoria": "Componente Celular"
+},
+{
+  "termo": "Fuso Mitótico",
+  "definicao": "Estrutura de microtúbulos que separa cromossomos durante mitose e meiose.",
+  "categoria": "Estrutura Celular"
+},
+{
+  "termo": "Corpúsculo de Ruffini",
+  "definicao": "Mecanorreceptor dérmico de adaptação lenta sensível ao estiramento cutâneo.",
+  "categoria": "Estrutura Neural"
+},
+{
+  "termo": "Corpúsculo de Krause",
+  "definicao": "Mecanorreceptor encapsulado associado à sensação de frio e toque leve.",
+  "categoria": "Estrutura Neural"
+},
+{
+  "termo": "Anel Fibroso",
+  "definicao": "Porção periférica rica em colágeno do disco intervertebral, que confere resistência à tensão.",
+  "categoria": "Estrutura"
+},
+{
+  "termo": "Núcleo Pulposo",
+  "definicao": "Centro gelatinoso do disco intervertebral, rico em proteoglicanos, que absorve impactos.",
+  "categoria": "Estrutura"
+},
+{
+  "termo": "Lacuna Óssea",
+  "definicao": "Pequena cavidade na matriz óssea que abriga um osteócito.",
+  "categoria": "Estrutura Óssea"
+},
+{
+  "termo": "Trábecula Óssea",
+  "definicao": "Lâmina de osso esponjoso que forma uma rede tridimensional, conferindo leveza e resistência.",
+  "categoria": "Estrutura Óssea"
+},
+{
+  "termo": "Linhas de Reversão (Cementantes)",
+  "definicao": "Linhas basofílicas na matriz óssea que marcam limites de unidades de remodelação.",
+  "categoria": "Estrutura Óssea"
+},
+{
+  "termo": "Seios Linfáticos (Linfonodo)",
+  "definicao": "Espaços canaliculares dentro do linfonodo por onde a linfa circula e é filtrada.",
+  "categoria": "Estrutura Linfoide"
+},
+{
+  "termo": "Válvula Linfática",
+  "definicao": "Dobra endotelial que evita refluxo de linfa dentro dos vasos linfáticos.",
+  "categoria": "Estrutura Vascular"
+},
+{
+  "termo": "MALT",
+  "definicao": "Tecido linfoide associado à mucosa (mucosa-associated lymphoid tissue) distribuído em diversos órgãos.",
+  "categoria": "Tecido Linfoide"
+},
+{
+  "termo": "GALT",
+  "definicao": "Tecido linfoide associado ao intestino (gut-associated lymphoid tissue), incluindo Placas de Peyer.",
+  "categoria": "Tecido Linfoide"
+},
+{
+  "termo": "BALT",
+  "definicao": "Tecido linfoide associado ao brônquio (bronchus-associated lymphoid tissue), presente na mucosa respiratória.",
+  "categoria": "Tecido Linfoide"
+},
+{
+  "termo": "Fenda Sináptica",
+  "definicao": "Espaço extracelular entre membranas pré e pós-sinápticas onde é liberado o neurotransmissor.",
+  "categoria": "Estrutura Neural"
+},
+{
+  "termo": "Vesículas Sinápticas",
+  "definicao": "Vesículas no terminal axônico que armazenam e liberam neurotransmissores por exocitose.",
+  "categoria": "Estrutura Neural"
+},
+{
+  "termo": "Neurofilamentos",
+  "definicao": "Filamentos intermediários específicos de neurônios que dão suporte estrutural ao axônio.",
+  "categoria": "Componente Celular"
+},
+{
+  "termo": "Cone Axonal",
+  "definicao": "Região do neurônio onde se origina o axônio e ocorre a somação inicial do potencial elétrico.",
+  "categoria": "Estrutura Neural"
+},
+{
+  "termo": "Músculo Liso",
+  "definicao": "Tecido muscular não estriado, involuntário, presente em vísceras e vasos; contrai-se lentamente e de forma sustentada.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Músculo Estriado Esquelético",
+  "definicao": "Tecido muscular de contração voluntária, multinucleado e estriado, responsável por movimentos corporais.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Músculo Estriado Cardíaco",
+  "definicao": "Tecido muscular estriado, involuntário, com discos intercalares, exclusivo do coração.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Zona H",
+  "definicao": "Região central do sarcômero que contém apenas filamentos grossos (miosina) quando o músculo está relaxado.",
+  "categoria": "Estrutura Muscular"
+},
+{
+  "termo": "Célula Endotelial",
+  "definicao": "Célula que reveste internamente vasos sanguíneos e linfáticos, formando uma barreira seletiva entre sangue/linfa e tecidos.",
+  "categoria": "Célula"
+},
+{
+  "termo": "Placa Motora Terminal",
+  "definicao": "Especialização do sarcolema onde ocorre a sinapse entre neurônio motor e fibra muscular.",
+  "categoria": "Estrutura Muscular"
+},
+{
+  "termo": "Líquido Sinovial",
+  "definicao": "Fluido viscoso produzido pela membrana sinovial, responsável por lubrificar e nutrir articulações móveis.",
+  "categoria": "Secreção"
+},
+{
+  "termo": "Zona de Transição Epitelial",
+  "definicao": "Área onde ocorre a mudança de um tipo de epitélio para outro, geralmente mais vulnerável a metaplasias e neoplasias.",
+  "categoria": "Estrutura"
+},
+{
+  "termo": "Fibras de Colágeno Tipo IV",
+  "definicao": "Colágeno especializado encontrado na lâmina basal, formando uma rede de suporte para epitélios.",
+  "categoria": "Proteína"
+},
+{
+  "termo": "Colágeno Tipo V",
+  "definicao": "Colágeno associado às fibras de tipo I, presente em membranas basais e tecidos fetais.",
+  "categoria": "Proteína"
+},
+{
+  "termo": "Colágeno Tipo X",
+  "definicao": "Colágeno relacionado à cartilagem hipertrófica durante a ossificação endocondral.",
+  "categoria": "Proteína"
+},
+{
+  "termo": "Disco Epifisário",
+  "definicao": "Cartilagem de crescimento localizada entre epífise e diáfise de ossos longos, responsável pelo crescimento longitudinal.",
+  "categoria": "Estrutura Óssea"
+},
+{
+  "termo": "Zona de Reserva (Disco Epifisário)",
+  "definicao": "Camada do disco epifisário composta por condrócitos pequenos e inativos que servem como reserva celular.",
+  "categoria": "Estrutura Cartilaginosa"
+},
+{
+  "termo": "Zona de Proliferação (Disco Epifisário)",
+  "definicao": "Camada do disco epifisário com condrócitos em divisão ativa, formando colunas longitudinais.",
+  "categoria": "Estrutura Cartilaginosa"
+},
+{
+  "termo": "Zona de Hipertrofia (Disco Epifisário)",
+  "definicao": "Região onde os condrócitos aumentam de tamanho antes da mineralização da matriz cartilaginosa.",
+  "categoria": "Estrutura Cartilaginosa"
+},
+{
+  "termo": "Zona de Calcificação (Disco Epifisário)",
+  "definicao": "Área do disco epifisário onde ocorre deposição de sais de cálcio na matriz cartilaginosa.",
+  "categoria": "Estrutura Cartilaginosa"
+},
+{
+  "termo": "Zona de Ossificação (Disco Epifisário)",
+  "definicao": "Camada final do disco epifisário, onde osteoblastos depositam matriz óssea sobre cartilagem calcificada.",
+  "categoria": "Estrutura Óssea"
+},
+{
+  "termo": "Tecido Hematopoiético",
+  "definicao": "Tecido responsável pela produção de células do sangue, localizado principalmente na medula óssea vermelha.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Anel Linfático de Waldeyer",
+  "definicao": "Conjunto de tonsilas faríngea, palatinas e linguais que formam barreira imunológica na entrada do trato respiratório e digestivo.",
+  "categoria": "Estrutura Linfoide"
+},
+{
+  "termo": "Célula Reticular",
+  "definicao": "Célula do estroma de órgãos linfoides que produz fibras reticulares para suporte estrutural.",
+  "categoria": "Célula"
+},
+{
+  "termo": "Nódulo Linfático Secundário",
+  "definicao": "Estrutura linfoide com centro germinativo, onde ocorre ativação e diferenciação de linfócitos B.",
+  "categoria": "Estrutura Linfoide"
+},
+{
+  "termo": "Bainha Linfática Periarteriolar",
+  "definicao": "Agregado de linfócitos T que envolve arteríolas centrais no baço.",
+  "categoria": "Estrutura Linfoide"
+},
+{
+  "termo": "Zona Marginal (Baço)",
+  "definicao": "Área entre polpa branca e vermelha do baço, rica em macrófagos e células apresentadoras de antígeno.",
+  "categoria": "Estrutura Linfoide"
+},
+{
+  "termo": "Epitélio Respiratório",
+  "definicao": "Epitélio pseudoestratificado ciliado com células caliciformes, característico das vias aéreas.",
+  "categoria": "Tecido Especializado"
+},
+{
+  "termo": "Corpo Neurovascular",
+  "definicao": "Associação anatômica de artérias, veias e nervos que percorrem juntos dentro de bainhas de tecido conjuntivo.",
+  "categoria": "Estrutura"
+},
+{
+  "termo": "Espaço Subaracnoide",
+  "definicao": "Espaço entre aracnoide e pia-máter que contém líquido cerebrospinal (líquor).",
+  "categoria": "Estrutura Neural"
+},
+{
+  "termo": "Granulações de Pacchioni",
+  "definicao": "Projeções aracnoideas que permitem a drenagem do líquido cerebrospinal para os seios venosos durais.",
+  "categoria": "Estrutura Neural"
+},
+{
+  "termo": "Célula Endócrina Difusa",
+  "definicao": "Célula isolada presente em diversos epitélios, produtora de hormônios locais (sistema neuroendócrino difuso).",
+  "categoria": "Célula"
+},
+{
+  "termo": "Sistema Nervoso Entérico",
+  "definicao": "Rede de neurônios intrínsecos do trato gastrointestinal, responsável pelo controle autônomo da motilidade e secreção.",
+  "categoria": "Estrutura Neural"
+},
+{
+  "termo": "Zona de Oclusão",
+  "definicao": "Região das junções estreitas (tight junctions) que sela o espaço entre células epiteliais adjacentes.",
+  "categoria": "Junção Celular"
+},
+{
+  "termo": "Desmoplaquia",
+  "definicao": "Reação tecidual caracterizada pela formação de tecido conjuntivo fibroso denso em torno de um tumor invasivo.",
+  "categoria": "Processo Patológico"
+},
+{
+  "termo": "Cristas Mitocondriais",
+  "definicao": "Invaginações da membrana interna da mitocôndria que aumentam a superfície para reações de fosforilação oxidativa.",
+  "categoria": "Estrutura Celular"
+},
+{
+  "termo": "Células Intersticiais de Cajal",
+  "definicao": "Células do trato gastrointestinal que funcionam como marcapassos para a atividade peristáltica.",
+  "categoria": "Célula"
+},
+{
+  "termo": "Líquido Cefalorraquidiano (LCR)",
+  "definicao": "Fluido claro produzido no plexo coroide, que protege e nutre o sistema nervoso central.",
+  "categoria": "Secreção"
+},
+{
+  "termo": "Azul de Toluidina",
+  "definicao": "Corante básico metacromático usado em cortes semifinos para evidenciar mucopolissacarídeos ácidos e matriz cartilaginosa.",
+  "categoria": "Técnica Histológica"
+},
+{
+  "termo": "Impregnação Argêntica (Prata de Gomori)",
+  "definicao": "Método de coloração que utiliza sais de prata para evidenciar fibras reticulares, neuritos e estruturas finas.",
+  "categoria": "Técnica Histológica"
+},
+{
+  "termo": "Imunofluorescência",
+  "definicao": "Técnica que usa anticorpos marcados com fluoróforos para localizar antígenos específicos em células e tecidos.",
+  "categoria": "Técnica Histológica"
+},
+{
+  "termo": "Hibridização in situ (ISH)",
+  "definicao": "Método para detectar sequências de DNA/RNA em tecidos utilizando sondas complementares marcadas.",
+  "categoria": "Técnica Histológica"
+},
+{
+  "termo": "Microscopia de Luz Polarizada",
+  "definicao": "Técnica óptica que evidencia birrefringência de estruturas como cristais, colágeno e amiloide.",
+  "categoria": "Técnica Histológica"
+},
+{
+  "termo": "Aparelho de Golgi",
+  "definicao": "Organela responsável pelo processamento, empacotamento e endereçamento de proteínas e lipídios.",
+  "categoria": "Organela"
+},
+{
+  "termo": "Barreira Hematoencefálica",
+  "definicao": "Interface seletiva formada por endotélio capilar contínuo, lâmina basal e pés de astrócitos que controla a passagem de substâncias para o SNC.",
+  "categoria": "Estrutura Neural"
+},
+{
+  "termo": "NALT",
+  "definicao": "Tecido linfoide associado à mucosa nasal (nasal-associated lymphoid tissue) envolvido na imunidade de mucosas.",
+  "categoria": "Tecido Linfoide"
+},
+{
+  "termo": "Célula de Purkinje (Cerebelo)",
+  "definicao": "Neurônio grande em forma de garrafa presente na camada de Purkinje do córtex cerebelar, essencial para coordenação motora.",
+  "categoria": "Célula Neural"
+},
+{
+  "termo": "Célula de Hofbauer",
+  "definicao": "Macrófago residente do estroma das vilosidades coriônicas na placenta humana.",
+  "categoria": "Célula"
+},
+{
+  "termo": "Célula Mesangial",
+  "definicao": "Célula contrátil e fagocitária do glomérulo renal que dá suporte aos capilares e modula a filtração.",
+  "categoria": "Célula"
+},
+{
+  "termo": "Membrana Basal Glomerular",
+  "definicao": "Lâmina basal espessa tripartida entre endotélio e podócitos, componente crítico da barreira de filtração renal.",
+  "categoria": "Estrutura Renal"
+},
+{
+  "termo": "Diafragma de Fenda",
+  "definicao": "Estrutura proteica que cruza as fendas entre pedicelos dos podócitos, seletiva a tamanho e carga.",
+  "categoria": "Estrutura Renal"
+},
+{
+  "termo": "Canalículo Biliar",
+  "definicao": "Pequeno canal formado por membranas de hepatócitos adjacentes por onde flui a bile até ductos maiores.",
+  "categoria": "Estrutura"
+},
+{
+  "termo": "Plexo Submucoso (de Meissner)",
+  "definicao": "Rede neuronal do sistema nervoso entérico localizada na submucosa, que regula secreção e fluxo sanguíneo local.",
+  "categoria": "Estrutura Neural"
+},
+{
+  "termo": "Membrana Elástica Interna",
+  "definicao": "Lâmina elástica ondulada entre túnicas íntima e média das artérias, importante para elasticidade vascular.",
+  "categoria": "Estrutura Vascular"
+},
+{
+  "termo": "Ligamento Periodontal",
+  "definicao": "Tecido conjuntivo rico em fibras colágenas que une o cemento da raiz ao osso alveolar, amortecendo forças mastigatórias.",
+  "categoria": "Estrutura"
+},
+{
+  "termo": "Cemento (Cemento Dental)",
+  "definicao": "Tecido mineralizado que recobre a raiz dentária e serve de inserção para as fibras do ligamento periodontal.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Cementoblasto",
+  "definicao": "Célula responsável pela síntese e manutenção do cemento radicular.",
+  "categoria": "Célula"
+},
+{
+  "termo": "Sáculo Alveolar",
+  "definicao": "Dilatação terminal dos bronquíolos respiratórios que dá origem a múltiplos alvéolos pulmonares.",
+  "categoria": "Estrutura"
+},
+{
+  "termo": "Célula Mioide (Testículo)",
+  "definicao": "Célula contrátil que circunda túbulos seminíferos e auxilia no transporte de espermatogênitos.",
+  "categoria": "Célula"
+},
+{
+  "termo": "Corpo Albicans",
+  "definicao": "Cicatriz fibrosa no ovário resultante da regressão do corpo lúteo.",
+  "categoria": "Estrutura"
+},
+{
+  "termo": "Cotilédone Placentário",
+  "definicao": "Unidade funcional da placenta formada por um conjunto de vilosidades coriônicas irrigadas por um ramo da artéria uterina.",
+  "categoria": "Estrutura"
+},
+{
+  "termo": "Tecido Adiposo Unilocular (Branco)",
+  "definicao": "Tecido adiposo com adipócitos contendo única grande gota lipídica, principal reserva energética do corpo.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Cartilagem Articular",
+  "definicao": "Cartilagem hialina avascular que reveste superfícies ósseas em articulações sinoviais, com baixa fricção.",
+  "categoria": "Tecido"
+},
+{
+  "termo": "Célula Satélite (Gânglio Periférico)",
+  "definicao": "Célula glial do SNP que envolve corpos neuronais em gânglios, regulando microambiente iônico e metabólico.",
+  "categoria": "Célula Neural"
+},
+{
+  "termo": "Mácula Lútea (Retina)",
+  "definicao": "Área amarelada da retina responsável pela visão central de alta acuidade, contendo a fóvea no centro.",
+  "categoria": "Estrutura Neural"
+},
+{
+  "termo": "Célula Sustentacular (Olfatória)",
+  "definicao": "Célula de suporte do epitélio olfatório que mantém o microambiente e metaboliza substâncias odoríferas.",
+  "categoria": "Célula"
+},
+{
+  "termo": "Célula Acinar Pancreática",
+  "definicao": "Célula exócrina piramidal que secreta enzimas digestivas para o sistema de ductos pancreáticos.",
+  "categoria": "Célula"
+},
+{
+  "termo": "Cílio Primário",
+  "definicao": "Projeção única e imotil (9+0) com função sensorial e sinalização, presente em muitas células eucarióticas.",
+  "categoria": "Especialização de Superfície"
+}
+
+
+
 ]
