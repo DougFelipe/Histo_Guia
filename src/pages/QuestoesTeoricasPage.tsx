@@ -124,23 +124,23 @@ const QuestoesTeoricasPage: React.FC = () => {
       
       <div className="min-h-screen bg-slate-50">
         <Header />
-        <main role="main" className="container mx-auto px-4 py-8">
-          <header className="mb-6">
+        <main role="main" className="container mx-auto px-2 md:px-4 py-4 md:py-8">
+          <header className="mb-4 md:mb-6 px-2 md:px-0">
             <nav aria-label="Breadcrumb">
               <Link 
                 to="/" 
-                className="inline-flex items-center text-purple-600 hover:text-purple-700 transition-colors duration-200 mb-4"
+                className="inline-flex items-center text-purple-600 hover:text-purple-700 transition-colors duration-200 mb-3 md:mb-4 text-sm md:text-base"
               >
-                <ArrowLeft className="w-4 h-4 mr-2" />
+                <ArrowLeft className="w-3 h-3 md:w-4 md:h-4 mr-1 md:mr-2" />
                 Voltar ao início
               </Link>
             </nav>
-            <h1 className="text-3xl font-bold text-slate-800 mb-2">Questões Teóricas de Histologia</h1>
-            <p className="text-slate-600">Explore questões por tema com explicações detalhadas</p>
+            <h1 className="text-2xl md:text-3xl font-bold text-slate-800 mb-2">Questões Teóricas de Histologia</h1>
+            <p className="text-slate-600 text-sm md:text-base">Explore questões por tema com explicações detalhadas</p>
           </header>
 
-          <div className="grid lg:grid-cols-4 gap-6">
-            <aside className="lg:col-span-1 space-y-6" role="complementary">
+          <div className="grid grid-cols-1 lg:grid-cols-4 gap-4 md:gap-6">
+            <aside className="lg:col-span-1 space-y-4 md:space-y-6" role="complementary">
               <DropdownTema 
                 temaSelecionado={temaSelecionado}
                 onTemaSelecionado={setTemaSelecionado}
