@@ -349,5 +349,869 @@
       }
     ],
     "respostaCorreta": 3
+  },
+    {
+    "numero": 14,
+    "enunciado": "O mesotélio, que reveste as cavidades corporais como a pleura e o peritônio, é classificado como qual tipo específico de epitélio?",
+    "nivel": "médio",
+    "subtopico": "tipos de epitélio",
+    "tipo": "múltipla escolha",
+    "tags": ["mesotélio", "serosa", "simples pavimentoso"],
+    "alternativas": [
+      {
+        "texto": "Simples cúbico",
+        "explicacao": "O epitélio simples cúbico é geralmente encontrado em ductos e túbulos renais, associado à secreção e absorção, não ao revestimento de cavidades serosas."
+      },
+      {
+        "texto": "Simples pavimentoso",
+        "explicacao": "O mesotélio é um tipo especializado de epitélio simples pavimentoso. Suas células achatadas formam uma superfície lisa que permite o deslizamento dos órgãos."
+      },
+      {
+        "texto": "De transição (Urotélio)",
+        "explicacao": "O urotélio é exclusivo do sistema urinário e sua principal característica é a capacidade de se distender, o que não é a função do mesotélio."
+      },
+      {
+        "texto": "Estratificado pavimentoso",
+        "explicacao": "O epitélio estratificado oferece proteção robusta contra o atrito, como na pele ou esôfago, uma função desnecessária para o revestimento de cavidades internas."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 15,
+    "enunciado": "A polaridade é uma característica fundamental das células epiteliais. Em qual domínio da membrana plasmática se localizam as junções de oclusão (tight junctions)?",
+    "nivel": "difícil",
+    "subtopico": "polaridade celular",
+    "tipo": "múltipla escolha",
+    "tags": ["polaridade", "junção oclusiva", "domínio apical"],
+    "alternativas": [
+      {
+        "texto": "No domínio basal, em contato com a lâmina basal.",
+        "explicacao": "O domínio basal é responsável pela ancoragem da célula à lâmina basal, principalmente através de hemidesmossomos."
+      },
+      {
+        "texto": "No domínio lateral, próximo à base da célula.",
+        "explicacao": "Embora existam junções no domínio lateral (como desmossomos e junções comunicantes), as junções de oclusão estão localizadas na porção mais apical deste domínio."
+      },
+      {
+        "texto": "Na porção mais apical do domínio lateral.",
+        "explicacao": "As junções de oclusão formam um cinturão contínuo na região mais apical do domínio lateral, selando o espaço entre as células e separando os domínios apical e basolateral."
+      },
+      {
+        "texto": "Dispersas por todo o domínio apical.",
+        "explicacao": "O domínio apical é a superfície livre da célula, onde se encontram especializações como cílios e microvilosidades, mas não as junções que unem uma célula à outra."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 16,
+    "enunciado": "A renovação constante do epitélio intestinal é garantida por células-tronco. Onde essas células estão localizadas?",
+    "nivel": "médio",
+    "subtopico": "renovação celular",
+    "tipo": "múltipla escolha",
+    "tags": ["célula-tronco", "intestino", "criptas"],
+    "alternativas": [
+      {
+        "texto": "No ápice das vilosidades intestinais.",
+        "explicacao": "As células no ápice das vilosidades são as mais velhas e diferenciadas, prontas para sofrerem extrusão (morte e descamação)."
+      },
+      {
+        "texto": "Na base das criptas de Lieberkühn.",
+        "explicacao": "As células-tronco do epitélio intestinal residem em um nicho na base das criptas, onde se dividem continuamente para gerar novas células que migram para cima."
+      },
+      {
+        "texto": "Dispersas entre as células caliciformes.",
+        "explicacao": "As células caliciformes são células secretoras de muco diferenciadas, não células-tronco."
+      },
+      {
+        "texto": "Na camada da lâmina própria, sob o epitélio.",
+        "explicacao": "A lâmina própria contém células do tecido conjuntivo e imune, mas as células-tronco que renovam o epitélio são parte do próprio compartimento epitelial."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 17,
+    "enunciado": "O epitélio estratificado pavimentoso não queratinizado é encontrado em locais sujeitos a atrito, mas que precisam se manter úmidos. Qual dos seguintes é um exemplo?",
+    "nivel": "fácil",
+    "subtopico": "tipos de epitélio",
+    "tipo": "múltipla escolha",
+    "tags": ["estratificado pavimentoso", "não queratinizado", "proteção"],
+    "alternativas": [
+      {
+        "texto": "Epiderme da pele",
+        "explicacao": "A epiderme é um epitélio estratificado pavimentoso, mas é queratinizado para fornecer uma barreira seca e impermeável."
+      },
+      {
+        "texto": "Revestimento da bexiga",
+        "explicacao": "A bexiga é revestida por epitélio de transição (urotélio), especializado em distensão."
+      },
+      {
+        "texto": "Revestimento do esôfago",
+        "explicacao": "O esôfago é um exemplo clássico. Seu revestimento protege contra o atrito do bolo alimentar, e as secreções mucosas o mantêm úmido."
+      },
+      {
+        "texto": "Revestimento dos alvéolos pulmonares",
+        "explicacao": "Os alvéolos são revestidos por epitélio simples pavimentoso para facilitar as trocas gasosas, não oferecendo proteção contra atrito."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 18,
+    "enunciado": "O epitélio estratificado cúbico é relativamente raro no corpo humano. Sua principal localização está associada a qual estrutura?",
+    "nivel": "difícil",
+    "subtopico": "tipos de epitélio",
+    "tipo": "múltipla escolha",
+    "tags": ["estratificado cúbico", "ductos", "glândulas"],
+    "alternativas": [
+      {
+        "texto": "Nos túbulos coletores do rim.",
+        "explicacao": "Os túbulos coletores são revestidos por epitélio simples cúbico, que pode se tornar colunar."
+      },
+      {
+        "texto": "Nos ductos excretores de glândulas sudoríparas.",
+        "explicacao": "Esta é a localização mais característica. Os grandes ductos de glândulas exócrinas, como as sudoríparas, são frequentemente revestidos por duas camadas de células cúbicas."
+      },
+      {
+        "texto": "Na superfície do ovário.",
+        "explicacao": "A superfície do ovário é revestida por epitélio simples cúbico (epitélio germinativo)."
+      },
+      {
+        "texto": "No revestimento da uretra masculina.",
+        "explicacao": "A uretra possui diferentes tipos de epitélio ao longo de seu trajeto, incluindo pseudoestratificado e estratificado colunar, mas não tipicamente o estratificado cúbico."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 19,
+    "enunciado": "Em uma condição conhecida como Pênfigo vulgar, autoanticorpos atacam as proteínas dos desmossomos. Qual seria a consequência histológica principal?",
+    "nivel": "difícil",
+    "subtopico": "patologia epitelial",
+    "tipo": "múltipla escolha",
+    "tags": ["pênfigo", "desmossomo", "adesão", "patologia"],
+    "alternativas": [
+      {
+        "texto": "Aumento da secreção de muco nas vias aéreas.",
+        "explicacao": "A secreção de muco está relacionada às células caliciformes, não diretamente à integridade das junções de adesão como os desmossomos."
+      },
+      {
+        "texto": "Perda da barreira de oclusão no intestino, causando diarreia.",
+        "explicacao": "A barreira de oclusão é mantida pelas junções oclusivas (tight junctions). O pênfigo afeta as junções de adesão, não as de vedação."
+      },
+      {
+        "texto": "Desprendimento das células epiteliais da lâmina basal.",
+        "explicacao": "O desprendimento da lâmina basal ocorreria se os hemidesmossomos fossem o alvo, como no penfigoide bolhoso."
+      },
+      {
+        "texto": "Perda de adesão entre as células da epiderme, formando bolhas.",
+        "explicacao": "Os desmossomos são cruciais para a adesão entre os queratinócitos. Sua destruição enfraquece o epitélio, causando a separação das células (acantólise) e a formação de bolhas intraepidérmicas."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 20,
+    "enunciado": "A função de absorção do epitélio simples colunar do intestino é drasticamente aumentada pela presença de qual especialização de superfície apical?",
+    "nivel": "fácil",
+    "subtopico": "especializações de superfície",
+    "tipo": "múltipla escolha",
+    "tags": ["microvilosidades", "absorção", "intestino"],
+    "alternativas": [
+      {
+        "texto": "Cílios longos e móveis.",
+        "explicacao": "Os cílios são móveis e têm a função de propelir substâncias sobre a superfície, como no trato respiratório, não de absorção."
+      },
+      {
+        "texto": "Uma espessa camada de queratina.",
+        "explicacao": "A queratina serve para impermeabilização e proteção, sendo uma barreira que impediria a absorção."
+      },
+      {
+        "texto": "Junções de oclusão.",
+        "explicacao": "As junções de oclusão são especializações laterais que selam o espaço intercelular, não sendo uma estrutura apical para absorção."
+      },
+      {
+        "texto": "Microvilosidades, formando uma borda em escova.",
+        "explicacao": "As microvilosidades são projeções citoplasmáticas que aumentam enormemente a área de superfície da membrana apical, otimizando a absorção de nutrientes."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 21,
+    "enunciado": "Qual componente da lâmina basal é o principal responsável pela sua propriedade de filtração seletiva de moléculas, como ocorre no glomérulo renal?",
+    "nivel": "difícil",
+    "subtopico": "membrana basal",
+    "tipo": "múltipla escolha",
+    "tags": ["lâmina basal", "filtração", "colágeno tipo IV", "proteoglicanos"],
+    "alternativas": [
+      {
+        "texto": "A rede de colágeno tipo IV.",
+        "explicacao": "A rede de colágeno tipo IV fornece a principal estrutura e resistência mecânica à lâmina basal, mas não é o principal componente da barreira de carga."
+      },
+      {
+        "texto": "As glicoproteínas de ancoragem como a laminina.",
+        "explicacao": "A laminina é crucial para conectar as células epiteliais à lâmina basal, mas sua função primária é de adesão, não de filtração seletiva."
+      },
+      {
+        "texto": "Os proteoglicanos ricos em heparan sulfato.",
+        "explicacao": "Os proteoglicanos, como o perlecan (rico em heparan sulfato), possuem uma forte carga negativa. Essa carga repele moléculas aniônicas (como a albumina), criando uma barreira de carga que é fundamental para a filtração seletiva."
+      },
+      {
+        "texto": "As fibras reticulares da lâmina reticular.",
+        "explicacao": "As fibras reticulares (colágeno tipo III) pertencem à lâmina reticular, produzida pelo tecido conjuntivo, e servem para ancorar a lâmina basal ao tecido subjacente, não para filtração."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 22,
+    "enunciado": "O epitélio simples pavimentoso é ideal para qual função fisiológica?",
+    "nivel": "fácil",
+    "subtopico": "tipos de epitélio",
+    "tipo": "múltipla escolha",
+    "tags": ["simples pavimentoso", "trocas", "difusão"],
+    "alternativas": [
+      {
+        "texto": "Proteção contra estresse mecânico severo.",
+        "explicacao": "Uma única camada de células achatadas é muito frágil e inadequada para proteção mecânica. Essa função é do epitélio estratificado."
+      },
+      {
+        "texto": "Rápida difusão de gases e pequenas moléculas.",
+        "explicacao": "A espessura mínima deste epitélio oferece a menor distância possível para a passagem de substâncias, tornando-o perfeito para locais de trocas, como alvéolos e capilares."
+      },
+      {
+        "texto": "Secreção ativa de grandes quantidades de proteínas.",
+        "explicacao": "A secreção ativa requer um citoplasma volumoso com muitas organelas, características de células cúbicas ou colunares, não pavimentosas."
+      },
+      {
+        "texto": "Propulsão de muco sobre a superfície.",
+        "explicacao": "A propulsão de muco é realizada por cílios, que são encontrados em epitélios colunares ou pseudoestratificados."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 23,
+    "enunciado": "No epidídimo, as células principais possuem longas projeções apicais imóveis que auxiliam na absorção de fluido e na maturação dos espermatozoides. Como são chamadas essas projeções?",
+    "nivel": "médio",
+    "subtopico": "especializações de superfície",
+    "tipo": "múltipla escolha",
+    "tags": ["estereocílios", "epidídimo", "absorção"],
+    "alternativas": [
+      {
+        "texto": "Cílios",
+        "explicacao": "Cílios são estruturas móveis. As projeções do epidídimo são imóveis."
+      },
+      {
+        "texto": "Flagelos",
+        "explicacao": "Flagelos são longos e móveis, característicos dos espermatozoides, e não das células do ducto."
+      },
+      {
+        "texto": "Microvilosidades",
+        "explicacao": "Embora funcionalmente semelhantes, o termo usado para essas projeções longas e ramificadas do epidídimo é estereocílios."
+      },
+      {
+        "texto": "Estereocílios",
+        "explicacao": "Apesar do nome, os estereocílios são estruturalmente mais parecidos com microvilosidades muito longas do que com cílios. Eles aumentam a área de superfície para absorção e secreção no epidídimo."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 24,
+    "enunciado": "Em um corte histológico de um ducto, observa-se um lúmen revestido por duas camadas de células com formato cuboidal. Esta descrição corresponde a qual tipo de epitélio?",
+    "nivel": "médio",
+    "subtopico": "classificação epitelial",
+    "tipo": "múltipla escolha",
+    "tags": ["estratificado cúbico", "classificação", "morfologia"],
+    "alternativas": [
+      {
+        "texto": "Simples cúbico",
+        "explicacao": "O termo 'simples' indica a presença de apenas uma camada de células."
+      },
+      {
+        "texto": "Estratificado cúbico",
+        "explicacao": "A descrição de duas ou mais camadas de células com formato cúbico corresponde exatamente à definição de epitélio estratificado cúbico."
+      },
+      {
+        "texto": "De transição",
+        "explicacao": "O epitélio de transição possui múltiplas camadas, mas as células superficiais são globosas ou em forma de cúpula, não cúbicas."
+      },
+      {
+        "texto": "Pseudoestratificado colunar",
+        "explicacao": "O epitélio pseudoestratificado parece ter várias camadas, mas todas as células tocam a membrana basal, e as células são tipicamente colunares, não cúbicas."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 25,
+    "enunciado": "Qual característica do epitélio de transição (urotélio) permite que ele se adapte às grandes variações de volume da bexiga urinária?",
+    "nivel": "médio",
+    "subtopico": "urotélio",
+    "tipo": "múltipla escolha",
+    "tags": ["urotélio", "distensão", "placas de membrana"],
+    "alternativas": [
+      {
+        "texto": "Presença de uma espessa camada de queratina.",
+        "explicacao": "A queratina tornaria o epitélio rígido e impermeável, impedindo a distensão."
+      },
+      {
+        "texto": "A capacidade das células de deslizarem umas sobre as outras e mudarem de forma.",
+        "explicacao": "Esta é a principal característica. Quando a bexiga está vazia, o urotélio parece ter muitas camadas. Quando cheia, as células se achatam e deslizam, reduzindo o número aparente de camadas e acomodando o estiramento."
+      },
+      {
+        "texto": "Forte ancoragem à lâmina basal por meio de hemidesmossomos.",
+        "explicacao": "Embora a ancoragem seja importante, ela por si só não explica a capacidade de distensão do tecido."
+      },
+      {
+        "texto": "Produção contínua de um muco lubrificante.",
+        "explicacao": "O urotélio não é primariamente um epitélio secretor de muco."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 26,
+    "enunciado": "O epitélio que reveste os capilares sanguíneos, conhecido como endotélio, é fundamental para o controle da passagem de substâncias. A qual classe de epitélio ele pertence?",
+    "nivel": "fácil",
+    "subtopico": "tipos de epitélio",
+    "tipo": "múltipla escolha",
+    "tags": ["endotélio", "simples pavimentoso", "vasos sanguíneos"],
+    "alternativas": [
+      {
+        "texto": "Simples pavimentoso",
+        "explicacao": "O endotélio é um tipo especializado de epitélio simples pavimentoso. A forma achatada de suas células minimiza a barreira para a troca de nutrientes e gases entre o sangue e os tecidos."
+      },
+      {
+        "texto": "Simples cúbico",
+        "explicacao": "O epitélio simples cúbico é muito espesso para permitir trocas eficientes e é mais associado a ductos e túbulos renais."
+      },
+      {
+        "texto": "Estratificado pavimentoso",
+        "explicacao": "Um epitélio com múltiplas camadas obstruiria completamente a luz de um capilar e impediria qualquer tipo de troca."
+      },
+      {
+        "texto": "Pseudoestratificado colunar",
+        "explicacao": "Este tipo de epitélio é especializado para o trato respiratório e não é encontrado revestindo vasos sanguíneos."
+      }
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "numero": 27,
+    "enunciado": "A doença celíaca é uma condição autoimune que leva à destruição de qual estrutura do epitélio do intestino delgado?",
+    "nivel": "médio",
+    "subtopico": "patologia epitelial",
+    "tipo": "múltipla escolha",
+    "tags": ["doença celíaca", "vilosidades", "absorção", "patologia"],
+    "alternativas": [
+      {
+        "texto": "Das criptas de Lieberkühn.",
+        "explicacao": "Na doença celíaca, as criptas se aprofundam (hiperplasia) para tentar compensar a perda da superfície absortiva, mas não são o alvo primário da destruição."
+      },
+      {
+        "texto": "Das vilosidades intestinais.",
+        "explicacao": "A inflamação crônica na doença celíaca leva à atrofia e ao achatamento das vilosidades, reduzindo drasticamente a área de superfície para absorção de nutrientes e causando má absorção."
+      },
+      {
+        "texto": "Das junções de oclusão.",
+        "explicacao": "Embora a permeabilidade intestinal possa aumentar, a principal característica histológica é a destruição da arquitetura das vilosidades."
+      },
+      {
+        "texto": "Das células caliciformes.",
+        "explicacao": "Pode haver um aumento no número de células caliciformes, mas a principal patologia é a perda de vilosidades."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 28,
+    "enunciado": "Qual o principal tipo de colágeno encontrado na lâmina basal, formando uma rede que serve como arcabouço estrutural?",
+    "nivel": "médio",
+    "subtopico": "membrana basal",
+    "tipo": "múltipla escolha",
+    "tags": ["colágeno tipo IV", "lâmina basal", "matriz"],
+    "alternativas": [
+      {
+        "texto": "Colágeno tipo I",
+        "explicacao": "O colágeno tipo I é o mais abundante no corpo, formando fibras espessas no tecido conjuntivo denso, osso e tendões, mas não na lâmina basal."
+      },
+      {
+        "texto": "Colágeno tipo II",
+        "explicacao": "O colágeno tipo II é característico da matriz da cartilagem hialina e elástica."
+      },
+      {
+        "texto": "Colágeno tipo III",
+        "explicacao": "O colágeno tipo III forma as fibras reticulares, que estão na lâmina reticular (abaixo da lâmina basal), mas não na lâmina basal em si."
+      },
+      {
+        "texto": "Colágeno tipo IV",
+        "explicacao": "O colágeno tipo IV é exclusivo da lâmina basal. Suas moléculas se associam para formar uma estrutura em forma de rede ou malha, que provê o suporte estrutural para esta camada."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 29,
+    "enunciado": "O epitélio dos túbulos contorcidos proximais do rim apresenta uma 'borda em escova' proeminente e muitas mitocôndrias basais. O que essas características indicam sobre sua função?",
+    "nivel": "difícil",
+    "subtopico": "correlação estrutura-função",
+    "tipo": "múltipla escolha",
+    "tags": ["rim", "absorção", "transporte ativo", "borda em escova"],
+    "alternativas": [
+      {
+        "texto": "Função primária de proteção contra a urina.",
+        "explicacao": "A borda em escova e as mitocôndrias não são especializações para proteção, mas sim para transporte ativo através da membrana."
+      },
+      {
+        "texto": "Intensa atividade de reabsorção dependente de energia.",
+        "explicacao": "A borda em escova (microvilosidades) aumenta a área de superfície para reabsorção, e as mitocôndrias fornecem o ATP necessário para as bombas iônicas que realizam o transporte ativo de solutos do filtrado de volta para o sangue."
+      },
+      {
+        "texto": "Secreção de hormônios para o sangue.",
+        "explicacao": "A secreção hormonal não é a função primária dos túbulos proximais e não requer uma borda em escova."
+      },
+      {
+        "texto": "Capacidade de se distender para armazenar o filtrado.",
+        "explicacao": "A capacidade de distensão é uma característica do urotélio, não do epitélio dos túbulos renais."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 30,
+    "enunciado": "O epitélio estratificado colunar é outro tipo raro de epitélio. Ele é encontrado em qual das seguintes localizações?",
+    "nivel": "difícil",
+    "subtopico": "tipos de epitélio",
+    "tipo": "múltipla escolha",
+    "tags": ["estratificado colunar", "conjuntiva", "ductos"],
+    "alternativas": [
+      {
+        "texto": "No revestimento do estômago.",
+        "explicacao": "O estômago é revestido por epitélio simples colunar secretor de muco."
+      },
+      {
+        "texto": "Na conjuntiva do olho e em grandes ductos excretores.",
+        "explicacao": "Esta é uma das principais localizações. A conjuntiva, que reveste a pálpebra e a parte anterior do olho, e os maiores ductos de glândulas salivares são exemplos de onde este epitélio pode ser encontrado."
+      },
+      {
+        "texto": "Na vesícula biliar.",
+        "explicacao": "A vesícula biliar é revestida por epitélio simples colunar, especializado na absorção de água."
+      },
+      {
+        "texto": "Nos brônquios principais.",
+        "explicacao": "Os brônquios são revestidos por epitélio pseudoestratificado colunar ciliado."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+    {
+    "numero": 31,
+    "enunciado": "A célula caliciforme, encontrada no epitélio respiratório e intestinal, é o exemplo mais clássico de qual tipo de glândula?",
+    "nivel": "fácil",
+    "subtopico": "epitélio glandular",
+    "tipo": "múltipla escolha",
+    "tags": ["glândula unicelular", "célula caliciforme", "muco"],
+    "alternativas": [
+      {
+        "texto": "Glândula exócrina multicelular",
+        "explicacao": "Uma glândula multicelular é formada por múltiplas células organizadas em uma porção secretora e, geralmente, um ducto. A célula caliciforme atua individualmente."
+      },
+      {
+        "texto": "Glândula endócrina",
+        "explicacao": "Glândulas endócrinas secretam hormônios na corrente sanguínea. A célula caliciforme secreta muco em uma superfície epitelial."
+      },
+      {
+        "texto": "Glândula exócrina unicelular",
+        "explicacao": " A célula caliciforme é uma glândula composta por uma única célula, que secreta seu produto (mucina) diretamente na superfície do epitélio."
+      },
+      {
+        "texto": "Célula mioepitelial",
+        "explicacao": "Células mioepiteliais são células contráteis que ajudam a expelir a secreção de glândulas, mas não são as células secretoras em si."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 32,
+    "enunciado": "Uma glândula cuja porção secretora se abre diretamente em uma superfície ou através de um ducto não ramificado é classificada, quanto à estrutura do ducto, como:",
+    "nivel": "médio",
+    "subtopico": "classificação glandular",
+    "tipo": "múltipla escolha",
+    "tags": ["glândula simples", "ducto", "classificação"],
+    "alternativas": [
+      {
+        "texto": "Composta",
+        "explicacao": "Uma glândula composta possui um sistema de ductos que se ramifica repetidamente, como uma árvore."
+      },
+      {
+        "texto": "Acinar",
+        "explicacao": "Acinar (ou alveolar) descreve o formato arredondado da porção secretora da glândula, não a estrutura do seu ducto."
+      },
+      {
+        "texto": "Simples",
+        "explicacao": "A definição de uma glândula simples é possuir um ducto único, não ramificado. As glândulas sudoríparas e intestinais são exemplos."
+      },
+      {
+        "texto": "Holócrina",
+        "explicacao": "Holócrina é um modo de secreção onde a célula inteira é destruída, não uma classificação estrutural do ducto."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 33,
+    "enunciado": "Células secretoras de muco, como as da glândula sublingual, apresentam características histológicas típicas. Qual descrição corresponde a essas células?",
+    "nivel": "médio",
+    "subtopico": "tipos de secreção",
+    "tipo": "múltipla escolha",
+    "tags": ["célula mucosa", "histologia", "coloração"],
+    "alternativas": [
+      {
+        "texto": "Citoplasma intensamente eosinofílico (róseo) e núcleo arredondado e central.",
+        "explicacao": "Esta descrição é característica de uma célula serosa, cujo citoplasma é rico em retículo endoplasmático rugoso e grânulos de secreção proteica."
+      },
+      {
+        "texto": "Citoplasma pálido ou vacuolizado em H&E e núcleo achatado na base da célula.",
+        "explicacao": " Os grânulos de mucina não se coram bem com H&E, resultando em um citoplasma claro. O acúmulo desses grânulos empurra o núcleo para a periferia basal."
+      },
+      {
+        "texto": "Citoplasma repleto de lipídios, que se dissolvem durante o preparo, deixando um aspecto vazio.",
+        "explicacao": "Esta aparência é típica de adipócitos ou de células de glândulas sebáceas, que têm secreção lipídica."
+      },
+      {
+        "texto": "Formato fusiforme com núcleo alongado, com capacidade contrátil.",
+        "explicacao": "Esta é a descrição de uma célula muscular lisa ou de uma célula mioepitelial, não de uma célula secretora de muco."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 34,
+    "enunciado": "As células mioepiteliais são componentes importantes de várias glândulas exócrinas. Sua principal função é:",
+    "nivel": "médio",
+    "subtopico": "componentes glandulares",
+    "tipo": "múltipla escolha",
+    "tags": ["célula mioepitelial", "contração", "secreção"],
+    "alternativas": [
+      {
+        "texto": "Produzir a porção serosa da secreção.",
+        "explicacao": "A produção da secreção é realizada pelas células secretoras (acinres ou tubulares), não pelas células mioepiteliais."
+      },
+      {
+        "texto": "Formar a membrana basal da glândula.",
+        "explicacao": "A membrana basal é produzida pelas próprias células epiteliais secretoras, servindo de apoio para elas."
+      },
+      {
+        "texto": "Contrair-se para auxiliar na expulsão do produto de secreção.",
+        "explicacao": " As células mioepiteliais contêm filamentos de actina e miosina e sua contração 'espreme' a porção secretora, impulsionando a secreção para o ducto."
+      },
+      {
+        "texto": "Servir como células-tronco para a renovação glandular.",
+        "explicacao": "A renovação glandular é feita por células-tronco ou basais específicas, localizadas em outras regiões da glândula."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 35,
+    "enunciado": "Em uma glândula mista (seromucosa) como a submandibular, é comum observar uma estrutura onde células serosas formam uma 'meia-lua' em torno de um ácino mucoso. Como essa estrutura é chamada?",
+    "nivel": "difícil",
+    "subtopico": "tipos de secreção",
+    "tipo": "múltipla escolha",
+    "tags": ["glândula mista", "crescente seroso", "Gianuzzi"],
+    "alternativas": [
+      {
+        "texto": "Folículo glandular",
+        "explicacao": "Folículo é uma organização esférica típica de glândulas endócrinas, como a tireoide, onde o hormônio é armazenado no lúmen."
+      },
+      {
+        "texto": "Crescente seroso (ou Semilua de Gianuzzi)",
+        "explicacao": " Esta é a denominação clássica para o arranjo em que células serosas se localizam na periferia de um ácino mucoso, secretando seu produto através de canalículos entre as células mucosas."
+      },
+      {
+        "texto": "Ducto intercalar",
+        "explicacao": "Ductos intercalares são a porção inicial do sistema de ductos, que drenam os ácinos, mas não são a própria unidade secretora mista."
+      },
+      {
+        "texto": "Ilhota de Langerhans",
+        "explicacao": "Ilhotas de Langerhans são a porção endócrina do pâncreas, não uma estrutura de glândula salivar exócrina."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 36,
+    "enunciado": "O pâncreas é considerado uma glândula mista porque:",
+    "nivel": "médio",
+    "subtopico": "classificação glandular",
+    "tipo": "múltipla escolha",
+    "tags": ["pâncreas", "glândula mista", "endócrino", "exócrino"],
+    "alternativas": [
+      {
+        "texto": "Produz tanto muco quanto secreção serosa.",
+        "explicacao": "Embora isso defina uma glândula exócrina mista (seromucosa), o termo 'anficrina' para o pâncreas refere-se a outra dualidade funcional."
+      },
+      {
+        "texto": "Possui ductos simples e compostos.",
+        "explicacao": "A estrutura do ducto classifica a glândula quanto à sua morfologia, mas não define sua natureza mista endócrina-exócrina."
+      },
+      {
+        "texto": "Apresenta tanto secreção merócrina quanto apócrina.",
+        "explicacao": "O modo de secreção celular não é o que define o pâncreas como uma glândula anficrina."
+      },
+      {
+        "texto": "Possui um componente exócrino (ácinos serosos) e um componente endócrino (ilhotas de Langerhans).",
+        "explicacao": " O pâncreas exócrino produz enzimas digestivas liberadas no duodeno, enquanto o pâncreas endócrino produz hormônios (insulina, glucagon) liberados no sangue."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 37,
+    "enunciado": "A secreção de leite pela glândula mamária envolve dois mecanismos distintos para seus componentes. A secreção do componente lipídico (gordura) é um exemplo clássico de qual modo de secreção?",
+    "nivel": "difícil",
+    "subtopico": "modos de secreção",
+    "tipo": "múltipla escolha",
+    "tags": ["glândula mamária", "secreção apócrina", "leite"],
+    "alternativas": [
+      {
+        "texto": "Merócrino",
+        "explicacao": "A porção proteica do leite (caseína) é liberada por secreção merócrina (exocitose), mas não a porção lipídica."
+      },
+      {
+        "texto": "Apócrino",
+        "explicacao": " As gotículas de gordura coalescem no citoplasma apical e são liberadas envoltas por uma porção da membrana plasmática e do citoplasma, caracterizando a secreção apócrina."
+      },
+      {
+        "texto": "Holócrino",
+        "explicacao": "A secreção holócrina envolve a destruição total da célula, o que não ocorre na lactação. Se ocorresse, a glândula se esgotaria rapidamente."
+      },
+      {
+        "texto": "Endócrino",
+        "explicacao": "A secreção do leite ocorre para o lúmen da glândula (exócrina), não para a corrente sanguínea (endócrina)."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 38,
+    "enunciado": "A glândula sudorípara é classificada morfologicamente como:",
+    "nivel": "médio",
+    "subtopico": "classificação glandular",
+    "tipo": "múltipla escolha",
+    "tags": ["glândula sudorípara", "simples tubular enovelada"],
+    "alternativas": [
+      {
+        "texto": "Simples tubular ramificada",
+        "explicacao": "Glândulas tubulares ramificadas são encontradas no estômago e no útero, onde várias porções secretoras se abrem em um único ducto."
+      },
+      {
+        "texto": "Composta acinar",
+        "explicacao": "Glândulas compostas acinares são típicas do pâncreas exócrino e de algumas glândulas salivares, com ductos ramificados e porções secretoras arredondadas."
+      },
+      {
+        "texto": "Simples tubular enovelada (ou novelada)",
+        "explicacao": " A porção secretora da glândula sudorípara é um longo tubo de fundo cego que se enrola sobre si mesmo (enovelado) na derme profunda, e seu ducto não se ramifica."
+      },
+      {
+        "texto": "Composta tubuloacinar",
+        "explicacao": "Este tipo de glândula, como a submandibular, possui ductos ramificados e unidades secretoras com formato tanto tubular quanto acinar."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 39,
+    "enunciado": "A glândula parótida é a maior das glândulas salivares e produz uma secreção fluida e aquosa, rica em enzimas como a amilase. Com base nessa descrição, sua porção secretora é classificada como:",
+    "nivel": "fácil",
+    "subtopico": "tipos de secreção",
+    "tipo": "múltipla escolha",
+    "tags": ["glândula parótida", "serosa", "saliva"],
+    "alternativas": [
+      {
+        "texto": "Puramente mucosa",
+        "explicacao": "Uma secreção mucosa é viscosa, rica em mucinas, característica das glândulas sublinguais, não da parótida."
+      },
+      {
+        "texto": "Mista (seromucosa)",
+        "explicacao": "Glândulas mistas, como a submandibular, produzem tanto secreção serosa quanto mucosa. A parótida é mais especializada."
+      },
+      {
+        "texto": "Puramente serosa",
+        "explicacao": " A secreção aquosa e rica em proteínas (enzimas) é a definição de uma secreção serosa, e a glândula parótida é o exemplo clássico de uma glândula exclusivamente serosa."
+      },
+      {
+        "texto": "Lipídica",
+        "explicacao": "A secreção lipídica é característica de glândulas sebáceas, não de glândulas salivares."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 40,
+    "enunciado": "A glândula tireoide é uma glândula endócrina com uma organização estrutural única, onde as células secretoras se arranjam em esferas que armazenam o hormônio em um lúmen central. Essa organização é chamada de:",
+    "nivel": "difícil",
+    "subtopico": "glândula endócrina",
+    "tipo": "múltipla escolha",
+    "tags": ["tireoide", "folicular", "endócrino"],
+    "alternativas": [
+      {
+        "texto": "Cordonal",
+        "explicacao": "Na organização cordonal, as células se dispõem em cordões irregulares entremeados por capilares sanguíneos, como na adrenal e na paratireoide."
+      },
+      {
+        "texto": "Acinar",
+        "explicacao": "Ácino é uma estrutura secretora de glândulas exócrinas, que libera seu produto em um sistema de ductos."
+      },
+      {
+        "texto": "Folicular",
+        "explicacao": " A organização folicular é característica da tireoide. As células foliculares formam a parede do folículo e secretam o coloide (onde os hormônios são armazenados) em seu interior."
+      },
+      {
+        "texto": "Tubular",
+        "explicacao": "Tubular descreve uma porção secretora em formato de tubo, típica de glândulas exócrinas como as sudoríparas e gástricas."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 41,
+    "enunciado": "A secreção merócrina é o modo mais comum de liberação de produtos glandulares. O processo celular que a define é:",
+    "nivel": "fácil",
+    "subtopico": "modos de secreção",
+    "tipo": "múltipla escolha",
+    "tags": ["secreção merócrina", "exocitose", "glândula"],
+    "alternativas": [
+      {
+        "texto": "A ruptura da porção apical da célula.",
+        "explicacao": "A perda da porção apical do citoplasma caracteriza a secreção apócrina."
+      },
+      {
+        "texto": "A desintegração completa da célula secretora.",
+        "explicacao": "A morte e lise da célula inteira para liberar o produto é a definição de secreção holócrina."
+      },
+      {
+        "texto": "A fusão de vesículas secretoras com a membrana plasmática (exocitose).",
+        "explicacao": " Na secreção merócrina, o produto é empacotado em vesículas que se fundem à membrana apical, liberando seu conteúdo sem perda de material celular."
+      },
+      {
+        "texto": "A difusão passiva do produto através da membrana celular.",
+        "explicacao": "A difusão passiva é um mecanismo de transporte para pequenas moléculas, como esteroides, mas a secreção merócrina envolve a liberação de macromoléculas via vesículas."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 42,
+    "enunciado": "Grandes glândulas, como as salivares e o pâncreas, são divididas em lóbulos e lóbulo por septos de tecido conjuntivo. Este arcabouço de tecido conjuntivo que sustenta e organiza o parênquima glandular é denominado:",
+    "nivel": "médio",
+    "subtopico": "organização glandular",
+    "tipo": "múltipla escolha",
+    "tags": ["estroma", "parênquima", "tecido conjuntivo"],
+    "alternativas": [
+      {
+        "texto": "Parênquima",
+        "explicacao": "O parênquima refere-se à porção funcional do órgão, ou seja, as próprias células secretoras e os ductos."
+      },
+      {
+        "texto": "Membrana basal",
+        "explicacao": "A membrana basal é a camada de matriz extracelular especializada que separa o epitélio do tecido conjuntivo, mas não forma os septos que dividem o órgão."
+      },
+      {
+        "texto": "Estroma",
+        "explicacao": " O estroma é o componente de sustentação de um órgão, consistindo em tecido conjuntivo, vasos sanguíneos e nervos. Ele forma a cápsula e os septos que organizam o parênquima."
+      },
+      {
+        "texto": "Mesotélio",
+        "explicacao": "O mesotélio é o epitélio simples pavimentoso que reveste as cavidades corporais, como o peritônio, não o tecido de sustentação interno de uma glândula."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 43,
+    "enunciado": "A glândula sublingual é predominantemente mucosa, mas contém alguns ácinos serosos. Qual das seguintes características é esperada em sua secreção?",
+    "nivel": "médio",
+    "subtopico": "tipos de secreção",
+    "tipo": "múltipla escolha",
+    "tags": ["glândula sublingual", "mucosa", "viscosidade"],
+    "alternativas": [
+      {
+        "texto": "Alta viscosidade e rica em mucinas.",
+        "explicacao": " Sendo predominantemente mucosa, sua principal secreção é a mucina, que, ao se hidratar, forma um muco viscoso, com função lubrificante e protetora."
+      },
+      {
+        "texto": "Baixa viscosidade, aquosa e rica em enzimas.",
+        "explicacao": "Esta descrição é típica de uma secreção puramente serosa, como a da glândula parótida."
+      },
+      {
+        "texto": "Composição primariamente lipídica.",
+        "explicacao": "Secreção lipídica é produzida por glândulas sebáceas, não salivares."
+      },
+      {
+        "texto": "Liberação direta na corrente sanguínea.",
+        "explicacao": "As glândulas salivares são exócrinas, liberando sua secreção na cavidade oral através de ductos."
+      }
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "numero": 44,
+    "enunciado": "As glândulas de Brunner, localizadas na submucosa do duodeno, secretam um muco alcalino. Qual a principal função dessa secreção?",
+    "nivel": "difícil",
+    "subtopico": "correlação estrutura-função",
+    "tipo": "múltipla escolha",
+    "tags": ["glândulas de Brunner", "duodeno", "proteção", "pH"],
+    "alternativas": [
+      {
+        "texto": "Iniciar a digestão de carboidratos.",
+        "explicacao": "A digestão de carboidratos começa na boca com a amilase salivar e continua no intestino com a amilase pancreática; não é a função primária do muco de Brunner."
+      },
+      {
+        "texto": "Neutralizar o quimo ácido proveniente do estômago.",
+        "explicacao": " O pH alcalino do muco secretado pelas glândulas de Brunner é crucial para proteger a mucosa duodenal do ácido gástrico e para criar um ambiente de pH ótimo para a ação das enzimas pancreáticas."
+      },
+      {
+        "texto": "Produzir hormônios que regulam a motilidade gástrica.",
+        "explicacao": "A produção de hormônios como a secretina e a colecistoquinina ocorre em células enteroendócrinas do epitélio duodenal, não nas glândulas de Brunner."
+      },
+      {
+        "texto": "Absorver nutrientes essenciais como a vitamina B12.",
+        "explicacao": "A absorção de nutrientes é função dos enterócitos que revestem as vilosidades intestinais. A vitamina B12 é absorvida no íleo terminal."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 45,
+    "enunciado": "Uma glândula cuja porção secretora tem o formato de um tubo longo e a de um bulbo ou esfera é classificada morfologicamente como:",
+    "nivel": "médio",
+    "subtopico": "classificação glandular",
+    "tipo": "múltipla escolha",
+    "tags": ["classificação", "morfologia", "tubuloacinar"],
+    "alternativas": [
+      {
+        "texto": "Acinar (ou Alveolar) composta",
+        "explicacao": "Esta classificação se refere a uma glândula com ductos ramificados e porções secretoras exclusivamente em formato de esfera ou bulbo."
+      },
+      {
+        "texto": "Tubular simples",
+        "explicacao": "Refere-se a uma glândula com um ducto único e uma porção secretora em formato de tubo, sem a parte esférica."
+      },
+      {
+        "texto": "Tubuloacinar (ou Tubuloalveolar)",
+        "explicacao": " Esta classificação é usada para glândulas que possuem unidades secretoras com morfologia tanto de tubo quanto de ácino (esfera), como é o caso das glândulas salivares submandibulares."
+      },
+      {
+        "texto": "Folicular",
+        "explicacao": "A organização folicular é um padrão de glândulas endócrinas, como a tireoide, e não se aplica à morfologia de glândulas exócrinas."
+      }
+    ],
+    "respostaCorreta": 2
   }
 ]
