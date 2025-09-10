@@ -10,6 +10,7 @@ import FlashcardsPraticosPage from './pages/FlashcardsPraticosPage';
 import SimuladoConfiguracaoPage from './pages/SimuladoConfiguracaoPage';
 import SimuladoExecucaoPage from './pages/SimuladoExecucaoPage';
 import SimuladoResultadoPage from './pages/SimuladoResultadoPage';
+import EquipePage from './pages/EquipePage';
 import SitemapPage from './pages/SitemapPage';
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
             <Route path="/simulado/configuracao" element={<SimuladoConfiguracaoPage />} />
             <Route path="/simulado/iniciar" element={<SimuladoExecucaoPage />} />
             <Route path="/simulado/resultado" element={<SimuladoResultadoPage />} />
+            <Route path="/equipe" element={<EquipePage />} />
             <Route path="/sitemap" element={<SitemapPage />} />
           </Routes>
         </div>

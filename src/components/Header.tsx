@@ -78,6 +78,12 @@ const Header: React.FC<HeaderProps> = ({ title = "Histoguia" }) => {
             >
               Glossário
             </Link>
+            <Link 
+              to="/equipe" 
+              className="text-slate-600 hover:text-purple-600 transition-colors duration-200 font-medium"
+            >
+              Equipe
+            </Link>
           </nav>
 
           {/* Botão Menu Mobile */}
@@ -145,6 +151,13 @@ const Header: React.FC<HeaderProps> = ({ title = "Histoguia" }) => {
               onClick={closeMenu}
             >
               Glossário
+            </Link>
+            <Link 
+              to="/equipe" 
+              className="block py-3 px-4 text-slate-600 hover:text-purple-600 hover:bg-white rounded-lg transition-all duration-200 font-medium"
+              onClick={closeMenu}
+            >
+              Equipe
             </Link>
           </nav>
         </div>

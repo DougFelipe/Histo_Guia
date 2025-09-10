@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowLeft, ExternalLink, BookOpen, Brain, Microscope, Layers, Zap, Clock } from 'lucide-react';
+import { ArrowLeft, ExternalLink, BookOpen, Brain, Microscope, Layers, Zap, Clock, Users } from 'lucide-react';
 import Header from '../components/Header';
 import SEOHead from '../components/SEOHead';
 
@@ -79,6 +79,18 @@ const SitemapPage: React.FC = () => {
         "Busca Alfabética",
         "Definições Detalhadas",
         "Conceitos Essenciais"
+      ]
+    },
+    {
+      title: "Equipe",
+      description: "Conheça nossa equipe multidisciplinar",
+      icon: Users,
+      link: "/equipe",
+      temas: [
+        "Especialistas em Histologia",
+        "Desenvolvedores",
+        "Designers",
+        "Revisores de Conteúdo"
       ]
     }
   ];
