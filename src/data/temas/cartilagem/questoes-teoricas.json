@@ -1,0 +1,812 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Qual é a principal característica que diferencia o tecido cartilaginoso da maioria dos outros tecidos conjuntivos?",
+    "nivel": "fácil",
+    "subtopico": "características gerais",
+    "tipo": "múltipla escolha",
+    "tags": ["avascular", "nutrição", "pericôndrio"],
+    "alternativas": [
+      {
+        "texto": "Presença de abundante matriz extracelular.",
+        "explicacao": "Embora possua uma matriz abundante, essa característica é compartilhada com outros tecidos conjuntivos."
+      },
+      {
+        "texto": "Origem mesenquimal.",
+        "explicacao": "Todos os tecidos conjuntivos se originam do mesênquima embrionário."
+      },
+      {
+        "texto": "Ausência de vasos sanguíneos e linfáticos.",
+        "explicacao": "A avascularidade é uma marca da cartilagem. Sua nutrição ocorre por difusão a partir dos capilares do pericôndrio ou do líquido sinovial."
+      },
+      {
+        "texto": "Composição por células e matriz.",
+        "explicacao": "Esta é a definição básica de qualquer tecido conjuntivo, não uma característica distintiva da cartilagem."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 2,
+    "enunciado": "As células jovens que produzem ativamente a matriz cartilaginosa e são encontradas na periferia da cartilagem são chamadas de:",
+    "nivel": "fácil",
+    "subtopico": "células da cartilagem",
+    "tipo": "múltipla escolha",
+    "tags": ["condroblasto", "síntese", "crescimento"],
+    "alternativas": [
+      {
+        "texto": "Condrócitos",
+        "explicacao": "Os condrócitos são as células maduras, localizadas no interior de lacunas, responsáveis pela manutenção da matriz."
+      },
+      {
+        "texto": "Condroblastos",
+        "explicacao": "Estas são as células ativas na síntese da matriz. Uma vez que ficam aprisionadas na matriz que produziram, amadurecem e se tornam condrócitos."
+      },
+      {
+        "texto": "Osteoblastos",
+        "explicacao": "Os osteoblastos são as células responsáveis pela produção da matriz do tecido ósseo."
+      },
+      {
+        "texto": "Fibroblastos",
+        "explicacao": "Os fibroblastos são as células típicas do tecido conjuntivo propriamente dito, que produzem colágeno e outros componentes."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 3,
+    "enunciado": "Qual tipo de colágeno é o mais abundante e característico da matriz da cartilagem hialina?",
+    "nivel": "médio",
+    "subtopico": "matriz cartilaginosa",
+    "tipo": "múltipla escolha",
+    "tags": ["cartilagem hialina", "colágeno tipo II", "matriz"],
+    "alternativas": [
+      {
+        "texto": "Colágeno tipo I",
+        "explicacao": "O colágeno tipo I é predominante no osso, tendões e derme, formando fibras espessas para resistir à tração."
+      },
+      {
+        "texto": "Colágeno tipo II",
+        "explicacao": "Este tipo de colágeno forma fibrilas delgadas que se associam aos proteoglicanos para criar uma matriz firme e resistente à compressão."
+      },
+      {
+        "texto": "Colágeno tipo III",
+        "explicacao": "O colágeno tipo III forma as fibras reticulares, que fornecem suporte em órgãos como o baço e a medula óssea."
+      },
+      {
+        "texto": "Colágeno tipo IV",
+        "explicacao": "O colágeno tipo IV é exclusivo da lâmina basal, formando uma rede que serve de suporte para os epitélios."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 4,
+    "enunciado": "O pericôndrio é uma camada de tecido conjuntivo que reveste a cartilagem. Sua principal função é:",
+    "nivel": "médio",
+    "subtopico": "pericôndrio",
+    "tipo": "múltipla escolha",
+    "tags": ["pericôndrio", "nutrição", "crescimento aposicional"],
+    "alternativas": [
+      {
+        "texto": "Produzir líquido sinovial para lubrificação.",
+        "explicacao": "O líquido sinovial é produzido pela membrana sinovial nas articulações, não pelo pericôndrio."
+      },
+      {
+        "texto": "Servir como fonte de novos condroblastos e nutrir a cartilagem.",
+        "explicacao": "Sua camada interna (celular) contém células que se diferenciam em condroblastos (crescimento aposicional), e sua camada externa (fibrosa) contém vasos que nutrem a cartilagem avascular."
+      },
+      {
+        "texto": "Ancorar a cartilagem diretamente ao osso.",
+        "explicacao": "A ancoragem osso-cartilagem ocorre em zonas específicas, mas não é a função primária do pericôndrio em geral."
+      },
+      {
+        "texto": "Conferir elasticidade à cartilagem.",
+        "explicacao": "A elasticidade é uma propriedade intrínseca da matriz da cartilagem elástica, devido às fibras elásticas, não ao pericôndrio."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 5,
+    "enunciado": "Qual tipo de cartilagem é encontrado nos discos intervertebrais e na sínfise púbica, locais que exigem grande resistência à compressão e à tração?",
+    "nivel": "médio",
+    "subtopico": "tipos de cartilagem",
+    "tipo": "múltipla escolha",
+    "tags": ["cartilagem fibrosa", "fibrocartilagem", "disco intervertebral"],
+    "alternativas": [
+      {
+        "texto": "Cartilagem hialina",
+        "explicacao": "A cartilagem hialina é resistente à compressão, mas não tanto à tração. É encontrada nas superfícies articulares e no esqueleto fetal."
+      },
+      {
+        "texto": "Cartilagem elástica",
+        "explicacao": "A cartilagem elástica é flexível e resiliente, ideal para locais como a orelha e a epiglote."
+      },
+      {
+        "texto": "Cartilagem fibrosa (Fibrocartilagem)",
+        "explicacao": "Este tipo é uma combinação de tecido conjuntivo denso e cartilagem hialina, com abundantes fibras de colágeno tipo I, tornando-o extremamente resistente."
+      },
+      {
+        "texto": "Cartilagem calcificada",
+        "explicacao": "A cartilagem calcificada é um estágio de degeneração ou parte do processo de ossificação, não um tipo funcional primário."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 6,
+    "enunciado": "O crescimento da cartilagem por meio da adição de novas camadas na sua superfície, a partir de células do pericôndrio, é chamado de:",
+    "nivel": "médio",
+    "subtopico": "crescimento cartilaginoso",
+    "tipo": "múltipla escolha",
+    "tags": ["crescimento aposicional", "pericôndrio", "condroblasto"],
+    "alternativas": [
+      {
+        "texto": "Crescimento intersticial",
+        "explicacao": "O crescimento intersticial ocorre por divisão de condrócitos já existentes no interior da matriz, expandindo a cartilagem por dentro."
+      },
+      {
+        "texto": "Crescimento aposicional",
+        "explicacao": "Este modo de crescimento se dá pela diferenciação de células mesenquimais do pericôndrio em condroblastos, que depositam nova matriz na periferia."
+      },
+      {
+        "texto": "Ossificação endocondral",
+        "explicacao": "A ossificação endocondral é o processo de substituição de um molde de cartilagem por tecido ósseo."
+      },
+      {
+        "texto": "Remodelamento",
+        "explicacao": "Remodelamento é um termo mais associado ao tecido ósseo, que está em constante reabsorção e formação."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 7,
+    "enunciado": "A matriz da cartilagem elástica, encontrada na orelha e na epiglote, é rica em qual tipo de fibra, além do colágeno tipo II?",
+    "nivel": "fácil",
+    "subtopico": "tipos de cartilagem",
+    "tipo": "múltipla escolha",
+    "tags": ["cartilagem elástica", "fibras elásticas", "flexibilidade"],
+    "alternativas": [
+      {
+        "texto": "Fibras reticulares (Colágeno tipo III)",
+        "explicacao": "As fibras reticulares formam o estroma de órgãos linfoides, não sendo um componente significativo da cartilagem elástica."
+      },
+      {
+        "texto": "Fibras de colágeno tipo I",
+        "explicacao": "A presença massiva de colágeno tipo I é característica da fibrocartilagem, não da cartilagem elástica."
+      },
+      {
+        "texto": "Fibras elásticas",
+        "explicacao": "Uma densa rede de fibras elásticas se entrelaça com as fibrilas de colágeno tipo II, conferindo grande flexibilidade e resiliência a este tipo de cartilagem."
+      },
+      {
+        "texto": "Fibras musculares lisas",
+        "explicacao": "Fibras musculares não são um componente da matriz cartilaginosa."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 8,
+    "enunciado": "Os condrócitos residem em pequenos espaços dentro da matriz cartilaginosa. Como são chamados esses espaços?",
+    "nivel": "fácil",
+    "subtopico": "células da cartilagem",
+    "tipo": "múltipla escolha",
+    "tags": ["condrócito", "lacuna", "matriz"],
+    "alternativas": [
+      {
+        "texto": "Canalículos",
+        "explicacao": "Canalículos são finos canais que conectam as lacunas no tecido ósseo, permitindo a comunicação entre os osteócitos."
+      },
+      {
+        "texto": "Lacunas (ou condroplastos)",
+        "explicacao": "Cada condrócito, ou grupo de condrócitos, ocupa uma cavidade na matriz chamada lacuna."
+      },
+      {
+        "texto": "Folículos",
+        "explicacao": "Folículo é uma estrutura glandular ou linfoide, não um espaço para uma célula cartilaginosa."
+      },
+      {
+        "texto": "Osteoplastos",
+        "explicacao": "Osteoplastos é o termo para as lacunas que abrigam os osteócitos no tecido ósseo."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 9,
+    "enunciado": "A osteoartrite é uma doença degenerativa das articulações. Qual evento histológico primário caracteriza essa condição?",
+    "nivel": "difícil",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["osteoartrite", "cartilagem articular", "degeneração"],
+    "alternativas": [
+      {
+        "texto": "Inflamação do pericôndrio.",
+        "explicacao": "A cartilagem articular não possui pericôndrio. A inflamação sinovial pode ocorrer, mas a degeneração da cartilagem é o evento central."
+      },
+      {
+        "texto": "Calcificação excessiva de toda a cartilagem.",
+        "explicacao": "A calcificação pode ocorrer em estágios tardios, mas o processo inicial é a degradação da matriz."
+      },
+      {
+        "texto": "Destruição da cartilagem articular hialina, com perda de proteoglicanos e fibrilação da superfície.",
+        "explicacao": "A doença começa com a quebra da matriz, especialmente a perda de proteoglicanos, seguida pelo rompimento das fibras de colágeno, levando à erosão da cartilagem."
+      },
+      {
+        "texto": "Hipertrofia dos condrócitos e produção de matriz elástica.",
+        "explicacao": "Na osteoartrite, os condrócitos tentam reparar o dano, mas acabam morrendo ou produzindo uma matriz de baixa qualidade, não uma matriz elástica."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 10,
+    "enunciado": "Qual tipo de cartilagem nunca possui pericôndrio?",
+    "nivel": "difícil",
+    "subtopico": "pericôndrio",
+    "tipo": "múltipla escolha",
+    "tags": ["pericôndrio", "cartilagem articular", "fibrocartilagem"],
+    "alternativas": [
+      {
+        "texto": "Cartilagem elástica da orelha.",
+        "explicacao": "A cartilagem elástica é tipicamente envolvida por um pericôndrio bem definido."
+      },
+      {
+        "texto": "Cartilagem hialina das vias aéreas (traqueia).",
+        "explicacao": "A cartilagem hialina na traqueia e nos brônquios é revestida por pericôndrio."
+      },
+      {
+        "texto": "Cartilagem fibrosa e cartilagem articular.",
+        "explicacao": "A fibrocartilagem se funde gradualmente com o tecido conjuntivo denso adjacente, não tendo um pericôndrio distinto. A cartilagem articular é banhada pelo líquido sinovial e não possui pericôndrio em sua superfície livre."
+      },
+      {
+        "texto": "O modelo cartilaginoso do esqueleto fetal.",
+        "explicacao": "O esqueleto fetal de cartilagem hialina é revestido por pericôndrio, que é crucial para o crescimento e a futura ossificação."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 11,
+    "enunciado": "A matriz da cartilagem é intensamente basofílica (cora-se em roxo/azul com H&E). A que se deve essa propriedade de coloração?",
+    "nivel": "médio",
+    "subtopico": "matriz cartilaginosa",
+    "tipo": "múltipla escolha",
+    "tags": ["basofilia", "proteoglicanos", "GAGs", "coloração"],
+    "alternativas": [
+      {
+        "texto": "À alta concentração de fibras de colágeno.",
+        "explicacao": "As fibras de colágeno são acidófilas, corando-se em rosa/vermelho com a eosina."
+      },
+      {
+        "texto": "Aos lipídios armazenados nos condrócitos.",
+        "explicacao": "Os lipídios são geralmente dissolvidos durante o processamento histológico, não contribuindo para a coloração da matriz."
+      },
+      {
+        "texto": "Aos grupos sulfato dos glicosaminoglicanos (GAGs) nos proteoglicanos.",
+        "explicacao": "Os GAGs, como o condroitim sulfato e o queratan sulfato, são polianiônicos devido aos seus grupos sulfato e carboxila. Essa alta densidade de carga negativa atrai fortemente o corante básico hematoxilina."
+      },
+      {
+        "texto": "À presença de cálcio na matriz.",
+        "explicacao": "Depósitos de cálcio também se coram com hematoxilina, mas a basofilia difusa da cartilagem saudável se deve aos GAGs, não à mineralização."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 12,
+    "enunciado": "O que são grupos isógenos na cartilagem?",
+    "nivel": "médio",
+    "subtopico": "células da cartilagem",
+    "tipo": "múltipla escolha",
+    "tags": ["grupo isógeno", "crescimento intersticial", "condrócito"],
+    "alternativas": [
+      {
+        "texto": "Agrupamentos de fibras de colágeno ao redor de uma lacuna.",
+        "explicacao": "As fibras de colágeno fazem parte da matriz, não de um agrupamento celular."
+      },
+      {
+        "texto": "Células mesenquimais indiferenciadas no pericôndrio.",
+        "explicacao": "Essas são as células progenitoras que dão origem aos condroblastos, não grupos isógenos."
+      },
+      {
+        "texto": "Conjuntos de dois ou mais condrócitos dentro da mesma lacuna.",
+        "explicacao": "Resultam da divisão mitótica recente de um único condrócito. A presença de grupos isógenos é uma evidência de crescimento intersticial."
+      },
+      {
+        "texto": "Áreas de matriz recém-sintetizada.",
+        "explicacao": "A matriz recém-sintetizada ao redor dos condrócitos é chamada de matriz territorial."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 13,
+    "enunciado": "A principal molécula de proteoglicano na cartilagem, responsável por sua alta capacidade de hidratação, é o:",
+    "nivel": "difícil",
+    "subtopico": "matriz cartilaginosa",
+    "tipo": "múltipla escolha",
+    "tags": ["agrecan", "proteoglicano", "matriz"],
+    "alternativas": [
+      {
+        "texto": "Decorin",
+        "explicacao": "O decorin é um proteoglicano menor, que se liga às fibrilas de colágeno, ajudando a regular sua organização."
+      },
+      {
+        "texto": "Fibromodulina",
+        "explicacao": "A fibromodulina, assim como o decorin, é um proteoglicano pequeno associado às fibras de colágeno."
+      },
+      {
+        "texto": "Agrecan",
+        "explicacao": "O agrecan é um monômero de proteoglicano gigante, com muitas cadeias de condroitim sulfato e queratan sulfato. Muitos agrecans se ligam a uma molécula de ácido hialurônico, formando agregados que conferem à cartilagem sua propriedade de resistir à compressão."
+      },
+      {
+        "texto": "Versican",
+        "explicacao": "O versican é um grande proteoglicano encontrado em outros tecidos conjuntivos, como a parede dos vasos sanguíneos, mas o agrecan é o tipo predominante na cartilagem."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 14,
+    "enunciado": "O processo de ossificação endocondral, que forma a maioria dos ossos longos, depende fundamentalmente de:",
+    "nivel": "médio",
+    "subtopico": "desenvolvimento e ossificação",
+    "tipo": "múltipla escolha",
+    "tags": ["ossificação endocondral", "molde de cartilagem", "desenvolvimento"],
+    "alternativas": [
+      {
+        "texto": "Um molde de tecido conjuntivo denso.",
+        "explicacao": "A ossificação a partir de um molde de tecido conjuntivo é chamada de ossificação intramembranosa, que forma os ossos chatos do crânio."
+      },
+      {
+        "texto": "A invasão direta de vasos sanguíneos no pericôndrio.",
+        "explicacao": "A invasão vascular é uma etapa crucial, mas ela ocorre no centro do molde cartilaginoso, não apenas no pericôndrio."
+      },
+      {
+        "texto": "Um molde preexistente de cartilagem hialina que é gradualmente substituído por osso.",
+        "explicacao": "Este processo envolve a hipertrofia e morte dos condrócitos, calcificação da matriz cartilaginosa e subsequente invasão por células osteoprogenitoras."
+      },
+      {
+        "texto": "A diferenciação de condrócitos em osteócitos.",
+        "explicacao": "Os condrócitos morrem por apoptose e são substituídos por células da linhagem osteogênica; eles não se transdiferenciam."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 15,
+    "enunciado": "A matriz cartilaginosa imediatamente ao redor de uma lacuna é mais rica em GAGs e pobre em colágeno, corando-se mais intensamente. Como é chamada essa região?",
+    "nivel": "médio",
+    "subtopico": "matriz cartilaginosa",
+    "tipo": "múltipla escolha",
+    "tags": ["matriz territorial", "matriz interterritorial", "coloração"],
+    "alternativas": [
+      {
+        "texto": "Matriz interterritorial",
+        "explicacao": "A matriz interterritorial é a região que fica entre os grupos de condrócitos, sendo menos basofílica e mais rica em colágeno."
+      },
+      {
+        "texto": "Matriz territorial",
+        "explicacao": "Esta é a matriz recém-depositada ao redor dos condrócitos. Sua alta concentração de GAGs sulfatados a torna mais basofílica."
+      },
+      {
+        "texto": "Cápsula pericelular",
+        "explicacao": "A cápsula pericelular é uma fina camada de matriz especializada em contato direto com o condrócito, contendo moléculas específicas de adesão."
+      },
+      {
+        "texto": "Zona calcificada",
+        "explicacao": "A zona calcificada é a camada mais profunda da cartilagem articular, que se ancora ao osso subcondral."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 16,
+    "enunciado": "A dificuldade de regeneração da cartilagem em adultos deve-se principalmente a qual fator?",
+    "nivel": "médio",
+    "subtopico": "regeneração e reparo",
+    "tipo": "múltipla escolha",
+    "tags": ["regeneração", "avascularidade", "reparo"],
+    "alternativas": [
+      {
+        "texto": "À alta taxa metabólica dos condrócitos.",
+        "explicacao": "Pelo contrário, os condrócitos têm um metabolismo baixo, principalmente anaeróbico."
+      },
+      {
+        "texto": "À sua avascularidade e à baixa capacidade proliferativa dos condrócitos.",
+        "explicacao": "A falta de suprimento sanguíneo limita a chegada de células-tronco e nutrientes, e os condrócitos maduros raramente se dividem, resultando em um reparo muito limitado e ineficaz."
+      },
+      {
+        "texto": "À rigidez excessiva da matriz, que impede o crescimento.",
+        "explicacao": "A rigidez da matriz aprisiona os condrócitos, limitando a proliferação, mas a avascularidade é o fator mais crítico para a falta de reparo."
+      },
+      {
+        "texto": "À ausência de fibras de colágeno na matriz.",
+        "explicacao": "A cartilagem é rica em fibras de colágeno; a ausência delas não é o motivo da baixa regeneração."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 17,
+    "enunciado": "Qual tipo de cartilagem forma o esqueleto temporário do embrião e do feto?",
+    "nivel": "fácil",
+    "subtopico": "tipos de cartilagem",
+    "tipo": "múltipla escolha",
+    "tags": ["cartilagem hialina", "esqueleto fetal", "desenvolvimento"],
+    "alternativas": [
+      {
+        "texto": "Cartilagem fibrosa",
+        "explicacao": "A fibrocartilagem se desenvolve em áreas de estresse mecânico, não formando o molde esquelético primário."
+      },
+      {
+        "texto": "Cartilagem elástica",
+        "explicacao": "A cartilagem elástica se desenvolve em locais específicos que requerem flexibilidade, como a orelha."
+      },
+      {
+        "texto": "Tecido mesenquimal",
+        "explicacao": "O mesênquima é o tecido precursor, mas ele se diferencia em um tipo específico de cartilagem para formar o molde."
+      },
+      {
+        "texto": "Cartilagem hialina",
+        "explicacao": "A grande maioria dos ossos se forma a partir de um molde de cartilagem hialina através da ossificação endocondral."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 18,
+    "enunciado": "O crescimento intersticial é mais proeminente em qual fase da vida?",
+    "nivel": "médio",
+    "subtopico": "crescimento cartilaginoso",
+    "tipo": "múltipla escolha",
+    "tags": ["crescimento intersticial", "placa epifisária", "desenvolvimento"],
+    "alternativas": [
+      {
+        "texto": "Na cartilagem de adultos, para reparo de lesões.",
+        "explicacao": "O crescimento intersticial é muito limitado em adultos e insuficiente para um reparo eficaz."
+      },
+      {
+        "texto": "Nas fases iniciais do desenvolvimento da cartilagem e no disco epifisário.",
+        "explicacao": "Este tipo de crescimento é crucial para a formação inicial da cartilagem e para o alongamento dos ossos longos na placa de crescimento (disco epifisário)."
+      },
+      {
+        "texto": "Apenas na cartilagem elástica.",
+        "explicacao": "O crescimento intersticial ocorre em todos os tipos de cartilagem, especialmente durante o desenvolvimento, não sendo exclusivo da cartilagem elástica."
+      },
+      {
+        "texto": "Durante o processo de envelhecimento, como parte da degeneração.",
+        "explicacao": "O envelhecimento está associado à degeneração e perda de células, não a um aumento do crescimento intersticial."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 19,
+    "enunciado": "A principal diferença histológica entre a cartilagem hialina e a fibrocartilagem é que a fibrocartilagem possui:",
+    "nivel": "médio",
+    "subtopico": "tipos de cartilagem",
+    "tipo": "múltipla escolha",
+    "tags": ["fibrocartilagem", "cartilagem hialina", "colágeno tipo I"],
+    "alternativas": [
+      {
+        "texto": "Um pericôndrio bem desenvolvido.",
+        "explicacao": "A fibrocartilagem não possui um pericôndrio distinto, ao contrário de grande parte da cartilagem hialina."
+      },
+      {
+        "texto": "Abundantes fibras de colágeno tipo I visíveis na matriz.",
+        "explicacao": "Além do colágeno tipo II, a fibrocartilagem contém feixes espessos e acidofílicos de colágeno tipo I, que são facilmente visíveis ao microscópio de luz."
+      },
+      {
+        "texto": "Condrócitos organizados em colunas.",
+        "explicacao": "A organização em colunas é típica da cartilagem seriada, uma zona da placa epifisária."
+      },
+      {
+        "texto": "Uma matriz completamente avascular e sem nervos.",
+        "explicacao": "Ambos os tipos de cartilagem são avasculares e anervados."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 20,
+    "enunciado": "A capacidade da cartilagem de resistir à compressão se deve, em grande parte, à:",
+    "nivel": "fácil",
+    "subtopico": "funções",
+    "tipo": "múltipla escolha",
+    "tags": ["compressão", "proteoglicanos", "água"],
+    "alternativas": [
+      {
+        "texto": "Forte ligação entre os condrócitos.",
+        "explicacao": "Os condrócitos não estão diretamente ligados uns aos outros; eles estão separados pela matriz."
+      },
+      {
+        "texto": "Alta concentração de água ligada aos proteoglicanos na matriz.",
+        "explicacao": "A grande quantidade de água de solvatação associada aos GAGs cria uma alta pressão de turgor, que se opõe a forças compressivas."
+      },
+      {
+        "texto": "Presença de um pericôndrio fibroso e resistente.",
+        "explicacao": "O pericôndrio oferece suporte, mas a resistência intrínseca à compressão vem da própria matriz."
+      },
+      {
+        "texto": "Organização paralela das fibras de colágeno.",
+        "explicacao": "A organização paralela do colágeno confere resistência à tração, não à compressão."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 21,
+    "enunciado": "A placa epifisária (ou disco de crescimento) é uma estrutura de cartilagem hialina responsável pelo crescimento em comprimento dos ossos longos. Qual é o destino final desta placa?",
+    "nivel": "médio",
+    "subtopico": "desenvolvimento e ossificação",
+    "tipo": "múltipla escolha",
+    "tags": ["placa epifisária", "crescimento ósseo", "linha epifisária"],
+    "alternativas": [
+      {
+        "texto": "Transformar-se em cartilagem elástica.",
+        "explicacao": "A cartilagem hialina não se transforma em cartilagem elástica; são tipos distintos de tecido."
+      },
+      {
+        "texto": "Ser completamente substituída por tecido ósseo ao final da puberdade.",
+        "explicacao": "Quando o crescimento cessa, a proliferação dos condrócitos para e a placa é ossificada, restando apenas uma linha epifisária visível no osso adulto."
+      },
+      {
+        "texto": "Permanecer ativa durante toda a vida do indivíduo.",
+        "explicacao": "Se permanecesse ativa, o crescimento em altura continuaria indefinidamente."
+      },
+      {
+        "texto": "Degenerar e formar a cavidade medular do osso.",
+        "explicacao": "A cavidade medular se forma no centro da diáfise, enquanto a placa epifisária está localizada entre a diáfise e a epífise."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 22,
+    "enunciado": "Em um corte histológico corado por métodos específicos para fibras elásticas (como a orceína), qual estrutura apresentaria uma matriz intensamente corada em roxo/preto?",
+    "nivel": "fácil",
+    "subtopico": "tipos de cartilagem",
+    "tipo": "múltipla escolha",
+    "tags": ["cartilagem elástica", "orceína", "coloração especial"],
+    "alternativas": [
+      {
+        "texto": "O menisco do joelho.",
+        "explicacao": "O menisco é feito de fibrocartilagem, rica em colágeno tipo I, que não se cora com orceína."
+      },
+      {
+        "texto": "A cartilagem costal.",
+        "explicacao": "A cartilagem costal é do tipo hialina, cuja matriz não contém uma rede densa de fibras elásticas."
+      },
+      {
+        "texto": "A epiglote.",
+        "explicacao": "A epiglote é composta por cartilagem elástica. A orceína se liga especificamente às fibras elásticas, revelando sua presença abundante na matriz."
+      },
+      {
+        "texto": "A cartilagem da superfície articular do fêmur.",
+        "explicacao": "A cartilagem articular é do tipo hialina e não possui uma rede significativa de fibras elásticas."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 23,
+    "enunciado": "O hormônio do crescimento (GH) estimula o crescimento dos ossos longos ao atuar sobre qual estrutura?",
+    "nivel": "médio",
+    "subtopico": "regulação hormonal",
+    "tipo": "múltipla escolha",
+    "tags": ["hormônio do crescimento", "placa epifisária", "IGF-1"],
+    "alternativas": [
+      {
+        "texto": "Diretamente sobre os osteoclastos para inibir a reabsorção óssea.",
+        "explicacao": "O GH tem um efeito anabólico, promovendo a formação, não inibindo a reabsorção diretamente."
+      },
+      {
+        "texto": "Indiretamente, estimulando o fígado a produzir IGF-1, que por sua vez promove a proliferação de condrócitos na placa epifisária.",
+        "explicacao": "Esta é a principal via de ação. O IGF-1 (fator de crescimento semelhante à insulina tipo 1) é o mediador chave que estimula a divisão celular na cartilagem da placa de crescimento."
+      },
+      {
+        "texto": "Estimulando a atividade dos fibroblastos no pericôndrio.",
+        "explicacao": "Embora o crescimento aposicional seja importante, o principal mecanismo para o alongamento ósseo é a atividade na placa epifisária."
+      },
+      {
+        "texto": "Aumentando a absorção de cálcio no intestino.",
+        "explicacao": "O aumento da absorção de cálcio é uma função primária da vitamina D e do paratormônio, não do GH."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 24,
+    "enunciado": "A principal função da cartilagem hialina nas superfícies articulares é:",
+    "nivel": "fácil",
+    "subtopico": "funções",
+    "tipo": "múltipla escolha",
+    "tags": ["cartilagem articular", "função", "atrito"],
+    "alternativas": [
+      {
+        "texto": "Produzir novas células sanguíneas.",
+        "explicacao": "A produção de células sanguíneas (hematopoiese) ocorre na medula óssea vermelha."
+      },
+      {
+        "texto": "Fornecer uma superfície lisa, de baixo atrito, para o movimento e absorver choques.",
+        "explicacao": "Sua matriz rica em água e sua superfície lisa permitem que os ossos deslizem uns sobre os outros com o mínimo de atrito, enquanto sua resiliência ajuda a distribuir as cargas mecânicas."
+      },
+      {
+        "texto": "Armazenar cálcio e fosfato para o corpo.",
+        "explicacao": "O armazenamento de minerais é uma função do tecido ósseo."
+      },
+      {
+        "texto": "Secretar enzimas digestivas na cavidade articular.",
+        "explicacao": "Não há secreção de enzimas digestivas nas articulações; o líquido sinovial tem função lubrificante e nutritiva."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 25,
+    "enunciado": "A condronectina é uma glicoproteína encontrada na matriz da cartilagem. Qual é a sua função?",
+    "nivel": "difícil",
+    "subtopico": "matriz cartilaginosa",
+    "tipo": "múltipla escolha",
+    "tags": ["condronectina", "adesão", "matriz"],
+    "alternativas": [
+      {
+        "texto": "Iniciar o processo de calcificação da matriz.",
+        "explicacao": "A calcificação é um processo complexo que envolve vesículas da matriz e enzimas, não sendo a função primária da condronectina."
+      },
+      {
+        "texto": "Ligar os condrócitos à matriz extracelular.",
+        "explicacao": "Assim como a fibronectina em outros tecidos, a condronectina é uma glicoproteína multiadesiva que medeia a adesão das células (condrócitos) aos componentes da matriz, como o colágeno tipo II."
+      },
+      {
+        "texto": "Atrair água para a matriz, conferindo turgor.",
+        "explicacao": "A atração de água é uma função dos proteoglicanos, devido às suas cargas negativas."
+      },
+      {
+        "texto": "Conferir elasticidade à matriz.",
+        "explicacao": "A elasticidade é dada pelas fibras elásticas (elastina)."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 26,
+    "enunciado": "O que acontece com a cartilagem hialina com o envelhecimento?",
+    "nivel": "médio",
+    "subtopico": "envelhecimento e degeneração",
+    "tipo": "múltipla escolha",
+    "tags": ["envelhecimento", "calcificação", "degeneração"],
+    "alternativas": [
+      {
+        "texto": "Aumenta sua capacidade de regeneração.",
+        "explicacao": "A capacidade de regeneração diminui significativamente com a idade."
+      },
+      {
+        "texto": "Torna-se mais flexível devido ao aumento de fibras elásticas.",
+        "explicacao": "Não há aumento de fibras elásticas; pelo contrário, a matriz tende a se tornar mais rígida."
+      },
+      {
+        "texto": "Os condrócitos aumentam sua taxa de proliferação.",
+        "explicacao": "A atividade e o número de condrócitos diminuem com o envelhecimento."
+      },
+      {
+        "texto": "Diminui a concentração de proteoglicanos e frequentemente se calcifica.",
+        "explicacao": "A perda de proteoglicanos reduz a hidratação e a resiliência da matriz, e a deposição de cristais de fosfato de cálcio (calcificação) é um achado comum, especialmente nas cartilagens costais."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 27,
+    "enunciado": "O menisco do joelho é uma estrutura de fibrocartilagem. Sua principal função é:",
+    "nivel": "médio",
+    "subtopico": "funções",
+    "tipo": "múltipla escolha",
+    "tags": ["menisco", "fibrocartilagem", "joelho"],
+    "alternativas": [
+      {
+        "texto": "Produzir a maior parte do líquido sinovial.",
+        "explicacao": "O líquido sinovial é produzido pela membrana sinovial que reveste a cápsula articular."
+      },
+      {
+        "texto": "Atuar como um amortecedor e melhorar a congruência entre o fêmur e a tíbia.",
+        "explicacao": "Os meniscos distribuem o peso corporal pela articulação, absorvem choques e aumentam a estabilidade ao aprofundar a superfície articular da tíbia."
+      },
+      {
+        "texto": "Servir como o principal local de crescimento ósseo no joelho.",
+        "explicacao": "O crescimento ósseo ocorre nas placas epifisárias do fêmur e da tíbia, não no menisco."
+      },
+      {
+        "texto": "Fornecer o suprimento sanguíneo para a cartilagem articular.",
+        "explicacao": "O menisco é em grande parte avascular, especialmente em sua porção interna."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 28,
+    "enunciado": "Na policondrite recidivante, uma doença autoimune rara, o sistema imune ataca qual tecido?",
+    "nivel": "difícil",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["policondrite", "autoimunidade", "cartilagem"],
+    "alternativas": [
+      {
+        "texto": "O tecido ósseo, causando osteoporose.",
+        "explicacao": "A osteoporose é uma perda de massa óssea, não uma doença inflamatória autoimune da cartilagem."
+      },
+      {
+        "texto": "As estruturas cartilaginosas, como as da orelha, nariz e articulações.",
+        "explicacao": "A doença é caracterizada por episódios recorrentes de inflamação e destruição de vários tipos de cartilagem por todo o corpo."
+      },
+      {
+        "texto": "O tecido muscular, resultando em fraqueza.",
+        "explicacao": "Doenças autoimunes que atacam o músculo incluem a polimiosite e a dermatomiosite."
+      },
+      {
+        "texto": "O tecido conjuntivo frouxo da pele, causando esclerose.",
+        "explicacao": "O endurecimento da pele (esclerose) é característico da esclerodermia."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 29,
+    "enunciado": "O que diferencia a cartilagem fibrosa dos tendões, que também são ricos em colágeno tipo I?",
+    "nivel": "difícil",
+    "subtopico": "tipos de cartilagem",
+    "tipo": "múltipla escolha",
+    "tags": ["fibrocartilagem", "tendão", "histologia"],
+    "alternativas": [
+      {
+        "texto": "A presença de vasos sanguíneos na fibrocartilagem.",
+        "explicacao": "Ambos os tecidos são pouco vascularizados ou avasculares."
+      },
+      {
+        "texto": "A presença de condrócitos em lacunas na fibrocartilagem.",
+        "explicacao": "Enquanto o tendão possui fibroblastos (tenócitos) alinhados entre as fibras, a fibrocartilagem contém condrócitos arredondados, situados em lacunas, imersos em uma pequena quantidade de matriz cartilaginosa."
+      },
+      {
+        "texto": "A fibrocartilagem não contém colágeno, apenas proteoglicanos.",
+        "explicacao": "A fibrocartilagem é extremamente rica em colágeno tipo I."
+      },
+      {
+        "texto": "Os tendões possuem pericôndrio, e a fibrocartilagem não.",
+        "explicacao": "Nenhum dos dois possui pericôndrio; tendões são envolvidos por outras bainhas de tecido conjuntivo."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 30,
+    "enunciado": "A zona mais superficial da cartilagem articular é rica em qual componente e orientação de fibras?",
+    "nivel": "médio",
+    "subtopico": "cartilagem articular",
+    "tipo": "múltipla escolha",
+    "tags": ["cartilagem articular", "zona superficial", "colágeno"],
+    "alternativas": [
+      {
+        "texto": "Proteoglicanos e fibras perpendiculares à superfície.",
+        "explicacao": "As fibras perpendiculares são encontradas na zona profunda (radial), para ancorar a cartilagem ao osso."
+      },
+      {
+        "texto": "Condrócitos hipertrofiados e matriz calcificada.",
+        "explicacao": "Essas são características da zona mais profunda, a zona calcificada."
+      },
+      {
+        "texto": "Água e fibrilas de colágeno tipo II orientadas paralelamente à superfície.",
+        "explicacao": "Esta zona (tangencial) é projetada para resistir às forças de cisalhamento durante o movimento articular, com fibras de colágeno dispostas paralelamente à superfície lisa."
+      },
+      {
+        "texto": "Fibras elásticas e condrócitos em grupos isógenos.",
+        "explicacao": "A cartilagem articular é hialina, não elástica, e os grupos isógenos são mais comuns na zona de transição."
+      }
+    ],
+    "respostaCorreta": 2
+  }
+]

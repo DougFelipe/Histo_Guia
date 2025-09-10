@@ -1,0 +1,812 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Qual célula é responsável pela síntese da parte orgânica da matriz óssea, incluindo o colágeno tipo I?",
+    "nivel": "fácil",
+    "subtopico": "células do tecido ósseo",
+    "tipo": "múltipla escolha",
+    "tags": ["osteoblasto", "matriz óssea", "síntese"],
+    "alternativas": [
+      {
+        "texto": "Osteócito",
+        "explicacao": "O osteócito é a célula madura, responsável pela manutenção da matriz óssea e pela detecção de estresse mecânico."
+      },
+      {
+        "texto": "Osteoclasto",
+        "explicacao": "O osteoclasto é uma célula multinucleada gigante, responsável pela reabsorção e degradação da matriz óssea."
+      },
+      {
+        "texto": "Osteoblasto",
+        "explicacao": "Localizados na superfície óssea, os osteoblastos produzem o osteoide (matriz orgânica não mineralizada) que posteriormente será calcificado."
+      },
+      {
+        "texto": "Célula osteoprogenitora",
+        "explicacao": "Esta é uma célula-tronco que se diferencia em osteoblastos, mas não sintetiza a matriz diretamente."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 2,
+    "enunciado": "A principal característica que confere dureza e rigidez à matriz óssea é a deposição de qual componente inorgânico?",
+    "nivel": "fácil",
+    "subtopico": "matriz óssea",
+    "tipo": "múltipla escolha",
+    "tags": ["hidroxiapatita", "cálcio", "mineralização", "matriz inorgânica"],
+    "alternativas": [
+      {
+        "texto": "Fibras de colágeno tipo I",
+        "explicacao": "O colágeno tipo I confere ao osso sua resistência à tração e flexibilidade, mas não a dureza."
+      },
+      {
+        "texto": "Proteoglicanos e glicoproteínas",
+        "explicacao": "Esses componentes da matriz orgânica ajudam a organizar o colágeno, mas não são responsáveis pela rigidez."
+      },
+      {
+        "texto": "Cristais de hidroxiapatita",
+        "explicacao": "A deposição de cristais de fosfato de cálcio, na forma de hidroxiapatita, sobre as fibras de colágeno é o que torna o osso um tecido mineralizado e rígido."
+      },
+      {
+        "texto": "Ácido hialurônico",
+        "explicacao": "O ácido hialurônico é um componente importante da matriz da cartilagem, responsável pela hidratação, mas não pela mineralização óssea."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 3,
+    "enunciado": "Como são chamadas as unidades estruturais e funcionais do osso compacto, formadas por lamelas concêntricas de matriz ao redor de um canal central?",
+    "nivel": "médio",
+    "subtopico": "estrutura do osso",
+    "tipo": "múltipla escolha",
+    "tags": ["sistema de Havers", "óstion", "osso compacto"],
+    "alternativas": [
+      {
+        "texto": "Trabéculas ósseas",
+        "explicacao": "As trabéculas são as espículas e placas que formam a rede do osso esponjoso, não as unidades do osso compacto."
+      },
+      {
+        "texto": "Sistemas de Havers (ou Óstions)",
+        "explicacao": "Cada sistema de Havers consiste em um canal central (canal de Havers) contendo vasos e nervos, cercado por cilindros de matriz óssea (lamelas) com osteócitos."
+      },
+      {
+        "texto": "Canais de Volkmann",
+        "explicacao": "Os canais de Volkmann são canais transversais ou oblíquos que conectam os canais de Havers entre si e com a superfície do osso."
+      },
+      {
+        "texto": "Lacunas de Howship",
+        "explicacao": "As lacunas de Howship são depressões na superfície do osso criadas pela atividade de reabsorção dos osteoclastos."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 4,
+    "enunciado": "Os osteócitos não estão isolados, mas se comunicam entre si através de prolongamentos citoplasmáticos. Por onde passam esses prolongamentos?",
+    "nivel": "médio",
+    "subtopico": "células do tecido ósseo",
+    "tipo": "múltipla escolha",
+    "tags": ["osteócito", "canalículos", "junções comunicantes"],
+    "alternativas": [
+      {
+        "texto": "Pelos canais de Havers.",
+        "explicacao": "Os canais de Havers são estruturas maiores que contêm vasos e nervos para suprir o óstion, não para a comunicação célula a célula."
+      },
+      {
+        "texto": "Através da matriz calcificada por difusão.",
+        "explicacao": "A difusão é extremamente limitada na matriz óssea densa e calcificada."
+      },
+      {
+        "texto": "Pelos canalículos ósseos.",
+        "explicacao": "Os canalículos são uma rede de finos túneis na matriz que abrigam os prolongamentos dos osteócitos, permitindo a conexão via junções comunicantes."
+      },
+      {
+        "texto": "Pelo interior das fibras de colágeno.",
+        "explicacao": "As fibras de colágeno são parte da matriz, mas não formam túneis para a passagem de prolongamentos celulares."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 5,
+    "enunciado": "A ossificação intramembranosa é o processo que forma quais ossos do corpo?",
+    "nivel": "médio",
+    "subtopico": "ossificação",
+    "tipo": "múltipla escolha",
+    "tags": ["ossificação intramembranosa", "ossos chatos", "desenvolvimento"],
+    "alternativas": [
+      {
+        "texto": "Os ossos longos dos membros, como o fêmur e o úmero.",
+        "explicacao": "Os ossos longos são formados pelo processo de ossificação endocondral, a partir de um molde de cartilagem."
+      },
+      {
+        "texto": "A maioria dos ossos chatos do crânio e a mandíbula.",
+        "explicacao": "Este processo ocorre diretamente a partir da condensação de células mesenquimais, sem a formação de um molde cartilaginoso prévio."
+      },
+      {
+        "texto": "As vértebras e os ossos do quadril.",
+        "explicacao": "Esses são ossos irregulares, formados predominantemente por ossificação endocondral."
+      },
+      {
+        "texto": "Os ossos curtos do carpo e do tarso.",
+        "explicacao": "Os ossos curtos também se desenvolvem por ossificação endocondral."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 6,
+    "enunciado": "Qual célula tem origem em precursores hematopoiéticos (monócitos) e é especializada na reabsorção da matriz óssea?",
+    "nivel": "fácil",
+    "subtopico": "células do tecido ósseo",
+    "tipo": "múltipla escolha",
+    "tags": ["osteoclasto", "reabsorção óssea", "monócito"],
+    "alternativas": [
+      {
+        "texto": "Osteoblasto",
+        "explicacao": "O osteoblasto tem origem mesenquimal e sua função é a de formar osso, o oposto da reabsorção."
+      },
+      {
+        "texto": "Osteócito",
+        "explicacao": "O osteócito deriva do osteoblasto e atua na manutenção e sensoriamento mecânico, não na reabsorção em larga escala."
+      },
+      {
+        "texto": "Osteoclasto",
+        "explicacao": "Esta célula se forma pela fusão de monócitos e se adere ao osso, secretando ácidos e enzimas (como a catepsina K) para dissolver a matriz mineral e orgânica."
+      },
+      {
+        "texto": "Condrócito",
+        "explicacao": "O condrócito é a célula do tecido cartilaginoso, com uma linhagem e função completamente distintas."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 7,
+    "enunciado": "O periósteo é uma membrana de tecido conjuntivo que reveste a superfície externa dos ossos. Qual é sua principal função?",
+    "nivel": "médio",
+    "subtopico": "estrutura do osso",
+    "tipo": "múltipla escolha",
+    "tags": ["periósteo", "reparo ósseo", "crescimento em espessura"],
+    "alternativas": [
+      {
+        "texto": "Produzir a medula óssea vermelha.",
+        "explicacao": "A medula óssea vermelha (tecido hematopoiético) está localizada na cavidade medular e nos espaços do osso esponjoso."
+      },
+      {
+        "texto": "Apenas proteger o osso contra traumas.",
+        "explicacao": "Embora ofereça proteção, sua função vai além disso, sendo crucial para a biologia do osso."
+      },
+      {
+        "texto": "Participar do reparo de fraturas e do crescimento em espessura.",
+        "explicacao": "Sua camada interna contém células osteoprogenitoras que se diferenciam em osteoblastos, essenciais para a consolidação de fraturas e para o crescimento aposicional."
+      },
+      {
+        "texto": "Formar a superfície articular do osso.",
+        "explicacao": "As superfícies articulares são revestidas por cartilagem articular (hialina), não por periósteo."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 8,
+    "enunciado": "A osteoporose é uma doença metabólica caracterizada pela perda de massa óssea. O desequilíbrio ocorre principalmente entre a atividade de quais células?",
+    "nivel": "fácil",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["osteoporose", "osteoclasto", "osteoblasto", "remodelamento"],
+    "alternativas": [
+      {
+        "texto": "Osteócitos e células osteoprogenitoras.",
+        "explicacao": "Embora os osteócitos modulem o remodelamento, o desequilíbrio efetivo ocorre entre as células que formam e as que reabsorvem osso."
+      },
+      {
+        "texto": "Osteoblastos e osteoclastos.",
+        "explicacao": "Na osteoporose, a taxa de reabsorção óssea pelos osteoclastos supera a taxa de formação óssea pelos osteoblastos, resultando em ossos frágeis e porosos."
+      },
+      {
+        "texto": "Condrócitos e osteoblastos.",
+        "explicacao": "Os condrócitos são células da cartilagem e não participam diretamente do remodelamento do osso maduro."
+      },
+      {
+        "texto": "Fibroblastos e osteoclastos.",
+        "explicacao": "Os fibroblastos são do tecido conjuntivo propriamente dito e não estão envolvidos na dinâmica do remodelamento ósseo."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 9,
+    "enunciado": "Qual hormônio, liberado em resposta a baixos níveis de cálcio no sangue, estimula a atividade dos osteoclastos para liberar cálcio do osso?",
+    "nivel": "médio",
+    "subtopico": "regulação hormonal",
+    "tipo": "múltipla escolha",
+    "tags": ["paratormônio", "PTH", "cálcio", "osteoclasto"],
+    "alternativas": [
+      {
+        "texto": "Calcitonina",
+        "explicacao": "A calcitonina tem o efeito oposto: é liberada em resposta a altos níveis de cálcio e inibe a atividade dos osteoclastos, promovendo a deposição de cálcio no osso."
+      },
+      {
+        "texto": "Hormônio do crescimento (GH)",
+        "explicacao": "O GH estimula o crescimento ósseo geral, mas não é o principal regulador agudo dos níveis de cálcio no sangue."
+      },
+      {
+        "texto": "Paratormônio (PTH)",
+        "explicacao": "Produzido pelas glândulas paratireoides, o PTH é o principal hormônio hipercalcemiante, estimulando a reabsorção óssea para elevar os níveis de cálcio sérico."
+      },
+      {
+        "texto": "Estrogênio",
+        "explicacao": "O estrogênio tem um efeito protetor sobre o osso, inibindo a atividade dos osteoclastos, mas não regula diretamente os níveis agudos de cálcio."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 10,
+    "enunciado": "A matriz óssea recém-sintetizada pelos osteoblastos, antes de ser mineralizada, é chamada de:",
+    "nivel": "fácil",
+    "subtopico": "matriz óssea",
+    "tipo": "múltipla escolha",
+    "tags": ["osteoide", "matriz orgânica", "osteoblasto"],
+    "alternativas": [
+      {
+        "texto": "Tecido de granulação",
+        "explicacao": "O tecido de granulação é um tecido conjuntivo novo e vascularizado, formado durante o processo de cicatrização de feridas."
+      },
+      {
+        "texto": "Osteoide",
+        "explicacao": "Este termo se refere à porção orgânica da matriz, composta principalmente por colágeno tipo I e proteoglicanos, que serve de arcabouço para a posterior deposição de minerais."
+      },
+      {
+        "texto": "Condroide",
+        "explicacao": "Este termo não é padrão. A matriz da cartilagem é simplesmente chamada de matriz cartilaginosa."
+      },
+      {
+        "texto": "Calo ósseo",
+        "explicacao": "O calo ósseo é a estrutura formada durante a consolidação de uma fratura, composta por uma mistura de cartilagem e osso."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 11,
+    "enunciado": "No osso esponjoso, a matriz óssea se organiza em:",
+    "nivel": "fácil",
+    "subtopico": "estrutura do osso",
+    "tipo": "múltipla escolha",
+    "tags": ["osso esponjoso", "trabécula", "medula óssea"],
+    "alternativas": [
+      {
+        "texto": "Sistemas de Havers compactos e densos.",
+        "explicacao": "Os sistemas de Havers (óstions) são a unidade estrutural do osso compacto, não do esponjoso."
+      },
+      {
+        "texto": "Uma rede tridimensional de trabéculas e espículas.",
+        "explicacao": "Esta rede de finas placas ósseas confere resistência com um peso mínimo, e seus espaços são preenchidos pela medula óssea."
+      },
+      {
+        "texto": "Lamelas perfeitamente paralelas à superfície do osso.",
+        "explicacao": "Lamelas paralelas à superfície são encontradas nas lamelas circunferenciais externa e interna do osso compacto."
+      },
+      {
+        "texto": "Canais centrais contendo grandes vasos sanguíneos.",
+        "explicacao": "O osso esponjoso não possui canais de Havers; sua nutrição vem dos vasos da medula óssea circundante."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 12,
+    "enunciado": "Qual vitamina é essencial para a absorção de cálcio no intestino e, portanto, crucial para a mineralização adequada do osso?",
+    "nivel": "fácil",
+    "subtopico": "regulação e metabolismo",
+    "tipo": "múltipla escolha",
+    "tags": ["vitamina D", "cálcio", "mineralização", "raquitismo"],
+    "alternativas": [
+      {
+        "texto": "Vitamina C",
+        "explicacao": "A vitamina C é essencial para a síntese de colágeno, a parte orgânica da matriz, mas não para a absorção de cálcio."
+      },
+      {
+        "texto": "Vitamina A",
+        "explicacao": "A vitamina A está envolvida na regulação da atividade dos osteoblastos e osteoclastos, mas não na absorção intestinal de cálcio."
+      },
+      {
+        "texto": "Vitamina K",
+        "explicacao": "A vitamina K é necessária para a carboxilação de proteínas ósseas como a osteocalcina, mas a vitamina D é a principal responsável pela absorção de cálcio."
+      },
+      {
+        "texto": "Vitamina D",
+        "explicacao": "A vitamina D, em sua forma ativa (calcitriol), promove a absorção de cálcio e fosfato pelo intestino, disponibilizando os minerais necessários para a ossificação."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 13,
+    "enunciado": "O processo de crescimento em comprimento dos ossos longos ocorre em qual estrutura?",
+    "nivel": "médio",
+    "subtopico": "ossificação",
+    "tipo": "múltipla escolha",
+    "tags": ["placa epifisária", "crescimento ósseo", "ossificação endocondral"],
+    "alternativas": [
+      {
+        "texto": "No periósteo que recobre a diáfise.",
+        "explicacao": "O periósteo é responsável pelo crescimento em espessura (aposicional), não em comprimento."
+      },
+      {
+        "texto": "Na cartilagem articular que reveste as epífises.",
+        "explicacao": "A cartilagem articular permite o movimento, mas não contribui para o alongamento do osso."
+      },
+      {
+        "texto": "No disco epifisário (placa de crescimento).",
+        "explicacao": "Nesta placa de cartilagem hialina, os condrócitos proliferam e são subsequentemente substituídos por osso, empurrando as epífises para longe da diáfise."
+      },
+      {
+        "texto": "No centro da cavidade medular.",
+        "explicacao": "A cavidade medular abriga a medula óssea, mas não participa do crescimento em comprimento."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 14,
+    "enunciado": "Os osteoclastos possuem uma 'borda em escova' ou 'borda pregueada' em contato com a matriz óssea. Qual a função desta especialização de membrana?",
+    "nivel": "difícil",
+    "subtopico": "células do tecido ósseo",
+    "tipo": "múltipla escolha",
+    "tags": ["osteoclasto", "borda em escova", "reabsorção óssea"],
+    "alternativas": [
+      {
+        "texto": "Aumentar a área de superfície para adesão ao osso.",
+        "explicacao": "A adesão é garantida por uma 'zona clara' que sela o compartimento de reabsorção, mas a borda pregueada tem outra função."
+      },
+      {
+        "texto": "Secretar colágeno para reparo da matriz.",
+        "explicacao": "Os osteoclastos reabsorvem a matriz; a secreção de colágeno é função dos osteoblastos."
+      },
+      {
+        "texto": "Aumentar a área de superfície para a secreção de ácido e enzimas.",
+        "explicacao": "Esta grande área de membrana permite a liberação eficiente de íons hidrogênio (para dissolver o mineral) e hidrolases lisossômicas (para digerir a matriz orgânica)."
+      },
+      {
+        "texto": "Detectar microdanos na matriz óssea.",
+        "explicacao": "A detecção de microdanos é uma função atribuída principalmente à rede de osteócitos."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 15,
+    "enunciado": "O endósteo é uma fina camada de células que reveste qual superfície do osso?",
+    "nivel": "médio",
+    "subtopico": "estrutura do osso",
+    "tipo": "múltipla escolha",
+    "tags": ["endósteo", "cavidade medular", "canais"],
+    "alternativas": [
+      {
+        "texto": "A superfície externa do osso, sob o periósteo.",
+        "explicacao": "A superfície externa é revestida pelo periósteo."
+      },
+      {
+        "texto": "A superfície articular coberta por cartilagem.",
+        "explicacao": "A superfície articular é revestida por cartilagem hialina."
+      },
+      {
+        "texto": "As superfícies internas, incluindo a cavidade medular e os canais de Havers.",
+        "explicacao": "O endósteo é uma monocamada de células osteoprogenitoras e osteoblastos que recobre todas as cavidades internas do osso."
+      },
+      {
+        "texto": "Apenas o interior dos canalículos ósseos.",
+        "explicacao": "Os canalículos contêm os prolongamentos dos osteócitos, mas não são revestidos por uma camada celular distinta como o endósteo."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 16,
+    "enunciado": "O raquitismo em crianças e a osteomalácia em adultos são causados pela mineralização defeituosa da matriz óssea, geralmente devido à deficiência de qual vitamina?",
+    "nivel": "fácil",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["raquitismo", "osteomalácia", "vitamina D"],
+    "alternativas": [
+      {
+        "texto": "Vitamina C",
+        "explicacao": "A deficiência de vitamina C causa escorbuto, que afeta a síntese de colágeno, resultando em uma matriz orgânica frágil, mas não um defeito primário de mineralização."
+      },
+      {
+        "texto": "Vitamina B12",
+        "explicacao": "A deficiência de vitamina B12 está associada a anemia e problemas neurológicos, não diretamente à mineralização óssea."
+      },
+      {
+        "texto": "Vitamina D",
+        "explicacao": "A deficiência severa de vitamina D leva a níveis insuficientes de cálcio e fosfato, impedindo a calcificação adequada do osteoide e resultando em ossos moles e deformados."
+      },
+      {
+        "texto": "Vitamina E",
+        "explicacao": "A vitamina E é um antioxidante e sua deficiência está ligada a problemas neurológicos e musculares."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 17,
+    "enunciado": "As Fibras de Sharpey são feixes de fibras de colágeno que têm qual função?",
+    "nivel": "difícil",
+    "subtopico": "estrutura do osso",
+    "tipo": "múltipla escolha",
+    "tags": ["fibras de Sharpey", "periósteo", "ancoragem"],
+    "alternativas": [
+      {
+        "texto": "Conectar os osteócitos entre si dentro do óstion.",
+        "explicacao": "Os osteócitos se conectam por prolongamentos dentro de canalículos, não por fibras de colágeno."
+      },
+      {
+        "texto": "Formar a estrutura principal das trabéculas do osso esponjoso.",
+        "explicacao": "As trabéculas são feitas de lamelas ósseas, não de fibras de ancoragem."
+      },
+      {
+        "texto": "Ancorar firmemente o periósteo ao osso compacto subjacente.",
+        "explicacao": "Essas fibras se estendem do periósteo para dentro da matriz óssea, fixando-o fortemente ao osso, especialmente em locais de inserção de tendões e ligamentos."
+      },
+      {
+        "texto": "Revestir o interior dos canais de Havers.",
+        "explicacao": "Os canais de Havers são revestidos pelo endósteo."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 18,
+    "enunciado": "A calictonina, produzida pela glândula tireoide, exerce qual efeito sobre o tecido ósseo?",
+    "nivel": "médio",
+    "subtopico": "regulação hormonal",
+    "tipo": "múltipla escolha",
+    "tags": ["calcitonina", "osteoclasto", "cálcio"],
+    "alternativas": [
+      {
+        "texto": "Estimula a proliferação de condrócitos na placa epifisária.",
+        "explicacao": "A proliferação de condrócitos é estimulada principalmente pelo IGF-1, sob influência do hormônio do crescimento."
+      },
+      {
+        "texto": "Inibe a atividade dos osteoclastos, diminuindo a reabsorção óssea.",
+        "explicacao": "Liberada quando os níveis de cálcio no sangue estão altos, a calcitonina age rapidamente para reduzir a reabsorção óssea, favorecendo a deposição de cálcio."
+      },
+      {
+        "texto": "Aumenta a produção de matriz orgânica pelos osteoblastos.",
+        "explicacao": "Embora a inibição da reabsorção possa favorecer a formação líquida de osso, o efeito primário e mais potente da calcitonina é sobre os osteoclastos."
+      },
+      {
+        "texto": "Promove a absorção de cálcio no intestino.",
+        "explicacao": "A absorção de cálcio no intestino é uma função da vitamina D ativa (calcitriol)."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 19,
+    "enunciado": "O osso primário (imaturo ou tecido ósseo não lamelar) difere do osso secundário (maduro ou lamelar) por qual característica?",
+    "nivel": "médio",
+    "subtopico": "tipos de tecido ósseo",
+    "tipo": "múltipla escolha",
+    "tags": ["osso primário", "osso secundário", "colágeno"],
+    "alternativas": [
+      {
+        "texto": "Ser completamente avascular.",
+        "explicacao": "Tanto o osso primário quanto o secundário são vascularizados."
+      },
+      {
+        "texto": "Não conter osteócitos em sua matriz.",
+        "explicacao": "Ambos os tipos de osso contêm osteócitos aprisionados em lacunas."
+      },
+      {
+        "texto": "Possuir fibras de colágeno dispostas de forma irregular e entrelaçada.",
+        "explicacao": "O osso primário tem uma organização aleatória das fibras de colágeno, enquanto o osso secundário tem uma organização lamelar altamente organizada, o que o torna mais forte."
+      },
+      {
+        "texto": "Ter uma porcentagem maior de mineral em relação à matriz orgânica.",
+        "explicacao": "O osso primário geralmente tem uma menor porcentagem de mineral e mais osteócitos por unidade de área do que o osso secundário."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 20,
+    "enunciado": "Durante o reparo de uma fratura, forma-se um calo mole inicial. Qual tecido é predominante nesta fase?",
+    "nivel": "médio",
+    "subtopico": "reparo ósseo",
+    "tipo": "múltipla escolha",
+    "tags": ["fratura", "calo ósseo", "cartilagem"],
+    "alternativas": [
+      {
+        "texto": "Osso compacto lamelar.",
+        "explicacao": "O osso compacto lamelar é o produto final do remodelamento, não a estrutura inicial."
+      },
+      {
+        "texto": "Tecido fibrocartilaginoso e cartilagem hialina.",
+        "explicacao": "O calo mole une as extremidades da fratura com uma massa de tecido cartilaginoso e fibroso, que estabiliza o local antes da ossificação."
+      },
+      {
+        "texto": "Tecido adiposo e medula óssea.",
+        "explicacao": "A medula óssea será restaurada posteriormente, mas não forma a estrutura de estabilização inicial."
+      },
+      {
+        "texto": "Apenas tecido conjuntivo denso.",
+        "explicacao": "Embora haja um componente fibroso, a presença de cartilagem é crucial para o calo mole."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 21,
+    "enunciado": "A osteocalcina é uma proteína não colagenosa da matriz óssea. Sua função está relacionada a:",
+    "nivel": "difícil",
+    "subtopico": "matriz óssea",
+    "tipo": "múltipla escolha",
+    "tags": ["osteocalcina", "vitamina K", "mineralização"],
+    "alternativas": [
+      {
+        "texto": "Estimular a diferenciação de osteoclastos.",
+        "explicacao": "A diferenciação de osteoclastos é regulada por citocinas como RANKL, não pela osteocalcina."
+      },
+      {
+        "texto": "Ligar-se ao cálcio e participar da mineralização da matriz.",
+        "explicacao": "A osteocalcina, dependente de vitamina K para sua ativação, tem alta afinidade por íons de cálcio e cristais de hidroxiapatita, desempenhando um papel na regulação da deposição mineral."
+      },
+      {
+        "texto": "Formar a principal estrutura das fibras elásticas no osso.",
+        "explicacao": "O osso contém quantidades mínimas de fibras elásticas; sua principal fibra é o colágeno tipo I."
+      },
+      {
+        "texto": "Ancorar o periósteo à superfície óssea.",
+        "explicacao": "A ancoragem do periósteo é feita pelas fibras de Sharpey, que são feixes de colágeno."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 22,
+    "enunciado": "Qual é a origem das células osteoprogenitoras?",
+    "nivel": "fácil",
+    "subtopico": "células do tecido ósseo",
+    "tipo": "múltipla escolha",
+    "tags": ["célula osteoprogenitora", "mesênquima", "célula-tronco"],
+    "alternativas": [
+      {
+        "texto": "Da fusão de macrófagos.",
+        "explicacao": "A fusão de macrófagos (monócitos) dá origem aos osteoclastos."
+      },
+      {
+        "texto": "De células mesenquimais.",
+        "explicacao": "As células osteoprogenitoras são células-tronco de origem mesenquimal, que retêm a capacidade de se dividir e diferenciar em osteoblastos."
+      },
+      {
+        "texto": "Da diferenciação de osteócitos.",
+        "explicacao": "Osteócitos são células terminalmente diferenciadas e não dão origem a outras células ósseas."
+      },
+      {
+        "texto": "De células do endotélio vascular.",
+        "explicacao": "As células endoteliais formam o revestimento dos vasos, mas não dão origem à linhagem osteoblástica."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 23,
+    "enunciado": "O que são as lamelas intersticiais encontradas no osso compacto?",
+    "nivel": "difícil",
+    "subtopico": "estrutura do osso",
+    "tipo": "múltipla escolha",
+    "tags": ["lamela intersticial", "remodelamento", "óstion"],
+    "alternativas": [
+      {
+        "texto": "Lamelas recém-formadas na periferia de um óstion.",
+        "explicacao": "As lamelas que formam um óstion são chamadas de lamelas concêntricas."
+      },
+      {
+        "texto": "Fragmentos de óstions antigos que preenchem os espaços entre os óstions atuais.",
+        "explicacao": "Durante o remodelamento ósseo, óstions antigos são parcialmente reabsorvidos e substituídos por novos. As lamelas intersticiais são os remanescentes desses óstions mais velhos."
+      },
+      {
+        "texto": "Lamelas que revestem a cavidade medular.",
+        "explicacao": "Essas são as lamelas circunferenciais internas."
+      },
+      {
+        "texto": "As camadas de osso que formam uma trabécula no osso esponjoso.",
+        "explicacao": "As trabéculas são compostas por lamelas, mas o termo 'intersticial' se refere ao arranjo no osso compacto."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 24,
+    "enunciado": "A doença de Paget do osso é caracterizada por um remodelamento ósseo excessivo e desorganizado. Isso implica uma atividade anormalmente alta de quais células?",
+    "nivel": "médio",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["doença de Paget", "remodelamento", "osteoclasto"],
+    "alternativas": [
+      {
+        "texto": "Apenas de condrócitos.",
+        "explicacao": "Os condrócitos pertencem à cartilagem e não estão envolvidos no remodelamento do osso maduro."
+      },
+      {
+        "texto": "Tanto de osteoclastos quanto de osteoblastos.",
+        "explicacao": "A doença geralmente começa com uma fase de reabsorção osteoclástica frenética, seguida por uma fase de formação osteoblástica compensatória, mas desorganizada, resultando em osso estruturalmente fraco."
+      },
+      {
+        "texto": "Apenas de células osteoprogenitoras.",
+        "explicacao": "A proliferação de células osteoprogenitoras ocorre, mas a patologia central está na atividade das células maduras."
+      },
+      {
+        "texto": "Apenas de osteócitos.",
+        "explicacao": "Os osteócitos podem ser afetados pelo processo desorganizado, mas não são as células que impulsionam o remodelamento excessivo."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 25,
+    "enunciado": "A principal proteína da matriz orgânica do osso é:",
+    "nivel": "fácil",
+    "subtopico": "matriz óssea",
+    "tipo": "múltipla escolha",
+    "tags": ["colágeno tipo I", "matriz orgânica", "osteoide"],
+    "alternativas": [
+      {
+        "texto": "Colágeno tipo II",
+        "explicacao": "O colágeno tipo II é o principal colágeno da cartilagem hialina e elástica."
+      },
+      {
+        "texto": "Elastina",
+        "explicacao": "A elastina é a principal proteína das fibras elásticas, conferindo resiliência, mas é muito escassa no osso."
+      },
+      {
+        "texto": "Colágeno tipo I",
+        "explicacao": "O colágeno tipo I constitui cerca de 90% da porção orgânica da matriz óssea, fornecendo o arcabouço para a mineralização."
+      },
+      {
+        "texto": "Osteonectina",
+        "explicacao": "A osteonectina é uma importante glicoproteína não colagenosa que liga o colágeno ao mineral, mas não é a proteína mais abundante."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 26,
+    "enunciado": "A atividade dos osteoblastos é regulada por diversos fatores, incluindo hormônios e forças mecânicas. Qual a consequência da imobilização prolongada (falta de carga mecânica) sobre o osso?",
+    "nivel": "médio",
+    "subtopico": "regulação e metabolismo",
+    "tipo": "múltipla escolha",
+    "tags": ["carga mecânica", "remodelamento", "atrofia"],
+    "alternativas": [
+      {
+        "texto": "Aumento da formação óssea para fortalecer o osso.",
+        "explicacao": "O estímulo mecânico é necessário para a formação óssea; sua ausência leva ao efeito oposto."
+      },
+      {
+        "texto": "Predominância da reabsorção óssea sobre a formação, levando à perda de massa óssea.",
+        "explicacao": "A falta de estímulo mecânico é interpretada pelos osteócitos, que sinalizam para diminuir a atividade dos osteoblastos e aumentar a dos osteoclastos, causando atrofia por desuso."
+      },
+      {
+        "texto": "Nenhuma alteração significativa no remodelamento ósseo.",
+        "explicacao": "O osso é um tecido dinâmico que se adapta constantemente às cargas mecânicas; a ausência delas é um estímulo potente para a reabsorção."
+      },
+      {
+        "texto": "Transformação do osso compacto em osso esponjoso.",
+        "explicacao": "Ocorre perda de massa em ambos os compartimentos, mas não uma transformação de um tipo para o outro."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 27,
+    "enunciado": "Qual estrutura anatômica representa o local da medula óssea vermelha ativa em adultos?",
+    "nivel": "médio",
+    "subtopico": "estrutura do osso",
+    "tipo": "múltipla escolha",
+    "tags": ["medula óssea vermelha", "hematopoiese", "osso esponjoso"],
+    "alternativas": [
+      {
+        "texto": "A cavidade medular da diáfise dos ossos longos.",
+        "explicacao": "Em adultos, a medula na diáfise dos ossos longos é predominantemente amarela (tecido adiposo), com pouca atividade hematopoiética."
+      },
+      {
+        "texto": "Os espaços do osso esponjoso de ossos como o esterno, vértebras e ilíaco.",
+        "explicacao": "A hematopoiese em adultos fica restrita a locais específicos, principalmente nos espaços trabeculares dos ossos chatos e irregulares."
+      },
+      {
+        "texto": "O interior dos canais de Havers.",
+        "explicacao": "Os canais de Havers contêm vasos, nervos e endósteo, mas não medula óssea hematopoiética."
+      },
+      {
+        "texto": "A camada mais interna do periósteo.",
+        "explicacao": "A camada interna do periósteo contém células osteoprogenitoras, não tecido hematopoiético."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 28,
+    "enunciado": "A osteopetrose, ou 'doença do osso de mármore', é uma doença genética rara caracterizada por ossos excessivamente densos e quebradiços. Qual é a falha celular subjacente?",
+    "nivel": "difícil",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["osteopetrose", "osteoclasto", "reabsorção óssea"],
+    "alternativas": [
+      {
+        "texto": "Atividade excessiva dos osteoblastos, produzindo osso em demasia.",
+        "explicacao": "Embora o osso seja denso, o problema primário não é a formação excessiva, mas a falta de remoção."
+      },
+      {
+        "texto": "Falha na função dos osteoclastos, impedindo a reabsorção óssea.",
+        "explicacao": "Devido a defeitos genéticos, os osteoclastos são incapazes de reabsorver o osso. Isso impede o remodelamento, a formação da cavidade medular e resulta em um osso denso, mas mecanicamente fraco."
+      },
+      {
+        "texto": "Produção de um tipo anormal de colágeno pelos osteócitos.",
+        "explicacao": "Defeitos no colágeno causam doenças como a osteogênese imperfeita, não a osteopetrose."
+      },
+      {
+        "texto": "Calcificação prematura da placa epifisária.",
+        "explicacao": "A falha no remodelamento da cartilagem calcificada é uma consequência, mas a falha primária está na incapacidade do osteoclasto de reabsorver tecido mineralizado."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 29,
+    "enunciado": "A principal diferença entre a ossificação intramembranosa e a endocondral é que a intramembranosa:",
+    "nivel": "fácil",
+    "subtopico": "ossificação",
+    "tipo": "múltipla escolha",
+    "tags": ["ossificação intramembranosa", "ossificação endocondral"],
+    "alternativas": [
+      {
+        "texto": "É responsável pelo crescimento em comprimento dos ossos.",
+        "explicacao": "O crescimento em comprimento ocorre por ossificação endocondral na placa epifisária."
+      },
+      {
+        "texto": "Ocorre a partir de um molde de cartilagem hialina.",
+        "explicacao": "A presença de um molde de cartilagem é a definição da ossificação endocondral."
+      },
+      {
+        "texto": "Forma osso diretamente a partir de uma condensação de mesênquima.",
+        "explicacao": "Neste processo, células mesenquimais se diferenciam diretamente em osteoblastos, que começam a secretar matriz óssea."
+      },
+      {
+        "texto": "Envolve a atividade de osteoclastos para remodelamento.",
+        "explicacao": "Ambos os tipos de ossificação são seguidos por um intenso processo de remodelamento mediado por osteoclastos e osteoblastos."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 30,
+    "enunciado": "As articulações do tipo sutura, encontradas entre os ossos do crânio, são unidas por qual tipo de tecido?",
+    "nivel": "médio",
+    "subtopico": "articulações",
+    "tipo": "múltipla escolha",
+    "tags": ["sutura", "articulação fibrosa", "crânio"],
+    "alternativas": [
+      {
+        "texto": "Cartilagem hialina.",
+        "explicacao": "Articulações unidas por cartilagem hialina são chamadas de sincondroses, como a primeira articulação esternocostal."
+      },
+      {
+        "texto": "Fibrocartilagem.",
+        "explicacao": "Articulações unidas por fibrocartilagem são chamadas de sínfises, como a sínfise púbica e os discos intervertebrais."
+      },
+      {
+        "texto": "Uma fina camada de tecido conjuntivo denso.",
+        "explicacao": "As suturas são articulações fibrosas imóveis, onde os ossos são interligados por fibras de colágeno curtas, que se ossificam com a idade (sinostose)."
+      },
+      {
+        "texto": "Uma cápsula articular contendo líquido sinovial.",
+        "explicacao": "Essa é a estrutura de uma articulação sinovial, que permite grande mobilidade, como o joelho ou o ombro."
+      }
+    ],
+    "respostaCorreta": 2
+  }
+]

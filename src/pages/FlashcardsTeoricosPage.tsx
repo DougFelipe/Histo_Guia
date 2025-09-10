@@ -24,7 +24,9 @@ const FlashcardsTeoricosPage: React.FC = () => {
     'tecido-epitelial', 
     'tecido-muscular',
     'tecido-nervoso',
-    'sistema-circulatorio'
+    'sistema-circulatorio',
+    'cartilagem',
+    'tecido-osseo'
   ];
 
   useEffect(() => {

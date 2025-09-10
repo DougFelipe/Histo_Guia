@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { ChevronDown, BookOpen } from 'lucide-react';
+import { TEMAS_DISPONIVEIS, formatarNomeTema } from '../utils/temas';
 
 interface DropdownTemaProps {
   temaSelecionado: string;
@@ -11,23 +12,9 @@ const DropdownTema: React.FC<DropdownTemaProps> = ({ temaSelecionado, onTemaSele
   const [temas, setTemas] = useState<string[]>([]);
 
   useEffect(() => {
-    // Carregar lista de temas disponíveis
-    // Por enquanto, usaremos uma lista fixa, mas pode ser carregada dinamicamente
-    const temasDisponiveis = [
-      'tecido-epitelial',
-      'tecido-conjuntivo',
-      'tecido-muscular',
-      'tecido-nervoso',
-      'sistema-circulatorio',
-    ];
-    setTemas(temasDisponiveis);
+    // Carregar lista de temas disponíveis da configuração centralizada
+    setTemas([...TEMAS_DISPONIVEIS]);
   }, []);
-
-  const formatarNomeTema = (tema: string) => {
-    return tema.split('-').map(palavra => 
-      palavra.charAt(0).toUpperCase() + palavra.slice(1)
-    ).join(' ');
-  };
 
   return (
     <div className="bg-white rounded-xl md:rounded-2xl shadow-lg p-4 md:p-6 border border-slate-100 mx-2 md:mx-0">
