@@ -1,29 +1,812 @@
 [
   {
     "numero": 1,
-    "enunciado": "Qual camada da parede arterial é responsável pela regulação do diâmetro do vaso?",
-    "nivel": "médio",
-    "subtopico": "histologia vascular",
+    "enunciado": "Qual é a camada mais interna do coração, que está em contato direto com o sangue e é contínua com o endotélio dos vasos sanguíneos?",
+    "nivel": "fácil",
+    "subtopico": "histologia do coração",
     "tipo": "múltipla escolha",
-    "tags": ["artéria", "músculo liso", "vasoconstrição"],
+    "tags": ["endocárdio", "coração", "revestimento"],
     "alternativas": [
       {
-        "texto": "Túnica íntima",
-        "explicacao": "Incorreto. A túnica íntima é a camada mais interna, formada pelo endotélio, e sua função principal é o revestimento interno do vaso, não a regulação do diâmetro."
+        "texto": "Miocárdio",
+        "explicacao": "O miocárdio é a camada muscular espessa do coração, responsável pela sua contração."
       },
       {
+        "texto": "Epicárdio",
+        "explicacao": "O epicárdio é a camada mais externa do coração, também conhecida como folheto visceral do pericárdio seroso."
+      },
+      {
+        "texto": "Endocárdio",
+        "explicacao": "Composto por um endotélio e uma camada subjacente de tecido conjuntivo frouxo, o endocárdio reveste todas as câmaras e valvas cardíacas."
+      },
+      {
+        "texto": "Pericárdio parietal",
+        "explicacao": "O pericárdio parietal é a camada externa do saco que envolve o coração, não fazendo parte da parede cardíaca em si."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 2,
+    "enunciado": "A túnica média de uma artéria elástica, como a aorta, é caracterizada pela abundância de qual componente?",
+    "nivel": "médio",
+    "subtopico": "artérias",
+    "tipo": "múltipla escolha",
+    "tags": ["artéria elástica", "túnica média", "elastina"],
+    "alternativas": [
+      {
+        "texto": "Fibras de colágeno tipo I dispostas irregularmente.",
+        "explicacao": "Fibras de colágeno são mais predominantes na túnica adventícia e não são o principal componente funcional da túnica média elástica."
+      },
+      {
+        "texto": "Múltiplas camadas de células musculares lisas com poucas fibras elásticas.",
+        "explicacao": "Esta descrição é mais característica de uma artéria muscular, que tem a função de regular o fluxo sanguíneo."
+      },
+      {
+        "texto": "Lâminas concêntricas e fenestradas de elastina.",
+        "explicacao": "Essas lâminas elásticas permitem que a artéria se expanda durante a sístole e retorne passivamente durante a diástole, mantendo o fluxo sanguíneo contínuo."
+      },
+      {
+        "texto": "Apenas tecido conjuntivo frouxo com vasa vasorum.",
+        "explicacao": "O vasa vasorum é encontrado na túnica adventícia e na parte externa da média de grandes vasos, mas o componente principal da média elástica é a elastina."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 3,
+    "enunciado": "Qual tipo de capilar é encontrado em órgãos que requerem uma troca intensa de substâncias com o sangue, como os glomérulos renais e as vilosidades intestinais?",
+    "nivel": "médio",
+    "subtopico": "capilares",
+    "tipo": "múltipla escolha",
+    "tags": ["capilar fenestrado", "filtração", "absorção"],
+    "alternativas": [
+      {
+        "texto": "Capilar contínuo",
+        "explicacao": "Capilares contínuos têm um endotélio sem interrupções e são encontrados em músculos, pulmões e no sistema nervoso, onde a passagem de substâncias é altamente regulada."
+      },
+      {
+        "texto": "Capilar sinusoide",
+        "explicacao": "Capilares sinusoides possuem grandes descontinuidades entre as células e na lâmina basal, permitindo a passagem de células inteiras, como no fígado e na medula óssea."
+      },
+      {
+        "texto": "Capilar fenestrado",
+        "explicacao": "As células endoteliais desses capilares possuem poros ou 'fenestras' que permitem a passagem rápida de água e pequenas moléculas, sendo ideais para filtração e absorção."
+      },
+      {
+        "texto": "Capilar linfático",
+        "explicacao": "Os capilares linfáticos têm uma estrutura distinta com fundo cego e são especializados na drenagem de líquido intersticial, não na troca com o sangue."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 4,
+    "enunciado": "O endotélio vascular não é apenas uma barreira passiva. Uma de suas funções ativas mais importantes é a:",
+    "nivel": "fácil",
+    "subtopico": "endotélio",
+    "tipo": "múltipla escolha",
+    "tags": ["endotélio", "vasodilatação", "coagulação"],
+    "alternativas": [
+      {
+        "texto": "Produção de hormônios esteroides.",
+        "explicacao": "A produção de hormônios esteroides ocorre em glândulas como as adrenais e as gônadas, não no endotélio."
+      },
+      {
+        "texto": "Síntese de fibras de colágeno para a túnica média.",
+        "explicacao": "As fibras de colágeno da túnica média são produzidas pelas células musculares lisas."
+      },
+      {
+        "texto": "Regulação do tônus vascular e da coagulação sanguínea.",
+        "explicacao": "O endotélio produz substâncias como o óxido nítrico (vasodilatador) e o fator de von Willebrand (pró-coagulante), desempenhando um papel central na hemostasia."
+      },
+      {
+        "texto": "Condução de impulsos elétricos para contração do vaso.",
+        "explicacao": "A contração do vaso é regulada por sinais nervosos e hormonais que atuam sobre as células musculares lisas, não sendo uma função de condução do endotélio."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 5,
+    "enunciado": "As veias, em comparação com as artérias de calibre semelhante, geralmente apresentam qual característica histológica?",
+    "nivel": "fácil",
+    "subtopico": "veias",
+    "tipo": "múltipla escolha",
+    "tags": ["veia", "artéria", "túnica adventícia"],
+    "alternativas": [
+      {
+        "texto": "Uma túnica média mais espessa e organizada.",
+        "explicacao": "As artérias têm uma túnica média muito mais desenvolvida para suportar a alta pressão e regular o fluxo sanguíneo."
+      },
+      {
+        "texto": "Uma luz (lúmen) menor e mais regular.",
+        "explicacao": "As veias têm uma luz maior e frequentemente colabada ou irregular, devido à sua parede mais delgada."
+      },
+      {
+        "texto": "Uma túnica adventícia mais delgada que a túnica média.",
+        "explicacao": "Nas veias, a túnica adventícia é tipicamente a camada mais espessa, contendo colágeno e, em grandes veias, feixes de músculo liso longitudinal."
+      },
+      {
+        "texto": "Presença de lâminas elásticas interna e externa bem definidas.",
+        "explicacao": "As lâminas elásticas são proeminentes nas artérias, mas são ausentes ou pouco desenvolvidas na maioria das veias."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 6,
+    "enunciado": "As válvulas venosas, que impedem o refluxo de sangue, são dobras de qual camada da parede do vaso?",
+    "nivel": "médio",
+    "subtopico": "veias",
+    "tipo": "múltipla escolha",
+    "tags": ["válvula venosa", "túnica íntima", "refluxo"],
+    "alternativas": [
+      {
         "texto": "Túnica média",
-        "explicacao": "Correto! A túnica média contém músculo liso que pode se contrair (vasoconstrição) ou relaxar (vasodilatação), regulando assim o diâmetro do vaso sanguíneo e o fluxo sanguíneo."
+        "explicacao": "A túnica média é a camada muscular e não participa da formação das válvulas."
       },
       {
         "texto": "Túnica adventícia",
-        "explicacao": "Incorreto. A túnica adventícia é a camada mais externa, composta principalmente por tecido conjuntivo, e sua função é dar suporte estrutural, não regular o diâmetro."
+        "explicacao": "A túnica adventícia é a camada de revestimento externo do vaso."
       },
       {
-        "texto": "Lâmina elástica interna",
-        "explicacao": "Incorreto. Embora a lâmina elástica interna contribua para a elasticidade do vaso, a regulação ativa do diâmetro é função do músculo liso da túnica média."
+        "texto": "Túnica íntima",
+        "explicacao": "As válvulas são dobras em forma de meia-lua da túnica íntima, compostas por um eixo de tecido conjuntivo revestido por endotélio."
+      },
+      {
+        "texto": "Uma combinação de todas as três túnicas.",
+        "explicacao": "Apenas a túnica íntima se dobra para formar as cúspides da válvula."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 7,
+    "enunciado": "O miocárdio, a camada muscular do coração, é composto por qual tipo de tecido muscular?",
+    "nivel": "fácil",
+    "subtopico": "histologia do coração",
+    "tipo": "múltipla escolha",
+    "tags": ["miocárdio", "músculo estriado cardíaco", "coração"],
+    "alternativas": [
+      {
+        "texto": "Tecido muscular liso",
+        "explicacao": "O músculo liso é encontrado nas paredes de órgãos ocos como o intestino e os vasos sanguíneos; sua contração é involuntária e lenta."
+      },
+      {
+        "texto": "Tecido muscular estriado esquelético",
+        "explicacao": "O músculo estriado esquelético está ligado aos ossos, é responsável pelo movimento voluntário e suas células são multinucleadas."
+      },
+      {
+        "texto": "Tecido muscular estriado cardíaco",
+        "explicacao": "Este tecido é exclusivo do coração. Suas células (cardiomiócitos) são ramificadas, uninucleadas e unidas pelos discos intercalares, permitindo uma contração sincronizada."
+      },
+      {
+        "texto": "Tecido conjuntivo denso",
+        "explicacao": "O tecido conjuntivo denso forma o esqueleto fibroso do coração, mas não a camada contrátil."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 8,
+    "enunciado": "Os 'vasa vasorum' são pequenos vasos sanguíneos que têm qual função?",
+    "nivel": "médio",
+    "subtopico": "estrutura vascular",
+    "tipo": "múltipla escolha",
+    "tags": ["vasa vasorum", "nutrição", "túnica adventícia"],
+    "alternativas": [
+      {
+        "texto": "Drenar o líquido intersticial para os vasos linfáticos.",
+        "explicacao": "A drenagem do líquido intersticial é feita pelos capilares linfáticos."
+      },
+      {
+        "texto": "Nutrir as camadas externas (adventícia e média) da parede de grandes vasos.",
+        "explicacao": "Como a parede de vasos como a aorta e a veia cava é muito espessa, a difusão a partir do lúmen é insuficiente. Os vasa vasorum fornecem um suprimento sanguíneo próprio para essas camadas."
+      },
+      {
+        "texto": "Conectar diretamente arteríolas a vênulas, desviando os capilares.",
+        "explicacao": "As conexões diretas entre arteríolas e vênulas são chamadas de anastomoses arteriovenosas."
+      },
+      {
+        "texto": "Regular a pressão sanguínea nos rins.",
+        "explicacao": "A regulação da pressão nos rins envolve estruturas como o aparelho justaglomerular."
       }
     ],
     "respostaCorreta": 1
+  },
+  {
+    "numero": 9,
+    "enunciado": "As arteríolas são os principais vasos de resistência do sistema circulatório. Qual característica histológica lhes confere essa função?",
+    "nivel": "médio",
+    "subtopico": "arteríolas",
+    "tipo": "múltipla escolha",
+    "tags": ["arteríola", "resistência vascular", "túnica média"],
+    "alternativas": [
+      {
+        "texto": "Uma túnica íntima espessa com muitas fibras elásticas.",
+        "explicacao": "A túnica íntima da arteríola é muito delgada."
+      },
+      {
+        "texto": "Uma túnica média bem desenvolvida em relação ao diâmetro do lúmen.",
+        "explicacao": "As arteríolas possuem de uma a três camadas de células musculares lisas, o que permite uma vasoconstrição potente e, assim, o controle do fluxo sanguíneo para os leitos capilares."
+      },
+      {
+        "texto": "Presença de fenestras no endotélio.",
+        "explicacao": "As fenestras são características de alguns capilares, não de arteríolas."
+      },
+      {
+        "texto": "Uma túnica adventícia proeminente com muitos nervos.",
+        "explicacao": "Embora sejam ricamente inervadas, a capacidade de alterar a resistência vem da camada muscular, não da adventícia."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 10,
+    "enunciado": "Os discos intercalares são estruturas especializadas encontradas unindo as células de qual tecido?",
+    "nivel": "fácil",
+    "subtopico": "histologia do coração",
+    "tipo": "múltipla escolha",
+    "tags": ["disco intercalar", "músculo cardíaco", "junções"],
+    "alternativas": [
+      {
+        "texto": "Do endotélio vascular",
+        "explicacao": "As células endoteliais são unidas por junções de oclusão e junções comunicantes, mas não possuem discos intercalares."
+      },
+      {
+        "texto": "Do músculo liso vascular",
+        "explicacao": "As células musculares lisas são unidas por junções comunicantes, mas não formam as estruturas complexas dos discos intercalares."
+      },
+      {
+        "texto": "Do músculo estriado cardíaco",
+        "explicacao": "Os discos intercalares são junções célula-célula que contêm desmossomos (para adesão), fáscias de adesão (para ancorar os filamentos de actina) e junções comunicantes (para acoplamento elétrico)."
+      },
+      {
+        "texto": "Do músculo estriado esquelético",
+        "explicacao": "As células do músculo esquelético são fibras longas e multinucleadas que não estão unidas ponta a ponta por discos intercalares."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 11,
+    "enunciado": "A aterosclerose é uma doença inflamatória crônica que leva à formação de placas nas artérias. Em qual camada da parede arterial a placa (ateroma) se desenvolve primariamente?",
+    "nivel": "difícil",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["aterosclerose", "túnica íntima", "placa"],
+    "alternativas": [
+      {
+        "texto": "Túnica adventícia",
+        "explicacao": "A inflamação pode se estender para a adventícia, mas a lesão inicial e o acúmulo de lipídios ocorrem em outra camada."
+      },
+      {
+        "texto": "Túnica íntima",
+        "explicacao": "O processo começa com a disfunção endotelial e o acúmulo de lipoproteínas (como o LDL) e células inflamatórias (macrófagos) no espaço subendotelial da túnica íntima."
+      },
+      {
+        "texto": "Túnica média",
+        "explicacao": "A túnica média pode ser afetada secundariamente, com migração de células musculares lisas para a íntima, mas a placa em si não se forma na camada muscular."
+      },
+      {
+        "texto": "No lúmen do vaso.",
+        "explicacao": "A placa cresce a partir da parede para dentro do lúmen, mas sua origem está na parede do vaso."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 12,
+    "enunciado": "Qual é a principal diferença estrutural entre um capilar linfático e um capilar sanguíneo?",
+    "nivel": "médio",
+    "subtopico": "vasos linfáticos",
+    "tipo": "múltipla escolha",
+    "tags": ["capilar linfático", "lâmina basal", "drenagem"],
+    "alternativas": [
+      {
+        "texto": "O capilar linfático possui uma túnica média muscular.",
+        "explicacao": "Os capilares linfáticos, assim como os sanguíneos, não possuem túnica média."
+      },
+      {
+        "texto": "O capilar linfático possui um lúmen menor e mais regular.",
+        "explicacao": "Os capilares linfáticos geralmente têm um lúmen maior e mais irregular que os capilares sanguíneos."
+      },
+      {
+        "texto": "O capilar linfático tem fundo cego e uma lâmina basal descontínua.",
+        "explicacao": "Eles começam como vasos de fundo cego no tecido conjuntivo. A lâmina basal descontínua e os filamentos de ancoragem permitem que o excesso de líquido intersticial e grandes moléculas entrem facilmente."
+      },
+      {
+        "texto": "O capilar linfático é revestido por células musculares lisas.",
+        "explicacao": "Ambos são revestidos por uma camada de células endoteliais."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 13,
+    "enunciado": "As células de Purkinje do coração (não confundir com as do cerebelo) são cardiomiócitos modificados. Qual é a sua função?",
+    "nivel": "difícil",
+    "subtopico": "histologia do coração",
+    "tipo": "múltipla escolha",
+    "tags": ["fibras de Purkinje", "sistema de condução", "impulso"],
+    "alternativas": [
+      {
+        "texto": "Gerar o impulso elétrico inicial (marcapasso).",
+        "explicacao": "A geração do impulso inicial é função das células do nodo sinoatrial (SA)."
+      },
+      {
+        "texto": "Contrair com mais força que os outros cardiomiócitos.",
+        "explicacao": "Elas são pobres em miofibrilas e ricas em glicogênio, sendo especializadas em condução, não em contração."
+      },
+      {
+        "texto": "Conduzir rapidamente o impulso elétrico para os ventrículos.",
+        "explicacao": "As fibras de Purkinje formam a porção terminal do sistema de condução, distribuindo o estímulo elétrico de forma rápida e sincronizada para o miocárdio ventricular."
+      },
+      {
+        "texto": "Secretar hormônios que regulam a pressão sanguínea.",
+        "explicacao": "A secreção do peptídeo natriurético atrial (ANP) é feita por cardiomiócitos atriais, não pelas fibras de Purkinje."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 14,
+    "enunciado": "Os capilares sinusoides são encontrados em quais órgãos?",
+    "nivel": "médio",
+    "subtopico": "capilares",
+    "tipo": "múltipla escolha",
+    "tags": ["capilar sinusoide", "fígado", "medula óssea"],
+    "alternativas": [
+      {
+        "texto": "Músculo esquelético, pulmões e cérebro.",
+        "explicacao": "Esses órgãos possuem capilares do tipo contínuo, para trocas controladas."
+      },
+      {
+        "texto": "Rins, intestino e glândulas endócrinas.",
+        "explicacao": "Esses órgãos são ricos em capilares do tipo fenestrado, para rápida filtração e absorção."
+      },
+      {
+        "texto": "Fígado, baço e medula óssea.",
+        "explicacao": "Nesses locais, a passagem de macromoléculas e células sanguíneas entre o sangue e o tecido é necessária, o que é facilitado pelo grande calibre e pela parede descontínua dos sinusoides."
+      },
+      {
+        "texto": "Pele e tecido adiposo.",
+        "explicacao": "Esses tecidos contêm principalmente capilares do tipo contínuo."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 15,
+    "enunciado": "A lâmina elástica interna é uma estrutura proeminente que separa quais duas camadas na parede de uma artéria muscular?",
+    "nivel": "fácil",
+    "subtopico": "artérias",
+    "tipo": "múltipla escolha",
+    "tags": ["lâmina elástica interna", "artéria muscular", "túnicas"],
+    "alternativas": [
+      {
+        "texto": "A túnica média da túnica adventícia.",
+        "explicacao": "A estrutura que separa a média da adventícia é a lâmina elástica externa, que é menos proeminente."
+      },
+      {
+        "texto": "A túnica íntima da túnica média.",
+        "explicacao": "Esta camada de elastina, com aparência ondulada em cortes histológicos, é a fronteira bem definida entre o revestimento interno e a camada muscular."
+      },
+      {
+        "texto": "O endotélio do tecido conjuntivo subendotelial.",
+        "explicacao": "O endotélio e o tecido conjuntivo subendotelial juntos compõem a túnica íntima."
+      },
+      {
+        "texto": "A túnica adventícia do tecido circundante.",
+        "explicacao": "A túnica adventícia se funde gradualmente com o tecido conjuntivo adjacente."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 16,
+    "enunciado": "Na veia cava, uma grande veia, a túnica adventícia é notável por conter feixes proeminentes de:",
+    "nivel": "difícil",
+    "subtopico": "veias",
+    "tipo": "múltipla escolha",
+    "tags": ["veia cava", "túnica adventícia", "músculo liso"],
+    "alternativas": [
+      {
+        "texto": "Fibras elásticas dispostas em lamelas.",
+        "explicacao": "Lamelas elásticas são características da túnica média das artérias elásticas."
+      },
+      {
+        "texto": "Células musculares lisas dispostas longitudinalmente.",
+        "explicacao": "Esta é uma característica única das grandes veias, especialmente a veia cava. A contração desses feixes ajuda a impulsionar o sangue em direção ao coração."
+      },
+      {
+        "texto": "Tecido linfoide difuso.",
+        "explicacao": "O tecido linfoide não é um componente estrutural normal da parede venosa."
+      },
+      {
+        "texto": "Cartilagem hialina para suporte.",
+        "explicacao": "A cartilagem não é encontrada na parede dos vasos sanguíneos."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 17,
+    "enunciado": "Os pericitos são células contráteis que envolvem parcialmente qual tipo de vaso?",
+    "nivel": "médio",
+    "subtopico": "microcirculação",
+    "tipo": "múltipla escolha",
+    "tags": ["pericito", "capilar", "vênula"],
+    "alternativas": [
+      {
+        "texto": "Artérias elásticas",
+        "explicacao": "As artérias elásticas têm uma parede complexa com múltiplas camadas, não sendo envolvidas por pericitos."
+      },
+      {
+        "texto": "Veias de grande calibre",
+        "explicacao": "As grandes veias possuem sua própria musculatura na parede, não dependendo de pericitos."
+      },
+      {
+        "texto": "Capilares e vênulas pós-capilares.",
+        "explicacao": "Os pericitos compartilham a lâmina basal com as células endoteliais e participam da regulação do fluxo sanguíneo, da permeabilidade e da angiogênese na microcirculação."
+      },
+      {
+        "texto": "Vasos linfáticos",
+        "explicacao": "A estrutura dos vasos linfáticos não inclui pericitos."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 18,
+    "enunciado": "O esqueleto fibroso do coração, composto por tecido conjuntivo denso não modelado, tem como uma de suas funções:",
+    "nivel": "médio",
+    "subtopico": "histologia do coração",
+    "tipo": "múltipla escolha",
+    "tags": ["esqueleto fibroso", "valva", "isolamento elétrico"],
+    "alternativas": [
+      {
+        "texto": "Gerar o impulso para a contração cardíaca.",
+        "explicacao": "A geração do impulso é função do nodo sinoatrial, composto por cardiomiócitos especializados."
+      },
+      {
+        "texto": "Fornecer um ponto de inserção para as valvas cardíacas e isolar eletricamente os átrios dos ventrículos.",
+        "explicacao": "Ele forma os anéis fibrosos onde as valvas se fixam e atua como um isolante, garantindo que o impulso elétrico passe dos átrios para os ventrículos apenas através do feixe de His."
+      },
+      {
+        "texto": "Armazenar cálcio para a contração muscular.",
+        "explicacao": "O cálcio para a contração é proveniente do retículo sarcoplasmático e do espaço extracelular, não do esqueleto fibroso."
+      },
+      {
+        "texto": "Produzir novas células musculares cardíacas para reparo.",
+        "explicacao": "O coração adulto tem uma capacidade de regeneração muito limitada, e o esqueleto fibroso não contém células-tronco cardíacas."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 19,
+    "enunciado": "Um aneurisma é uma dilatação anormal de um vaso sanguíneo. O enfraquecimento de qual camada da parede arterial está mais associado à sua formação?",
+    "nivel": "difícil",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["aneurisma", "túnica média", "fraqueza"],
+    "alternativas": [
+      {
+        "texto": "Túnica íntima",
+        "explicacao": "Danos à íntima (como na aterosclerose) podem iniciar o processo, mas a resistência estrutural da parede reside em outra camada."
+      },
+      {
+        "texto": "Túnica média",
+        "explicacao": "A túnica média, com seus componentes elásticos e musculares, é a principal responsável por suportar a pressão sanguínea. A degradação de elastina e colágeno nesta camada leva à fraqueza da parede e à dilatação."
+      },
+      {
+        "texto": "Túnica adventícia",
+        "explicacao": "A túnica adventícia fornece um limite externo, mas não é a principal camada de suporte de carga."
+      },
+      {
+        "texto": "Endotélio",
+        "explicacao": "O endotélio é uma monocamada celular e não oferece resistência mecânica significativa."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 20,
+    "enunciado": "Qual é a característica distintiva dos capilares contínuos encontrados no sistema nervoso central?",
+    "nivel": "médio",
+    "subtopico": "capilares",
+    "tipo": "múltipla escolha",
+    "tags": ["capilar contínuo", "barreira hematoencefálica", "junções oclusivas"],
+    "alternativas": [
+      {
+        "texto": "Presença de fenestras para permitir a passagem de fluidos.",
+        "explicacao": "A presença de fenestras caracterizaria um capilar fenestrado, que não é típico do SNC."
+      },
+      {
+        "texto": "Uma lâmina basal incompleta e descontínua.",
+        "explicacao": "A lâmina basal dos capilares do SNC é contínua e bem desenvolvida."
+      },
+      {
+        "texto": "Junções intercelulares do tipo oclusivo (tight junctions) muito desenvolvidas.",
+        "explicacao": "Essas junções selam firmemente o espaço entre as células endoteliais, formando a base da barreira hematoencefálica e restringindo a passagem paracelular."
+      },
+      {
+        "texto": "Ausência de pericitos.",
+        "explicacao": "Os pericitos são abundantes e importantes para a manutenção da barreira hematoencefálica."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 21,
+    "enunciado": "O epicárdio corresponde a qual outra estrutura anatômica?",
+    "nivel": "fácil",
+    "subtopico": "histologia do coração",
+    "tipo": "múltipla escolha",
+    "tags": ["epicárdio", "pericárdio", "coração"],
+    "alternativas": [
+      {
+        "texto": "O folheto visceral do pericárdio seroso.",
+        "explicacao": "O epicárdio é a camada mais externa da parede do coração e também a camada interna do saco pericárdico (folheto visceral), contendo tecido adiposo e os vasos coronários."
+      },
+      {
+        "texto": "O folheto parietal do pericárdio seroso.",
+        "explicacao": "O folheto parietal reveste a superfície interna do pericárdio fibroso."
+      },
+      {
+        "texto": "O pericárdio fibroso.",
+        "explicacao": "O pericárdio fibroso é a camada mais externa, de tecido conjuntivo denso, que protege o coração."
+      },
+      {
+        "texto": "O esqueleto fibroso do coração.",
+        "explicacao": "O esqueleto fibroso é uma estrutura interna de tecido conjuntivo denso."
+      }
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "numero": 22,
+    "enunciado": "As vênulas pós-capilares são o principal local de qual evento durante a inflamação aguda?",
+    "nivel": "médio",
+    "subtopico": "microcirculação",
+    "tipo": "múltipla escolha",
+    "tags": ["vênula", "inflamação", "diapedese"],
+    "alternativas": [
+      {
+        "texto": "Vasoconstrição intensa para limitar o fluxo sanguíneo.",
+        "explicacao": "A vasoconstrição inicial ocorre nas arteríolas, mas é seguida por vasodilatação."
+      },
+      {
+        "texto": "Saída de leucócitos da corrente sanguínea para o tecido (diapedese).",
+        "explicacao": "A parede delgada e a resposta a mediadores inflamatórios tornam as vênulas pós-capilares o local preferencial para o aumento da permeabilidade e a migração de leucócitos."
+      },
+      {
+        "texto": "Filtração de plasma para formar o líquido intersticial.",
+        "explicacao": "A maior parte da filtração de fluido ocorre na extremidade arteriolar do leito capilar."
+      },
+      {
+        "texto": "Liberação de plaquetas para iniciar a coagulação.",
+        "explicacao": "A ativação e agregação de plaquetas ocorrem em resposta a uma lesão no endotélio, não especificamente nas vênulas."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 23,
+    "enunciado": "A principal diferença histológica entre uma arteríola e uma metarteríola é que a metarteríola:",
+    "nivel": "difícil",
+    "subtopico": "microcirculação",
+    "tipo": "múltipla escolha",
+    "tags": ["metarteríola", "esfíncter pré-capilar", "microcirculação"],
+    "alternativas": [
+      {
+        "texto": "Possui uma camada muscular contínua e espessa.",
+        "explicacao": "Uma camada muscular contínua é característica da arteríola."
+      },
+      {
+        "texto": "Não possui células musculares lisas.",
+        "explicacao": "A metarteríola possui células musculares, mas de forma descontínua."
+      },
+      {
+        "texto": "Possui uma camada de células musculares lisas descontínua, formando esfíncteres pré-capilares.",
+        "explicacao": "As células musculares não formam uma túnica completa, mas anéis dispersos que atuam como esfíncteres, regulando o fluxo de sangue para os capilares individuais."
+      },
+      {
+        "texto": "É revestida por um endotélio fenestrado.",
+        "explicacao": "O tipo de endotélio depende do tecido, não da diferença entre arteríola e metarteríola."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 24,
+    "enunciado": "As células mioendócrinas do átrio cardíaco são responsáveis pela secreção de qual hormônio?",
+    "nivel": "médio",
+    "subtopico": "histologia do coração",
+    "tipo": "múltipla escolha",
+    "tags": ["ANP", "coração", "hormônio"],
+    "alternativas": [
+      {
+        "texto": "Adrenalina",
+        "explicacao": "A adrenalina é produzida pela medula da glândula adrenal."
+      },
+      {
+        "texto": "Renina",
+        "explicacao": "A renina é uma enzima produzida pelas células justaglomerulares do rim."
+      },
+      {
+        "texto": "Peptídeo natriurético atrial (ANP)",
+        "explicacao": "O ANP é liberado em resposta ao estiramento dos átrios (por aumento do volume sanguíneo) e promove a excreção de sódio e água pelos rins, reduzindo a pressão arterial."
+      },
+      {
+        "texto": "Aldosterona",
+        "explicacao": "A aldosterona é produzida pelo córtex da glândula adrenal e promove a retenção de sódio e água."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 25,
+    "enunciado": "As varizes são uma condição causada principalmente pela incompetência de qual estrutura?",
+    "nivel": "fácil",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["varizes", "válvula venosa", "veia"],
+    "alternativas": [
+      {
+        "texto": "Das válvulas venosas.",
+        "explicacao": "A falha das válvulas em fechar corretamente permite o refluxo de sangue, o que aumenta a pressão na veia, causando sua dilatação e tortuosidade."
+      },
+      {
+        "texto": "Da túnica média das artérias.",
+        "explicacao": "As varizes são uma doença das veias, não das artérias."
+      },
+      {
+        "texto": "Dos capilares linfáticos.",
+        "explicacao": "A falha dos capilares linfáticos leva ao linfedema, não a varizes."
+      },
+      {
+        "texto": "Do endotélio capilar.",
+        "explicacao": "A disfunção endotelial está envolvida em muitas doenças, mas a causa mecânica primária das varizes é a falha valvar."
+      }
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "numero": 26,
+    "enunciado": "A estrutura histológica de um vaso linfático de maior calibre se assemelha mais à de qual vaso sanguíneo?",
+    "nivel": "médio",
+    "subtopico": "vasos linfáticos",
+    "tipo": "múltipla escolha",
+    "tags": ["vaso linfático", "veia", "válvula"],
+    "alternativas": [
+      {
+        "texto": "Uma artéria elástica",
+        "explicacao": "Os vasos linfáticos não possuem a parede espessa e rica em elastina das artérias elásticas."
+      },
+      {
+        "texto": "Uma arteríola",
+        "explicacao": "As arteríolas têm uma parede muscular relativamente espessa, o que difere dos vasos linfáticos."
+      },
+      {
+        "texto": "Uma veia",
+        "explicacao": "Os vasos linfáticos têm uma parede muito delgada com túnicas mal definidas e numerosas válvulas, características semelhantes às das veias."
+      },
+      {
+        "texto": "Um capilar sinusoide",
+        "explicacao": "Embora os capilares linfáticos sejam muito permeáveis, os vasos maiores desenvolvem uma parede mais estruturada, diferente da de um sinusoide."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 27,
+    "enunciado": "Os corpos carotídeos e aórticos são pequenas estruturas associadas a grandes artérias. Qual é a sua principal função?",
+    "nivel": "difícil",
+    "subtopico": "estruturas vasculares especializadas",
+    "tipo": "múltipla escolha",
+    "tags": ["corpo carotídeo", "quimiorreceptor", "oxigênio"],
+    "alternativas": [
+      {
+        "texto": "Atuar como barorreceptores, detectando a pressão arterial.",
+        "explicacao": "Os barorreceptores estão localizados nos seios carotídeos e no arco aórtico, mas são terminações nervosas na parede do vaso, não os 'corpos'."
+      },
+      {
+        "texto": "Atuar como quimiorreceptores, detectando mudanças nos níveis de O2, CO2 e pH do sangue.",
+        "explicacao": "Essas estruturas são ricas em capilares e células glômicas que monitoram a composição química do sangue e enviam sinais para os centros respiratórios no cérebro."
+      },
+      {
+        "texto": "Produzir hormônios que regulam o fluxo sanguíneo local.",
+        "explicacao": "Eles são órgãos sensoriais, não glândulas endócrinas."
+      },
+      {
+        "texto": "Filtrar a linfa antes que ela retorne ao sangue.",
+        "explicacao": "A filtração da linfa é a função dos linfonodos."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 28,
+    "enunciado": "A principal função das artérias musculares (de distribuição) é:",
+    "nivel": "médio",
+    "subtopico": "artérias",
+    "tipo": "múltipla escolha",
+    "tags": ["artéria muscular", "distribuição", "vasoconstrição"],
+    "alternativas": [
+      {
+        "texto": "Amortecer a pulsação da pressão gerada pelo coração.",
+        "explicacao": "O amortecimento da pulsação é a principal função das artérias elásticas, como a aorta."
+      },
+      {
+        "texto": "Controlar a distribuição de sangue para diferentes partes do corpo através de vasoconstrição e vasodilatação.",
+        "explicacao": "Sua espessa túnica média, rica em músculo liso, permite regular o fluxo sanguíneo para órgãos específicos em resposta a demandas metabólicas."
+      },
+      {
+        "texto": "Permitir a troca de nutrientes e gases com os tecidos.",
+        "explicacao": "A troca de substâncias ocorre no nível dos capilares."
+      },
+      {
+        "texto": "Servir como um grande reservatório de sangue.",
+        "explicacao": "As veias, devido à sua alta complacência, atuam como o principal reservatório de sangue do sistema."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 29,
+    "enunciado": "As células endoteliais contêm pequenos grânulos de armazenamento chamados corpos de Weibel-Palade. Qual molécula importante para a hemostasia é armazenada nesses grânulos?",
+    "nivel": "difícil",
+    "subtopico": "endotélio",
+    "tipo": "múltipla escolha",
+    "tags": ["corpos de Weibel-Palade", "fator de von Willebrand", "endotélio"],
+    "alternativas": [
+      {
+        "texto": "Óxido nítrico",
+        "explicacao": "O óxido nítrico é um gás sintetizado sob demanda, não sendo armazenado em grânulos."
+      },
+      {
+        "texto": "Prostaciclina",
+        "explicacao": "A prostaciclina, um vasodilatador e inibidor da agregação plaquetária, também é sintetizada sob demanda."
+      },
+      {
+        "texto": "Fator de von Willebrand (FvW)",
+        "explicacao": "O FvW é um grande multímero essencial para a adesão das plaquetas ao colágeno subendotelial durante a formação do tampão plaquetário. Ele é pré-sintetizado e armazenado nestes grânulos."
+      },
+      {
+        "texto": "Trombina",
+        "explicacao": "A trombina é uma enzima da cascata de coagulação que é ativada no plasma, não sendo armazenada no endotélio."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 30,
+    "enunciado": "Qual estrutura é responsável por ancorar os capilares linfáticos ao tecido conjuntivo circundante, impedindo seu colapso?",
+    "nivel": "médio",
+    "subtopico": "vasos linfáticos",
+    "tipo": "múltipla escolha",
+    "tags": ["capilar linfático", "filamentos de ancoragem", "linfa"],
+    "alternativas": [
+      {
+        "texto": "Uma espessa túnica adventícia.",
+        "explicacao": "Os capilares linfáticos não possuem túnica adventícia."
+      },
+      {
+        "texto": "Anéis de músculo liso.",
+        "explicacao": "Os capilares linfáticos não possuem músculo liso em sua parede."
+      },
+      {
+        "texto": "Filamentos de ancoragem.",
+        "explicacao": "Esses finos filamentos elásticos se estendem das células endoteliais para o tecido conjuntivo. Quando o excesso de fluido intersticial se acumula, ele puxa esses filamentos, abrindo as junções entre as células e permitindo a entrada da linfa."
+      },
+      {
+        "texto": "Uma lâmina basal contínua e espessa.",
+        "explicacao": "A lâmina basal dos capilares linfáticos é fina e descontínua para facilitar a entrada de fluido."
+      }
+    ],
+    "respostaCorreta": 2
   }
 ]

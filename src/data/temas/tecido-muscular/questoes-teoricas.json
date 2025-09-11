@@ -1,297 +1,810 @@
 [
   {
     "numero": 1,
-    "enunciado": "Qual característica distingue o músculo esquelético do músculo cardíaco?",
-    "nivel": "médio",
-    "subtopico": "tipos de músculo",
-    "tipo": "múltipla escolha",
-    "tags": ["esquelético", "cardíaco", "controle"],
-    "alternativas": [
-      {
-        "texto": "Presença de estriações transversais",
-        "explicacao": "Tanto o músculo esquelético quanto o cardíaco apresentam estriações transversais devido ao arranjo regular dos filamentos de actina e miosina."
-      },
-      {
-        "texto": "Controle voluntário versus involuntário",
-        "explicacao": "O músculo esquelético está sob controle voluntário (consciente), enquanto o músculo cardíaco funciona de forma involuntária (inconsciente), controlado pelo sistema nervoso autônomo."
-      },
-      {
-        "texto": "Presença de núcleos nas células",
-        "explicacao": "Ambos os tipos musculares possuem núcleos, embora sua distribuição seja diferente (periféricos e múltiplos no esquelético, centrais e únicos/duplos no cardíaco)."
-      },
-      {
-        "texto": "Capacidade de contração",
-        "explicacao": "A capacidade contrátil é a característica fundamental de todo tecido muscular, não sendo um fator de distinção entre esses dois tipos."
-      }
-    ],
-    "respostaCorreta": 1
-  },
-  {
-    "numero": 2,
-    "enunciado": "As células do músculo cardíaco são unidas por estruturas especializadas que permitem a rápida propagação do impulso elétrico e forte adesão mecânica. Qual o nome dessas estruturas?",
-    "nivel": "médio",
-    "subtopico": "músculo cardíaco",
-    "tipo": "múltipla escolha",
-    "tags": ["cardíaco", "discos intercalares", "junções"],
-    "alternativas": [
-      {
-        "texto": "Sinapses químicas",
-        "explicacao": "As sinapses químicas são a forma de comunicação entre neurônios ou entre um neurônio e uma célula muscular esquelética (junção neuromuscular), mas não entre células musculares cardíacas."
-      },
-      {
-        "texto": "Discos intercalares",
-        "explicacao": "Os discos intercalares são complexos juncionais exclusivos do músculo cardíaco. Eles contêm desmossomos para adesão forte e junções comunicantes (gap) que permitem a passagem de íons, sincronizando a contração do coração."
-      },
-      {
-        "texto": "Nós de Ranvier",
-        "explicacao": "Os nós de Ranvier são interrupções na bainha de mielina ao longo de axônios no tecido nervoso, essenciais para a condução saltatória do impulso nervoso."
-      },
-      {
-        "texto": "Sarcômeros",
-        "explicacao": "O sarcômero é a unidade contrátil fundamental dos músculos estriados (esquelético e cardíaco), mas não é uma estrutura de união entre células."
-      }
-    ],
-    "respostaCorreta": 1
-  },
-  {
-    "numero": 3,
-    "enunciado": "Qual tipo de músculo é responsável pelos movimentos peristálticos no trato gastrointestinal?",
+    "enunciado": "Qual característica morfológica é exclusiva das células musculares lisas?",
     "nivel": "fácil",
     "subtopico": "músculo liso",
     "tipo": "múltipla escolha",
-    "tags": ["liso", "peristaltismo", "involuntário"],
+    "tags": ["músculo liso", "morfologia", "núcleo"],
     "alternativas": [
       {
-        "texto": "Músculo estriado esquelético",
-        "explicacao": "Este músculo é de contração voluntária e está ligado ao esqueleto, responsável pelos movimentos corporais, não pelos movimentos internos dos órgãos."
+        "texto": "Células cilíndricas, longas e multinucleadas com núcleos periféricos.",
+        "explicacao": "Esta descrição corresponde às fibras do músculo estriado esquelético."
       },
       {
-        "texto": "Músculo estriado cardíaco",
-        "explicacao": "Este músculo é encontrado exclusivamente no coração e é responsável por bombear o sangue."
+        "texto": "Células ramificadas, unidas por discos intercalares.",
+        "explicacao": "Esta é a característica distintiva das células do músculo estriado cardíaco."
       },
       {
-        "texto": "Músculo liso",
-        "explicacao": "O músculo liso, de contração lenta e involuntária, forma as paredes de órgãos ocos como o intestino, estômago e vasos sanguíneos, sendo responsável pelo peristaltismo e controle do fluxo."
+        "texto": "Células fusiformes com um único núcleo central.",
+        "explicacao": "As células musculares lisas não possuem estrias, têm formato de fuso e um único núcleo localizado no centro da célula."
       },
       {
-        "texto": "Músculo esquelético visceral",
-        "explicacao": "Embora exista músculo esquelético em algumas vísceras (ex: parte superior do esôfago), os movimentos peristálticos difusos do trato digestivo são realizados pelo músculo liso."
+        "texto": "Presença de sarcômeros bem organizados formando estrias.",
+        "explicacao": "A presença de estrias é característica dos músculos esquelético e cardíaco."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 2,
+    "enunciado": "No sarcômero, a unidade contrátil do músculo estriado, os filamentos espessos e finos são compostos, respectivamente, por quais proteínas?",
+    "nivel": "fácil",
+    "subtopico": "sarcômero",
+    "tipo": "múltipla escolha",
+    "tags": ["sarcômero", "miosina", "actina", "proteínas"],
+    "alternativas": [
+      {
+        "texto": "Troponina e Tropomiosina",
+        "explicacao": "A troponina e a tropomiosina são proteínas reguladoras associadas aos filamentos finos, mas não os constituem primariamente."
+      },
+      {
+        "texto": "Actina e Miosina",
+        "explicacao": "A ordem está invertida. Os filamentos finos são de actina e os espessos de miosina."
+      },
+      {
+        "texto": "Miosina e Actina",
+        "explicacao": "Os filamentos espessos são polímeros da proteína motora miosina, enquanto os filamentos finos são compostos principalmente pela proteína globular actina."
+      },
+      {
+        "texto": "Titina e Nebulina",
+        "explicacao": "A titina é uma proteína elástica gigante que ancora a miosina à linha Z, e a nebulina ajuda a alinhar a actina, mas não são os componentes principais dos filamentos."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 3,
+    "enunciado": "Qual é a principal função do retículo sarcoplasmático no processo de contração muscular?",
+    "nivel": "médio",
+    "subtopico": "contração muscular",
+    "tipo": "múltipla escolha",
+    "tags": ["retículo sarcoplasmático", "cálcio", "contração"],
+    "alternativas": [
+      {
+        "texto": "Sintetizar as proteínas contráteis, actina e miosina.",
+        "explicacao": "A síntese de proteínas ocorre nos ribossomos e no retículo endoplasmático rugoso, não no retículo sarcoplasmático (que é liso)."
+      },
+      {
+        "texto": "Produzir ATP para fornecer energia para a contração.",
+        "explicacao": "A produção de ATP ocorre principalmente nas mitocôndrias (respiração celular) e no sarcoplasma (glicólise)."
+      },
+      {
+        "texto": "Armazenar e liberar íons de cálcio (Ca2+).",
+        "explicacao": "O retículo sarcoplasmático sequestra ativamente o cálcio do sarcoplasma e o libera em resposta a um potencial de ação, iniciando a contração."
+      },
+      {
+        "texto": "Transmitir o potencial de ação para o interior da fibra.",
+        "explicacao": "A transmissão do potencial de ação para o interior da fibra é a função dos túbulos T."
       }
     ],
     "respostaCorreta": 2
   },
   {
     "numero": 4,
-    "enunciado": "A liberação de íons de cálcio (Ca²⁺) de qual organela é o gatilho direto para a contração muscular na fibra esquelética?",
-    "nivel": "médio",
-    "subtopico": "contração muscular",
+    "enunciado": "Os discos intercalares são estruturas que unem as células de qual tipo de músculo, garantindo o acoplamento mecânico e elétrico?",
+    "nivel": "fácil",
+    "subtopico": "músculo cardíaco",
     "tipo": "múltipla escolha",
-    "tags": ["cálcio", "retículo sarcoplasmático", "contração"],
+    "tags": ["disco intercalar", "músculo cardíaco", "junções"],
     "alternativas": [
       {
-        "texto": "Mitocôndrias",
-        "explicacao": "As mitocôndrias são responsáveis pela produção de ATP, a energia necessária para a contração, mas não armazenam nem liberam o cálcio que inicia o processo."
+        "texto": "Músculo estriado esquelético",
+        "explicacao": "As fibras musculares esqueléticas são unidades longas e contínuas, não sendo unidas por discos intercalares."
       },
       {
-        "texto": "Complexo de Golgi",
-        "explicacao": "O complexo de Golgi está envolvido no processamento e empacotamento de proteínas e lipídios, não tendo relação com o armazenamento de cálcio para a contração."
+        "texto": "Músculo liso",
+        "explicacao": "As células musculares lisas se comunicam por junções comunicantes, mas não possuem as estruturas complexas dos discos intercalares."
       },
       {
-        "texto": "Retículo sarcoplasmático",
-        "explicacao": "O retículo sarcoplasmático é uma forma especializada de retículo endoplasmático liso que armazena altas concentrações de íons de cálcio. A chegada de um potencial de ação causa a sua liberação no citosol, iniciando a contração."
+        "texto": "Músculo estriado cardíaco",
+        "explicacao": "Essas junções especializadas contêm desmossomos, fáscias de adesão e junções comunicantes, permitindo que o coração funcione como um sincício."
       },
       {
-        "texto": "Núcleo",
-        "explicacao": "O núcleo contém o material genético da célula e controla a síntese de proteínas, mas não participa do armazenamento e liberação de cálcio para a contração."
+        "texto": "Músculo liso multiunitário",
+        "explicacao": "No músculo liso multiunitário, cada célula é inervada individualmente e há poucas junções comunicantes."
       }
     ],
     "respostaCorreta": 2
   },
   {
     "numero": 5,
-    "enunciado": "Qual proteína reguladora bloqueia os sítios de ligação da miosina na actina quando o músculo está em repouso?",
-    "nivel": "difícil",
-    "subtopico": "contração muscular",
+    "enunciado": "Qual camada de tecido conjuntivo envolve um fascículo muscular (um feixe de fibras)?",
+    "nivel": "fácil",
+    "subtopico": "organização do músculo",
     "tipo": "múltipla escolha",
-    "tags": ["tropomiosina", "troponina", "contração", "regulação"],
+    "tags": ["perimísio", "endomísio", "epimísio", "fascículo"],
     "alternativas": [
       {
-        "texto": "Troponina",
-        "explicacao": "A troponina é a proteína que se liga ao cálcio. Essa ligação causa uma mudança conformacional que desloca a tropomiosina, mas não é a troponina que bloqueia diretamente os sítios de ligação."
+        "texto": "Epimísio",
+        "explicacao": "O epimísio é a camada mais externa, que reveste o músculo inteiro."
       },
       {
-        "texto": "Actina",
-        "explicacao": "A actina é a proteína que forma o filamento fino e possui os sítios de ligação para a miosina, mas ela não os bloqueia."
+        "texto": "Endomísio",
+        "explicacao": "O endomísio é a delicada camada de tecido conjuntivo que envolve cada fibra muscular individualmente."
       },
       {
-        "texto": "Miosina",
-        "explicacao": "A miosina forma o filamento grosso e suas 'cabeças' se ligam à actina para gerar a contração, mas ela não tem função de bloqueio."
+        "texto": "Perimísio",
+        "explicacao": "O perimísio é um tecido conjuntivo mais espesso que agrupa as fibras musculares em fascículos."
       },
       {
-        "texto": "Tropomiosina",
-        "explicacao": "A tropomiosina é uma proteína filamentosa que se enrola ao redor da actina, cobrindo fisicamente os sítios de ligação da miosina em estado de repouso, impedindo a contração."
+        "texto": "Lâmina basal",
+        "explicacao": "A lâmina basal é uma camada da matriz extracelular que envolve diretamente a membrana de cada fibra muscular, sob o endomísio."
       }
     ],
-    "respostaCorreta": 3
+    "respostaCorreta": 2
   },
   {
     "numero": 6,
-    "enunciado": "A Distrofia Muscular de Duchenne é uma doença genética que causa degeneração progressiva das fibras musculares. Ela é causada pela ausência de qual proteína estrutural?",
-    "nivel": "difícil",
-    "subtopico": "patologia muscular",
+    "enunciado": "Durante a contração do sarcômero, o que acontece com o comprimento da Banda A e da Banda I?",
+    "nivel": "médio",
+    "subtopico": "sarcômero",
     "tipo": "múltipla escolha",
-    "tags": ["distrofina", "Duchenne", "sarcolema"],
+    "tags": ["sarcômero", "contração", "banda A", "banda I"],
     "alternativas": [
       {
-        "texto": "Miosina",
-        "explicacao": "A ausência de miosina seria incompatível com a vida, pois é a proteína motora essencial para a contração. A doença afeta uma proteína de ligação, não a motora."
+        "texto": "Ambas diminuem de comprimento.",
+        "explicacao": "Apenas a Banda I diminui. A Banda A representa o comprimento dos filamentos de miosina, que não se alteram."
       },
       {
-        "texto": "Distrofina",
-        "explicacao": "A distrofina é uma proteína crucial que conecta o citoesqueleto de actina da fibra muscular à matriz extracelular (via sarcolema). Sua ausência torna a membrana da célula muscular frágil e suscetível a danos durante a contração."
+        "texto": "A Banda A permanece constante e a Banda I diminui.",
+        "explicacao": "Durante a contração, os filamentos finos deslizam sobre os espessos. Como os filamentos espessos não mudam de tamanho, a Banda A (que corresponde a eles) fica constante, enquanto a Banda I (só filamentos finos) encurta."
       },
       {
-        "texto": "Titina",
-        "explicacao": "A titina é uma proteína gigante que funciona como uma mola no sarcômero, contribuindo para a elasticidade passiva do músculo, mas sua ausência não causa a distrofia de Duchenne."
+        "texto": "A Banda A diminui e a Banda I permanece constante.",
+        "explicacao": "Ocorre o inverso. A Banda A é constante e a Banda I encurta."
       },
       {
-        "texto": "Actina",
-        "explicacao": "A actina é fundamental para a contração e para a estrutura celular, sendo que sua ausência completa também seria letal."
+        "texto": "Ambas permanecem com o mesmo comprimento.",
+        "explicacao": "A Banda I e a Zona H diminuem, indicando o encurtamento do sarcômero."
       }
     ],
     "respostaCorreta": 1
   },
   {
     "numero": 7,
-    "enunciado": "A unidade funcional e estrutural da contração no músculo estriado, que se estende de uma linha Z a outra, é chamada de:",
-    "nivel": "fácil",
-    "subtopico": "estrutura da fibra muscular",
+    "enunciado": "A capacidade de regeneração do músculo estriado esquelético após uma lesão é atribuída principalmente à atividade de qual tipo celular?",
+    "nivel": "médio",
+    "subtopico": "regeneração muscular",
     "tipo": "múltipla escolha",
-    "tags": ["sarcômero", "contração", "linha Z"],
+    "tags": ["célula satélite", "regeneração", "músculo esquelético"],
     "alternativas": [
       {
-        "texto": "Miofibrila",
-        "explicacao": "A miofibrila é uma estrutura cilíndrica longa, composta por uma sequência de sarcômeros. É um componente da fibra muscular, mas não a unidade funcional básica."
+        "texto": "Fibroblastos",
+        "explicacao": "Os fibroblastos produzem tecido cicatricial (fibrose), o que pode ocorrer em lesões extensas, mas eles não regeneram as fibras musculares."
       },
       {
-        "texto": "Fibra muscular",
-        "explicacao": "A fibra muscular é a célula muscular em si, que contém múltiplas miofibrilas."
+        "texto": "Pericitos",
+        "explicacao": "Os pericitos estão associados a capilares e podem se diferenciar em outras células, mas as células satélite são as progenitoras musculares específicas."
       },
       {
-        "texto": "Sarcômero",
-        "explicacao": "O sarcômero é a menor unidade repetitiva do músculo estriado que realiza a contração. Durante a contração, as linhas Z se aproximam à medida que os filamentos de actina deslizam sobre os de miosina."
+        "texto": "Células satélite",
+        "explicacao": "Estas são células-tronco musculares quiescentes localizadas entre a lâmina basal e o sarcolema. Em resposta a uma lesão, elas são ativadas para proliferar e se fundir, reparando as fibras danificadas."
       },
       {
-        "texto": "Sarcolema",
-        "explicacao": "O sarcolema é a membrana plasmática da célula muscular. Ele envolve a célula, mas não é a unidade contrátil."
+        "texto": "Cardiomiócitos",
+        "explicacao": "Os cardiomiócitos são as células do músculo cardíaco e possuem uma capacidade de regeneração extremamente limitada."
       }
     ],
     "respostaCorreta": 2
   },
   {
     "numero": 8,
-    "enunciado": "Qual das seguintes características histológicas é exclusiva do músculo liso?",
-    "nivel": "médio",
-    "subtopico": "músculo liso",
+    "enunciado": "A liberação do neurotransmissor acetilcolina na junção neuromuscular causa a despolarização de qual estrutura da fibra muscular?",
+    "nivel": "fácil",
+    "subtopico": "junção neuromuscular",
     "tipo": "múltipla escolha",
-    "tags": ["liso", "morfologia", "núcleo central"],
+    "tags": ["junção neuromuscular", "acetilcolina", "sarcolema"],
     "alternativas": [
       {
-        "texto": "Células multinucleadas",
-        "explicacao": "A presença de múltiplos núcleos periféricos é uma característica do músculo esquelético. As células do músculo liso são mononucleadas."
+        "texto": "Do retículo sarcoplasmático.",
+        "explicacao": "A despolarização do retículo sarcoplasmático ocorre secundariamente à despolarização do sarcolema, levando à liberação de cálcio."
       },
       {
-        "texto": "Presença de estriações transversais",
-        "explicacao": "As estriações são a marca registrada dos músculos esquelético e cardíaco, devido à organização dos sarcômeros. O músculo liso não possui essa organização e, portanto, não tem estrias."
+        "texto": "Do sarcômero.",
+        "explicacao": "O sarcômero é a unidade contrátil, não a membrana que é despolarizada pelo neurotransmissor."
       },
       {
-        "texto": "Células fusiformes com núcleo único e central",
-        "explicacao": "Esta é a morfologia clássica da célula muscular lisa. Elas são alongadas, com extremidades afiladas (fusiformes) e possuem um único núcleo localizado no centro da célula."
+        "texto": "Do sarcolema (membrana plasmática).",
+        "explicacao": "A acetilcolina se liga a receptores na placa motora do sarcolema, abrindo canais iônicos e gerando um potencial de ação que se propaga pela membrana da fibra."
       },
       {
-        "texto": "Presença de discos intercalares",
-        "explicacao": "Os discos intercalares são estruturas especializadas que unem as células do músculo cardíaco, não sendo encontrados no músculo liso."
+        "texto": "Das mitocôndrias.",
+        "explicacao": "As mitocôndrias são responsáveis pela produção de energia e não estão diretamente envolvidas na transmissão do sinal elétrico."
       }
     ],
     "respostaCorreta": 2
   },
   {
     "numero": 9,
-    "enunciado": "O envoltório de tecido conjuntivo que recobre um feixe (fascículo) de fibras musculares é o:",
+    "enunciado": "Qual é a função do complexo troponina-tropomiosina no músculo estriado em repouso?",
     "nivel": "médio",
-    "subtopico": "organização do músculo",
+    "subtopico": "contração muscular",
     "tipo": "múltipla escolha",
-    "tags": ["perimísio", "epimísio", "endomísio", "tecido conjuntivo"],
+    "tags": ["troponina", "tropomiosina", "regulação"],
     "alternativas": [
       {
-        "texto": "Endomísio",
-        "explicacao": "O endomísio é a camada mais interna de tecido conjuntivo, que envolve individualmente cada fibra (célula) muscular."
+        "texto": "Ligar-se ao ATP para energizar a cabeça da miosina.",
+        "explicacao": "A ligação e hidrólise do ATP ocorrem diretamente na cabeça da miosina."
       },
       {
-        "texto": "Epimísio",
-        "explicacao": "O epimísio é a camada mais externa de tecido conjuntivo denso que envolve o músculo inteiro."
+        "texto": "Bloquear os sítios de ligação da miosina no filamento de actina.",
+        "explicacao": "Em baixas concentrações de cálcio, a tropomiosina cobre fisicamente os sítios ativos da actina, impedindo a interação com a miosina e mantendo o músculo relaxado."
       },
       {
-        "texto": "Perimísio",
-        "explicacao": "O perimísio é a camada de tecido conjuntivo que agrupa as fibras musculares em feixes ou fascículos. Ele contém vasos sanguíneos e nervos que suprem esses fascículos."
+        "texto": "Bombear cálcio de volta para o retículo sarcoplasmático.",
+        "explicacao": "O bombeamento de cálcio é realizado por uma bomba de cálcio dependente de ATP (SERCA) na membrana do retículo."
       },
       {
-        "texto": "Fáscia muscular",
-        "explicacao": "A fáscia é uma lâmina de tecido conjuntivo que separa músculos ou grupos musculares, sendo mais externa que o epimísio."
-      }
-    ],
-    "respostaCorreta": 2
-  },
-  {
-    "numero": 10,
-    "enunciado": "Um atleta de maratona e um levantador de peso possuem predominância de diferentes tipos de fibras musculares esqueléticas. As fibras de contração lenta (Tipo I), ricas em mioglobina e mitocôndrias, são ideais para:",
-    "nivel": "difícil",
-    "subtopico": "tipos de fibra muscular",
-    "tipo": "múltipla escolha",
-    "tags": ["fibra tipo I", "metabolismo aeróbico", "resistência"],
-    "alternativas": [
-      {
-        "texto": "Atividades de curta duração e alta intensidade, como um sprint de 100 metros.",
-        "explicacao": "Essas atividades dependem de fibras de contração rápida (Tipo IIb), que utilizam metabolismo anaeróbico para gerar força explosiva, mas fadigam rapidamente."
-      },
-      {
-        "texto": "Atividades de resistência e longa duração, como uma maratona.",
-        "explicacao": "As fibras do Tipo I são altamente resistentes à fadiga devido ao seu eficiente metabolismo aeróbico, possibilitado pela abundância de mitocôndrias e um bom suprimento de oxigênio (via mioglobina e capilares)."
-      },
-      {
-        "texto": "Movimentos que exigem força máxima em um único esforço, como o levantamento de peso.",
-        "explicacao": "O levantamento de peso recruta principalmente as fibras de contração rápida (Tipo IIx/b), que são maiores e geram mais força, mas por um período curto."
-      },
-      {
-        "texto": "Reflexos rápidos e involuntários.",
-        "explicacao": "Reflexos rápidos também utilizam as fibras de contração rápida para uma resposta imediata, e não as fibras de contração lenta."
+        "texto": "Ancorar os filamentos finos na linha Z.",
+        "explicacao": "Os filamentos finos são ancorados na linha Z por outras proteínas, como a alfa-actinina."
       }
     ],
     "respostaCorreta": 1
   },
   {
-    "numero": 11,
-    "enunciado": "Qual é o papel da acetilcolina na junção neuromuscular do músculo esquelético?",
-    "nivel": "médio",
-    "subtopico": "junção neuromuscular",
+    "numero": 10,
+    "enunciado": "A distrofia muscular de Duchenne é causada por mutações no gene que codifica qual proteína, essencial para conectar o citoesqueleto da fibra muscular à matriz extracelular?",
+    "nivel": "difícil",
+    "subtopico": "correlação clínica",
     "tipo": "múltipla escolha",
-    "tags": ["acetilcolina", "neurotransmissor", "junção neuromuscular"],
+    "tags": ["distrofia muscular", "distrofina", "citoesqueleto"],
     "alternativas": [
       {
-        "texto": "Inibir a contração muscular, causando relaxamento.",
-        "explicacao": "A acetilcolina é o neurotransmissor excitatório primário na junção neuromuscular. A inibição ocorre em outras sinapses do sistema nervoso, mas não nesta junção."
+        "texto": "Miosina",
+        "explicacao": "Mutações na miosina causam diferentes tipos de miopatias, mas não a distrofia de Duchenne."
       },
       {
-        "texto": "Atuar como fonte de energia direta para o deslizamento dos filamentos.",
-        "explicacao": "A fonte de energia direta para a contração é a hidrólise do ATP pela miosina, não a acetilcolina."
+        "texto": "Actina",
+        "explicacao": "Defeitos na actina também estão associados a outras formas de miopatias congênitas."
       },
       {
-        "texto": "Ligar-se a receptores no sarcolema, gerando um potencial de ação na fibra muscular.",
-        "explicacao": "Liberada pelo neurônio motor, a acetilcolina atravessa a fenda sináptica e se liga a receptores nicotínicos na placa motora do músculo, causando a despolarização da membrana e iniciando o potencial de ação que levará à contração."
+        "texto": "Distrofina",
+        "explicacao": "A ausência de distrofina enfraquece o sarcolema, tornando-o suscetível a danos durante a contração, o que leva à degeneração progressiva da fibra muscular."
       },
       {
-        "texto": "Promover a recaptação de cálcio para dentro do retículo sarcoplasmático.",
-        "explicacao": "A recaptação de cálcio é um processo ativo realizado por bombas de Ca²⁺-ATPase no retículo, que ocorre para finalizar a contração, não sendo mediado pela acetilcolina."
+        "texto": "Titina",
+        "explicacao": "Mutações na titina estão ligadas a cardiomiopatias e outras miopatias, mas não à distrofia de Duchenne."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 11,
+    "enunciado": "Os túbulos T (transversos) são invaginações do sarcolema. Sua principal função é:",
+    "nivel": "médio",
+    "subtopico": "estrutura da fibra muscular",
+    "tipo": "múltipla escolha",
+    "tags": ["túbulo T", "potencial de ação", "acoplamento"],
+    "alternativas": [
+      {
+        "texto": "Armazenar glicogênio para fornecer energia rápida.",
+        "explicacao": "O glicogênio é armazenado em grânulos no sarcoplasma."
+      },
+      {
+        "texto": "Conduzir o potencial de ação rapidamente para o interior da fibra.",
+        "explicacao": "Os túbulos T permitem que a onda de despolarização da membrana atinja as cisternas terminais do retículo sarcoplasmático, garantindo a liberação uniforme de cálcio."
+      },
+      {
+        "texto": "Aumentar a área de superfície para a difusão de oxigênio.",
+        "explicacao": "A difusão de oxigênio ocorre através do sarcolema, mas não é a função especializada dos túbulos T."
+      },
+      {
+        "texto": "Ancorar os sarcômeros à membrana plasmática.",
+        "explicacao": "A ancoragem dos sarcômeros é feita por complexos proteicos como o da distrofina."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 12,
+    "enunciado": "Qual é a principal fonte de íons de cálcio que desencadeia a contração no músculo liso?",
+    "nivel": "difícil",
+    "subtopico": "músculo liso",
+    "tipo": "múltipla escolha",
+    "tags": ["músculo liso", "cálcio", "contração"],
+    "alternativas": [
+      {
+        "texto": "Exclusivamente do retículo sarcoplasmático, como no músculo esquelético.",
+        "explicacao": "Embora o retículo sarcoplasmático do músculo liso armazene algum cálcio, ele não é a fonte exclusiva nem a principal."
+      },
+      {
+        "texto": "Principalmente do meio extracelular, através de canais na membrana.",
+        "explicacao": "O músculo liso depende criticamente do influxo de cálcio do exterior da célula, que então pode desencadear a liberação adicional de cálcio do retículo (liberação de cálcio induzida por cálcio)."
+      },
+      {
+        "texto": "Das mitocôndrias, que liberam cálcio durante a produção de ATP.",
+        "explicacao": "As mitocôndrias podem sequestrar e liberar cálcio, mas não são a fonte primária para o início da contração."
+      },
+      {
+        "texto": "Da ligação do ATP à cabeça da miosina.",
+        "explicacao": "A ligação do ATP à miosina é necessária para a energia do ciclo das pontes cruzadas, não para o fornecimento de cálcio."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 13,
+    "enunciado": "No músculo liso, o cálcio se liga a qual proteína para iniciar a cascata de contração?",
+    "nivel": "médio",
+    "subtopico": "músculo liso",
+    "tipo": "múltipla escolha",
+    "tags": ["músculo liso", "calmodulina", "contração"],
+    "alternativas": [
+      {
+        "texto": "Troponina C",
+        "explicacao": "A troponina é a proteína que liga cálcio no músculo estriado. O músculo liso não possui troponina."
+      },
+      {
+        "texto": "Calmodulina",
+        "explicacao": "No músculo liso, o complexo Ca2+-calmodulina ativa uma enzima (quinase da cadeia leve da miosina) que fosforila a miosina, permitindo sua interação com a actina."
+      },
+      {
+        "texto": "Actina",
+        "explicacao": "A actina é o filamento fino com o qual a miosina interage, mas não é a proteína que se liga ao cálcio para iniciar a contração."
+      },
+      {
+        "texto": "Tropomiosina",
+        "explicacao": "A tropomiosina está presente no músculo liso, mas sua função regulatória é diferente e não envolve a ligação direta de cálcio."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 14,
+    "enunciado": "A aparência estriada do músculo esquelético e cardíaco deve-se à:",
+    "nivel": "fácil",
+    "subtopico": "sarcômero",
+    "tipo": "múltipla escolha",
+    "tags": ["estrias", "sarcômero", "organização"],
+    "alternativas": [
+      {
+        "texto": "Alternância de células musculares claras e escuras.",
+        "explicacao": "As estrias são um padrão intracelular, não uma alternância de diferentes tipos de células."
+      },
+      {
+        "texto": "Presença de muitos núcleos em cada célula.",
+        "explicacao": "O número de núcleos não cria o padrão de bandas transversais."
+      },
+      {
+        "texto": "Organização regular e em registro dos filamentos de actina e miosina.",
+        "explicacao": "O alinhamento preciso dos sarcômeros em miofibrilas adjacentes cria o padrão de bandas claras (Banda I) e escuras (Banda A) visível ao microscópio."
+      },
+      {
+        "texto": "Abundância de mitocôndrias entre as miofibrilas.",
+        "explicacao": "As mitocôndrias são importantes para a energia, mas não são responsáveis pelo padrão de estriações."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 15,
+    "enunciado": "O que é uma unidade motora?",
+    "nivel": "médio",
+    "subtopico": "inervação",
+    "tipo": "múltipla escolha",
+    "tags": ["unidade motora", "neurônio motor", "inervação"],
+    "alternativas": [
+      {
+        "texto": "Uma única fibra muscular e suas miofibrilas.",
+        "explicacao": "Esta é a descrição de uma parte de uma célula muscular, não de uma unidade funcional de contração."
+      },
+      {
+        "texto": "Um único sarcômero dentro de uma miofibrila.",
+        "explicacao": "O sarcômero é a unidade contrátil, mas a unidade motora é a unidade funcional de inervação."
+      },
+      {
+        "texto": "Um neurônio motor e todas as fibras musculares que ele inerva.",
+        "explicacao": "Quando o neurônio motor dispara, todas as fibras musculares que ele controla se contraem juntas. A precisão do movimento depende do tamanho da unidade motora."
+      },
+      {
+        "texto": "O conjunto de todos os músculos que realizam um movimento.",
+        "explicacao": "Este seria um grupo muscular, não uma unidade motora."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 16,
+    "enunciado": "O fenômeno do rigor mortis (rigidez cadavérica) ocorre devido à:",
+    "nivel": "difícil",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["rigor mortis", "ATP", "contração"],
+    "alternativas": [
+      {
+        "texto": "Liberação excessiva de acetilcolina na junção neuromuscular.",
+        "explicacao": "A liberação de neurotransmissores cessa após a morte."
+      },
+      {
+        "texto": "Ausência de ATP para desligar as pontes cruzadas de miosina da actina.",
+        "explicacao": "Após a morte, a produção de ATP cessa. Embora as pontes cruzadas possam se formar (devido ao vazamento de cálcio), a falta de uma nova molécula de ATP impede que a miosina se separe da actina, deixando o músculo rígido."
+      },
+      {
+        "texto": "Acúmulo de ácido lático no sarcoplasma.",
+        "explicacao": "O acúmulo de ácido lático contribui para a fadiga muscular em vida, mas não é a causa primária da rigidez post-mortem."
+      },
+      {
+        "texto": "Destruição das proteínas do sarcômero.",
+        "explicacao": "A destruição das proteínas (autólise) ocorre mais tardiamente e é o que eventualmente resolve o rigor mortis."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 17,
+    "enunciado": "No músculo liso, os filamentos de actina e miosina não estão organizados em sarcômeros. Eles se ancoram em estruturas chamadas:",
+    "nivel": "médio",
+    "subtopico": "músculo liso",
+    "tipo": "múltipla escolha",
+    "tags": ["músculo liso", "corpos densos", "contração"],
+    "alternativas": [
+      {
+        "texto": "Linhas Z",
+        "explicacao": "As linhas Z são as estruturas que delimitam os sarcômeros no músculo estriado."
+      },
+      {
+        "texto": "Discos intercalares",
+        "explicacao": "Os discos intercalares são junções especializadas do músculo cardíaco."
+      },
+      {
+        "texto": "Corpos densos",
+        "explicacao": "Os corpos densos, dispersos no sarcoplasma e ancorados à membrana, são funcionalmente análogos às linhas Z, servindo como pontos de ancoragem para os filamentos finos e intermediários."
+      },
+      {
+        "texto": "Miofibrilas",
+        "explicacao": "As miofibrilas são os feixes de sarcômeros do músculo estriado. O músculo liso não as possui."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 18,
+    "enunciado": "Qual tipo de músculo tem a maior capacidade de regeneração devido à sua capacidade de mitose?",
+    "nivel": "médio",
+    "subtopico": "regeneração muscular",
+    "tipo": "múltipla escolha",
+    "tags": ["regeneração", "músculo liso", "mitose"],
+    "alternativas": [
+      {
+        "texto": "Músculo estriado cardíaco",
+        "explicacao": "O músculo cardíaco tem uma capacidade de regeneração quase nula, e as lesões são tipicamente reparadas por tecido cicatricial."
+      },
+      {
+        "texto": "Músculo estriado esquelético",
+        "explicacao": "O músculo esquelético tem uma boa capacidade de regeneração graças às células satélite, mas as próprias fibras musculares não se dividem."
+      },
+      {
+        "texto": "Músculo liso",
+        "explicacao": "As células musculares lisas são as únicas que mantêm a capacidade de se dividir por mitose, permitindo uma regeneração e hiperplasia eficientes."
+      },
+      {
+        "texto": "Todos os tipos de músculo têm a mesma capacidade de regeneração.",
+        "explicacao": "Existe uma variação significativa na capacidade regenerativa entre os três tipos de tecido muscular."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 19,
+    "enunciado": "A tríade, uma estrutura fundamental para o acoplamento excitação-contração no músculo esquelético, é formada por:",
+    "nivel": "difícil",
+    "subtopico": "estrutura da fibra muscular",
+    "tipo": "múltipla escolha",
+    "tags": ["tríade", "túbulo T", "retículo sarcoplasmático"],
+    "alternativas": [
+      {
+        "texto": "Um túbulo T e uma cisterna terminal adjacente.",
+        "explicacao": "Esta combinação de um túbulo T e uma cisterna é chamada de díade e é característica do músculo cardíaco."
+      },
+      {
+        "texto": "Um túbulo T flanqueado por duas cisternas terminais do retículo sarcoplasmático.",
+        "explicacao": "Localizada na junção das bandas A e I, a tríade posiciona a invaginação do sarcolema (túbulo T) em contato íntimo com as reservas de cálcio (cisternas terminais)."
+      },
+      {
+        "texto": "Um sarcômero, um túbulo T e uma mitocôndria.",
+        "explicacao": "Esta não é a definição de uma tríade."
+      },
+      {
+        "texto": "Três sarcômeros alinhados em série.",
+        "explicacao": "O alinhamento de sarcômeros forma uma miofibrila, não uma tríade."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 20,
+    "enunciado": "A cor vermelha de certas fibras musculares esqueléticas (fibras do tipo I) deve-se principalmente à alta concentração de qual proteína?",
+    "nivel": "médio",
+    "subtopico": "tipos de fibra muscular",
+    "tipo": "múltipla escolha",
+    "tags": ["fibra tipo I", "mioglobina", "músculo vermelho"],
+    "alternativas": [
+      {
+        "texto": "Hemoglobina",
+        "explicacao": "A hemoglobina é a proteína que transporta oxigênio no interior das hemácias, no sangue, não dentro da fibra muscular."
+      },
+      {
+        "texto": "Miosina",
+        "explicacao": "A miosina é a proteína contrátil, e embora existam isoformas diferentes, ela não é responsável pela cor vermelha."
+      },
+      {
+        "texto": "Mioglobina",
+        "explicacao": "A mioglobina é uma proteína que se liga ao oxigênio dentro da célula muscular, servindo como uma reserva. Sua alta concentração confere a cor vermelha e está associada ao metabolismo oxidativo."
+      },
+      {
+        "texto": "Actina",
+        "explicacao": "A actina é a proteína do filamento fino e não contribui para a cor do músculo."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 21,
+    "enunciado": "Qual é a função da proteína titina no sarcômero?",
+    "nivel": "difícil",
+    "subtopico": "sarcômero",
+    "tipo": "múltipla escolha",
+    "tags": ["titina", "elasticidade", "sarcômero"],
+    "alternativas": [
+      {
+        "texto": "Regular a interação entre actina e miosina em resposta ao cálcio.",
+        "explicacao": "Esta é a função do complexo troponina-tropomiosina."
+      },
+      {
+        "texto": "Conectar os filamentos de miosina à linha Z e fornecer elasticidade passiva.",
+        "explicacao": "A titina atua como uma mola molecular, centralizando os filamentos espessos e sendo responsável pela elasticidade que permite ao músculo estirado retornar ao seu comprimento de repouso."
+      },
+      {
+        "texto": "Determinar o comprimento exato dos filamentos de actina.",
+        "explicacao": "Acredita-se que a proteína nebulina atue como uma 'régua' para o comprimento dos filamentos finos."
+      },
+      {
+        "texto": "Formar a estrutura da linha Z.",
+        "explicacao": "A linha Z é formada principalmente por alfa-actinina e outras proteínas de ligação cruzada."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 22,
+    "enunciado": "A contração do músculo liso é caracterizada por ser:",
+    "nivel": "fácil",
+    "subtopico": "músculo liso",
+    "tipo": "múltipla escolha",
+    "tags": ["músculo liso", "contração", "involuntário"],
+    "alternativas": [
+      {
+        "texto": "Rápida, potente e voluntária.",
+        "explicacao": "Estas são as características da contração do músculo estriado esquelético."
+      },
+      {
+        "texto": "Lenta, sustentada e involuntária.",
+        "explicacao": "O mecanismo de contração do músculo liso é mais lento, mas pode ser mantido por longos períodos com baixo consumo de energia, e não está sob controle consciente."
+      },
+      {
+        "texto": "Rítmica, involuntária e com estrias.",
+        "explicacao": "A contração rítmica e involuntária é típica do músculo cardíaco, que possui estrias."
+      },
+      {
+        "texto": "Rápida, de curta duração e voluntária.",
+        "explicacao": "Esta descrição também se aplica melhor ao músculo esquelético."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 23,
+    "enunciado": "A estrutura histológica que corresponde ao sarcolema e à sua lâmina basal externa mais as fibras reticulares circundantes é o:",
+    "nivel": "difícil",
+    "subtopico": "organização do músculo",
+    "tipo": "múltipla escolha",
+    "tags": ["endomísio", "lâmina basal", "sarcolema"],
+    "alternativas": [
+      {
+        "texto": "Epimísio",
+        "explicacao": "O epimísio é a bainha de tecido conjuntivo denso que envolve todo o músculo."
+      },
+      {
+        "texto": "Perimísio",
+        "explicacao": "O perimísio envolve os fascículos de fibras musculares."
+      },
+      {
+        "texto": "Endomísio",
+        "explicacao": "O endomísio é a camada mais interna de tecido conjuntivo que envolve individualmente cada fibra muscular, incluindo sua lâmina basal."
+      },
+      {
+        "texto": "Sarcoplasma",
+        "explicacao": "O sarcoplasma é o citoplasma da célula muscular."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 24,
+    "enunciado": "O aumento do tamanho de um músculo devido ao exercício de resistência (hipertrofia) é resultado principalmente de:",
+    "nivel": "médio",
+    "subtopico": "adaptação muscular",
+    "tipo": "múltipla escolha",
+    "tags": ["hipertrofia", "miofibrila", "exercício"],
+    "alternativas": [
+      {
+        "texto": "Um aumento no número de fibras musculares (hiperplasia).",
+        "explicacao": "A hiperplasia em resposta ao exercício é controversa e, se ocorre, contribui minimamente para o aumento do músculo em humanos."
+      },
+      {
+        "texto": "Um aumento no tamanho de cada fibra muscular individual.",
+        "explicacao": "A hipertrofia ocorre pelo aumento da síntese de proteínas contráteis, resultando em mais miofibrilas e, consequentemente, no aumento do diâmetro de cada fibra."
+      },
+      {
+        "texto": "Um aumento na quantidade de tecido conjuntivo (epimísio e perimísio).",
+        "explicacao": "O tecido conjuntivo também se adapta, mas o aumento primário de volume é no componente contrátil."
+      },
+      {
+        "texto": "Uma maior vascularização do músculo.",
+        "explicacao": "O exercício também aumenta a vascularização, mas isso não é o principal fator para o aumento da massa muscular."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 25,
+    "enunciado": "Qual é a principal diferença na inervação entre o músculo liso unitário (visceral) e o multiunitário?",
+    "nivel": "médio",
+    "subtopico": "músculo liso",
+    "tipo": "múltipla escolha",
+    "tags": ["músculo liso unitário", "músculo liso multiunitário", "inervação"],
+    "alternativas": [
+      {
+        "texto": "O unitário é voluntário e o multiunitário é involuntário.",
+        "explicacao": "Ambos os tipos de músculo liso são de controle involuntário."
+      },
+      {
+        "texto": "No unitário, poucas células são inervadas e o estímulo se espalha via junções comunicantes; no multiunitário, cada célula é inervada individualmente.",
+        "explicacao": "Essa é a diferença fundamental. O músculo liso unitário (ex: intestino) funciona como um sincício, enquanto o multiunitário (ex: íris do olho) permite um controle fino e graduado."
+      },
+      {
+        "texto": "O unitário usa acetilcolina e o multiunitário usa noradrenalina.",
+        "explicacao": "Ambos podem responder a diferentes neurotransmissores do sistema nervoso autônomo."
+      },
+      {
+        "texto": "O unitário não tem inervação, contraindo-se espontaneamente, enquanto o multiunitário é inervado.",
+        "explicacao": "O músculo liso unitário é inervado, embora também possa ter atividade espontânea (marcapasso)."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 26,
+    "enunciado": "A banda do sarcômero que contém apenas filamentos espessos (miosina) é a:",
+    "nivel": "médio",
+    "subtopico": "sarcômero",
+    "tipo": "múltipla escolha",
+    "tags": ["sarcômero", "zona H", "bandas"],
+    "alternativas": [
+      {
+        "texto": "Banda I",
+        "explicacao": "A Banda I (isotrópica) é a banda clara, contendo apenas filamentos finos (actina)."
+      },
+      {
+        "texto": "Banda A",
+        "explicacao": "A Banda A (anisotrópica) compreende todo o comprimento dos filamentos espessos, incluindo a região de sobreposição com os filamentos finos."
+      },
+      {
+        "texto": "Linha Z",
+        "explicacao": "A Linha Z é a estrutura que delimita o sarcômero e ancora os filamentos finos."
+      },
+      {
+        "texto": "Zona H",
+        "explicacao": "Localizada no centro da Banda A, a Zona H é a região onde existem apenas filamentos espessos, sem sobreposição com os finos."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 27,
+    "enunciado": "As caveolas, pequenas invaginações da membrana plasmática das células musculares lisas, são consideradas análogas a qual estrutura do músculo estriado?",
+    "nivel": "difícil",
+    "subtopico": "músculo liso",
+    "tipo": "múltipla escolha",
+    "tags": ["músculo liso", "caveolas", "túbulo T"],
+    "alternativas": [
+      {
+        "texto": "Ao retículo sarcoplasmático",
+        "explicacao": "O músculo liso também possui um retículo sarcoplasmático, embora menos desenvolvido."
+      },
+      {
+        "texto": "Aos túbulos T",
+        "explicacao": "Acredita-se que as caveolas, ricas em canais iônicos e receptores, desempenhem um papel na transmissão de sinais para o interior da célula, similar à função dos túbulos T."
+      },
+      {
+        "texto": "Aos discos intercalares",
+        "explicacao": "Os discos intercalares são junções complexas do músculo cardíaco."
+      },
+      {
+        "texto": "Aos sarcômeros",
+        "explicacao": "O músculo liso não possui sarcômeros."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 28,
+    "enunciado": "Qual é o papel direto do ATP no ciclo das pontes cruzadas da contração muscular estriada?",
+    "nivel": "médio",
+    "subtopico": "contração muscular",
+    "tipo": "múltipla escolha",
+    "tags": ["ATP", "contração", "miosina"],
+    "alternativas": [
+      {
+        "texto": "Ligar-se à troponina para expor os sítios de ligação da actina.",
+        "explicacao": "É o cálcio que se liga à troponina, não o ATP."
+      },
+      {
+        "texto": "Sua ligação à miosina causa a separação da cabeça da miosina do filamento de actina.",
+        "explicacao": "A ligação de uma nova molécula de ATP é necessária para quebrar a ponte cruzada, permitindo o relaxamento ou o início de um novo ciclo."
+      },
+      {
+        "texto": "Fornecer a estrutura principal dos filamentos espessos.",
+        "explicacao": "A estrutura principal dos filamentos espessos é formada pela proteína miosina."
+      },
+      {
+        "texto": "Atuar como neurotransmissor na junção neuromuscular.",
+        "explicacao": "O neurotransmissor na junção neuromuscular esquelética é a acetilcolina."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 29,
+    "enunciado": "O músculo cardíaco obtém a maior parte de sua energia para contração a partir de qual processo metabólico?",
+    "nivel": "médio",
+    "subtopico": "músculo cardíaco",
+    "tipo": "múltipla escolha",
+    "tags": ["músculo cardíaco", "metabolismo", "aeróbico"],
+    "alternativas": [
+      {
+        "texto": "Glicólise anaeróbica, produzindo ácido lático.",
+        "explicacao": "O coração é altamente dependente de oxigênio e não tolera bem condições anaeróbicas; o acúmulo de ácido lático é prejudicial."
+      },
+      {
+        "texto": "Metabolismo aeróbico de ácidos graxos.",
+        "explicacao": "Devido à sua necessidade contínua de energia, o coração possui muitas mitocôndrias e utiliza predominantemente a oxidação de ácidos graxos para produzir ATP."
+      },
+      {
+        "texto": "Fosforilação direta pela creatina fosfato.",
+        "explicacao": "A creatina fosfato fornece uma reserva de energia rápida, mas é para os segundos iniciais de atividade, não para a sustentação contínua."
+      },
+      {
+        "texto": "Glicogenólise, quebrando o glicogênio armazenado.",
+        "explicacao": "O coração armazena algum glicogênio, mas os ácidos graxos são seu combustível preferencial em condições normais."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 30,
+    "enunciado": "A localização dos núcleos é uma característica distintiva entre os tipos de músculo. Como eles se apresentam no músculo estriado esquelético?",
+    "nivel": "fácil",
+    "subtopico": "músculo esquelético",
+    "tipo": "múltipla escolha",
+    "tags": ["músculo esquelético", "núcleo", "morfologia"],
+    "alternativas": [
+      {
+        "texto": "Único e localizado centralmente.",
+        "explicacao": "Um núcleo único e central é característico das células musculares lisas e cardíacas."
+      },
+      {
+        "texto": "Múltiplos e localizados centralmente.",
+        "explicacao": "Embora sejam multinucleadas, os núcleos não são centrais."
+      },
+      {
+        "texto": "Múltiplos e localizados na periferia, logo abaixo do sarcolema.",
+        "explicacao": "As fibras musculares esqueléticas são sincícios formados pela fusão de mioblastos, resultando em células longas com múltiplos núcleos deslocados para a periferia."
+      },
+      {
+        "texto": "Ausência de núcleo na fibra madura.",
+        "explicacao": "As fibras musculares são células vivas e funcionais que possuem núcleos."
       }
     ],
     "respostaCorreta": 2

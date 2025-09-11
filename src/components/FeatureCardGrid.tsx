@@ -121,8 +121,8 @@ const FeatureCardGrid: React.FC = () => {
               </div>
             </div>
           </Link>
-
-          {/* Flashcards Práticos */}
+                          {/* Flashcards Práticos  */}
+            {/*
           <Link to="/flashcards/praticos" className="group block">
             <div className="bg-gradient-to-r from-amber-500 to-orange-600 p-4 md:p-8 rounded-2xl md:rounded-3xl shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1 mx-2 md:mx-0">
               <div className="flex flex-col md:flex-row md:items-center md:justify-between space-y-4 md:space-y-0">
@@ -156,9 +156,9 @@ const FeatureCardGrid: React.FC = () => {
                 </div>
               </div>
             </div>
-          </Link>
+          </Link> */}
 
-          {/* Simulado Prático */}
+          {/* Simulado Prático
           <Link to="/simulado/configuracao" className="group block">
             <div className="bg-gradient-to-r from-indigo-500 to-blue-600 p-4 md:p-8 rounded-2xl md:rounded-3xl shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1 mx-2 md:mx-0">
               <div className="flex flex-col md:flex-row md:items-center md:justify-between space-y-4 md:space-y-0">
@@ -192,7 +192,7 @@ const FeatureCardGrid: React.FC = () => {
                 </div>
               </div>
             </div>
-          </Link>
+          </Link> */}
 
           {/* Glossário */}
           <Link to="/glossario" className="group block">
@@ -213,11 +213,11 @@ const FeatureCardGrid: React.FC = () => {
                         <div className="text-white text-opacity-80 text-xs md:text-sm">Alfabético</div>
                       </div>
                       <div className="text-center">
-                        <div className="text-white font-bold text-base md:text-lg">24+</div>
+                        <div className="text-white font-bold text-base md:text-lg">400+</div>
                         <div className="text-white text-opacity-80 text-xs md:text-sm">Termos</div>
                       </div>
                       <div className="text-center">
-                        <div className="text-white font-bold text-base md:text-lg">15+</div>
+                        <div className="text-white font-bold text-base md:text-lg">60+</div>
                         <div className="text-white text-opacity-80 text-xs md:text-sm">Categorias</div>
                       </div>
                     </div>

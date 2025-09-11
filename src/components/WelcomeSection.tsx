@@ -10,9 +10,8 @@ const WelcomeSection: React.FC = () => {
             Bem-vindo ao Histoguia
           </h2>
           <p className="text-lg md:text-xl text-slate-600 mb-8 md:mb-12 animate-fade-in leading-relaxed px-2">
-            Sua plataforma completa de apoio ao estudo de histologia. 
             Explore questões organizadas por temas, com explicações detalhadas 
-            e feedback interativo para potencializar seu aprendizado.
+            e feedback interativo para potencializar seu aprendizado
           </p>
           <section className="mt-8 md:mt-12 lg:mt-16 bg-white rounded-xl md:rounded-2xl shadow-lg p-6 md:p-8 border border-slate-100 mx-2 md:mx-0">
             <div className="text-center">
@@ -41,9 +40,7 @@ const WelcomeSection: React.FC = () => {
                 <BookOpen className="w-6 h-6 md:w-8 md:h-8 text-purple-600" />
               </div>
               <h3 className="text-lg md:text-xl font-semibold text-slate-800 mb-2">Conteúdo Organizado</h3>
-              <p className="text-sm md:text-base text-slate-600 text-center">
-                Questões estruturadas por temas e níveis de dificuldade
-              </p>
+
             </div>
             
             <div className="flex flex-col items-center p-4 md:p-6 bg-white rounded-2xl shadow-lg hover:shadow-xl transition-shadow duration-300 animate-slide-up mx-4 md:mx-0" style={{ animationDelay: '0.1s' }}>
@@ -51,9 +48,7 @@ const WelcomeSection: React.FC = () => {
                 <Target className="w-6 h-6 md:w-8 md:h-8 text-violet-600" />
               </div>
               <h3 className="text-lg md:text-xl font-semibold text-slate-800 mb-2">Feedback Detalhado</h3>
-              <p className="text-sm md:text-base text-slate-600 text-center">
-                Explicações completas para cada alternativa das questões
-              </p>
+
             </div>
             
             <div className="flex flex-col items-center p-4 md:p-6 bg-white rounded-2xl shadow-lg hover:shadow-xl transition-shadow duration-300 animate-slide-up mx-4 md:mx-0" style={{ animationDelay: '0.2s' }}>
@@ -61,9 +56,7 @@ const WelcomeSection: React.FC = () => {
                 <Users className="w-6 h-6 md:w-8 md:h-8 text-rose-500" />
               </div>
               <h3 className="text-lg md:text-xl font-semibold text-slate-800 mb-2">Aprendizado Ativo</h3>
-              <p className="text-sm md:text-base text-slate-600 text-center">
-                Interface interativa que promove o engajamento no estudo
-              </p>
+
             </div>
           </div>
         </div>

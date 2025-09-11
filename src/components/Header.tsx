@@ -57,21 +57,23 @@ const Header: React.FC<HeaderProps> = ({ title = "Histoguia" }) => {
                   >
                     Flashcards Teóricos
                   </Link>
+                  {/* Flashcards Práticos 
                   <Link 
                     to="/flashcards/praticos" 
                     className="block px-4 py-2 text-slate-600 hover:bg-purple-50 hover:text-purple-600 transition-colors duration-200"
                   >
                     Flashcards Práticos
-                  </Link>
+                  </Link>*/}
                 </div>
               </div>
             </div>
+            {/* Flashcards Práticos 
             <Link 
               to="/simulado/configuracao" 
               className="text-slate-600 hover:text-purple-600 transition-colors duration-200 font-medium"
             >
               Simulado
-            </Link>
+            </Link>*/}
             <Link 
               to="/glossario" 
               className="text-slate-600 hover:text-purple-600 transition-colors duration-200 font-medium"
