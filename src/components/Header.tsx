@@ -45,6 +45,12 @@ const Header: React.FC<HeaderProps> = ({ title = "Histoguia" }) => {
             >
               Questões Teóricas
             </Link>
+            <Link 
+              to="/questoes-praticas" 
+              className="text-slate-600 hover:text-purple-600 transition-colors duration-200 font-medium"
+            >
+              Questões Práticas
+            </Link>
             <div className="relative group">
               <button className="text-slate-600 hover:text-purple-600 transition-colors duration-200 font-medium">
                 Flashcards
@@ -122,6 +128,13 @@ const Header: React.FC<HeaderProps> = ({ title = "Histoguia" }) => {
               onClick={closeMenu}
             >
               Questões Teóricas
+            </Link>
+            <Link 
+              to="/questoes-praticas" 
+              className="block py-3 px-4 text-slate-600 hover:text-purple-600 hover:bg-white rounded-lg transition-all duration-200 font-medium"
+              onClick={closeMenu}
+            >
+              Questões Práticas
             </Link>
             <div className="border-l-4 border-purple-300 pl-4 ml-4">
               <p className="text-sm text-slate-500 mb-2 font-medium">Flashcards</p>

@@ -1,8 +1,8 @@
 [
   {
-    "id": 2,
-    "tema": "Tecido Epitelial",
-    "imagem": "https://images.pexels.com/photos/3938022/pexels-photo-3938022.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "id": 1,
+    "tema": "tecido-epitelial",
+    "imagem": "/images/temas/tecido-epitelial/image1.jpg",
     "enunciado": "Analise a estrutura epitelial apresentada na lâmina. Qual tipo de epitélio está sendo mostrado?",
     "alternativas": [
       {
@@ -23,5 +23,55 @@
       }
     ],
     "respostaCorreta": 1
+  },
+  {
+    "id": 2,
+    "tema": "tecido-epitelial",
+    "imagem": "/images/temas/tecido-epitelial/image2.jpg",
+    "enunciado": "Observe a lâmina histológica apresentada. Identifique as características morfológicas do epitélio mostrado.",
+    "alternativas": [
+      {
+        "texto": "Epitélio Simples Cuboidal",
+        "explicacao": "Correto! O epitélio simples cuboidal é formado por uma única camada de células com formato aproximadamente cúbico, como observado na imagem."
+      },
+      {
+        "texto": "Epitélio Estratificado Colunar",
+        "explicacao": "Incorreto. O epitélio estratificado colunar possui múltiplas camadas de células altas, diferente da estrutura unicamada observada."
+      },
+      {
+        "texto": "Epitélio Simples Pavimentoso",
+        "explicacao": "Incorreto. O epitélio simples pavimentoso tem células muito achatadas, não cuboidais como mostrado na imagem."
+      },
+      {
+        "texto": "Epitélio de Transição",
+        "explicacao": "Incorreto. O epitélio de transição é especializado e encontrado principalmente no sistema urinário, com características morfológicas distintas."
+      }
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "id": 3,
+    "tema": "tecido-epitelial",
+    "imagem": "/images/temas/tecido-epitelial/image3.jpg",
+    "enunciado": "Analise a estrutura histológica apresentada. Qual tipo de epitélio está representado na lâmina?",
+    "alternativas": [
+      {
+        "texto": "Epitélio Pseudoestratificado Ciliado",
+        "explicacao": "Correto! O epitélio pseudoestratificado ciliado apresenta células que parecem estar em camadas múltiplas, mas todas tocam a membrana basal, com presença de cílios na superfície."
+      },
+      {
+        "texto": "Epitélio Estratificado Pavimentoso",
+        "explicacao": "Incorreto. Embora tenha aparência de múltiplas camadas, no epitélio estratificado as células não tocam todas a membrana basal."
+      },
+      {
+        "texto": "Epitélio Simples Colunar Ciliado",
+        "explicacao": "Incorreto. O epitélio simples colunar ciliado tem apenas uma camada bem definida de células altas, diferente da estrutura observada."
+      },
+      {
+        "texto": "Epitélio de Transição",
+        "explicacao": "Incorreto. O epitélio de transição tem características específicas de distensibilidade e morfologia celular variável, não observadas nesta imagem."
+      }
+    ],
+    "respostaCorreta": 0
   }
 ]
