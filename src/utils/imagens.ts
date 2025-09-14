@@ -35,10 +35,18 @@ export const getImagensTema = (tema: string, quantidade: number = 3): string[] =
 export const mapearImagensQuestoes = (tema: string, questoes: any[]): any[] => {
   const imagensTema = getImagensTema(tema);
   
-  return questoes.map((questao, index) => ({
-    ...questao,
-    imagem: imagensTema[index % imagensTema.length] // Usa módulo para reutilizar imagens se necessário
-  }));
+  return questoes.map((questao, index) => {
+    // Se a questão já tem uma imagem válida (começa com /images/temas/), manter ela
+    if (questao.imagem && questao.imagem.startsWith('/images/temas/')) {
+      return questao;
+    }
+    
+    // Caso contrário, usar as imagens padrão do tema
+    return {
+      ...questao,
+      imagem: imagensTema[index % imagensTema.length] // Usa módulo para reutilizar imagens se necessário
+    };
+  });
 };
 
 /**
@@ -46,11 +54,11 @@ export const mapearImagensQuestoes = (tema: string, questoes: any[]): any[] => {
  */
 export const IMAGENS_TEMAS: Record<string, number> = {
   'tecido-epitelial': 3,
+  'cartilagem': 3,        // Configurado para testes
   'tecido-conjuntivo': 0, // Ainda não implementado
   'tecido-muscular': 0,   // Ainda não implementado
   'tecido-nervoso': 0,    // Ainda não implementado
   'tecido-osseo': 0,      // Ainda não implementado
-  'cartilagem': 0,        // Ainda não implementado
   'sistema-circulatorio': 0 // Ainda não implementado
 };
 

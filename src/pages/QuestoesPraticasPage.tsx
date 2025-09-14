@@ -1,11 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import { ArrowLeft, Microscope, Grid } from 'lucide-react';
+import { ArrowLeft, Microscope } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import Header from '../components/Header';
 import DropdownTema from '../components/DropdownTema';
 import BarraBuscaPratica from '../components/questoes-praticas/BarraBuscaPratica';
 import QuestoesGrid from '../components/questoes-praticas/QuestoesGrid';
-import GaleriaImagens from '../components/questoes-praticas/GaleriaImagens';
 import SEOHead from '../components/SEOHead';
 import { QuestaoPratica, FiltroPraticoState } from '../types';
 import { formatarNomeTema } from '../utils/temas';
@@ -20,14 +19,12 @@ const QuestoesPraticasPage: React.FC = () => {
     palavrasChave: '',
   });
   const [loading, setLoading] = useState(false);
-  const [galeriaAberta, setGaleriaAberta] = useState(false);
 
   useEffect(() => {
     if (temaSelecionado) {
       carregarQuestoes(temaSelecionado);
     } else {
-      setQuestoes([]);
-      setQuestoesFiltradas([]);
+      carregarTodasQuestoes();
     }
   }, [temaSelecionado]);
 
@@ -53,6 +50,37 @@ const QuestoesPraticasPage: React.FC = () => {
       setQuestoes(data || []);
     } catch (error) {
       console.error('Erro ao carregar questões práticas:', error);
+      setQuestoes([]);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const carregarTodasQuestoes = async () => {
+    setLoading(true);
+    try {
+      const todasQuestoes = [];
+      const temas = ['tecido-epitelial', 'tecido-conjuntivo', 'tecido-muscular', 'tecido-nervoso', 'cartilagem', 'tecido-osseo', 'sistema-circulatorio'];
+      
+      for (const tema of temas) {
+        try {
+          const questoesModule = await import(`../data/temas/${tema}/questoes-praticas.json`);
+          let data = questoesModule.default;
+          
+          if (temImagensDisponiveis(tema)) {
+            data = mapearImagensQuestoes(tema, data);
+          }
+          
+          todasQuestoes.push(...(data || []));
+        } catch (error) {
+          console.warn(`Erro ao carregar questões práticas do tema ${tema}:`, error);
+        }
+      }
+      
+      console.log('Todas as questões práticas carregadas:', todasQuestoes);
+      setQuestoes(todasQuestoes);
+    } catch (error) {
+      console.error('Erro ao carregar todas as questões práticas:', error);
       setQuestoes([]);
     } finally {
       setLoading(false);
@@ -166,21 +194,7 @@ const QuestoesPraticasPage: React.FC = () => {
                 onTemaSelecionado={setTemaSelecionado}
               />
               
-              {/* Botão da Galeria de Imagens */}
-              {temaSelecionado && temImagensDisponiveis(temaSelecionado) && (
-                <div className="bg-white rounded-xl md:rounded-2xl shadow-lg p-4 md:p-6 border border-slate-100 mx-2 md:mx-0">
-                  <button
-                    onClick={() => setGaleriaAberta(true)}
-                    className="w-full bg-gradient-to-r from-emerald-500 to-teal-600 text-white p-3 md:p-4 rounded-lg md:rounded-xl hover:from-emerald-600 hover:to-teal-700 transition-all duration-200 flex items-center justify-center space-x-2 md:space-x-3"
-                  >
-                    <Grid className="w-4 h-4 md:w-5 md:h-5" />
-                    <span className="text-sm md:text-base font-medium">Ver Galeria de Imagens</span>
-                  </button>
-                  <p className="text-xs md:text-sm text-slate-500 text-center mt-2">
-                    Visualize todas as lâminas disponíveis do tema
-                  </p>
-                </div>
-              )}
+
               
               <div className="bg-white rounded-xl md:rounded-2xl shadow-lg p-4 md:p-6 border border-slate-100 mx-2 md:mx-0">
                 <div className="flex items-center space-x-2 md:space-x-3 mb-3 md:mb-4">
@@ -207,13 +221,6 @@ const QuestoesPraticasPage: React.FC = () => {
           </div>
         </main>
       </div>
-      
-      {/* Galeria de Imagens */}
-      <GaleriaImagens
-        tema={temaSelecionado}
-        isOpen={galeriaAberta}
-        onClose={() => setGaleriaAberta(false)}
-      />
     </>
   );
 };

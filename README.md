@@ -25,15 +25,19 @@ Uma aplicação web moderna desenvolvida para estudantes de medicina, biomedicin
 - **200+ questões** organizadas por tema
 - **15+ temas** de histologia
 - **Explicações detalhadas** para cada alternativa
+- **Busca global** sem necessidade de selecionar tema
+- **Busca inteligente** em enunciados, alternativas e tags
 - **Filtros avançados** por subtópico e palavras-chave
 - **Interface accordion** para melhor organização
 
 ### 🔬 **Questões Práticas**
 - **50+ lâminas histológicas** em alta definição
 - **6+ temas** com imagens reais
+- **Busca global** sem necessidade de selecionar tema
 - **Zoom interativo** nas imagens
 - **Análise visual** de estruturas microscópicas
 - **Explicações contextualizadas**
+- **Interface mobile otimizada** para estudo em smartphones
 
 ### 🃏 **Flashcards Interativos**
 
@@ -309,7 +313,39 @@ npm run type-check   # Verificação de tipos TypeScript
 
 ---
 
-## 🤝 Contribuição
+## � Automação e Expansão
+
+### **Scripts de Criação de Temas**
+
+A plataforma inclui scripts automatizados para acelerar a criação de novos temas:
+
+#### **Windows (PowerShell)**
+```powershell
+.\create-theme.ps1
+```
+
+#### **Linux/Mac (Bash)**
+```bash
+./create-theme.sh
+```
+
+**Funcionalidades dos Scripts:**
+- 🎨 **Interface interativa** com validações
+- 📁 **Criação automática** de estrutura de diretórios
+- 📝 **Templates** de questões teóricas e práticas
+- 🖼️ **Placeholders** para imagens histológicas
+- ⚙️ **Configuração automática** do sistema
+- 📚 **Documentação** específica gerada automaticamente
+
+### **Documentação de Expansão**
+
+- **[GUIA_RAPIDO.md](./GUIA_RAPIDO.md)** - Guia rápido para adição de conteúdo
+- **[GUIA_EXPANSAO.md](./GUIA_EXPANSAO.md)** - Guia detalhado de expansão
+- **[PROPOSTA_CACHE_PERFORMANCE.md](./PROPOSTA_CACHE_PERFORMANCE.md)** - Otimizações de performance
+
+---
+
+## �🤝 Contribuição
 
 Contribuições são bem-vindas! Siga estas etapas:
 

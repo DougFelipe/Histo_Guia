@@ -46,7 +46,34 @@
 }
 ```
 
-### 🆕 Novo Tema (10 minutos)
+### 🆕 Novo Tema - Método Automatizado (2 minutos)
+
+#### 🤖 Script Automático (RECOMENDADO)
+
+**Windows:**
+```powershell
+.\create-theme.ps1
+```
+
+**Linux/Mac:**
+```bash
+./create-theme.sh
+```
+
+**O que o script faz:**
+- ✅ Cria toda estrutura de diretórios
+- ✅ Gera templates de questões teóricas e práticas
+- ✅ Atualiza configuração de imagens automaticamente
+- ✅ Cria placeholders para imagens
+- ✅ Gera documentação específica do tema
+- ✅ Interface interativa amigável
+
+#### 📝 Após executar o script:
+1. **Adicionar imagens reais** no diretório indicado
+2. **Revisar questões** substituindo os [SUBSTITUIR]
+3. **Testar** com `npm run dev`
+
+### 🆕 Novo Tema - Método Manual (10 minutos)
 
 1. **Pastas**:
 ```bash
@@ -63,7 +90,32 @@ mkdir -p public/images/temas/novo-tema
    - `questoes-praticas.json`
    - Imagens no padrão `image1.jpg`, `image2.jpg`, etc.
 
-## 📋 Checklist Rápido
+## � Atualizações Recentes
+
+### ✅ Sistema de Busca Aprimorado
+- **Questões Teóricas**: Busca funciona sem seleção de tema (busca em todos os temas)
+- **Questões Práticas**: Busca funciona sem seleção de tema (busca em todos os temas)
+- **Busca inteligente**: Procura em enunciados, alternativas e tags
+
+### ❌ Feature Removida
+- **Galeria de Imagens**: Removida por ser considerada desnecessária
+- As imagens ainda são exibidas normalmente nas questões práticas
+
+### 🛠 Scripts de Automação
+- **create-theme.ps1**: Script PowerShell para Windows
+- **create-theme.sh**: Script Bash para Linux/Mac
+- Interface interativa com validações
+
+### 🆕 Temas Disponíveis
+- **tecido-epitelial**: Tecido Epitelial (3 imagens, 8 teóricas, 5 práticas)
+- **cartilagem**: Cartilagem (3 imagens, 5 teóricas, 5 práticas) - Configurado para testes
+- **tecido-conjuntivo**: Disponível para implementação
+- **tecido-muscular**: Disponível para implementação
+- **tecido-nervoso**: Disponível para implementação
+- **tecido-osseo**: Disponível para implementação
+- **sistema-circulatorio**: Disponível para implementação
+
+## �📋 Checklist Rápido
 
 ### Antes de Commitar
 - [ ] JSON válido (usar linter)

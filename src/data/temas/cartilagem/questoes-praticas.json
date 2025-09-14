@@ -1,27 +1,127 @@
 [
   {
-    "id": 6,
-    "tema": "Cartilagem",
-    "imagem": "https://images.pexels.com/photos/3938027/pexels-photo-3938027.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "enunciado": "Examine o tecido cartilaginoso na preparação histológica. Identifique o tipo de cartilagem apresentado.",
+    "id": 1,
+    "tema": "cartilagem",
+    "imagem": "/images/temas/cartilagem/image1.jpg",
+    "enunciado": "Observe a lâmina histológica apresentada. Identifique o tipo de cartilagem e suas características principais.",
     "alternativas": [
       {
-        "texto": "Cartilagem Hialina",
-        "explicacao": "Correto! A imagem mostra cartilagem hialina, caracterizada por matriz homogênea e translúcida, com condrócitos dispostos em lacunas, frequentemente em grupos isógenos."
+        "texto": "Cartilagem hialina - presença de matriz homogênea e condrócitos em lacunas",
+        "explicacao": "Correto! A cartilagem hialina é caracterizada por uma matriz extracelular homogênea, translúcida, com condrócitos organizados em lacunas. É o tipo mais comum de cartilagem, encontrado em articulações, costelas e traqueia."
       },
       {
-        "texto": "Cartilagem Elástica",
-        "explicacao": "Incorreto. A cartilagem elástica apresenta fibras elásticas visíveis na matriz, que não são evidentes nesta preparação."
+        "texto": "Cartilagem elástica - rica em fibras elásticas visíveis",
+        "explicacao": "Incorreto. A cartilagem elástica apresenta fibras elásticas bem visíveis na matriz, o que não é característico da imagem apresentada."
       },
       {
-        "texto": "Cartilagem Fibrosa",
-        "explicacao": "Incorreto. A cartilagem fibrosa (fibrocartilagem) apresenta feixes de fibras colágenas bem evidentes na matriz, não observados nesta imagem."
+        "texto": "Cartilagem fibrosa - abundante colágeno tipo I",
+        "explicacao": "Incorreto. A cartilagem fibrosa (fibrocartilagem) apresenta abundantes fibras colágenas tipo I organizadas em feixes, não observadas nesta preparação."
       },
       {
-        "texto": "Tecido Ósseo",
-        "explicacao": "Incorreto. O tecido ósseo apresenta matriz mineralizada com osteócitos em lacunas e sistema de Havers, estruturas não visíveis nesta preparação."
+        "texto": "Tecido ósseo - presença de osteócitos em osteoplastos",
+        "explicacao": "Incorreto. O tecido ósseo apresenta matriz mineralizada com osteócitos em lacunas (osteoplastos) e sistema de Havers, estruturas não presentes nesta imagem."
       }
     ],
     "respostaCorreta": 0
+  },
+  {
+    "id": 2,
+    "tema": "cartilagem",
+    "imagem": "/images/temas/cartilagem/image2.jpg",
+    "enunciado": "Analise a estrutura da cartilagem mostrada na imagem. Quais são as principais diferenças entre os tipos de cartilagem?",
+    "alternativas": [
+      {
+        "texto": "Cartilagem hialina tem mais fibras colágenas que a elástica",
+        "explicacao": "Incorreto. A cartilagem hialina possui menos fibras visíveis na matriz em comparação com outros tipos."
+      },
+      {
+        "texto": "Cartilagem elástica contém fibras elásticas, hialina tem matriz homogênea, fibrosa tem muito colágeno",
+        "explicacao": "Correto! Cada tipo de cartilagem tem características distintas: hialina (matriz homogênea), elástica (rica em fibras elásticas) e fibrosa (abundante em colágeno tipo I). Essas diferenças refletem suas funções específicas no organismo."
+      },
+      {
+        "texto": "Todas as cartilagens têm a mesma composição da matriz",
+        "explicacao": "Incorreto. Os diferentes tipos de cartilagem apresentam composições de matriz distintas, adaptadas às suas funções específicas."
+      },
+      {
+        "texto": "Cartilagem fibrosa não possui condrócitos",
+        "explicacao": "Incorreto. Todos os tipos de cartilagem possuem condrócitos, que são suas células características."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "id": 3,
+    "tema": "cartilagem",
+    "imagem": "/images/temas/cartilagem/image3.jpg",
+    "enunciado": "Identifique as estruturas celulares presentes na cartilagem observada na lâmina.",
+    "alternativas": [
+      {
+        "texto": "Osteoblastos e osteoclastos",
+        "explicacao": "Incorreto. Osteoblastos e osteoclastos são células do tecido ósseo, não da cartilagem."
+      },
+      {
+        "texto": "Condrócitos jovens e maduros em lacunas",
+        "explicacao": "Correto! Na cartilagem, as células características são os condrócitos, que podem ser jovens (condroblastos) ou maduros. Eles se localizam em cavidades chamadas lacunas dentro da matriz cartilaginosa."
+      },
+      {
+        "texto": "Fibroblastos e células musculares",
+        "explicacao": "Incorreto. Fibroblastos são células do tecido conjuntivo propriamente dito, e células musculares pertencem ao tecido muscular."
+      },
+      {
+        "texto": "Células epiteliais e glândulas",
+        "explicacao": "Incorreto. Células epiteliais e glândulas são características do tecido epitelial, não da cartilagem."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "id": 4,
+    "tema": "cartilagem",
+    "imagem": "/images/temas/cartilagem/image1.jpg",
+    "enunciado": "Com base na organização celular observada, determine o padrão de crescimento da cartilagem.",
+    "alternativas": [
+      {
+        "texto": "Apenas crescimento intersticial (de dentro para fora)",
+        "explicacao": "Incorreto. A cartilagem não apresenta apenas crescimento intersticial."
+      },
+      {
+        "texto": "Apenas crescimento aposicional (de fora para dentro)",
+        "explicacao": "Incorreto. A cartilagem não apresenta apenas crescimento aposicional."
+      },
+      {
+        "texto": "Crescimento intersticial e aposicional combinados",
+        "explicacao": "Correto! A cartilagem apresenta dois tipos de crescimento: intersticial (pela divisão dos condrócitos existentes) e aposicional (pela adição de novas camadas na superfície pelo pericôndrio)."
+      },
+      {
+        "texto": "Não apresenta crescimento após a formação",
+        "explicacao": "Incorreto. A cartilagem mantém capacidade de crescimento através de mecanismos específicos."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 5,
+    "tema": "cartilagem",
+    "imagem": "/images/temas/cartilagem/image2.jpg",
+    "enunciado": "Observe a região periférica da cartilagem. Identifique a estrutura que a envolve.",
+    "alternativas": [
+      {
+        "texto": "Endósteo",
+        "explicacao": "Incorreto. O endósteo é a membrana que reveste a cavidade medular dos ossos."
+      },
+      {
+        "texto": "Periósteo",
+        "explicacao": "Incorreto. O periósteo é a membrana que envolve os ossos, não a cartilagem."
+      },
+      {
+        "texto": "Pericôndrio",
+        "explicacao": "Correto! O pericôndrio é a membrana de tecido conjuntivo que envolve a cartilagem (exceto nas superfícies articulares). É responsável pela nutrição e pelo crescimento aposicional da cartilagem."
+      },
+      {
+        "texto": "Epicôndrio",
+        "explicacao": "Incorreto. Epicôndrio não é uma estrutura anatômica reconhecida."
+      }
+    ],
+    "respostaCorreta": 2
   }
 ]

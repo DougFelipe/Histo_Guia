@@ -37,17 +37,26 @@ const QuestaoAccordionList: React.FC<QuestaoAccordionListProps> = ({ questoes, l
     );
   }
 
-  if (!temaSelecionado) {
-    return (
-      <div className="bg-white rounded-xl md:rounded-2xl shadow-lg p-6 md:p-12 text-center border border-slate-100 mx-2 md:mx-0">
-        <div className="bg-slate-100 w-12 h-12 md:w-16 md:h-16 rounded-full flex items-center justify-center mx-auto mb-3 md:mb-4">
-          <AlertCircle className="w-6 h-6 md:w-8 md:h-8 text-slate-500" />
-        </div>
-        <h3 className="text-lg md:text-xl font-semibold text-slate-800 mb-2">Selecione um tema</h3>
-        <p className="text-sm md:text-base text-slate-600">Escolha um tema no menu lateral para visualizar as questões disponíveis.</p>
-      </div>
-    );
-  }
+  const formatarNomeTema = (tema: string) => {
+    return tema.split('-').map(palavra => 
+      palavra.charAt(0).toUpperCase() + palavra.slice(1)
+    ).join(' ');
+  };
+
+  const inferirTema = (questao: Questao): string => {
+    // Inferir tema pelas tags ou outros critérios
+    const tags = questao.tags.map(tag => tag.toLowerCase());
+    
+    if (tags.some(tag => tag.includes('epitelial') || tag.includes('epitélio'))) return 'tecido-epitelial';
+    if (tags.some(tag => tag.includes('conjuntivo') || tag.includes('conectivo'))) return 'tecido-conjuntivo';
+    if (tags.some(tag => tag.includes('muscular') || tag.includes('músculo'))) return 'tecido-muscular';
+    if (tags.some(tag => tag.includes('nervoso') || tag.includes('neurônio'))) return 'tecido-nervoso';
+    if (tags.some(tag => tag.includes('cartilagem') || tag.includes('cartilaginoso'))) return 'cartilagem';
+    if (tags.some(tag => tag.includes('ósseo') || tag.includes('osso'))) return 'tecido-osseo';
+    if (tags.some(tag => tag.includes('circulatório') || tag.includes('sangue'))) return 'sistema-circulatorio';
+    
+    return 'geral';
+  };
 
   if (questoes.length === 0) {
     return (
@@ -66,9 +75,7 @@ const QuestaoAccordionList: React.FC<QuestaoAccordionListProps> = ({ questoes, l
       <div className="bg-white rounded-xl md:rounded-2xl shadow-lg p-3 md:p-4 border border-slate-100 mx-2 md:mx-0">
         <div className="flex flex-col space-y-2 md:flex-row md:items-center md:justify-between md:space-y-0">
           <h2 className="text-lg md:text-xl font-semibold text-slate-800">
-            {temaSelecionado.split('-').map(palavra => 
-              palavra.charAt(0).toUpperCase() + palavra.slice(1)
-            ).join(' ')}
+            {temaSelecionado ? formatarNomeTema(temaSelecionado) : 'Todas as Questões'}
           </h2>
           <span className="bg-purple-100 text-purple-700 px-2 md:px-3 py-1 rounded-full text-xs md:text-sm font-medium self-start md:self-auto">
             {questoes.length} questões
@@ -88,6 +95,11 @@ const QuestaoAccordionList: React.FC<QuestaoAccordionListProps> = ({ questoes, l
                   <span className="bg-purple-600 text-white px-2 md:px-3 py-1 rounded-full text-xs md:text-sm font-medium">
                     #{questao.numero}
                   </span>
+                  {!temaSelecionado && (
+                    <span className="bg-blue-100 text-blue-700 px-2 py-1 rounded-full text-xs font-medium">
+                      {formatarNomeTema(inferirTema(questao))}
+                    </span>
+                  )}
                   <span className="bg-lavender-200 text-violet-700 px-2 py-1 rounded-full text-xs font-medium">
                     {questao.subtopico}
                   </span>

@@ -4,17 +4,50 @@
 
 Este guia detalha todos os passos para adicionar novos conteúdos à plataforma Histoguia, incluindo questões teóricas, práticas e novos temas de histologia.
 
+## 🤖 Scripts Automatizados (RECOMENDADO)
+
+### Criação Automática de Temas
+
+Para acelerar o processo de criação de novos temas, utilize os scripts automatizados:
+
+#### Windows (PowerShell)
+```powershell
+.\create-theme.ps1
+```
+
+#### Linux/Mac (Bash)
+```bash
+./create-theme.sh
+```
+
+**Características dos Scripts:**
+- ✅ Interface interativa amigável
+- ✅ Validação automática de entradas
+- ✅ Criação completa da estrutura de arquivos
+- ✅ Templates prontos para edição
+- ✅ Configuração automática do sistema
+- ✅ Documentação específica gerada
+- ✅ Placeholders para imagens
+- ✅ Resumo e instruções finais
+
+**Vantagens:**
+- **Reduz tempo de setup**: De 30 minutos para 2 minutos
+- **Elimina erros manuais**: Validação automática
+- **Padronização**: Estrutura consistente
+- **Documentação automática**: README gerado para cada tema
+
 ---
 
 ## 🎯 Índice
 
-1. [Visão Geral da Estrutura](#-visao-geral-da-estrutura)
-2. [Adicionando Questões Teóricas](#-adicionando-questoes-teoricas)
-3. [Adicionando Questões Práticas](#-adicionando-questoes-praticas)
-4. [Criando um Novo Tema](#-criando-um-novo-tema)
-5. [Sistema de Imagens](#-sistema-de-imagens)
-6. [Validação e Testes](#-validacao-e-testes)
-7. [Troubleshooting](#-troubleshooting)
+1. [Scripts Automatizados](#-scripts-automatizados-recomendado)
+2. [Visão Geral da Estrutura](#-visao-geral-da-estrutura)
+3. [Adicionando Questões Teóricas](#-adicionando-questoes-teoricas)
+4. [Adicionando Questões Práticas](#-adicionando-questoes-praticas)
+5. [Criando um Novo Tema](#-criando-um-novo-tema)
+6. [Sistema de Imagens](#-sistema-de-imagens)
+7. [Validação e Testes](#-validacao-e-testes)
+8. [Troubleshooting](#-troubleshooting)
 
 ---
 
@@ -485,16 +518,18 @@ public/images/temas/{tema}/
 - Selecionar o novo tema
 - Verificar se questões carregam corretamente
 
-#### 2. Teste de Busca
-- Utilizar palavras-chave das questões
-- Verificar se a busca funciona corretamente
-- Testar busca por enunciado e alternativas
+#### 2. Teste de Busca Aprimorada
+- **Sem tema selecionado**: Testar busca global em todas as questões
+- **Com tema selecionado**: Testar busca filtrada por tema específico
+- **Palavras-chave**: Verificar busca por enunciado, alternativas e tags
+- **Responsividade**: Testar busca em dispositivos móveis
 
 #### 3. Teste de Imagens
 - Abrir página de questões práticas
 - Selecionar tema com imagens
 - Verificar carregamento das imagens
-- Testar zoom das imagens
+- Testar visualização em dispositivos móveis
+- **Nota**: Feature de galeria de imagens foi removida
 - Verificar galeria de imagens
 
 #### 4. Teste de Responsividade

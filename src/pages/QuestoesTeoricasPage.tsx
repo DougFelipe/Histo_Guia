@@ -22,8 +22,7 @@ const QuestoesTeoricasPage: React.FC = () => {
     if (temaSelecionado) {
       carregarQuestoes(temaSelecionado);
     } else {
-      setQuestoes([]);
-      setQuestoesFiltradas([]);
+      carregarTodasQuestoes();
     }
   }, [temaSelecionado]);
 
@@ -31,18 +30,49 @@ const QuestoesTeoricasPage: React.FC = () => {
     aplicarFiltros();
   }, [questoes, filtros]);
 
-  const carregarQuestoes = async (tema: string) => {
+    const carregarQuestoes = async (tema: string) => {
     setLoading(true);
     try {
-      console.log('Carregando questões para o tema:', tema);
-      // Importar dinamicamente o arquivo JSON
-      const questoesModule = await import(`../data/temas/${tema}/questoes-teoricas.json`);
-      const data = questoesModule.default;
-      console.log('Questões carregadas:', data);
-      setQuestoes(data || []);
+      const response = await fetch(`/src/data/temas/${tema}/questoes-teoricas.json`);
+      if (!response.ok) {
+        throw new Error(`Erro ao carregar questões: ${response.status}`);
+      }
+      const data = await response.json();
+      setQuestoes(data.questoes);
+      setQuestoesFiltradas(data.questoes);
     } catch (error) {
       console.error('Erro ao carregar questões:', error);
       setQuestoes([]);
+      setQuestoesFiltradas([]);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const carregarTodasQuestoes = async () => {
+    setLoading(true);
+    try {
+      const todasQuestoes = [];
+      const temas = ['tecido-epitelial', 'tecido-conjuntivo', 'tecido-muscular', 'tecido-nervoso', 'cartilagem', 'tecido-osseo', 'sistema-circulatorio'];
+      
+      for (const tema of temas) {
+        try {
+          const response = await fetch(`/src/data/temas/${tema}/questoes-teoricas.json`);
+          if (response.ok) {
+            const data = await response.json();
+            todasQuestoes.push(...data.questoes);
+          }
+        } catch (error) {
+          console.warn(`Erro ao carregar questões do tema ${tema}:`, error);
+        }
+      }
+      
+      setQuestoes(todasQuestoes);
+      setQuestoesFiltradas(todasQuestoes);
+    } catch (error) {
+      console.error('Erro ao carregar todas as questões:', error);
+      setQuestoes([]);
+      setQuestoesFiltradas([]);
     } finally {
       setLoading(false);
     }
