@@ -49,6 +49,7 @@ const SimuladoExecucaoPage: React.FC = () => {
         { nome: 'Tecido Epitelial', arquivo: 'tecido-epitelial' },
         { nome: 'Tecido Muscular', arquivo: 'tecido-muscular' },
         { nome: 'Tecido Nervoso', arquivo: 'tecido-nervoso' },
+        { nome: 'Tecido Ósseo', arquivo: 'tecido-osseo' },
         { nome: 'Sistema Circulatório', arquivo: 'sistema-circulatorio' },
         { nome: 'Cartilagem', arquivo: 'cartilagem' }
       ];
@@ -249,7 +250,7 @@ const SimuladoExecucaoPage: React.FC = () => {
                         Questão #{questao.id}
                       </span>
                       <span className="bg-purple-100 text-purple-700 px-3 py-1 rounded-full text-sm font-medium">
-                        {questao.tema}
+                        {questao.tema?.charAt(0).toUpperCase() + questao.tema?.slice(1).replace(/-/g, ' ') || 'Tema'}
                       </span>
                     </div>
                     
@@ -271,8 +272,8 @@ const SimuladoExecucaoPage: React.FC = () => {
                           <div className="relative overflow-hidden rounded-xl">
                             <img
                               src={questao.imagem}
-                              alt={`Lâmina histológica - ${questao.tema}`}
-                              className={`w-full h-64 object-cover transition-all duration-300 ${
+                              alt={`Lâmina histológica - ${questao.tema?.charAt(0).toUpperCase() + questao.tema?.slice(1).replace(/-/g, ' ') || 'Histologia'}`}
+                              className={`w-full h-80 object-contain bg-slate-100 border border-slate-200 transition-all duration-300 ${
                                 imagemCarregada ? 'opacity-100' : 'opacity-0'
                               } group-hover:scale-105`}
                               onLoad={() => setImagemCarregada(true)}

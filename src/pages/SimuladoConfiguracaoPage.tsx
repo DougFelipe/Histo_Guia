@@ -16,15 +16,21 @@ const SimuladoConfiguracaoPage: React.FC = () => {
   const [questoesDisponiveis, setQuestoesDisponiveis] = useState<QuestaoPratica[]>([]);
   const [loading, setLoading] = useState(true);
 
-  // Lista de temas disponíveis
-  const todosOsTemas = [
-    'Tecido Conjuntivo',
-    'Tecido Epitelial', 
-    'Tecido Muscular',
-    'Tecido Nervoso',
-    'Sistema Circulatório',
-    'Cartilagem'
-  ];
+  // Mapeamento de temas (arquivo -> nome de exibição)
+  const mapeamentoTemas: Record<string, string> = {
+    'tecido-conjuntivo': 'Tecido Conjuntivo',
+    'tecido-epitelial': 'Tecido Epitelial',
+    'tecido-muscular': 'Tecido Muscular',
+    'tecido-nervoso': 'Tecido Nervoso',
+    'sistema-circulatorio': 'Sistema Circulatório',
+    'cartilagem': 'Cartilagem',
+    'tecido-osseo': 'Tecido Ósseo'
+  };
+
+  // Mapeamento reverso (nome de exibição -> arquivo)
+  const mapeamentoReverso = Object.fromEntries(
+    Object.entries(mapeamentoTemas).map(([key, value]) => [value, key])
+  );
 
   useEffect(() => {
     carregarQuestoes();
@@ -40,37 +46,35 @@ const SimuladoConfiguracaoPage: React.FC = () => {
       const todasQuestoes: QuestaoPratica[] = [];
       const temasComQuestoes: string[] = [];
       
-      const temasArquivos = [
-        'tecido-conjuntivo',
-        'tecido-epitelial', 
-        'tecido-muscular',
-        'tecido-nervoso',
-        'sistema-circulatorio',
-        'cartilagem'
-      ];
-
+      const temasArquivos = Object.keys(mapeamentoTemas);
+      
       // Carregar questões de todos os temas
-      for (let i = 0; i < temasArquivos.length; i++) {
-        const tema = temasArquivos[i];
-        const temaFormatado = todosOsTemas[i];
+      for (const temaArquivo of temasArquivos) {
+        const temaFormatado = mapeamentoTemas[temaArquivo];
         
         try {
-          const questoesModule = await import(`../data/temas/${tema}/questoes-praticas.json`);
+          const questoesModule = await import(`../data/temas/${temaArquivo}/questoes-praticas.json`);
           const questoesTema = questoesModule.default;
           
           if (questoesTema && questoesTema.length > 0) {
-            todasQuestoes.push(...questoesTema);
+            // Adicionar nome formatado às questões para facilitar o filtro
+            const questoesComTemaFormatado = questoesTema.map((questao: QuestaoPratica) => ({
+              ...questao,
+              temaFormatado: temaFormatado
+            }));
+            
+            todasQuestoes.push(...questoesComTemaFormatado);
             temasComQuestoes.push(temaFormatado);
           }
         } catch (error) {
-          console.warn(`Não foi possível carregar questões do tema: ${tema}`, error);
+          console.warn(`Não foi possível carregar questões do tema: ${temaArquivo}`, error);
         }
       }
       
       setQuestoesDisponiveis(todasQuestoes);
       setTemasDisponiveis(temasComQuestoes);
     } catch (error) {
-      console.error('Erro ao carregar questões:', error);
+      console.error('❌ Erro ao carregar questões:', error);
     } finally {
       setLoading(false);
     }
@@ -105,7 +109,7 @@ const SimuladoConfiguracaoPage: React.FC = () => {
 
   const getQuestoesDosTemas = () => {
     return questoesDisponiveis.filter(q => 
-      configuracao.temasSelecionados.includes(q.tema)
+      configuracao.temasSelecionados.includes((q as any).temaFormatado || q.tema)
     );
   };
 
@@ -234,7 +238,7 @@ const SimuladoConfiguracaoPage: React.FC = () => {
                   </div>
                   <span className="text-slate-800 font-medium">{tema}</span>
                   <span className="ml-auto text-sm text-slate-500">
-                    {questoesDisponiveis.filter(q => q.tema === tema).length} questões
+                    {questoesDisponiveis.filter(q => (q as any).temaFormatado === tema).length} questões
                   </span>
                 </label>
               ))}

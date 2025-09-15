@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { ArrowLeft, Trophy, Target, Clock, RotateCcw, ZoomIn, ChevronDown, ChevronUp } from 'lucide-react';
+import { ArrowLeft, Trophy, RotateCcw, ZoomIn, ChevronDown, ChevronUp } from 'lucide-react';
 import { Link, useNavigate } from 'react-router-dom';
 import Header from '../components/Header';
 import { ResultadoSimulado } from '../types';
@@ -189,7 +189,7 @@ const SimuladoResultadoPage: React.FC = () => {
                             </div>
                             <div>
                               <div className="font-medium text-slate-800">
-                                Questão {index + 1} - {questao.tema}
+                                Questão {index + 1} - {questao.tema?.charAt(0).toUpperCase() + questao.tema?.slice(1).replace(/-/g, ' ') || 'Tema não identificado'}
                               </div>
                               <div className="text-sm text-slate-600">
                                 {!wasAnswered || !isCorrect ? 'Incorreta' : 'Correta'} • Tempo: {formatarTempo(questao.tempoGasto || 0)}
@@ -219,8 +219,8 @@ const SimuladoResultadoPage: React.FC = () => {
                               <div className="relative group cursor-pointer" onClick={() => abrirZoom(questao.imagem)}>
                                 <img
                                   src={questao.imagem}
-                                  alt={`Lâmina histológica - ${questao.tema}`}
-                                  className="w-full h-48 object-cover rounded-xl group-hover:scale-105 transition-transform duration-300"
+                                  alt={`Lâmina histológica - ${questao.tema?.charAt(0).toUpperCase() + questao.tema?.slice(1).replace(/-/g, ' ') || 'Histologia'}`}
+                                  className="w-full h-80 object-contain bg-slate-100 rounded-xl group-hover:scale-105 transition-transform duration-300 border border-slate-200"
                                 />
                                 <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-30 transition-all duration-300 flex items-center justify-center rounded-xl">
                                   <div className="bg-white bg-opacity-90 p-3 rounded-full opacity-0 group-hover:opacity-100 transition-all duration-300">
