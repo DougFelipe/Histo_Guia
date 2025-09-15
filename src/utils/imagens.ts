@@ -54,12 +54,12 @@ export const mapearImagensQuestoes = (tema: string, questoes: any[]): any[] => {
  */
 export const IMAGENS_TEMAS: Record<string, number> = {
   'tecido-epitelial': 3,
-  'cartilagem': 3,        // Configurado para testes
-  'tecido-conjuntivo': 0, // Ainda não implementado
-  'tecido-muscular': 0,   // Ainda não implementado
-  'tecido-nervoso': 0,    // Ainda não implementado
-  'tecido-osseo': 0,      // Ainda não implementado
-  'sistema-circulatorio': 0 // Ainda não implementado
+  'cartilagem': 3,
+  'tecido-conjuntivo': 3,
+  'tecido-muscular': 3,
+  'tecido-nervoso': 3,
+  'tecido-osseo': 3,
+  'sistema-circulatorio': 3
 };
 
 /**

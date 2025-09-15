@@ -1,25 +1,75 @@
 [
   {
-    "id": 4,
-    "tema": "Tecido Nervoso",
-    "imagem": "https://images.pexels.com/photos/3938025/pexels-photo-3938025.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "enunciado": "Observe a preparação do sistema nervoso. Identifique a estrutura neural predominante na imagem.",
+    "id": 1,
+    "tema": "tecido-nervoso",
+    "imagem": "/images/temas/tecido-nervoso/image1.jpg",
+    "enunciado": "Identifique a principal célula do tecido nervoso mostrada na preparação histológica.",
     "alternativas": [
       {
-        "texto": "Corpo Celular de Neurônio",
-        "explicacao": "Incorreto. Embora possam estar presentes, os corpos celulares não são a estrutura predominante nesta preparação."
+        "texto": "Neurônio - célula especializada na transmissão de impulsos nervosos",
+        "explicacao": "Correto! O neurônio é a unidade funcional básica do sistema nervoso, especializado na recepção, integração e transmissão de sinais elétricos."
       },
       {
-        "texto": "Fibras Nervosas Mielinizadas",
-        "explicacao": "Correto! A imagem mostra fibras nervosas mielinizadas, caracterizadas pela presença da bainha de mielina que aparece como estruturas circulares claras ao redor dos axônios."
+        "texto": "Astrócito - célula glial de suporte",
+        "explicacao": "Incorreto. Os astrócitos são células da glia que fornecem suporte estrutural e metabólico aos neurônios."
       },
       {
-        "texto": "Células da Glia",
-        "explicacao": "Incorreto. Embora células da glia estejam presentes, elas não são a estrutura mais evidente nesta preparação."
+        "texto": "Oligodendrócito - produtor de mielina no SNC",
+        "explicacao": "Incorreto. Os oligodendrócitos são responsáveis pela mielinização dos axônios no sistema nervoso central."
       },
       {
-        "texto": "Capilares Sanguíneos",
-        "explicacao": "Incorreto. Os capilares podem estar presentes, mas não são a estrutura neural principal mostrada na lâmina."
+        "texto": "Micróglia - células fagocitárias do SNC",
+        "explicacao": "Incorreto. A micróglia são células do sistema imunológico especializadas na defesa do tecido nervoso."
+      }
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "id": 2,
+    "tema": "tecido-nervoso",
+    "imagem": "/images/temas/tecido-nervoso/image2.jpg",
+    "enunciado": "Observe a estrutura neuronal. Qual parte do neurônio é responsável pela condução do impulso nervoso?",
+    "alternativas": [
+      {
+        "texto": "Corpo celular (soma) - centro metabólico do neurônio",
+        "explicacao": "Incorreto. O corpo celular é o centro metabólico onde ocorre a síntese de proteínas, mas não conduz o impulso."
+      },
+      {
+        "texto": "Dendritos - prolongamentos receptores de sinais",
+        "explicacao": "Incorreto. Os dendritos recebem sinais de outros neurônios, mas não conduzem o impulso para longe do corpo celular."
+      },
+      {
+        "texto": "Axônio - prolongamento condutor de impulsos",
+        "explicacao": "Correto! O axônio é o prolongamento neuronal especializado na condução de impulsos nervosos do corpo celular para outros neurônios ou células efetoras."
+      },
+      {
+        "texto": "Sinapse - região de comunicação entre neurônios",
+        "explicacao": "Incorreto. A sinapse é a região de comunicação entre neurônios, onde ocorre a transmissão do sinal, mas não conduz o impulso."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 3,
+    "tema": "tecido-nervoso",
+    "imagem": "/images/temas/tecido-nervoso/image3.jpg",
+    "enunciado": "Analise a bainha de mielina presente nos axônios. Qual sua principal função?",
+    "alternativas": [
+      {
+        "texto": "Síntese de neurotransmissores",
+        "explicacao": "Incorreto. A síntese de neurotransmissores ocorre principalmente no corpo celular e terminais axônicos."
+      },
+      {
+        "texto": "Aumento da velocidade de condução do impulso nervoso",
+        "explicacao": "Correto! A bainha de mielina atua como isolante elétrico, permitindo a condução saltatória e aumentando significativamente a velocidade do impulso nervoso."
+      },
+      {
+        "texto": "Fagocitose de debris celulares",
+        "explicacao": "Incorreto. A fagocitose é função da micróglia, não da bainha de mielina."
+      },
+      {
+        "texto": "Regulação do fluxo sanguíneo cerebral",
+        "explicacao": "Incorreto. A regulação do fluxo sanguíneo cerebral é principalmente função dos astrócitos através da barreira hematoencefálica."
       }
     ],
     "respostaCorreta": 1

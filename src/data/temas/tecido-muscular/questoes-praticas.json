@@ -1,27 +1,77 @@
 [
   {
-    "id": 3,
-    "tema": "Tecido Muscular",
-    "imagem": "https://images.pexels.com/photos/3938024/pexels-photo-3938024.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "enunciado": "Examine as fibras musculares na preparação histológica. Identifique o tipo de tecido muscular apresentado.",
+    "id": 1,
+    "tema": "tecido-muscular",
+    "imagem": "/images/temas/tecido-muscular/image1.jpg",
+    "enunciado": "Identifique o tipo de tecido muscular mostrado na lâmina histológica.",
     "alternativas": [
       {
-        "texto": "Músculo Liso",
-        "explicacao": "Incorreto. O músculo liso apresenta células fusiformes sem estriações transversais, características não observadas nesta lâmina."
+        "texto": "Tecido muscular esquelético - fibras estriadas e multinucleadas",
+        "explicacao": "Correto! O tecido muscular esquelético é caracterizado por fibras longas, cilíndricas, multinucleadas e com estriações transversais bem evidentes."
       },
       {
-        "texto": "Músculo Cardíaco",
-        "explicacao": "Incorreto. O músculo cardíaco possui estriações transversais e discos intercalares, além de núcleos centrais, diferindo da estrutura mostrada."
+        "texto": "Tecido muscular cardíaco - fibras estriadas com discos intercalares",
+        "explicacao": "Incorreto. O tecido muscular cardíaco apresenta células mononucleadas ou binucleadas unidas por discos intercalares."
       },
       {
-        "texto": "Músculo Esquelético",
-        "explicacao": "Correto! A imagem mostra músculo esquelético, caracterizado por fibras longas, cilíndricas, multinucleadas com núcleos periféricos e estriações transversais bem definidas."
+        "texto": "Tecido muscular liso - fibras fusiformes sem estriações",
+        "explicacao": "Incorreto. O tecido muscular liso é formado por células fusiformes, mononucleadas e sem estriações transversais."
       },
       {
-        "texto": "Tecido Conjuntivo",
-        "explicacao": "Incorreto. Embora possa haver tecido conjuntivo entre as fibras, a estrutura principal mostrada é claramente muscular estriada."
+        "texto": "Tecido conjuntivo - matriz extracelular abundante",
+        "explicacao": "Incorreto. O tecido conjuntivo não apresenta células especializadas em contração como as fibras musculares."
+      }
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "id": 2,
+    "tema": "tecido-muscular",
+    "imagem": "/images/temas/tecido-muscular/image2.jpg",
+    "enunciado": "Analise as características celulares do tecido muscular. Qual estrutura é responsável pela contração muscular?",
+    "alternativas": [
+      {
+        "texto": "Mitocôndrias - organelas produtoras de ATP",
+        "explicacao": "Incorreto. As mitocôndrias fornecem energia para a contração, mas não são as estruturas contráteis."
+      },
+      {
+        "texto": "Núcleo celular - centro de controle da célula",
+        "explicacao": "Incorreto. O núcleo controla as atividades celulares, mas não participa diretamente da contração."
+      },
+      {
+        "texto": "Filamentos de actina e miosina - proteínas contráteis",
+        "explicacao": "Correto! Os filamentos de actina (finos) e miosina (grossos) são as proteínas contráteis responsáveis pela contração muscular através do mecanismo de deslizamento."
+      },
+      {
+        "texto": "Retículo endoplasmático - síntese de proteínas",
+        "explicacao": "Incorreto. O retículo sarcoplasmático armazena e libera cálcio, mas os filamentos contráteis são as estruturas responsáveis pela contração."
       }
     ],
     "respostaCorreta": 2
+  },
+  {
+    "id": 3,
+    "tema": "tecido-muscular",
+    "imagem": "/images/temas/tecido-muscular/image3.jpg",
+    "enunciado": "Observe as estriações no tecido muscular. O que representam as bandas escuras (banda A)?",
+    "alternativas": [
+      {
+        "texto": "Regiões com apenas filamentos de actina",
+        "explicacao": "Incorreto. As regiões com apenas filamentos de actina formam as bandas claras (banda I)."
+      },
+      {
+        "texto": "Regiões onde há sobreposição de actina e miosina",
+        "explicacao": "Correto! A banda A (anisotrópica) corresponde às regiões onde há filamentos de miosina, incluindo áreas de sobreposição com filamentos de actina."
+      },
+      {
+        "texto": "Discos intercalares entre as células",
+        "explicacao": "Incorreto. Os discos intercalares são estruturas específicas do músculo cardíaco, não das estriações dos sarcômeros."
+      },
+      {
+        "texto": "Núcleos das células musculares",
+        "explicacao": "Incorreto. Os núcleos estão localizados na periferia das fibras musculares esqueléticas, não formam as bandas das estriações."
+      }
+    ],
+    "respostaCorreta": 1
   }
 ]

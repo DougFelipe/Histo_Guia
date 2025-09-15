@@ -1,25 +1,75 @@
 [
   {
-    "id": 5,
-    "tema": "Sistema Circulatório",
-    "imagem": "https://images.pexels.com/photos/3938026/pexels-photo-3938026.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "enunciado": "Analise a estrutura vascular apresentada na lâmina histológica. Qual tipo de vaso sanguíneo está sendo mostrado?",
+    "id": 1,
+    "tema": "sistema-circulatorio",
+    "imagem": "/images/temas/sistema-circulatorio/image1.jpg",
+    "enunciado": "Identifique o tipo de vaso sanguíneo mostrado na preparação histológica.",
     "alternativas": [
       {
-        "texto": "Capilar",
-        "explicacao": "Incorreto. Os capilares são estruturas muito pequenas, formadas apenas por endotélio, sem as camadas musculares visíveis nesta imagem."
+        "texto": "Artéria - vaso com parede espessa e túnica média desenvolvida",
+        "explicacao": "Correto! As artérias são caracterizadas por paredes espessas com túnica média bem desenvolvida, rica em músculo liso e fibras elásticas, para suportar a alta pressão sanguínea."
       },
       {
-        "texto": "Veia",
-        "explicacao": "Incorreto. As veias geralmente apresentam parede mais fina e lúmen maior em relação à espessura da parede, diferindo da estrutura observada."
+        "texto": "Veia - vaso com parede delgada e lúmen amplo",
+        "explicacao": "Incorreto. As veias apresentam paredes mais delgadas, túnica média menos desenvolvida e lúmen proporcionalmente maior."
       },
       {
-        "texto": "Artéria",
-        "explicacao": "Correto! A imagem mostra uma artéria, caracterizada por parede espessa com túnica média bem desenvolvida, rica em músculo liso, e lúmen relativamente pequeno."
+        "texto": "Capilar - vaso de pequeno calibre com apenas endotélio",
+        "explicacao": "Incorreto. Os capilares são os menores vasos, formados apenas por células endoteliais e membrana basal."
       },
       {
-        "texto": "Vaso Linfático",
-        "explicacao": "Incorreto. Os vasos linfáticos apresentam parede mais delgada e estrutura diferente da mostrada na preparação."
+        "texto": "Vaso linfático - parte do sistema linfático",
+        "explicacao": "Incorreto. Os vasos linfáticos transportam linfa e apresentam estrutura diferente dos vasos sanguíneos."
+      }
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "id": 2,
+    "tema": "sistema-circulatorio",
+    "imagem": "/images/temas/sistema-circulatorio/image2.jpg",
+    "enunciado": "Analise as camadas da parede vascular. Qual túnica é responsável pela regulação do calibre do vaso?",
+    "alternativas": [
+      {
+        "texto": "Túnica íntima - camada interna com endotélio",
+        "explicacao": "Incorreto. A túnica íntima é formada pelo endotélio e serve como interface com o sangue, mas não regula o calibre vascular."
+      },
+      {
+        "texto": "Túnica média - camada muscular lisa",
+        "explicacao": "Correto! A túnica média contém músculo liso e fibras elásticas, sendo responsável pela vasoconstrição e vasodilatação, regulando assim o calibre do vaso."
+      },
+      {
+        "texto": "Túnica adventícia - camada externa de tecido conjuntivo",
+        "explicacao": "Incorreto. A túnica adventícia é a camada externa de tecido conjuntivo que fornece suporte estrutural, mas não regula o calibre."
+      },
+      {
+        "texto": "Membrana basal - estrutura de suporte",
+        "explicacao": "Incorreto. A membrana basal fornece suporte ao endotélio, mas não tem função contrátil para regular o calibre vascular."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "id": 3,
+    "tema": "sistema-circulatorio",
+    "imagem": "/images/temas/sistema-circulatorio/image3.jpg",
+    "enunciado": "Observe a estrutura dos capilares. Qual sua principal função no sistema circulatório?",
+    "alternativas": [
+      {
+        "texto": "Transporte rápido de sangue sob alta pressão",
+        "explicacao": "Incorreto. O transporte rápido sob alta pressão é função das artérias, não dos capilares."
+      },
+      {
+        "texto": "Armazenamento de grandes volumes de sangue",
+        "explicacao": "Incorreto. O armazenamento de sangue é principalmente função das veias e vênulas."
+      },
+      {
+        "texto": "Troca de substâncias entre sangue e tecidos",
+        "explicacao": "Correto! Os capilares são especializados nas trocas metabólicas, permitindo a passagem de gases, nutrientes e produtos de excreção entre o sangue e os tecidos."
+      },
+      {
+        "texto": "Regulação da pressão arterial sistêmica",
+        "explicacao": "Incorreto. A regulação da pressão arterial é principalmente função das artérias e arteríolas através da vasoconstrição/vasodilatação."
       }
     ],
     "respostaCorreta": 2

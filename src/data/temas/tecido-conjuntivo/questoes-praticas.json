@@ -1,27 +1,77 @@
 [
   {
     "id": 1,
-    "tema": "Tecido Conjuntivo",
-    "imagem": "https://images.pexels.com/photos/3938023/pexels-photo-3938023.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "enunciado": "Observe a lâmina histológica apresentada. Identifique o tipo de tecido conjuntivo mostrado na imagem.",
+    "tema": "tecido-conjuntivo",
+    "imagem": "/images/temas/tecido-conjuntivo/image1.jpg",
+    "enunciado": "Observe a lâmina histológica do tecido conjuntivo apresentada. Identifique o tipo de tecido conjuntivo e suas características principais.",
     "alternativas": [
       {
-        "texto": "Tecido Conjuntivo Frouxo",
-        "explicacao": "Correto! A imagem mostra tecido conjuntivo frouxo, caracterizado por fibras colágenas dispostas de forma irregular, presença de células diversas como fibroblastos e macrófagos, e abundante substância fundamental amorfa."
+        "texto": "Tecido conjuntivo frouxo - matriz extracelular abundante com fibras colágenas e elásticas esparsas",
+        "explicacao": "Correto! O tecido conjuntivo frouxo é caracterizado por matriz extracelular abundante, fibras colágenas e elásticas relativamente esparsas, e diversos tipos celulares como fibroblastos, macrófagos e células plasmáticas."
       },
       {
-        "texto": "Cartilagem Hialina",
-        "explicacao": "Incorreto. A cartilagem hialina apresenta matriz homogênea e brilhante, com condrócitos em lacunas, características não observadas nesta lâmina."
+        "texto": "Tecido conjuntivo denso modelado - fibras colágenas organizadas em uma direção",
+        "explicacao": "Incorreto. O tecido conjuntivo denso modelado apresenta fibras colágenas densamente organizadas em uma direção específica, como nos tendões."
       },
       {
-        "texto": "Tecido Adiposo",
-        "explicacao": "Incorreto. O tecido adiposo é formado principalmente por adipócitos com grandes vacúolos lipídicos, que não são visíveis nesta preparação."
+        "texto": "Tecido conjuntivo denso não-modelado - fibras colágenas em múltiplas direções",
+        "explicacao": "Incorreto. O tecido conjuntivo denso não-modelado tem fibras colágenas densas organizadas em múltiplas direções, como na derme profunda."
       },
       {
-        "texto": "Tecido Conjuntivo Denso",
-        "explicacao": "Incorreto. O tecido conjuntivo denso apresenta fibras colágenas organizadas e densamente empacotadas, diferente do padrão observado na imagem."
+        "texto": "Tecido adiposo - células adiposas predominantes",
+        "explicacao": "Incorreto. O tecido adiposo é um tipo especializado de tecido conjuntivo onde predominam os adipócitos (células adiposas)."
       }
     ],
     "respostaCorreta": 0
+  },
+  {
+    "id": 2,
+    "tema": "tecido-conjuntivo",
+    "imagem": "/images/temas/tecido-conjuntivo/image2.jpg",
+    "enunciado": "Analise as células presentes no tecido conjuntivo mostrado. Qual célula é responsável pela síntese da matriz extracelular?",
+    "alternativas": [
+      {
+        "texto": "Macrófagos - células fagocitárias do sistema imunológico",
+        "explicacao": "Incorreto. Os macrófagos são células especializadas em fagocitose e apresentação de antígenos, não na síntese de matriz."
+      },
+      {
+        "texto": "Fibroblastos - células produtoras de fibras e substância fundamental",
+        "explicacao": "Correto! Os fibroblastos são as células mais importantes do tecido conjuntivo, responsáveis pela síntese e manutenção das fibras colágenas, elásticas e reticulares, além da substância fundamental amorfa."
+      },
+      {
+        "texto": "Células plasmáticas - produtoras de anticorpos",
+        "explicacao": "Incorreto. As células plasmáticas são diferenciações dos linfócitos B e são especializadas na produção de anticorpos."
+      },
+      {
+        "texto": "Mastócitos - células envolvidas em reações alérgicas",
+        "explicacao": "Incorreto. Os mastócitos contêm grânulos com histamina e heparina, participando de reações inflamatórias e alérgicas."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "id": 3,
+    "tema": "tecido-conjuntivo",
+    "imagem": "/images/temas/tecido-conjuntivo/image3.jpg",
+    "enunciado": "Identifique o tipo de fibra mais abundante na matriz extracelular do tecido conjuntivo observado.",
+    "alternativas": [
+      {
+        "texto": "Fibras reticulares - fibras delicadas que formam redes de suporte",
+        "explicacao": "Incorreto. As fibras reticulares são fibras colágenas tipo III muito delicadas, abundantes em órgãos linfoides e fígado."
+      },
+      {
+        "texto": "Fibras elásticas - fibras que conferem elasticidade aos tecidos",
+        "explicacao": "Incorreto. As fibras elásticas são compostas principalmente por elastina e conferem elasticidade, mas não são as mais abundantes."
+      },
+      {
+        "texto": "Fibras colágenas - fibras mais abundantes e resistentes à tração",
+        "explicacao": "Correto! As fibras colágenas (principalmente tipo I) são as mais abundantes no tecido conjuntivo, conferindo resistência à tração e suporte estrutural aos tecidos."
+      },
+      {
+        "texto": "Fibras musculares - fibras contráteis especializadas",
+        "explicacao": "Incorreto. As fibras musculares não fazem parte da matriz extracelular do tecido conjuntivo, são células especializadas em contração."
+      }
+    ],
+    "respostaCorreta": 2
   }
 ]

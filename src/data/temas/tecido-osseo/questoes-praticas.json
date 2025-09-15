@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "tema": "tecido-osseo",
+    "imagem": "/images/temas/tecido-osseo/image1.jpg",
+    "enunciado": "Identifique o tipo de tecido ósseo mostrado na preparação histológica.",
+    "alternativas": [
+      {
+        "texto": "Tecido ósseo compacto - organizado em sistemas de Havers",
+        "explicacao": "Correto! O tecido ósseo compacto é caracterizado pela organização em ósteons (sistemas de Havers), com lamelas concêntricas ao redor de canais centrais."
+      },
+      {
+        "texto": "Tecido ósseo esponjoso - trabéculas irregulares",
+        "explicacao": "Incorreto. O tecido ósseo esponjoso apresenta trabéculas ósseas irregulares separadas por espaços medulares."
+      },
+      {
+        "texto": "Cartilagem hialina - matriz homogênea",
+        "explicacao": "Incorreto. A cartilagem hialina apresenta matriz homogênea e translúcida, sem a organização lamelar do tecido ósseo."
+      },
+      {
+        "texto": "Tecido conjuntivo denso - fibras colágenas organizadas",
+        "explicacao": "Incorreto. O tecido conjuntivo denso não apresenta matriz calcificada nem a organização lamelar característica do osso."
+      }
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "id": 2,
+    "tema": "tecido-osseo",
+    "imagem": "/images/temas/tecido-osseo/image2.jpg",
+    "enunciado": "Analise as células ósseas presentes. Qual célula é responsável pela reabsorção da matriz óssea?",
+    "alternativas": [
+      {
+        "texto": "Osteoblastos - células formadoras de matriz óssea",
+        "explicacao": "Incorreto. Os osteoblastos são responsáveis pela síntese e deposição da matriz óssea."
+      },
+      {
+        "texto": "Osteócitos - células maduras no interior da matriz",
+        "explicacao": "Incorreto. Os osteócitos são osteoblastos que ficaram aprisionados na matriz, responsáveis pela manutenção do tecido."
+      },
+      {
+        "texto": "Osteoclastos - células multinucleadas reabsorvedoras",
+        "explicacao": "Correto! Os osteoclastos são células gigantes multinucleadas especializadas na reabsorção da matriz óssea calcificada."
+      },
+      {
+        "texto": "Condrócitos - células da cartilagem",
+        "explicacao": "Incorreto. Os condrócitos são células da cartilagem, não participam diretamente do metabolismo ósseo."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 3,
+    "tema": "tecido-osseo",
+    "imagem": "/images/temas/tecido-osseo/image3.jpg",
+    "enunciado": "Observe a organização da matriz óssea. O que caracteriza as lamelas ósseas?",
+    "alternativas": [
+      {
+        "texto": "Arranjo desordenado de fibras colágenas",
+        "explicacao": "Incorreto. As lamelas apresentam arranjo ordenado e regular das fibras colágenas."
+      },
+      {
+        "texto": "Camadas concêntricas de matriz calcificada com orientação específica das fibras",
+        "explicacao": "Correto! As lamelas ósseas são camadas concêntricas de matriz calcificada onde as fibras colágenas têm orientação específica, alternando entre as camadas."
+      },
+      {
+        "texto": "Espaços vazios sem matriz",
+        "explicacao": "Incorreto. Os espaços vazios (lacunas) contêm os osteócitos, mas não são as lamelas."
+      },
+      {
+        "texto": "Canais vasculares longitudinais",
+        "explicacao": "Incorreto. Os canais vasculares (canais de Havers) passam através das lamelas, mas não são as próprias lamelas."
+      }
+    ],
+    "respostaCorreta": 1
+  }
+]
