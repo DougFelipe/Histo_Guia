@@ -47,16 +47,16 @@ const Timer: React.FC<TimerProps> = ({
   const isTempoEsgotado = tempoRestante === 0;
 
   return (
-    <div className={`bg-white rounded-2xl shadow-lg p-4 border-2 transition-all duration-300 ${
+    <div className={`bg-white rounded-2xl shadow-lg p-3 sm:p-4 border-2 transition-all duration-300 ${
       isTempoEsgotado 
         ? 'border-red-500 bg-red-50' 
         : isTempoEsgotando 
           ? 'border-orange-500 bg-orange-50' 
           : 'border-slate-200'
     }`}>
-      <div className="flex items-center justify-between mb-3">
+      <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-3 gap-2">
         <div className="flex items-center space-x-2">
-          <div className={`p-2 rounded-lg ${
+          <div className={`p-1.5 sm:p-2 rounded-lg ${
             isTempoEsgotado 
               ? 'bg-red-100' 
               : isTempoEsgotando 
@@ -64,19 +64,19 @@ const Timer: React.FC<TimerProps> = ({
                 : 'bg-purple-100'
           }`}>
             {isTempoEsgotando || isTempoEsgotado ? (
-              <AlertTriangle className={`w-5 h-5 ${
+              <AlertTriangle className={`w-4 h-4 sm:w-5 sm:h-5 ${
                 isTempoEsgotado ? 'text-red-600' : 'text-orange-600'
               }`} />
             ) : (
-              <Clock className="w-5 h-5 text-purple-600" />
+              <Clock className="w-4 h-4 sm:w-5 sm:h-5 text-purple-600" />
             )}
           </div>
-          <span className="text-sm font-medium text-slate-700">
+          <span className="text-xs sm:text-sm font-medium text-slate-700">
             {isTempoEsgotado ? 'Tempo Esgotado!' : 'Tempo Restante'}
           </span>
         </div>
         
-        <div className={`text-2xl font-bold ${
+        <div className={`text-xl sm:text-2xl font-bold ${
           isTempoEsgotado 
             ? 'text-red-600' 
             : isTempoEsgotando 
@@ -104,7 +104,7 @@ const Timer: React.FC<TimerProps> = ({
       {/* Alerta de Tempo Esgotando */}
       {mostrarAlerta && isTempoEsgotando && (
         <div className="mt-3 p-2 bg-orange-100 border border-orange-300 rounded-lg">
-          <p className="text-orange-700 text-sm font-medium text-center">
+          <p className="text-orange-700 text-xs sm:text-sm font-medium text-center">
             ⚠️ Tempo esgotando! Apenas {tempoRestante} segundo{tempoRestante !== 1 ? 's' : ''} restante{tempoRestante !== 1 ? 's' : ''}!
           </p>
         </div>
@@ -113,7 +113,7 @@ const Timer: React.FC<TimerProps> = ({
       {/* Mensagem de Tempo Esgotado */}
       {isTempoEsgotado && (
         <div className="mt-3 p-2 bg-red-100 border border-red-300 rounded-lg">
-          <p className="text-red-700 text-sm font-medium text-center">
+          <p className="text-red-700 text-xs sm:text-sm font-medium text-center">
             🚨 Tempo esgotado! Avançando automaticamente...
           </p>
         </div>

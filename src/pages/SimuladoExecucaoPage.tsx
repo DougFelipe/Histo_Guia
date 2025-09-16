@@ -207,18 +207,18 @@ const SimuladoExecucaoPage: React.FC = () => {
         <main className="container mx-auto px-4 py-8">
           {/* Header do Simulado */}
           <div className="mb-6">
-            <div className="flex items-center justify-between mb-4">
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-4 gap-4">
               <div>
-                <h1 className="text-3xl font-bold text-slate-800">Simulado Prático</h1>
+                <h1 className="text-2xl sm:text-3xl font-bold text-slate-800">Simulado Prático</h1>
                 <p className="text-slate-600">
                   Questão {questaoAtual + 1} de {questoes.length}
                 </p>
               </div>
               
               {/* Progresso */}
-              <div className="text-right">
+              <div className="sm:text-right">
                 <div className="text-sm text-slate-600 mb-2">Progresso</div>
-                <div className="w-32 bg-slate-200 rounded-full h-3">
+                <div className="w-full sm:w-32 bg-slate-200 rounded-full h-3">
                   <div 
                     className="bg-gradient-to-r from-purple-500 to-violet-600 h-3 rounded-full transition-all duration-300"
                     style={{ width: `${((questaoAtual + 1) / questoes.length) * 100}%` }}
@@ -228,9 +228,9 @@ const SimuladoExecucaoPage: React.FC = () => {
             </div>
           </div>
 
-          <div className="grid lg:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 lg:grid-cols-4 gap-4 lg:gap-6">
             {/* Timer */}
-            <div className="lg:col-span-1">
+            <div className="lg:col-span-1 order-2 lg:order-1">
               <Timer
                 tempoInicial={configuracao.tempoPorQuestao}
                 onTempoEsgotado={onTempoEsgotado}
@@ -240,12 +240,12 @@ const SimuladoExecucaoPage: React.FC = () => {
             </div>
 
             {/* Questão */}
-            <div className="lg:col-span-3">
+            <div className="lg:col-span-3 order-1 lg:order-2">
               <div className="bg-white rounded-2xl shadow-lg overflow-hidden border border-slate-100">
-                <div className="grid md:grid-cols-2 gap-6 p-6">
+                <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 lg:gap-6 p-4 sm:p-6">
                   {/* Coluna da Imagem */}
                   <div className="space-y-4">
-                    <div className="flex items-center justify-between">
+                    <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
                       <span className="bg-purple-600 text-white px-3 py-1 rounded-full text-sm font-medium">
                         Questão #{questao.id}
                       </span>
@@ -273,7 +273,7 @@ const SimuladoExecucaoPage: React.FC = () => {
                             <img
                               src={questao.imagem}
                               alt={`Lâmina histológica - ${questao.tema?.charAt(0).toUpperCase() + questao.tema?.slice(1).replace(/-/g, ' ') || 'Histologia'}`}
-                              className={`w-full h-80 object-contain bg-slate-100 border border-slate-200 transition-all duration-300 ${
+                              className={`w-full h-64 sm:h-80 object-contain bg-slate-100 border border-slate-200 transition-all duration-300 ${
                                 imagemCarregada ? 'opacity-100' : 'opacity-0'
                               } group-hover:scale-105`}
                               onLoad={() => setImagemCarregada(true)}
@@ -312,7 +312,7 @@ const SimuladoExecucaoPage: React.FC = () => {
                             key={altIndex}
                             onClick={() => selecionarAlternativa(altIndex)}
                             disabled={jaRespondida}
-                            className={`w-full text-left p-4 rounded-xl border-2 transition-all duration-200 ${
+                            className={`w-full text-left p-3 sm:p-4 rounded-xl border-2 transition-all duration-200 ${
                               isSelected
                                 ? 'border-purple-500 bg-purple-50'
                                 : jaRespondida
@@ -320,17 +320,17 @@ const SimuladoExecucaoPage: React.FC = () => {
                                   : 'border-slate-200 bg-slate-50 hover:border-purple-300 hover:bg-purple-50 cursor-pointer'
                             }`}
                           >
-                            <div className="flex items-center space-x-3">
-                              <span className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-medium ${
+                            <div className="flex items-start space-x-3">
+                              <span className={`w-6 h-6 sm:w-8 sm:h-8 rounded-full flex items-center justify-center text-xs sm:text-sm font-medium flex-shrink-0 ${
                                 isSelected
                                   ? 'bg-purple-500 text-white'
                                   : 'bg-slate-200 text-slate-600'
                               }`}>
                                 {String.fromCharCode(65 + altIndex)}
                               </span>
-                              <span className="text-slate-800">{alternativa.texto}</span>
+                              <span className="text-slate-800 flex-1 pr-2">{alternativa.texto}</span>
                               {isSelected && (
-                                <span className="ml-auto text-sm font-medium text-purple-600">
+                                <span className="text-xs sm:text-sm font-medium text-purple-600 whitespace-nowrap">
                                   ✓ Selecionada
                                 </span>
                               )}
@@ -342,14 +342,14 @@ const SimuladoExecucaoPage: React.FC = () => {
 
                     {/* Status da Resposta */}
                     {jaRespondida && (
-                      <div className="mt-4 p-4 rounded-xl bg-slate-50 border border-slate-200">
+                      <div className="mt-4 p-3 sm:p-4 rounded-xl bg-slate-50 border border-slate-200">
                         <div className="text-center">
                           {questao.respostaSelecionada !== undefined ? (
-                            <p className="text-purple-600 font-medium">✅ Resposta Registrada!</p>
+                            <p className="text-purple-600 font-medium text-sm sm:text-base">✅ Resposta Registrada!</p>
                           ) : (
-                            <p className="text-orange-600 font-medium">⏰ Tempo Esgotado</p>
+                            <p className="text-orange-600 font-medium text-sm sm:text-base">⏰ Tempo Esgotado</p>
                           )}
-                          <p className="text-slate-600 text-sm mt-1">
+                          <p className="text-slate-600 text-xs sm:text-sm mt-1">
                             {questaoAtual < questoes.length - 1 
                               ? 'Avançando para a próxima questão...'
                               : 'Finalizando simulado...'
@@ -361,10 +361,10 @@ const SimuladoExecucaoPage: React.FC = () => {
 
                     {/* Mensagem de Tempo Esgotado */}
                     {tempoEsgotado && !questao.respostaSelecionada && (
-                      <div className="mt-4 p-4 rounded-xl bg-orange-50 border border-orange-200">
+                      <div className="mt-4 p-3 sm:p-4 rounded-xl bg-orange-50 border border-orange-200">
                         <div className="text-center">
-                          <p className="text-orange-600 font-medium">⏰ Tempo Esgotado!</p>
-                          <p className="text-slate-600 text-sm mt-1">
+                          <p className="text-orange-600 font-medium text-sm sm:text-base">⏰ Tempo Esgotado!</p>
+                          <p className="text-slate-600 text-xs sm:text-sm mt-1">
                             {questaoAtual < questoes.length - 1 
                               ? 'Avançando para a próxima questão...'
                               : 'Finalizando simulado...'

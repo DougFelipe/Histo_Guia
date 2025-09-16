@@ -166,19 +166,21 @@ const SimuladoConfiguracaoPage: React.FC = () => {
             <ArrowLeft className="w-4 h-4 mr-2" />
             Voltar ao início
           </Link>
-          <div className="flex items-center space-x-3 mb-2">
-            <div className="bg-purple-100 p-2 rounded-lg">
-              <Settings className="w-6 h-6 text-purple-600" />
+          <div className="flex flex-col sm:flex-row sm:items-center sm:space-x-3 mb-2">
+            <div className="flex items-center space-x-3 mb-2 sm:mb-0">
+              <div className="bg-purple-100 p-2 rounded-lg">
+                <Settings className="w-6 h-6 text-purple-600" />
+              </div>
+              <h1 className="text-2xl sm:text-3xl font-bold text-slate-800">Configurar Simulado</h1>
             </div>
-            <h1 className="text-3xl font-bold text-slate-800">Configurar Simulado</h1>
           </div>
           <p className="text-slate-600">Configure os parâmetros do seu simulado prático</p>
         </div>
 
         <div className="max-w-4xl mx-auto space-y-6">
           {/* Seleção de Temas */}
-          <div className="bg-white rounded-2xl shadow-lg p-6 border border-slate-100">
-            <div className="flex items-center justify-between mb-4">
+          <div className="bg-white rounded-2xl shadow-lg p-4 sm:p-6 border border-slate-100">
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-4 gap-3">
               <h3 className="text-lg font-semibold text-slate-800">Selecionar Temas</h3>
               <div className="flex space-x-2">
                 <button
@@ -211,11 +213,11 @@ const SimuladoConfiguracaoPage: React.FC = () => {
             </div>
 
             {/* Lista de Temas */}
-            <div className="grid md:grid-cols-2 gap-3">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
               {temasFiltrados.map(tema => (
                 <label
                   key={tema}
-                  className={`flex items-center p-4 rounded-xl border-2 cursor-pointer transition-all duration-200 ${
+                  className={`flex items-center p-3 sm:p-4 rounded-xl border-2 cursor-pointer transition-all duration-200 ${
                     configuracao.temasSelecionados.includes(tema)
                       ? 'border-purple-500 bg-purple-50'
                       : 'border-slate-200 bg-slate-50 hover:border-purple-300'
@@ -236,8 +238,8 @@ const SimuladoConfiguracaoPage: React.FC = () => {
                       <Check className="w-3 h-3 text-white" />
                     )}
                   </div>
-                  <span className="text-slate-800 font-medium">{tema}</span>
-                  <span className="ml-auto text-sm text-slate-500">
+                  <span className="text-slate-800 font-medium flex-1 mr-2">{tema}</span>
+                  <span className="text-xs sm:text-sm text-slate-500 whitespace-nowrap">
                     {questoesDisponiveis.filter(q => (q as any).temaFormatado === tema).length} questões
                   </span>
                 </label>
@@ -255,9 +257,9 @@ const SimuladoConfiguracaoPage: React.FC = () => {
           </div>
 
           {/* Configurações Numéricas */}
-          <div className="grid md:grid-cols-2 gap-6">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 sm:gap-6">
             {/* Número de Questões */}
-            <div className="bg-white rounded-2xl shadow-lg p-6 border border-slate-100">
+            <div className="bg-white rounded-2xl shadow-lg p-4 sm:p-6 border border-slate-100">
               <h3 className="text-lg font-semibold text-slate-800 mb-4">Número de Questões</h3>
               <div className="space-y-4">
                 <input
@@ -277,12 +279,12 @@ const SimuladoConfiguracaoPage: React.FC = () => {
                 </div>
                 
                 {/* Botões de Atalho */}
-                <div className="flex space-x-2">
+                <div className="flex flex-wrap gap-2">
                   {[5, 10, 15, 20].filter(n => n <= maxQuestoes).map(num => (
                     <button
                       key={num}
                       onClick={() => setConfiguracao(prev => ({ ...prev, numeroQuestoes: num }))}
-                      className={`px-3 py-2 rounded-lg text-sm transition-colors duration-200 ${
+                      className={`px-3 py-2 rounded-lg text-sm transition-colors duration-200 flex-1 min-w-0 ${
                         configuracao.numeroQuestoes === num
                           ? 'bg-purple-500 text-white'
                           : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
@@ -296,7 +298,7 @@ const SimuladoConfiguracaoPage: React.FC = () => {
             </div>
 
             {/* Tempo por Questão */}
-            <div className="bg-white rounded-2xl shadow-lg p-6 border border-slate-100">
+            <div className="bg-white rounded-2xl shadow-lg p-4 sm:p-6 border border-slate-100">
               <h3 className="text-lg font-semibold text-slate-800 mb-4">Tempo por Questão</h3>
               <div className="space-y-4">
                 <input
@@ -320,12 +322,12 @@ const SimuladoConfiguracaoPage: React.FC = () => {
                 </div>
                 
                 {/* Botões de Atalho */}
-                <div className="flex space-x-2">
+                <div className="flex flex-wrap gap-2">
                   {[30, 60, 90, 120].map(segundos => (
                     <button
                       key={segundos}
                       onClick={() => setConfiguracao(prev => ({ ...prev, tempoPorQuestao: segundos }))}
-                      className={`px-3 py-2 rounded-lg text-sm transition-colors duration-200 ${
+                      className={`px-3 py-2 rounded-lg text-sm transition-colors duration-200 flex-1 min-w-0 ${
                         configuracao.tempoPorQuestao === segundos
                           ? 'bg-purple-500 text-white'
                           : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
@@ -340,10 +342,10 @@ const SimuladoConfiguracaoPage: React.FC = () => {
           </div>
 
           {/* Resumo e Iniciar */}
-          <div className="bg-white rounded-2xl shadow-lg p-6 border border-slate-100">
+          <div className="bg-white rounded-2xl shadow-lg p-4 sm:p-6 border border-slate-100">
             <h3 className="text-lg font-semibold text-slate-800 mb-4">Resumo do Simulado</h3>
             
-            <div className="grid md:grid-cols-3 gap-4 mb-6">
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
               <div className="text-center p-4 bg-purple-50 rounded-xl">
                 <div className="text-2xl font-bold text-purple-600">{configuracao.temasSelecionados.length}</div>
                 <div className="text-sm text-slate-600">Tema(s) Selecionado(s)</div>
@@ -363,13 +365,13 @@ const SimuladoConfiguracaoPage: React.FC = () => {
             <button
               onClick={iniciarSimulado}
               disabled={configuracao.temasSelecionados.length === 0}
-              className={`w-full py-4 rounded-xl font-semibold text-lg transition-all duration-200 flex items-center justify-center space-x-3 ${
+              className={`w-full py-3 sm:py-4 rounded-xl font-semibold text-base sm:text-lg transition-all duration-200 flex items-center justify-center space-x-3 ${
                 configuracao.temasSelecionados.length === 0
                   ? 'bg-slate-200 text-slate-500 cursor-not-allowed'
                   : 'bg-gradient-to-r from-purple-500 to-violet-600 text-white hover:from-purple-600 hover:to-violet-700 shadow-lg hover:shadow-xl'
               }`}
             >
-              <Play className="w-6 h-6" />
+              <Play className="w-5 h-5 sm:w-6 sm:h-6" />
               <span>Iniciar Simulado</span>
             </button>
           </div>
