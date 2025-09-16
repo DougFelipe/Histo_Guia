@@ -147,7 +147,7 @@ Thumbs.db
 
 # Build artifacts
 build/
-public/
+
 
 # Temporary files
 tmp/

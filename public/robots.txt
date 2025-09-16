@@ -1,0 +1,32 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://histoguia.com/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Allow all educational content
+Allow: /questoes-teoricas
+Allow: /questoes-praticas
+Allow: /flashcards/
+Allow: /simulado/
+Allow: /glossario
+Allow: /sitemap
+
+# Block admin or private areas (if any in future)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow common assets
+Allow: /assets/
+Allow: /images/
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.gif
+Allow: /*.svg
+Allow: /*.webp
