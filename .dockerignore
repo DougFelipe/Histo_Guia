@@ -1,0 +1,29 @@
+# Arquivos de build
+dist/
+build/
+
+# Dependências
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache
+.vite/
+.cache/
+
+# Arquivos de sistema
+*.swp
+*.swo
+*~

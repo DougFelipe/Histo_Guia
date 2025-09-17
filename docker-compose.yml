@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  histoguia:
+    build: .
+    container_name: histoguia-app
+    ports:
+      - "80:80"
+      - "443:443"
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+    volumes:
+      # Volume para logs persistentes
+      - ./logs:/var/log/nginx
+      # Volume para certificados SSL (se necessário)
+      - ./ssl:/etc/nginx/ssl:ro
+    healthcheck:
+      test: ["CMD", "/usr/local/bin/health-check.sh"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    labels:
+      - "com.histoguia.description=HistoGuia - Plataforma de Histologia"
+      - "com.histoguia.version=1.0.0"
+    networks:
+      - histoguia-network
+
+networks:
+  histoguia-network:
+    driver: bridge
+
+volumes:
+  logs:
+    driver: local
