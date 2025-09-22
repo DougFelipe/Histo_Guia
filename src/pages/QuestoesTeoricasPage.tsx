@@ -19,6 +19,12 @@ const QuestoesTeoricasPage: React.FC = () => {
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
+    // Limpar filtros quando o tema muda
+    setFiltros({
+      subtopico: '',
+      palavrasChave: '',
+    });
+    
     if (temaSelecionado) {
       carregarQuestoes(temaSelecionado);
     } else {
@@ -40,8 +46,13 @@ const QuestoesTeoricasPage: React.FC = () => {
       
       console.log('Questões teóricas carregadas:', data);
       // As questões teóricas estão direto no array, não em data.questoes
-      setQuestoes(Array.isArray(data) ? data : []);
-      setQuestoesFiltradas(Array.isArray(data) ? data : []);
+      const questoesDoTema = Array.isArray(data) ? data.map(questao => ({
+        ...questao,
+        temaOrigem: tema // Adicionar o tema para identificação
+      })) : [];
+      
+      setQuestoes(questoesDoTema);
+      setQuestoesFiltradas(questoesDoTema);
     } catch (error) {
       console.error('Erro ao carregar questões teóricas:', error);
       setQuestoes([]);
@@ -108,11 +119,29 @@ const QuestoesTeoricasPage: React.FC = () => {
     if (filtros.palavrasChave && filtros.palavrasChave.trim() !== '') {
       const palavras = filtros.palavrasChave.toLowerCase().trim().split(' ').filter(p => p.length > 0);
       questoesFiltradas = questoesFiltradas.filter(q => 
-        palavras.some(palavra => 
-          q.enunciado.toLowerCase().includes(palavra) ||
-          q.tags.some(tag => tag.toLowerCase().includes(palavra)) ||
-          q.subtopico.toLowerCase().includes(palavra)
-        )
+        palavras.some(palavra => {
+          // Buscar no enunciado
+          if (q.enunciado && q.enunciado.toLowerCase().includes(palavra)) return true;
+          
+          // Buscar no subtópico se existir
+          if (q.subtopico && q.subtopico.toLowerCase().includes(palavra)) return true;
+          
+          // Buscar nas tags se existirem
+          if (q.tags && Array.isArray(q.tags)) {
+            if (q.tags.some(tag => tag.toLowerCase().includes(palavra))) return true;
+          }
+          
+          // Buscar nas alternativas e suas explicações se existirem
+          if (q.alternativas && Array.isArray(q.alternativas)) {
+            if (q.alternativas.some(alt => {
+              if (alt.texto && alt.texto.toLowerCase().includes(palavra)) return true;
+              if (alt.explicacao && alt.explicacao.toLowerCase().includes(palavra)) return true;
+              return false;
+            })) return true;
+          }
+          
+          return false;
+        })
       );
     }
 
@@ -191,7 +220,7 @@ const QuestoesTeoricasPage: React.FC = () => {
               <FiltroAvancado 
                 filtros={filtros}
                 onFiltrosChange={setFiltros}
-                questoes={questoes}
+                questoes={temaSelecionado ? questoes : []}
               />
             </aside>
             <section className="lg:col-span-3" role="main">

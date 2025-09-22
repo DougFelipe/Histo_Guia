@@ -31,7 +31,7 @@ const DropdownTema: React.FC<DropdownTemaProps> = ({ temaSelecionado, onTemaSele
           className="w-full bg-slate-50 border-2 border-slate-200 rounded-lg md:rounded-xl px-3 md:px-4 py-2 md:py-3 text-left flex items-center justify-between hover:border-purple-300 focus:border-purple-500 focus:outline-none transition-colors duration-200"
         >
           <span className={`text-sm md:text-base ${temaSelecionado ? 'text-slate-800' : 'text-slate-500'}`}>
-            {temaSelecionado ? formatarNomeTema(temaSelecionado) : 'Escolha um tema...'}
+            {temaSelecionado ? formatarNomeTema(temaSelecionado) : 'Todos os Temas'}
           </span>
           <ChevronDown className={`w-4 h-4 md:w-5 md:h-5 text-slate-400 transform transition-transform duration-200 ${isOpen ? 'rotate-180' : ''}`} />
         </button>
@@ -39,6 +39,17 @@ const DropdownTema: React.FC<DropdownTemaProps> = ({ temaSelecionado, onTemaSele
         {isOpen && (
           <div className="absolute top-full left-0 right-0 mt-2 bg-white border border-slate-200 rounded-lg md:rounded-xl shadow-xl z-10 animate-slide-down">
             <div className="py-1 md:py-2">
+              <button
+                onClick={() => {
+                  onTemaSelecionado('');
+                  setIsOpen(false);
+                }}
+                className={`w-full text-left px-3 md:px-4 py-2 md:py-3 text-sm md:text-base hover:bg-purple-50 transition-colors duration-150 ${
+                  temaSelecionado === '' ? 'bg-purple-50 text-purple-600 font-medium' : 'text-slate-700'
+                }`}
+              >
+                Todos os Temas
+              </button>
               {temas.map((tema) => (
                 <button
                   key={tema}

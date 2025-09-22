@@ -9,7 +9,7 @@ interface FiltroAvancadoProps {
 }
 
 const FiltroAvancado: React.FC<FiltroAvancadoProps> = ({ filtros, onFiltrosChange, questoes }) => {
-  const subtopicos = Array.from(new Set(questoes.map(q => q.subtopico))).filter(Boolean);
+  const subtopicos = Array.from(new Set(questoes.map(q => q.subtopico))).filter(Boolean).sort();
 
   const atualizarFiltro = (campo: keyof FiltroState, valor: string) => {
     onFiltrosChange({
