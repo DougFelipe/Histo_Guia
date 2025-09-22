@@ -12,6 +12,7 @@ export interface Questao {
   tags: string[];
   alternativas: Alternativa[];
   respostaCorreta: number;
+  temaOrigem?: string;
 }
 
 export interface FiltroState {

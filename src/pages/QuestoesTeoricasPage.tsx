@@ -30,18 +30,20 @@ const QuestoesTeoricasPage: React.FC = () => {
     aplicarFiltros();
   }, [questoes, filtros]);
 
-    const carregarQuestoes = async (tema: string) => {
+  const carregarQuestoes = async (tema: string) => {
     setLoading(true);
     try {
-      const response = await fetch(`/src/data/temas/${tema}/questoes-teoricas.json`);
-      if (!response.ok) {
-        throw new Error(`Erro ao carregar questões: ${response.status}`);
-      }
-      const data = await response.json();
-      setQuestoes(data.questoes);
-      setQuestoesFiltradas(data.questoes);
+      console.log('Carregando questões teóricas para o tema:', tema);
+      // Importar dinamicamente o arquivo JSON
+      const questoesModule = await import(`../data/temas/${tema}/questoes-teoricas.json`);
+      const data = questoesModule.default;
+      
+      console.log('Questões teóricas carregadas:', data);
+      // As questões teóricas estão direto no array, não em data.questoes
+      setQuestoes(Array.isArray(data) ? data : []);
+      setQuestoesFiltradas(Array.isArray(data) ? data : []);
     } catch (error) {
-      console.error('Erro ao carregar questões:', error);
+      console.error('Erro ao carregar questões teóricas:', error);
       setQuestoes([]);
       setQuestoesFiltradas([]);
     } finally {
@@ -55,22 +57,33 @@ const QuestoesTeoricasPage: React.FC = () => {
       const todasQuestoes = [];
       const temas = ['tecido-epitelial', 'tecido-conjuntivo', 'tecido-muscular', 'tecido-nervoso', 'cartilagem', 'tecido-osseo', 'sistema-circulatorio'];
       
+      console.log('Carregando questões teóricas de todos os temas...');
+      
       for (const tema of temas) {
         try {
-          const response = await fetch(`/src/data/temas/${tema}/questoes-teoricas.json`);
-          if (response.ok) {
-            const data = await response.json();
-            todasQuestoes.push(...data.questoes);
+          // Usar import dinâmico em vez de fetch
+          const questoesModule = await import(`../data/temas/${tema}/questoes-teoricas.json`);
+          const data = questoesModule.default;
+          
+          if (data && Array.isArray(data)) {
+            // Adicionar o tema a cada questão para facilitar a identificação
+            const questoesComTema = data.map((questao: Questao) => ({
+              ...questao,
+              temaOrigem: tema
+            }));
+            todasQuestoes.push(...questoesComTema);
+            console.log(`${data.length} questões carregadas do tema: ${tema}`);
           }
         } catch (error) {
           console.warn(`Erro ao carregar questões do tema ${tema}:`, error);
         }
       }
       
+      console.log(`Total de questões teóricas carregadas: ${todasQuestoes.length}`);
       setQuestoes(todasQuestoes);
       setQuestoesFiltradas(todasQuestoes);
     } catch (error) {
-      console.error('Erro ao carregar todas as questões:', error);
+      console.error('Erro ao carregar todas as questões teóricas:', error);
       setQuestoes([]);
       setQuestoesFiltradas([]);
     } finally {
