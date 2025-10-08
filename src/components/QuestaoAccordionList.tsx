@@ -84,7 +84,7 @@ const QuestaoAccordionList: React.FC<QuestaoAccordionListProps> = ({ questoes, l
       </div>
 
       {questoes.map((questao, index) => (
-        <div key={questao.numero} className="bg-white rounded-xl md:rounded-2xl shadow-lg overflow-hidden border border-slate-100 mx-2 md:mx-0">
+        <div key={`${questao.temaOrigem || 'tema'}-${questao.numero || index}`} className="bg-white rounded-xl md:rounded-2xl shadow-lg overflow-hidden border border-slate-100 mx-2 md:mx-0">
           <button
             onClick={() => toggleQuestao(index)}
             className="w-full p-4 md:p-6 text-left hover:bg-slate-50 transition-colors duration-200"

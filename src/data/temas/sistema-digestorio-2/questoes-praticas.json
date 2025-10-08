@@ -1,0 +1,86 @@
+﻿[
+  {
+    "id": 1,
+    "tema": "sistema-digestorio-2",
+    "enunciado": "Observe a estrutura histolÃ³gica mostrada. Identifique o segmento do intestino grosso apresentado.",
+    "imagem": "/images/temas/sistema-digestorio-2/image1.jpg",
+    "alternativas": [
+      {
+        "texto": "CÃ³lon com criptas profundas e cÃ©lulas caliciformes abundantes",
+        "correta": true,
+        "explicacao": "A imagem mostra a mucosa do cÃ³lon caracterizada por criptas de LieberkÃ¼hn profundas, ausÃªncia de vilosidades e abundantes cÃ©lulas caliciformes produtoras de muco para lubrificar o trÃ¢nsito intestinal."
+      },
+      {
+        "texto": "Ãleo com placas de Peyer",
+        "correta": false,
+        "explicacao": "O Ã­leo apresenta vilosidades e as placas de Peyer sÃ£o agregados linfoides especÃ­ficos desta regiÃ£o."
+      },
+      {
+        "texto": "Duodeno com glÃ¢ndulas de Brunner",
+        "correta": false,
+        "explicacao": "O duodeno apresenta vilosidades e glÃ¢ndulas de Brunner na submucosa."
+      },
+      {
+        "texto": "Jejuno com vilosidades altas",
+        "correta": false,
+        "explicacao": "O jejuno Ã© caracterizado por vilosidades altas e pregas circulares bem desenvolvidas."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tema": "sistema-digestorio-2",
+    "enunciado": "Na lÃ¢mina histolÃ³gica, identifique a transiÃ§Ã£o epitelial caracterÃ­stica desta regiÃ£o.",
+    "imagem": "/images/temas/sistema-digestorio-2/image2.jpg",
+    "alternativas": [
+      {
+        "texto": "Linha pectÃ­nea com transiÃ§Ã£o epitÃ©lio cilÃ­ndrico-pavimentoso",
+        "correta": true,
+        "explicacao": "A linha pectÃ­nea marca a transiÃ§Ã£o entre o epitÃ©lio simples cilÃ­ndrico do reto e o epitÃ©lio estratificado pavimentoso do canal anal, refletindo a diferente origem embriolÃ³gica."
+      },
+      {
+        "texto": "JunÃ§Ã£o gastroesofÃ¡gica",
+        "correta": false,
+        "explicacao": "A junÃ§Ã£o gastroesofÃ¡gica mostra transiÃ§Ã£o entre epitÃ©lio estratificado pavimentoso e simples cilÃ­ndrico, mas em localizaÃ§Ã£o diferente."
+      },
+      {
+        "texto": "VÃ¡lvula ileocecal",
+        "correta": false,
+        "explicacao": "A vÃ¡lvula ileocecal Ã© uma estrutura valvular entre intestino delgado e grosso, sem mudanÃ§a epitelial caracterÃ­stica."
+      },
+      {
+        "texto": "EsfÃ­ncter pilÃ³rico",
+        "correta": false,
+        "explicacao": "O esfÃ­ncter pilÃ³rico Ã© uma estrutura muscular entre estÃ´mago e duodeno."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tema": "sistema-digestorio-2",
+    "enunciado": "Analise as cÃ©lulas em destaque na cripta intestinal. Qual Ã© sua principal funÃ§Ã£o?",
+    "imagem": "/images/temas/sistema-digestorio-2/image3.jpg",
+    "alternativas": [
+      {
+        "texto": "ProduÃ§Ã£o de muco para lubrificaÃ§Ã£o",
+        "correta": true,
+        "explicacao": "As cÃ©lulas caliciformes sÃ£o abundantes no intestino grosso e produzem muco rico em mucina para lubrificar a passagem do bolo fecal e proteger a mucosa intestinal."
+      },
+      {
+        "texto": "AbsorÃ§Ã£o de nutrientes",
+        "correta": false,
+        "explicacao": "A absorÃ§Ã£o de nutrientes Ã© funÃ§Ã£o principalmente dos enterÃ³citos no intestino delgado."
+      },
+      {
+        "texto": "SecreÃ§Ã£o de enzimas digestivas",
+        "correta": false,
+        "explicacao": "A secreÃ§Ã£o de enzimas digestivas Ã© funÃ§Ã£o das cÃ©lulas de Paneth e do pÃ¢ncreas."
+      },
+      {
+        "texto": "ProduÃ§Ã£o de hormÃ´nios intestinais",
+        "correta": false,
+        "explicacao": "A produÃ§Ã£o de hormÃ´nios Ã© funÃ§Ã£o das cÃ©lulas enteroendÃ³crinas."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1083 @@
+﻿[
+  {
+    "numero": 1,
+    "enunciado": "Qual é a classificação do epitélio que reveste a mucosa do esôfago, adaptado para proteção contra o atrito do bolo alimentar?",
+    "nivel": "fácil",
+    "subtopico": "esôfago",
+    "tipo": "múltipla escolha",
+    "tags": ["esôfago", "epitélio", "proteção", "mucosa"],
+    "alternativas": [
+      {
+        "texto": "Epitélio simples colunar secretor de muco",
+        "explicacao": "Este epitélio é característico do estômago, especializado na secreção de uma barreira protetora de muco."
+      },
+      {
+        "texto": "Epitélio estratificado pavimentoso não queratinizado",
+        "explicacao": "As múltiplas camadas de células oferecem resistência mecânica ao alimento, e a ausência de queratina mantém a superfície úmida."
+      },
+      {
+        "texto": "Epitélio simples colunar com células caliciformes",
+        "explicacao": "Esta é a descrição do epitélio do intestino, especializado em absorção e secreção de muco."
+      },
+      {
+        "texto": "Epitélio estratificado pavimentoso queratinizado",
+        "explicacao": "A queratinização é típica da epiderme da pele, que forma uma barreira seca, inadequada para a mucosa esofágica."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 2,
+    "enunciado": "No estômago, as células parietais (ou oxínticas) das glândulas fúndicas são responsáveis pela secreção de:",
+    "nivel": "fácil",
+    "subtopico": "estômago",
+    "tipo": "múltipla escolha",
+    "tags": ["estômago", "célula parietal", "ácido clorídrico", "fator intrínseco"],
+    "alternativas": [
+      {
+        "texto": "Pepsinogênio e lipase gástrica",
+        "explicacao": "Estas são zimogênios e enzimas secretados pelas células principais (zimogênicas)."
+      },
+      {
+        "texto": "Muco protetor e bicarbonato",
+        "explicacao": "O muco é secretado pelas células mucosas da superfície e do colo da glândula."
+      },
+      {
+        "texto": "Gastrina e somatostatina",
+        "explicacao": "Estes são hormônios secretados por células enteroendócrinas (células G e D, respectivamente)."
+      },
+      {
+        "texto": "Ácido clorídrico (HCl) e fator intrínseco",
+        "explicacao": "As células parietais, com seu citoplasma eosinofílico e sistema de canalículos, secretam HCl para acidificar o lúmen e fator intrínseco para a absorção de vitamina B12."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 3,
+    "enunciado": "Qual estrutura é a principal responsável pelo aumento da área de superfície para absorção no intestino delgado?",
+    "nivel": "fácil",
+    "subtopico": "intestino delgado",
+    "tipo": "múltipla escolha",
+    "tags": ["intestino delgado", "vilosidades", "absorção", "microvilosidades"],
+    "alternativas": [
+      {
+        "texto": "As fossetas gástricas",
+        "explicacao": "As fossetas são invaginações da mucosa do estômago, onde se abrem as glândulas gástricas."
+      },
+      {
+        "texto": "As pregas circulares, vilosidades e microvilosidades",
+        "explicacao": "Essas três especializações (dobras macroscópicas, projeções da mucosa e projeções da membrana celular) aumentam a área de superfície em cerca de 600 vezes."
+      },
+      {
+        "texto": "A túnica muscular com três camadas",
+        "explicacao": "A túnica muscular de três camadas é uma característica do estômago, relacionada à mistura do alimento."
+      },
+      {
+        "texto": "As glândulas de Brunner na submucosa",
+        "explicacao": "As glândulas de Brunner secretam muco alcalino para neutralizar o quimo, mas não aumentam a área de absorção."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 4,
+    "enunciado": "A presença de glândulas na camada submucosa é uma característica histológica distintiva de qual segmento do tubo digestório?",
+    "nivel": "médio",
+    "subtopico": "duodeno",
+    "tipo": "múltipla escolha",
+    "tags": ["duodeno", "glândulas de Brunner", "submucosa", "esôfago"],
+    "alternativas": [
+      {
+        "texto": "Apenas do estômago",
+        "explicacao": "As glândulas do estômago estão localizadas na camada mucosa (lâmina própria), não na submucosa."
+      },
+      {
+        "texto": "Apenas do íleo",
+        "explicacao": "O íleo é caracterizado pelas placas de Peyer na submucosa, mas não por glândulas."
+      },
+      {
+        "texto": "Do esôfago e do duodeno",
+        "explicacao": "O esôfago possui as glândulas esofágicas próprias, e o duodeno possui as glândulas de Brunner, ambas localizadas na submucosa."
+      },
+      {
+        "texto": "Apenas do jejuno",
+        "explicacao": "O jejuno não possui glândulas na sua camada submucosa."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 5,
+    "enunciado": "As células de Paneth, localizadas na base das criptas de Lieberkühn, são reconhecidas por seus grandes grânulos eosinofílicos. Qual é a sua principal função?",
+    "nivel": "médio",
+    "subtopico": "intestino delgado",
+    "tipo": "múltipla escolha",
+    "tags": ["célula de Paneth", "cripta", "lisozima", "defensinas"],
+    "alternativas": [
+      {
+        "texto": "Secretar muco para lubrificação.",
+        "explicacao": "A secreção de muco é a função das células caliciformes."
+      },
+      {
+        "texto": "Absorver nutrientes digeridos.",
+        "explicacao": "A absorção é a principal função dos enterócitos."
+      },
+      {
+        "texto": "Produzir hormônios como a secretina.",
+        "explicacao": "A produção de hormônios é realizada pelas células enteroendócrinas."
+      },
+      {
+        "texto": "Secretar substâncias antibacterianas, como lisozima e defensinas.",
+        "explicacao": "As células de Paneth desempenham um papel crucial na regulação da microbiota intestinal e na defesa contra patógenos."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 6,
+    "enunciado": "A transição do tipo de músculo na túnica muscular (de estriado esquelético para liso) é uma característica de qual órgão?",
+    "nivel": "médio",
+    "subtopico": "esôfago",
+    "tipo": "múltipla escolha",
+    "tags": ["esôfago", "túnica muscular", "músculo liso", "músculo esquelético"],
+    "alternativas": [
+      {
+        "texto": "Estômago",
+        "explicacao": "O estômago é composto inteiramente por músculo liso, organizado em três camadas."
+      },
+      {
+        "texto": "Esôfago",
+        "explicacao": "O terço superior do esôfago é composto por músculo esquelético (deglutição voluntária), o terço médio é uma mistura, e o terço inferior é de músculo liso (peristaltismo involuntário)."
+      },
+      {
+        "texto": "Duodeno",
+        "explicacao": "Todo o intestino é composto por músculo liso."
+      },
+      {
+        "texto": "Íleo",
+        "explicacao": "O íleo, como parte do intestino, possui apenas músculo liso em sua parede."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 7,
+    "enunciado": "As células principais (zimogênicas) das glândulas gástricas são responsáveis pela secreção de:",
+    "nivel": "fácil",
+    "subtopico": "estômago",
+    "tipo": "múltipla escolha",
+    "tags": ["estômago", "célula principal", "pepsinogênio"],
+    "alternativas": [
+      {
+        "texto": "Ácido clorídrico (HCl)",
+        "explicacao": "O HCl é secretado pelas células parietais."
+      },
+      {
+        "texto": "Fator intrínseco",
+        "explicacao": "O fator intrínseco também é secretado pelas células parietais."
+      },
+      {
+        "texto": "Pepsinogênio",
+        "explicacao": "As células principais, com seu citoplasma basofílico devido ao RER abundante, sintetizam e secretam o pepsinogênio, o precursor inativo da enzima pepsina."
+      },
+      {
+        "texto": "Gastrina",
+        "explicacao": "A gastrina é um hormônio secretado pelas células G, um tipo de célula enteroendócrina."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 8,
+    "enunciado": "O íleo se diferencia histologicamente do jejuno principalmente pela presença de:",
+    "nivel": "médio",
+    "subtopico": "íleo",
+    "tipo": "múltipla escolha",
+    "tags": ["íleo", "placas de Peyer", "tecido linfoide", "jejuno"],
+    "alternativas": [
+      {
+        "texto": "Vilosidades mais longas e digitiformes.",
+        "explicacao": "Vilosidades longas são a característica distintiva do jejuno, que tem a maior área de superfície para absorção."
+      },
+      {
+        "texto": "Glândulas de Brunner na submucosa.",
+        "explicacao": "As glândulas de Brunner são exclusivas do duodeno."
+      },
+      {
+        "texto": "Grandes agregados de tecido linfoide (Placas de Peyer) na submucosa.",
+        "explicacao": "O íleo, como porção terminal do intestino delgado, possui uma função de vigilância imunológica, caracterizada por essas extensas placas de GALT."
+      },
+      {
+        "texto": "Uma menor quantidade de células caliciformes.",
+        "explicacao": "O número de células caliciformes aumenta progressivamente ao longo do intestino delgado, sendo maior no íleo do que no jejuno."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 9,
+    "enunciado": "A principal função das glândulas de Brunner, encontradas na submucosa do duodeno, é:",
+    "nivel": "médio",
+    "subtopico": "duodeno",
+    "tipo": "múltipla escolha",
+    "tags": ["duodeno", "glândulas de Brunner", "muco alcalino", "pH"],
+    "alternativas": [
+      {
+        "texto": "Secretar enzimas para a digestão de proteínas.",
+        "explicacao": "As principais enzimas proteolíticas (tripsina, quimotripsina) são produzidas pelo pâncreas."
+      },
+      {
+        "texto": "Absorver água e eletrólitos.",
+        "explicacao": "A absorção é uma função dos enterócitos na superfície das vilosidades."
+      },
+      {
+        "texto": "Produzir um muco alcalino para neutralizar o quimo ácido do estômago.",
+        "explicacao": "Esta secreção protege a mucosa duodenal do baixo pH do suco gástrico e otimiza o pH para a ação das enzimas pancreáticas."
+      },
+      {
+        "texto": "Secretar o hormônio colecistoquinina (CCK).",
+        "explicacao": "O CCK é secretado pelas células enteroendócrinas (células I) da mucosa duodenal, não pelas glândulas de Brunner."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 10,
+    "enunciado": "O epitélio simples colunar que reveste toda a superfície do estômago tem qual característica funcional?",
+    "nivel": "médio",
+    "subtopico": "estômago",
+    "tipo": "múltipla escolha",
+    "tags": ["estômago", "epitélio", "muco", "proteção"],
+    "alternativas": [
+      {
+        "texto": "Possui uma borda em escova para aumentar a absorção.",
+        "explicacao": "A borda em escova (microvilosidades) é uma característica do intestino delgado. O estômago absorve poucas substâncias."
+      },
+      {
+        "texto": "É composto por células que secretam um muco insolúvel e visível.",
+        "explicacao": "Todas as células da superfície e das fossetas secretam um muco espesso e rico em bicarbonato, que adere à superfície e a protege do ambiente ácido e da pepsina."
+      },
+      {
+        "texto": "Contém células ciliadas para movimentar o conteúdo gástrico.",
+        "explicacao": "O movimento do conteúdo gástrico é realizado pela contração da túnica muscular; não há cílios no estômago."
+      },
+      {
+        "texto": "É estratificado para resistir ao ambiente ácido.",
+        "explicacao": "O epitélio é simples (uma única camada). A proteção é química (muco), não estrutural (múltiplas camadas)."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 11,
+    "enunciado": "O jejuno é considerado o principal local de absorção de nutrientes. Qual característica morfológica sustenta essa função?",
+    "nivel": "médio",
+    "subtopico": "jejuno",
+    "tipo": "múltipla escolha",
+    "tags": ["jejuno", "vilosidades", "absorção"],
+    "alternativas": [
+      {
+        "texto": "Presença de Placas de Peyer.",
+        "explicacao": "As Placas de Peyer são características do íleo e estão relacionadas à função imune."
+      },
+      {
+        "texto": "Vilosidades curtas e largas, em forma de folha.",
+        "explicacao": "Vilosidades largas são típicas do duodeno."
+      },
+      {
+        "texto": "A maior relação entre o comprimento das vilosidades e a profundidade das criptas.",
+        "explicacao": "O jejuno possui as vilosidades mais longas, delgadas e numerosas (digitiformes), maximizando a área de superfície disponível para a absorção."
+      },
+      {
+        "texto": "A maior concentração de glândulas submucosas.",
+        "explicacao": "As glândulas submucosas são encontradas no duodeno."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 12,
+    "enunciado": "As células enteroendócrinas, dispersas no epitélio do estômago e intestino, pertencem a qual sistema?",
+    "nivel": "difícil",
+    "subtopico": "tubo digestório",
+    "tipo": "múltipla escolha",
+    "tags": ["célula enteroendócrina", "DNES", "hormônios"],
+    "alternativas": [
+      {
+        "texto": "Sistema imune associado à mucosa (MALT)",
+        "explicacao": "O MALT é composto por linfócitos, plasmócitos e macrófagos, não por células secretoras de hormônios."
+      },
+      {
+        "texto": "Sistema nervoso entérico",
+        "explicacao": "O sistema nervoso entérico é composto por neurônios e células gliais nos plexos de Meissner e Auerbach."
+      },
+      {
+        "texto": "Sistema neuroendócrino difuso (DNES)",
+        "explicacao": "Estas células secretam hormônios parácrinos ou endócrinos (como gastrina, secretina, CCK) que regulam a motilidade e a secreção digestiva. Elas são a maior glândula endócrina do corpo."
+      },
+      {
+        "texto": "Sistema absortivo principal",
+        "explicacao": "O sistema absortivo é composto pelos enterócitos."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 13,
+    "enunciado": "Na doença celíaca, a resposta imune ao glúten leva à destruição de qual estrutura da mucosa do intestino delgado?",
+    "nivel": "médio",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["doença celíaca", "vilosidades", "atrofia", "intestino delgado"],
+    "alternativas": [
+      {
+        "texto": "Das glândulas de Brunner",
+        "explicacao": "As glândulas de Brunner não são o alvo primário da destruição na doença celíaca."
+      },
+      {
+        "texto": "Da túnica muscular",
+        "explicacao": "A doença afeta a mucosa, não a camada muscular."
+      },
+      {
+        "texto": "Das vilosidades intestinais",
+        "explicacao": "A inflamação crônica causa atrofia e achatamento das vilosidades, reduzindo drasticamente a área de superfície e levando à má absorção."
+      },
+      {
+        "texto": "Das células de Paneth",
+        "explicacao": "As células de Paneth podem ser afetadas, mas a principal característica patológica é a atrofia das vilosidades."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 14,
+    "enunciado": "A túnica muscular externa do estômago difere do resto do tubo digestório por possuir:",
+    "nivel": "médio",
+    "subtopico": "estômago",
+    "tipo": "múltipla escolha",
+    "tags": ["estômago", "túnica muscular", "camada oblíqua"],
+    "alternativas": [
+      {
+        "texto": "Apenas uma camada de músculo liso longitudinal.",
+        "explicacao": "Todos os segmentos do tubo digestório possuem pelo menos duas camadas."
+      },
+      {
+        "texto": "Uma camada circular interna e uma longitudinal externa.",
+        "explicacao": "Esta é a organização padrão encontrada no esôfago e nos intestinos."
+      },
+      {
+        "texto": "Uma terceira camada de músculo liso, a oblíqua interna.",
+        "explicacao": "Além das camadas circular média e longitudinal externa, o estômago possui uma camada oblíqua mais interna, que auxilia na mistura vigorosa do quimo."
+      },
+      {
+        "texto": "Uma mistura de músculo liso e esquelético.",
+        "explicacao": "A mistura de tipos musculares é uma característica do esôfago."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 15,
+    "enunciado": "O que são as criptas de Lieberkühn (glândulas intestinais)?",
+    "nivel": "fácil",
+    "subtopico": "intestino delgado",
+    "tipo": "múltipla escolha",
+    "tags": ["cripta", "intestino delgado", "glândula intestinal"],
+    "alternativas": [
+      {
+        "texto": "Projeções da submucosa para dentro do lúmen.",
+        "explicacao": "As projeções da submucosa (com um núcleo de mucosa) são as pregas circulares."
+      },
+      {
+        "texto": "Invaginações tubulares do epitélio na lâmina própria.",
+        "explicacao": "Localizadas entre as vilosidades, as criptas contêm células-tronco para a renovação epitelial, além de células de Paneth e enteroendócrinas."
+      },
+      {
+        "texto": "Agregados de tecido linfoide na submucosa.",
+        "explicacao": "Os agregados de tecido linfoide são as Placas de Peyer."
+      },
+      {
+        "texto": "Glândulas ramificadas localizadas na submucosa.",
+        "explicacao": "Glândulas na submucosa são características do duodeno (glândulas de Brunner)."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 16,
+    "enunciado": "As células caliciformes, presentes em grande número no epitélio intestinal, são glândulas unicelulares que secretam:",
+    "nivel": "fácil",
+    "subtopico": "intestino delgado",
+    "tipo": "múltipla escolha",
+    "tags": ["célula caliciforme", "muco", "intestino"],
+    "alternativas": [
+      {
+        "texto": "Lisozima",
+        "explicacao": "A lisozima é secretada pelas células de Paneth."
+      },
+      {
+        "texto": "Ácido clorídrico",
+        "explicacao": "O ácido clorídrico é secretado pelas células parietais do estômago."
+      },
+      {
+        "texto": "Mucina",
+        "explicacao": "Seu citoplasma apical é preenchido por grânulos de mucinogênio, que, ao serem liberados, se hidratam para formar o muco que protege e lubrifica a superfície intestinal."
+      },
+      {
+        "texto": "Secretina",
+        "explicacao": "A secretina é um hormônio secretado pelas células S, um tipo de célula enteroendócrina."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 17,
+    "enunciado": "A aparência histológica eosinofílica (rósea) e granular do citoplasma das células parietais do estômago deve-se à abundância de qual organela?",
+    "nivel": "difícil",
+    "subtopico": "estômago",
+    "tipo": "múltipla escolha",
+    "tags": ["célula parietal", "mitocôndrias", "eosinofilia"],
+    "alternativas": [
+      {
+        "texto": "Retículo endoplasmático rugoso",
+        "explicacao": "O RER é rico em ribossomos e confere basofilia (cor roxa) ao citoplasma, como visto nas células principais."
+      },
+      {
+        "texto": "Complexo de Golgi",
+        "explicacao": "O complexo de Golgi é geralmente pouco corado nas preparações de H&E (imagem negativa de Golgi)."
+      },
+      {
+        "texto": "Mitocôndrias",
+        "explicacao": "A secreção de íons H+ contra um gradiente de concentração extremo é um processo que consome muita energia. As numerosas mitocôndrias fornecem o ATP necessário e, por serem ricas em membranas e proteínas, coram-se intensamente com a eosina."
+      },
+      {
+        "texto": "Lisossomos",
+        "explicacao": "Embora presentes, os lisossomos não são abundantes o suficiente para determinar a coloração da célula."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 18,
+    "enunciado": "As células M (microfold cells), encontradas no epitélio que recobre as Placas de Peyer, têm qual função especializada?",
+    "nivel": "difícil",
+    "subtopico": "íleo",
+    "tipo": "múltipla escolha",
+    "tags": ["célula M", "placas de Peyer", "imunidade", "GALT"],
+    "alternativas": [
+      {
+        "texto": "Absorver lipídios da dieta.",
+        "explicacao": "A absorção de lipídios é função dos enterócitos."
+      },
+      {
+        "texto": "Transportar antígenos do lúmen para o tecido linfoide subjacente.",
+        "explicacao": "As células M endocitam antígenos (como bactérias e vírus) do lúmen intestinal e os apresentam aos linfócitos e células apresentadoras de antígenos nas Placas de Peyer, iniciando a resposta imune."
+      },
+      {
+        "texto": "Secretar grandes quantidades de IgA.",
+        "explicacao": "A IgA é secretada pelos plasmócitos na lâmina própria e transportada através dos enterócitos para o lúmen."
+      },
+      {
+        "texto": "Atuar como células-tronco para o epitélio.",
+        "explicacao": "As células-tronco estão localizadas na base das criptas."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 19,
+    "enunciado": "A transição epitelial abrupta de estratificado pavimentoso para simples colunar ocorre em qual junção do tubo digestório?",
+    "nivel": "médio",
+    "subtopico": "esôfago",
+    "tipo": "múltipla escolha",
+    "tags": ["junção gastroesofágica", "linha Z", "esôfago", "estômago"],
+    "alternativas": [
+      {
+        "texto": "Junção piloro-duodenal",
+        "explicacao": "Nesta junção, ambos os lados são de epitélio simples colunar, embora com características diferentes (fossetas de um lado, vilosidades do outro)."
+      },
+      {
+        "texto": "Junção ileocecal",
+        "explicacao": "Nesta junção, o epitélio é simples colunar em ambos os lados, mas o do intestino grosso tem mais células caliciformes e ausência de vilosidades."
+      },
+      {
+        "texto": "Junção gastroesofágica",
+        "explicacao": "Neste local, também conhecido como linha Z, o epitélio protetor do esôfago encontra o epitélio secretor do estômago."
+      },
+      {
+        "texto": "Junção duodenojejunal",
+        "explicacao": "Não há uma mudança no tipo de epitélio (simples colunar) entre o duodeno e o jejuno."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 20,
+    "enunciado": "Os enterócitos são as células absortivas predominantes no intestino. Sua superfície apical é caracterizada por:",
+    "nivel": "fácil",
+    "subtopico": "intestino delgado",
+    "tipo": "múltipla escolha",
+    "tags": ["enterócito", "microvilosidades", "borda em escova"],
+    "alternativas": [
+      {
+        "texto": "Cílios móveis",
+        "explicacao": "Os cílios são encontrados no trato respiratório e não têm função absortiva."
+      },
+      {
+        "texto": "Uma espessa camada de muco",
+        "explicacao": "A secreção de muco é função das células caliciformes."
+      },
+      {
+        "texto": "Numerosas microvilosidades que formam a borda em escova.",
+        "explicacao": "Essas projeções da membrana plasmática aumentam drasticamente a área de superfície e contêm enzimas (dissacaridases, peptidases) para a fase final da digestão."
+      },
+      {
+        "texto": "Grânulos de secreção contendo pepsinogênio.",
+        "explicacao": "O pepsinogênio é secretado pelas células principais do estômago."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 21,
+    "enunciado": "As glândulas gástricas localizadas na região da cárdia e do piloro diferem das glândulas fúndicas por serem compostas principalmente por:",
+    "nivel": "médio",
+    "subtopico": "estômago",
+    "tipo": "múltipla escolha",
+    "tags": ["estômago", "glândula cárdica", "glândula pilórica", "muco"],
+    "alternativas": [
+      {
+        "texto": "Células parietais e principais.",
+        "explicacao": "Células parietais e principais são as células predominantes nas glândulas fúndicas (ou do corpo)."
+      },
+      {
+        "texto": "Células mucosas.",
+        "explicacao": "As glândulas da cárdia e do piloro são tubulares e enoveladas, e suas células secretam principalmente muco para proteger as junções esofágica e duodenal."
+      },
+      {
+        "texto": "Células de Paneth.",
+        "explicacao": "As células de Paneth são encontradas nas criptas do intestino delgado."
+      },
+      {
+        "texto": "Células caliciformes.",
+        "explicacao": "As células caliciformes são típicas do intestino, não do estômago."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 22,
+    "enunciado": "O plexo submucoso (de Meissner) e o plexo mioentérico (de Auerbach) formam o sistema nervoso entérico. Onde eles estão localizados, respectivamente?",
+    "nivel": "médio",
+    "subtopico": "tubo digestório",
+    "tipo": "múltipla escolha",
+    "tags": ["plexo de Meissner", "plexo de Auerbach", "sistema nervoso entérico"],
+    "alternativas": [
+      {
+        "texto": "Na lâmina própria e na submucosa.",
+        "explicacao": "A lâmina própria contém terminações nervosas, mas não um plexo ganglionar organizado."
+      },
+      {
+        "texto": "Na submucosa e entre as camadas da túnica muscular.",
+        "explicacao": "O plexo de Meissner está na submucosa e controla principalmente a secreção glandular, enquanto o plexo de Auerbach está entre as camadas musculares circular e longitudinal, controlando a motilidade."
+      },
+      {
+        "texto": "Entre as camadas da túnica muscular e na serosa.",
+        "explicacao": "A serosa contém nervos, mas não o plexo mioentérico."
+      },
+      {
+        "texto": "Na mucosa e na serosa.",
+        "explicacao": "Os plexos estão localizados mais profundamente na parede do tubo."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 23,
+    "enunciado": "A forma das vilosidades intestinais varia ao longo do intestino delgado. Qual descrição corresponde à morfologia típica das vilosidades do duodeno?",
+    "nivel": "médio",
+    "subtopico": "duodeno",
+    "tipo": "múltipla escolha",
+    "tags": ["duodeno", "vilosidades", "morfologia"],
+    "alternativas": [
+      {
+        "texto": "Longas, delgadas e digitiformes.",
+        "explicacao": "Esta é a morfologia característica do jejuno, otimizada para máxima absorção."
+      },
+      {
+        "texto": "Curtas, em forma de clube ou de dedo.",
+        "explicacao": "Esta é a aparência típica das vilosidades do íleo."
+      },
+      {
+        "texto": "Largas, curtas e em forma de folha.",
+        "explicacao": "No duodeno, as vilosidades são mais largas e menos numerosas, com uma aparência foliácea."
+      },
+      {
+        "texto": "Ausência de vilosidades, com superfície plana.",
+        "explicacao": "A ausência de vilosidades é uma característica do intestino grosso."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 24,
+    "enunciado": "No refluxo gastroesofágico crônico, o epitélio do esôfago pode ser substituído por um epitélio do tipo intestinal. Essa alteração é chamada de:",
+    "nivel": "difícil",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["esôfago de Barrett", "metaplasia", "refluxo", "esôfago"],
+    "alternativas": [
+      {
+        "texto": "Displasia",
+        "explicacao": "A displasia é um crescimento desordenado e uma lesão pré-maligna, que pode se desenvolver a partir da metaplasia, mas não é a alteração inicial."
+      },
+      {
+        "texto": "Neoplasia",
+        "explicacao": "Neoplasia refere-se à formação de um tumor (câncer), que é uma complicação tardia do processo."
+      },
+      {
+        "texto": "Esôfago de Barrett (metaplasia intestinal)",
+        "explicacao": "A metaplasia é a substituição de um tipo de tecido maduro por outro. No Esôfago de Barrett, o epitélio estratificado pavimentoso normal é substituído por um epitélio simples colunar com células caliciformes, mais resistente ao ácido."
+      },
+      {
+        "texto": "Hiperplasia",
+        "explicacao": "A hiperplasia é o aumento do número de células, não a mudança do tipo celular."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 25,
+    "enunciado": "As células-tronco que garantem a rápida renovação do epitélio do intestino delgado estão localizadas:",
+    "nivel": "médio",
+    "subtopico": "intestino delgado",
+    "tipo": "múltipla escolha",
+    "tags": ["célula-tronco", "cripta", "renovação epitelial"],
+    "alternativas": [
+      {
+        "texto": "No ápice das vilosidades.",
+        "explicacao": "As células no ápice das vilosidades são as mais velhas e diferenciadas, prontas para serem descartadas no lúmen."
+      },
+      {
+        "texto": "Na base das criptas de Lieberkühn.",
+        "explicacao": "A porção inferior das criptas constitui o nicho das células-tronco, que se dividem e cujas células filhas migram para cima para repovoar a vilosidade."
+      },
+      {
+        "texto": "Dispersas entre os enterócitos nas vilosidades.",
+        "explicacao": "Não há células-tronco na porção superior da vilosidade."
+      },
+      {
+        "texto": "Na lâmina própria, abaixo do epitélio.",
+        "explicacao": "As células-tronco do epitélio estão localizadas dentro do próprio compartimento epitelial."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 26,
+    "enunciado": "A absorção de gorduras no jejuno envolve a reesterificação de ácidos graxos em triglicerídeos pelos enterócitos e a formação de:",
+    "nivel": "difícil",
+    "subtopico": "jejuno",
+    "tipo": "múltipla escolha",
+    "tags": ["quilomícrons", "absorção de gordura", "enterócito", "jejuno"],
+    "alternativas": [
+      {
+        "texto": "Micelas",
+        "explicacao": "As micelas são agregados de sais biliares e lipídios no lúmen intestinal, que transportam as gorduras até a superfície do enterócito, mas não são formadas dentro dele."
+      },
+      {
+        "texto": "Quilomícrons",
+        "explicacao": "Dentro do enterócito, os triglicerídeos são empacotados com colesterol e apolipoproteínas para formar quilomícrons, que são então exocitados na base da célula para entrar nos vasos linfáticos (lactíferos)."
+      },
+      {
+        "texto": "Lipoproteínas de baixa densidade (LDL)",
+        "explicacao": "O LDL é formado principalmente no fígado e no plasma, não no enterócito durante a absorção."
+      },
+      {
+        "texto": "Vesículas de pinocitose",
+        "explicacao": "A absorção de gorduras não ocorre por pinocitose, mas por difusão dos produtos da digestão lipídica."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 27,
+    "enunciado": "Qual é a função da camada muscular da mucosa, localizada na mucosa do tubo digestório?",
+    "nivel": "fácil",
+    "subtopico": "tubo digestório",
+    "tipo": "múltipla escolha",
+    "tags": ["muscular da mucosa", "mucosa", "movimento"],
+    "alternativas": [
+      {
+        "texto": "Gerar o peristaltismo para propelir o bolo alimentar.",
+        "explicacao": "O peristaltismo é gerado pela contração coordenada da túnica muscular externa (camadas circular e longitudinal)."
+      },
+      {
+        "texto": "Promover o movimento local da mucosa para aumentar o contato com o alimento.",
+        "explicacao": "A contração desta fina camada de músculo liso altera a forma das vilosidades e das pregas da mucosa, auxiliando na absorção e na secreção."
+      },
+      {
+        "texto": "Regular o fluxo sanguíneo para a mucosa.",
+        "explicacao": "O fluxo sanguíneo é regulado pelas arteríolas na submucosa."
+      },
+      {
+        "texto": "Formar os esfíncteres do tubo digestório.",
+        "explicacao": "Os esfíncteres são espessamentos da camada circular da túnica muscular externa."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 28,
+    "enunciado": "O número de células caliciformes ao longo do intestino delgado:",
+    "nivel": "médio",
+    "subtopico": "intestino delgado",
+    "tipo": "múltipla escolha",
+    "tags": ["célula caliciforme", "gradiente", "duodeno", "íleo"],
+    "alternativas": [
+      {
+        "texto": "É maior no duodeno e diminui em direção ao íleo.",
+        "explicacao": "Ocorre o oposto. A necessidade de lubrificação e proteção aumenta distalmente."
+      },
+      {
+        "texto": "Aumenta progressivamente do duodeno para o íleo.",
+        "explicacao": "O duodeno tem o menor número, enquanto o íleo tem o maior, refletindo o aumento da população bacteriana e a necessidade de uma camada de muco mais espessa."
+      },
+      {
+        "texto": "É constante em todos os três segmentos.",
+        "explicacao": "Existe um gradiente claro no número de células caliciformes."
+      },
+      {
+        "texto": "É encontrado apenas nas criptas, não nas vilosidades.",
+        "explicacao": "As células caliciformes são encontradas tanto nas criptas quanto nas vilosidades, migrando e amadurecendo junto com os enterócitos."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 29,
+    "enunciado": "O que é o GALT (tecido linfoide associado ao intestino)?",
+    "nivel": "fácil",
+    "subtopico": "tubo digestório",
+    "tipo": "múltipla escolha",
+    "tags": ["GALT", "MALT", "imunidade", "intestino"],
+    "alternativas": [
+      {
+        "texto": "As glândulas que secretam suco gástrico e intestinal.",
+        "explicacao": "Estas são as glândulas exócrinas da mucosa."
+      },
+      {
+        "texto": "A rede de nervos que controla a motilidade intestinal.",
+        "explicacao": "Esta é a descrição do sistema nervoso entérico."
+      },
+      {
+        "texto": "O componente do sistema imune localizado na parede do intestino.",
+        "explicacao": "O GALT inclui linfócitos intraepiteliais, linfócitos e plasmócitos na lâmina própria, e os folículos linfoides organizados das Placas de Peyer."
+      },
+      {
+        "texto": "O sistema de vasos linfáticos que absorve gorduras.",
+        "explicacao": "Estes são os vasos lactíferos."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 30,
+    "enunciado": "A principal característica das células principais (zimogênicas) do estômago, quando observadas em microscopia eletrônica, é a abundância de:",
+    "nivel": "difícil",
+    "subtopico": "estômago",
+    "tipo": "múltipla escolha",
+    "tags": ["célula principal", "RER", "secreção de proteína"],
+    "alternativas": [
+      {
+        "texto": "Mitocôndrias e canalículos intracelulares.",
+        "explicacao": "Esta é a ultraestrutura da célula parietal, adaptada para o bombeamento de íons."
+      },
+      {
+        "texto": "Retículo endoplasmático rugoso e grânulos de zimogênio apicais.",
+        "explicacao": "Como células especializadas na síntese e exportação de proteínas (pepsinogênio), elas possuem um RER extenso na base e grânulos de secreção armazenados no ápice."
+      },
+      {
+        "texto": "Retículo endoplasmático liso e gotículas lipídicas.",
+        "explicacao": "Esta ultraestrutura é típica de células que sintetizam esteroides ou metabolizam lipídios."
+      },
+      {
+        "texto": "Grandes gotas de mucinogênio que preenchem o citoplasma.",
+        "explicacao": "Esta é a aparência de uma célula mucosa, como a caliciforme ou a da superfície gástrica."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 31,
+    "enunciado": "A camada serosa é a camada mais externa da parede do intestino. Ela é composta por:",
+    "nivel": "fácil",
+    "subtopico": "tubo digestório",
+    "tipo": "múltipla escolha",
+    "tags": ["serosa", "adventícia", "mesotélio", "peritônio"],
+    "alternativas": [
+      {
+        "texto": "Tecido conjuntivo frouxo e um revestimento de mesotélio.",
+        "explicacao": "A serosa corresponde ao peritônio visceral e consiste em uma fina camada de tecido conjuntivo coberta por um epitélio simples pavimentoso (mesotélio)."
+      },
+      {
+        "texto": "Apenas tecido conjuntivo denso.",
+        "explicacao": "Quando o órgão é retroperitoneal e não coberto por mesotélio, a camada externa é chamada de adventícia."
+      },
+      {
+        "texto": "Epitélio estratificado pavimentoso.",
+        "explicacao": "Este epitélio é encontrado em superfícies de proteção, como a pele e o esôfago."
+      },
+      {
+        "texto": "Músculo liso e tecido nervoso.",
+        "explicacao": "Estes são componentes da túnica muscular e submucosa, respectivamente."
+      }
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "numero": 32,
+    "enunciado": "O lactífero central, encontrado no eixo de uma vilosidade intestinal, é um:",
+    "nivel": "fácil",
+    "subtopico": "intestino delgado",
+    "tipo": "múltipla escolha",
+    "tags": ["lactífero", "vilosidade", "vaso linfático", "gordura"],
+    "alternativas": [
+      {
+        "texto": "Capilar sanguíneo arterial.",
+        "explicacao": "As vilosidades contêm uma rede de capilares sanguíneos para a absorção da maioria dos nutrientes."
+      },
+      {
+        "texto": "Capilar linfático de fundo cego.",
+        "explicacao": "Este vaso é especializado na absorção dos quilomícrons (gorduras), que dão à linfa uma aparência leitosa após uma refeição."
+      },
+      {
+        "texto": "Ducto de uma glândula intestinal.",
+        "explicacao": "As glândulas intestinais (criptas) se abrem na base das vilosidades, não em seu interior."
+      },
+      {
+        "texto": "Fibra nervosa do plexo submucoso.",
+        "explicacao": "Fibras nervosas também estão presentes na vilosidade, mas o lactífero é um vaso."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 33,
+    "enunciado": "A infecção pela bactéria Helicobacter pylori está fortemente associada ao desenvolvimento de úlceras e gastrite crônica. Onde essa bactéria tipicamente coloniza?",
+    "nivel": "médio",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["Helicobacter pylori", "estômago", "muco", "úlcera"],
+    "alternativas": [
+      {
+        "texto": "No interior das células parietais.",
+        "explicacao": "A bactéria é extracelular, não invadindo as células gástricas."
+      },
+      {
+        "texto": "Na camada de muco que cobre o epitélio do estômago.",
+        "explicacao": "A H. pylori produz urease para neutralizar o ácido ao seu redor, permitindo que ela sobreviva e se mova dentro da camada de muco, aderindo às células epiteliais."
+      },
+      {
+        "texto": "Na submucosa, junto aos vasos sanguíneos.",
+        "explicacao": "A infecção e a inflamação estão confinadas à mucosa na gastrite."
+      },
+      {
+        "texto": "No lúmen do duodeno.",
+        "explicacao": "Embora possa causar úlceras duodenais (geralmente por excesso de ácido), sua principal área de colonização é o estômago."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 34,
+    "enunciado": "A principal diferença entre a mucosa do intestino delgado e a do intestino grosso é que o intestino grosso:",
+    "nivel": "fácil",
+    "subtopico": "tubo digestório",
+    "tipo": "múltipla escolha",
+    "tags": ["intestino grosso", "intestino delgado", "vilosidades"],
+    "alternativas": [
+      {
+        "texto": "Possui glândulas na submucosa.",
+        "explicacao": "As glândulas na submucosa são características do duodeno e do esôfago."
+      },
+      {
+        "texto": "Não possui criptas de Lieberkühn.",
+        "explicacao": "O intestino grosso possui criptas, que são mais longas e retas que as do intestino delgado."
+      },
+      {
+        "texto": "Não possui vilosidades.",
+        "explicacao": "A superfície da mucosa do intestino grosso é plana, pois sua principal função é a absorção de água e eletrólitos, não de nutrientes, não necessitando da mesma amplificação de área."
+      },
+      {
+        "texto": "Possui um epitélio estratificado.",
+        "explicacao": "O epitélio é simples colunar, mas extremamente rico em células caliciformes."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 35,
+    "enunciado": "As pregas circulares (válvulas de Kerckring) são dobras transversais permanentes da mucosa e submucosa. Em qual segmento do intestino delgado elas são mais desenvolvidas?",
+    "nivel": "médio",
+    "subtopico": "intestino delgado",
+    "tipo": "múltipla escolha",
+    "tags": ["pregas circulares", "jejuno", "duodeno", "absorção"],
+    "alternativas": [
+      {
+        "texto": "Íleo terminal",
+        "explicacao": "As pregas circulares diminuem em número e altura ao longo do intestino, sendo pequenas ou ausentes no íleo distal."
+      },
+      {
+        "texto": "Duodeno distal e jejuno proximal",
+        "explicacao": "Elas começam no duodeno e atingem seu maior desenvolvimento no jejuno, o principal local de absorção, diminuindo a velocidade do quimo e aumentando a área de superfície."
+      },
+      {
+        "texto": "Estômago",
+        "explicacao": "O estômago possui pregas gástricas (rugae), que são temporárias e se desfazem quando o órgão se distende."
+      },
+      {
+        "texto": "Esôfago",
+        "explicacao": "O esôfago possui pregas longitudinais que permitem sua distensão."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 36,
+    "enunciado": "A renovação do epitélio da superfície do estômago é um processo rápido, com células sendo substituídas a cada 3-5 dias. De onde se originam as novas células?",
+    "nivel": "médio",
+    "subtopico": "estômago",
+    "tipo": "múltipla escolha",
+    "tags": ["estômago", "renovação epitelial", "célula-tronco", "colo"],
+    "alternativas": [
+      {
+        "texto": "Da divisão de células parietais maduras.",
+        "explicacao": "As células parietais são células diferenciadas e de longa vida que não se dividem."
+      },
+      {
+        "texto": "De células-tronco localizadas na região do istmo/colo da glândula gástrica.",
+        "explicacao": "As células-tronco nesta região se dividem e migram bidirecionalmente: para cima, para substituir as células da superfície, e para baixo, para diferenciar-se nos vários tipos celulares da glândula."
+      },
+      {
+        "texto": "Da lâmina própria, por diferenciação de fibroblastos.",
+        "explicacao": "As células epiteliais se originam de outras células epiteliais."
+      },
+      {
+        "texto": "Da base da glândula gástrica.",
+        "explicacao": "A base da glândula contém células diferenciadas, como as principais. A zona de proliferação está mais acima."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 37,
+    "enunciado": "Qual das seguintes estruturas NÃO faz parte da barreira de proteção da mucosa gástrica?",
+    "nivel": "médio",
+    "subtopico": "estômago",
+    "tipo": "múltipla escolha",
+    "tags": ["estômago", "barreira gástrica", "proteção"],
+    "alternativas": [
+      {
+        "texto": "A camada de muco e bicarbonato na superfície.",
+        "explicacao": "Esta é a primeira e mais importante linha de defesa, criando um microambiente com pH neutro na superfície celular."
+      },
+      {
+        "texto": "As junções oclusivas (tight junctions) entre as células epiteliais.",
+        "explicacao": "Essas junções impedem o vazamento de ácido do lúmen para a lâmina própria."
+      },
+      {
+        "texto": "A rápida renovação das células epiteliais.",
+        "explicacao": "A substituição constante de células danificadas ajuda a manter a integridade da barreira."
+      },
+      {
+        "texto": "A secreção de pepsinogênio pelas células principais.",
+        "explicacao": "O pepsinogênio é o precursor de uma enzima proteolítica que, uma vez ativada (pepsina), é um dos agentes agressivos contra os quais a barreira precisa proteger."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 38,
+    "enunciado": "O plexo de Auerbach (mioentérico) está primariamente envolvido no controle de qual função?",
+    "nivel": "fácil",
+    "subtopico": "tubo digestório",
+    "tipo": "múltipla escolha",
+    "tags": ["plexo de Auerbach", "motilidade", "peristaltismo"],
+    "alternativas": [
+      {
+        "texto": "Secreção glandular da mucosa.",
+        "explicacao": "O controle da secreção é a principal função do plexo submucoso (de Meissner)."
+      },
+      {
+        "texto": "Fluxo sanguíneo da submucosa.",
+        "explicacao": "O fluxo sanguíneo também é influenciado principalmente pelo plexo submucoso."
+      },
+      {
+        "texto": "Motilidade da túnica muscular externa.",
+        "explicacao": "Localizado entre as camadas musculares circular e longitudinal, este plexo coordena a contração e o relaxamento que geram o peristaltismo e a segmentação."
+      },
+      {
+        "texto": "Sensação de dor e distensão visceral.",
+        "explicacao": "As fibras sensoriais viajam com os nervos autônomos, mas o plexo em si é primariamente motor."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 39,
+    "enunciado": "O apêndice vermiforme é um divertículo do ceco. Sua parede é histologicamente semelhante à do intestino grosso, mas é caracterizada por:",
+    "nivel": "médio",
+    "subtopico": "tubo digestório",
+    "tipo": "múltipla escolha",
+    "tags": ["apêndice", "tecido linfoide", "GALT"],
+    "alternativas": [
+      {
+        "texto": "Ausência completa de criptas de Lieberkühn.",
+        "explicacao": "O apêndice possui criptas, embora possam ser menos regulares."
+      },
+      {
+        "texto": "Presença de vilosidades intestinais.",
+        "explicacao": "Como parte do intestino grosso, o apêndice não possui vilosidades."
+      },
+      {
+        "texto": "Uma grande quantidade de folículos linfoides coalescentes em toda a parede.",
+        "explicacao": "O apêndice é um órgão imunológico importante, com uma camada quase contínua de tecido linfoide na lâmina própria e submucosa, muitas vezes obliterando a muscular da mucosa."
+      },
+      {
+        "texto": "Uma túnica muscular com três camadas.",
+        "explicacao": "A túnica muscular de três camadas é exclusiva do estômago."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 40,
+    "enunciado": "As células G, um tipo de célula enteroendócrina encontrada principalmente no antro pilórico do estômago, secretam qual hormônio?",
+    "nivel": "médio",
+    "subtopico": "estômago",
+    "tipo": "múltipla escolha",
+    "tags": ["célula G", "gastrina", "estômago", "hormônio"],
+    "alternativas": [
+      {
+        "texto": "Somatostatina",
+        "explicacao": "A somatostatina é secretada pelas células D e tem uma função inibitória."
+      },
+      {
+        "texto": "Gastrina",
+        "explicacao": "A gastrina estimula as células parietais a secretarem ácido clorídrico. Sua liberação é estimulada pela presença de peptídeos no lúmen gástrico."
+      },
+      {
+        "texto": "Secretina",
+        "explicacao": "A secretina é secretada pelas células S do duodeno em resposta ao ácido, estimulando a secreção de bicarbonato."
+      },
+      {
+        "texto": "Colecistoquinina (CCK)",
+        "explicacao": "O CCK é secretado pelas células I do duodeno em resposta a gorduras e proteínas, estimulando a contração da vesícula biliar e a secreção de enzimas pancreáticas."
+      }
+    ],
+    "respostaCorreta": 1
+  }
+]
+

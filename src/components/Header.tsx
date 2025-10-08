@@ -145,13 +145,16 @@ const Header: React.FC<HeaderProps> = ({ title = "Histoguia" }) => {
               >
                 Flashcards Teóricos
               </Link>
+              
+              {/* Menu Mobile 
               <Link 
                 to="/flashcards/praticos" 
                 className="block py-2 px-4 text-slate-600 hover:text-purple-600 hover:bg-white rounded-lg transition-all duration-200"
                 onClick={closeMenu}
               >
                 Flashcards Práticos
-              </Link>
+              </Link>*/}
+              
             </div>
             <Link 
               to="/simulado/configuracao" 

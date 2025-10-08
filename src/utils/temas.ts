@@ -4,9 +4,14 @@ export const TEMAS_DISPONIVEIS = [
   'tecido-conjuntivo', 
   'tecido-muscular',
   'tecido-nervoso',
-  'sistema-circulatorio',
+  'tecido-osseo',
   'cartilagem',
-  'tecido-osseo'
+  'sistema-circulatorio',
+  'sistema-respiratorio',
+  'sistema-linfatico',
+  'sistema-digestorio-1',
+  'sistema-digestorio-2',
+  'sistema-digestorio-anexos'
 ] as const;
 
 export type TemaDisponivel = typeof TEMAS_DISPONIVEIS[number];
@@ -28,3 +33,19 @@ export const TEMAS_COM_NOMES = TEMAS_DISPONIVEIS.map(tema => ({
   arquivo: tema,
   nome: formatarNomeTema(tema)
 }));
+
+// Mapeamento usado para conversão entre nomes de arquivo e nomes de exibição
+export const mapeamentoTemas: Record<string, string> = {
+  'tecido-epitelial': 'Tecido Epitelial',
+  'tecido-conjuntivo': 'Tecido Conjuntivo',
+  'tecido-muscular': 'Tecido Muscular',
+  'tecido-nervoso': 'Tecido Nervoso',
+  'tecido-osseo': 'Tecido Ósseo',
+  'cartilagem': 'Cartilagem',
+  'sistema-circulatorio': 'Sistema Circulatório',
+  'sistema-respiratorio': 'Sistema Respiratório',
+  'sistema-linfatico': 'Sistema Linfático',
+  'sistema-digestorio-1': 'Sistema Digestório I',
+  'sistema-digestorio-2': 'Sistema Digestório II',
+  'sistema-digestorio-anexos': 'Sistema Digestório - Anexos'
+};

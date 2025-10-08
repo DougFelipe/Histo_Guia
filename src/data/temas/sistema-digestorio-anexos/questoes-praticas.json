@@ -1,0 +1,86 @@
+﻿[
+  {
+    "id": 1,
+    "tema": "sistema-digestorio-anexos",
+    "enunciado": "Observe a estrutura glandular mostrada na imagem. Identifique o Ã³rgÃ£o anexo do sistema digestÃ³rio.",
+    "imagem": "/images/temas/sistema-digestorio-anexos/image1.jpg",
+    "alternativas": [
+      {
+        "texto": "PÃ¢ncreas com Ã¡cinos serosos e ilhotas de Langerhans",
+        "correta": true,
+        "explicacao": "A imagem mostra o pÃ¢ncreas com seus Ã¡cinos serosos produtores de enzimas digestivas (parte exÃ³crina) e ilhotas de Langerhans produtoras de hormÃ´nios como insulina e glucagon (parte endÃ³crina)."
+      },
+      {
+        "texto": "FÃ­gado com cordÃµes hepÃ¡ticos",
+        "correta": false,
+        "explicacao": "O fÃ­gado apresenta hepatÃ³citos organizados em cordÃµes separados por sinusoides, estrutura diferente da mostrada."
+      },
+      {
+        "texto": "VesÃ­cula biliar com epitÃ©lio absortivo",
+        "correta": false,
+        "explicacao": "A vesÃ­cula biliar apresenta epitÃ©lio simples cilÃ­ndrico com microvilosidades, mas nÃ£o tem estrutura glandular acinar."
+      },
+      {
+        "texto": "GlÃ¢ndula salivar parÃ³tida",
+        "correta": false,
+        "explicacao": "Embora similar, a parÃ³tida Ã© puramente serosa e nÃ£o possui componente endÃ³crino como as ilhotas."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tema": "sistema-digestorio-anexos",
+    "enunciado": "Na lÃ¢mina histolÃ³gica, identifique a organizaÃ§Ã£o estrutural caracterÃ­stica do fÃ­gado.",
+    "imagem": "/images/temas/sistema-digestorio-anexos/image2.jpg",
+    "alternativas": [
+      {
+        "texto": "LÃ³bulo hepÃ¡tico com veia central e trÃ­ades portais",
+        "correta": true,
+        "explicacao": "O lÃ³bulo hepÃ¡tico clÃ¡ssico Ã© hexagonal com veia central e trÃ­ades portais (artÃ©ria hepÃ¡tica, veia porta e ducto biliar) nos vÃ©rtices, com cordÃµes de hepatÃ³citos radiando da periferia para o centro."
+      },
+      {
+        "texto": "Ãcinos pancreÃ¡ticos com cÃ©lulas centrocinares",
+        "correta": false,
+        "explicacao": "Esta Ã© a organizaÃ§Ã£o do pÃ¢ncreas exÃ³crino, nÃ£o do fÃ­gado."
+      },
+      {
+        "texto": "FolÃ­culos com coloide central",
+        "correta": false,
+        "explicacao": "Esta Ã© a organizaÃ§Ã£o da tireoide, nÃ£o do fÃ­gado."
+      },
+      {
+        "texto": "GlomÃ©rulos com cÃ¡psula de Bowman",
+        "correta": false,
+        "explicacao": "Esta Ã© a organizaÃ§Ã£o do rim, nÃ£o do fÃ­gado."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tema": "sistema-digestorio-anexos",
+    "enunciado": "Analise o epitÃ©lio mostrado na imagem. Qual Ã© a funÃ§Ã£o principal desta estrutura?",
+    "imagem": "/images/temas/sistema-digestorio-anexos/image3.jpg",
+    "alternativas": [
+      {
+        "texto": "ConcentraÃ§Ã£o e armazenamento de bile",
+        "correta": true,
+        "explicacao": "O epitÃ©lio da vesÃ­cula biliar Ã© simples cilÃ­ndrico com microvilosidades, especializado em absorver Ã¡gua da bile para concentrÃ¡-la, e possui capacidade contrÃ¡til para ejetar bile quando estimulada."
+      },
+      {
+        "texto": "ProduÃ§Ã£o de enzimas digestivas",
+        "correta": false,
+        "explicacao": "A produÃ§Ã£o de enzimas digestivas Ã© funÃ§Ã£o do pÃ¢ncreas exÃ³crino."
+      },
+      {
+        "texto": "SÃ­ntese de albumina",
+        "correta": false,
+        "explicacao": "A sÃ­ntese de albumina Ã© funÃ§Ã£o dos hepatÃ³citos no fÃ­gado."
+      },
+      {
+        "texto": "FiltraÃ§Ã£o sanguÃ­nea",
+        "correta": false,
+        "explicacao": "A filtraÃ§Ã£o sanguÃ­nea Ã© funÃ§Ã£o dos rins, nÃ£o da vesÃ­cula biliar."
+      }
+    ]
+  }
+]

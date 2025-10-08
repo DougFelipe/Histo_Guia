@@ -1,0 +1,812 @@
+﻿[
+  {
+    "numero": 1,
+    "enunciado": "Qual célula é a principal responsável pela produção e manutenção da matriz extracelular no tecido conjuntivo propriamente dito?",
+    "nivel": "fácil",
+    "subtopico": "células do tecido conjuntivo",
+    "tipo": "múltipla escolha",
+    "tags": ["fibroblasto", "matriz extracelular", "síntese"],
+    "alternativas": [
+      {
+        "texto": "Macrófago",
+        "explicacao": "O macrófago é uma célula de defesa, especializada em fagocitose de partículas estranhas e restos celulares."
+      },
+      {
+        "texto": "Fibroblasto",
+        "explicacao": "Esta célula alongada sintetiza as fibras proteicas (colágeno, elastina) e os componentes da substância fundamental amorfa."
+      },
+      {
+        "texto": "Mastócito",
+        "explicacao": "O mastócito armazena e libera mediadores químicos, como histamina e heparina, participando de processos inflamatórios e alérgicos."
+      },
+      {
+        "texto": "Plasmócito",
+        "explicacao": "O plasmócito é uma célula diferenciada a partir de linfócitos B, cuja função é a produção de anticorpos."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 2,
+    "enunciado": "As fibras colágenas conferem grande resistência à tração aos tecidos. Qual vitamina é essencial para a hidroxilação da prolina e lisina durante a síntese de colágeno?",
+    "nivel": "médio",
+    "subtopico": "fibras e matriz",
+    "tipo": "múltipla escolha",
+    "tags": ["colágeno", "vitamina C", "escorbuto", "síntese"],
+    "alternativas": [
+      {
+        "texto": "Vitamina A",
+        "explicacao": "A vitamina A é crucial para a visão, crescimento e função epitelial, mas não atua como cofator na síntese de colágeno."
+      },
+      {
+        "texto": "Vitamina D",
+        "explicacao": "A vitamina D está envolvida principalmente no metabolismo do cálcio e na saúde óssea."
+      },
+      {
+        "texto": "Vitamina K",
+        "explicacao": "A vitamina K é um cofator essencial para a cascata de coagulação sanguínea."
+      },
+      {
+        "texto": "Vitamina C (ácido ascórbico)",
+        "explicacao": "Esta vitamina atua como cofator para as enzimas prolil e lisil hidroxilase. Sua deficiência (escorbuto) leva à produção de um colágeno instável."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 3,
+    "enunciado": "O tecido conjuntivo denso modelado é caracterizado por fibras de colágeno organizadas em feixes paralelos. Onde este tipo de tecido é encontrado?",
+    "nivel": "fácil",
+    "subtopico": "tipos de tecido conjuntivo",
+    "tipo": "múltipla escolha",
+    "tags": ["denso modelado", "tendão", "ligamento", "colágeno"],
+    "alternativas": [
+      {
+        "texto": "Na derme profunda da pele.",
+        "explicacao": "A derme profunda é composta por tecido conjuntivo denso não modelado, com fibras de colágeno dispostas em várias direções para resistir a tensões de múltiplos eixos."
+      },
+      {
+        "texto": "Nos tendões e ligamentos.",
+        "explicacao": "A organização paralela das fibras de colágeno confere máxima resistência à tração em uma direção específica, característica fundamental da função dos tendões e ligamentos."
+      },
+      {
+        "texto": "Preenchendo espaços entre órgãos.",
+        "explicacao": "O preenchimento de espaços é uma função do tecido conjuntivo frouxo, que possui menos fibras e mais substância fundamental."
+      },
+      {
+        "texto": "Na cápsula de órgãos como o fígado e os rins.",
+        "explicacao": "As cápsulas dos órgãos são formadas por tecido conjuntivo denso não modelado, para fornecer proteção e suporte estrutural."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 4,
+    "enunciado": "Qual componente da substância fundamental é uma glicoproteína multiadesiva que conecta as células da matriz a outros componentes, como o colágeno?",
+    "nivel": "difícil",
+    "subtopico": "matriz extracelular",
+    "tipo": "múltipla escolha",
+    "tags": ["fibronectina", "adesão celular", "matriz", "glicoproteína"],
+    "alternativas": [
+      {
+        "texto": "Ácido hialurônico",
+        "explicacao": "O ácido hialurônico é um glicosaminoglicano não sulfatado muito longo que forma um gel viscoso, mas não tem a função primária de adesão celular."
+      },
+      {
+        "texto": "Heparina",
+        "explicacao": "A heparina é um glicosaminoglicano sulfatado com propriedades anticoagulantes, encontrado nos grânulos dos mastócitos."
+      },
+      {
+        "texto": "Fibronectina",
+        "explicacao": "Esta glicoproteína possui sítios de ligação para integrinas (na superfície celular), colágeno e proteoglicanos, atuando como uma 'cola' biológica na matriz."
+      },
+      {
+        "texto": "Colágeno tipo IV",
+        "explicacao": "O colágeno tipo IV forma a rede estrutural da lâmina basal, mas não é a principal glicoproteína de adesão que conecta células na matriz do tecido conjuntivo."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 5,
+    "enunciado": "O tecido adiposo multilocular (tecido adiposo marrom) é especializado em qual função?",
+    "nivel": "médio",
+    "subtopico": "tecido adiposo",
+    "tipo": "múltipla escolha",
+    "tags": ["adiposo marrom", "termogênese", "mitocôndrias"],
+    "alternativas": [
+      {
+        "texto": "Armazenamento de energia a longo prazo em uma única gota de gordura.",
+        "explicacao": "O armazenamento em uma única e grande gota lipídica (unilocular) é característico do tecido adiposo branco (comum)."
+      },
+      {
+        "texto": "Produção de calor (termogênese) sem tremores.",
+        "explicacao": "Suas células são ricas em mitocôndrias que contêm a proteína desacopladora UCP1. Essa proteína dissipa o gradiente de prótons para gerar calor em vez de ATP."
+      },
+      {
+        "texto": "Síntese de hormônios esteroides.",
+        "explicacao": "A síntese de hormônios esteroides ocorre principalmente nas gônadas e no córtex adrenal, não no tecido adiposo marrom."
+      },
+      {
+        "texto": "Proteção mecânica e isolamento térmico em adultos.",
+        "explicacao": "Embora todo tecido adiposo ofereça alguma proteção e isolamento, a principal função do tecido adiposo branco em adultos é a de reserva energética e isolante."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 6,
+    "enunciado": "Durante uma resposta inflamatória, os monócitos do sangue migram para o tecido conjuntivo. Em qual tipo celular eles se diferenciam para exercer a função de fagocitose?",
+    "nivel": "fácil",
+    "subtopico": "células do tecido conjuntivo",
+    "tipo": "múltipla escolha",
+    "tags": ["macrófago", "monócito", "fagocitose", "inflamação"],
+    "alternativas": [
+      {
+        "texto": "Em plasmócitos.",
+        "explicacao": "Plasmócitos se diferenciam a partir de linfócitos B, não de monócitos, e sua função é produzir anticorpos."
+      },
+      {
+        "texto": "Em fibroblastos.",
+        "explicacao": "Fibroblastos são células residentes do tecido conjuntivo, de origem mesenquimal, e não derivam de células sanguíneas."
+      },
+      {
+        "texto": "Em mastócitos.",
+        "explicacao": "Mastócitos se originam de precursores na medula óssea e têm uma linhagem distinta da dos monócitos."
+      },
+      {
+        "texto": "Em macrófagos.",
+        "explicacao": "Monócitos e macrófagos fazem parte do sistema fagocitário mononuclear. Ao saírem da circulação, os monócitos se transformam em macrófagos teciduais."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 7,
+    "enunciado": "As fibras elásticas, que conferem elasticidade a órgãos como as artérias e os pulmões, são compostas principalmente por qual proteína?",
+    "nivel": "médio",
+    "subtopico": "fibras e matriz",
+    "tipo": "múltipla escolha",
+    "tags": ["fibras elásticas", "elastina", "elasticidade"],
+    "alternativas": [
+      {
+        "texto": "Colágeno tipo I",
+        "explicacao": "O colágeno tipo I oferece resistência à tração, mas não a capacidade de se esticar e retornar à forma original."
+      },
+      {
+        "texto": "Queratina",
+        "explicacao": "A queratina é uma proteína estrutural encontrada em células epiteliais, cabelo e unhas, conferindo resistência mecânica."
+      },
+      {
+        "texto": "Elastina",
+        "explicacao": "Esta proteína, organizada em uma rede por microfibrilas de fibrilina, pode ser esticada e retorna passivamente à sua conformação original, conferindo resiliência aos tecidos."
+      },
+      {
+        "texto": "Actina",
+        "explicacao": "A actina é uma proteína do citoesqueleto, envolvida na contração muscular e motilidade celular, não na elasticidade da matriz extracelular."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 8,
+    "enunciado": "O tecido conjuntivo frouxo (areolar) é caracterizado por:",
+    "nivel": "fácil",
+    "subtopico": "tipos de tecido conjuntivo",
+    "tipo": "múltipla escolha",
+    "tags": ["frouxo", "areolar", "matriz"],
+    "alternativas": [
+      {
+        "texto": "Predominância de fibras de colágeno densamente compactadas.",
+        "explicacao": "A alta densidade de fibras de colágeno é a principal característica do tecido conjuntivo denso."
+      },
+      {
+        "texto": "Abundância de substância fundamental e poucas fibras.",
+        "explicacao": "Sua matriz gelatinosa e flexível, com uma variedade de células e fibras frouxamente arranjadas, permite a difusão de substâncias e a migração de células de defesa."
+      },
+      {
+        "texto": "Ser completamente avascular.",
+        "explicacao": "Pelo contrário, o tecido conjuntivo frouxo é altamente vascularizado, sendo responsável pela nutrição do tecido epitelial adjacente."
+      },
+      {
+        "texto": "Ser composto quase exclusivamente por adipócitos.",
+        "explicacao": "Um tecido composto majoritariamente por adipócitos é classificado como tecido adiposo."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 9,
+    "enunciado": "Os plasmócitos são células especializadas na produção de anticorpos. Qual organela citoplasmática é extremamente desenvolvida nessas células para suportar essa função?",
+    "nivel": "médio",
+    "subtopico": "células do tecido conjuntivo",
+    "tipo": "múltipla escolha",
+    "tags": ["plasmócito", "retículo endoplasmático rugoso", "anticorpos"],
+    "alternativas": [
+      {
+        "texto": "Retículo endoplasmático liso",
+        "explicacao": "O retículo liso é desenvolvido em células que sintetizam lipídios e esteroides ou que realizam detoxificação."
+      },
+      {
+        "texto": "Mitocôndrias",
+        "explicacao": "Embora precisem de energia, a característica mais marcante não é o número de mitocôndrias, mas sim a organela de síntese proteica."
+      },
+      {
+        "texto": "Retículo endoplasmático rugoso (RER)",
+        "explicacao": "Como os anticorpos são proteínas destinadas à exportação, os plasmócitos possuem um RER muito abundante para a síntese e modificação dessas imunoglobulinas."
+      },
+      {
+        "texto": "Lisossomos",
+        "explicacao": "Lisossomos são proeminentes em células com alta atividade de digestão intracelular, como os macrófagos."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 10,
+    "enunciado": "As fibras reticulares são formadas por colágeno tipo III e criam uma delicada rede de suporte. Em qual dos seguintes órgãos essa rede é fundamental para a arquitetura?",
+    "nivel": "médio",
+    "subtopico": "fibras e matriz",
+    "tipo": "múltipla escolha",
+    "tags": ["fibras reticulares", "colágeno tipo III", "órgãos linfoides"],
+    "alternativas": [
+      {
+        "texto": "Córnea do olho",
+        "explicacao": "A córnea é composta por lamelas de colágeno tipo I perfeitamente organizadas para garantir a transparência."
+      },
+      {
+        "texto": "Tendão de Aquiles",
+        "explicacao": "O tendão é formado por feixes densos e paralelos de colágeno tipo I para resistir à tração."
+      },
+      {
+        "texto": "Fígado, baço e linfonodos.",
+        "explicacao": "Nesses órgãos, as fibras reticulares formam o estroma de sustentação, uma malha tridimensional que suporta as células parenquimatosas (hepatócitos, linfócitos)."
+      },
+      {
+        "texto": "Epiderme da pele",
+        "explicacao": "A epiderme é um tecido epitelial, não possuindo fibras em uma matriz extracelular."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 11,
+    "enunciado": "Qual é a origem embrionária de todos os tipos de tecido conjuntivo?",
+    "nivel": "fácil",
+    "subtopico": "origem e desenvolvimento",
+    "tipo": "múltipla escolha",
+    "tags": ["mesênquima", "mesoderme", "embriologia"],
+    "alternativas": [
+      {
+        "texto": "Do ectoderma",
+        "explicacao": "O ectoderma dá origem ao sistema nervoso e à epiderme da pele."
+      },
+      {
+        "texto": "Do endoderma",
+        "explicacao": "O endoderma forma o revestimento do trato digestório e respiratório, bem como glândulas associadas."
+      },
+      {
+        "texto": "Do mesênquima",
+        "explicacao": "O mesênquima é um tecido embrionário derivado principalmente da mesoderme, composto por células indiferenciadas que se diferenciam em todos os tipos de células conjuntivas."
+      },
+      {
+        "texto": "Das células da crista neural",
+        "explicacao": "Embora as células da crista neural (de origem ectodérmica) formem alguns tecidos conjuntivos da cabeça, a origem geral para o restante do corpo é o mesênquima."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 12,
+    "enunciado": "A Síndrome de Marfan é uma doença genética que afeta o tecido conjuntivo, causando problemas esqueléticos e cardiovasculares (como aneurismas da aorta). A mutação ocorre no gene que codifica qual proteína?",
+    "nivel": "difícil",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["síndrome de marfan", "fibrilina", "fibras elásticas"],
+    "alternativas": [
+      {
+        "texto": "Colágeno tipo I",
+        "explicacao": "Mutações no colágeno tipo I causam a osteogênese imperfeita, caracterizada por ossos frágeis."
+      },
+      {
+        "texto": "Fibrilina-1",
+        "explicacao": "Esta glicoproteína é essencial para formar as microfibrilas que servem de molde para a deposição de elastina, organizando as fibras elásticas. Sua deficiência compromete a integridade de tecidos ricos nessas fibras, como a aorta."
+      },
+      {
+        "texto": "Laminina",
+        "explicacao": "A laminina é um componente chave da lâmina basal, e suas mutações estão associadas a distrofias musculares congênitas."
+      },
+      {
+        "texto": "Queratina",
+        "explicacao": "Mutações nos genes de queratina causam doenças de pele, como a epidermólise bolhosa simples."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 13,
+    "enunciado": "O tecido mucoso, como o encontrado no cordão umbilical (geleia de Wharton), é um tipo de tecido conjuntivo caracterizado por:",
+    "nivel": "médio",
+    "subtopico": "tipos de tecido conjuntivo",
+    "tipo": "múltipla escolha",
+    "tags": ["tecido mucoso", "geleia de wharton", "ácido hialurônico"],
+    "alternativas": [
+      {
+        "texto": "Alta densidade de fibras elásticas e fibroblastos.",
+        "explicacao": "O tecido mucoso possui poucas fibras em geral, não sendo denso nem elástico."
+      },
+      {
+        "texto": "Predominância de substância fundamental rica em ácido hialurônico.",
+        "explicacao": "Sua matriz é extremamente gelatinosa e hidratada devido à grande quantidade de ácido hialurônico, com fibroblastos e poucas fibras de colágeno imersas."
+      },
+      {
+        "texto": "Ser composto por uma rede tridimensional de fibras reticulares.",
+        "explicacao": "Uma rede de fibras reticulares é a marca do tecido conjuntivo reticular, que forma o estroma de órgãos linfoides."
+      },
+      {
+        "texto": "Grande quantidade de células de defesa, como macrófagos e plasmócitos.",
+        "explicacao": "O tecido mucoso é um tecido embrionário e, em condições normais, não apresenta um infiltrado inflamatório."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 14,
+    "enunciado": "A histamina, liberada pelos mastócitos, causa vasodilatação e aumenta a permeabilidade vascular. Qual é o efeito imediato desse aumento de permeabilidade no tecido conjuntivo circundante?",
+    "nivel": "médio",
+    "subtopico": "células e inflamação",
+    "tipo": "múltipla escolha",
+    "tags": ["histamina", "mastócito", "edema", "inflamação"],
+    "alternativas": [
+      {
+        "texto": "Aumento da produção de fibras de colágeno (fibrose).",
+        "explicacao": "A fibrose é uma resposta crônica ou de reparo, não um efeito imediato da liberação de histamina."
+      },
+      {
+        "texto": "Extravasamento de plasma do sangue para a matriz, causando edema.",
+        "explicacao": "O aumento da permeabilidade permite que o fluido e as proteínas do plasma sanguíneo escapem dos vasos para o espaço intersticial, resultando em inchaço (edema)."
+      },
+      {
+        "texto": "Constrição dos vasos sanguíneos para impedir a perda de sangue.",
+        "explicacao": "A histamina causa o efeito oposto, a dilatação das arteríolas e o aumento da permeabilidade das vênulas."
+      },
+      {
+        "texto": "Diminuição da atividade fagocitária dos macrófagos.",
+        "explicacao": "O processo inflamatório, na verdade, recruta e ativa células fagocitárias como os macrófagos para o local."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 15,
+    "enunciado": "O tecido adiposo unilocular (branco) não é apenas uma reserva de energia. Ele também funciona como um órgão endócrino, produzindo qual hormônio que regula o apetite e o metabolismo?",
+    "nivel": "difícil",
+    "subtopico": "tecido adiposo",
+    "tipo": "múltipla escolha",
+    "tags": ["adiposo branco", "leptina", "endócrino"],
+    "alternativas": [
+      {
+        "texto": "Insulina",
+        "explicacao": "A insulina é produzida pelas células beta do pâncreas e promove o armazenamento de glicose e gordura, mas não é produzida pelo tecido adiposo."
+      },
+      {
+        "texto": "Adrenalina",
+        "explicacao": "A adrenalina é produzida pela medula da glândula adrenal em resposta ao estresse, mobilizando as reservas de energia."
+      },
+      {
+        "texto": "Leptina",
+        "explicacao": "Este hormônio é secretado pelos adipócitos em proporção à quantidade de gordura armazenada. Ele atua no hipotálamo para sinalizar saciedade e aumentar o gasto energético."
+      },
+      {
+        "texto": "Cortisol",
+        "explicacao": "O cortisol é um hormônio esteroide produzido pelo córtex adrenal, relacionado ao estresse e ao metabolismo."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 16,
+    "enunciado": "Durante o processo de cicatrização de uma ferida, os fibroblastos se tornam altamente ativos, proliferam e produzem uma grande quantidade de matriz extracelular. Como são chamados esses fibroblastos ativados?",
+    "nivel": "difícil",
+    "subtopico": "reparo tecidual",
+    "tipo": "múltipla escolha",
+    "tags": ["cicatrização", "miofibroblasto", "fibroblasto"],
+    "alternativas": [
+      {
+        "texto": "Fibrócitos",
+        "explicacao": "Fibrócito é o termo usado para o fibroblasto em estado quiescente ou menos ativo, com um citoplasma mais escasso."
+      },
+      {
+        "texto": "Condroblastos",
+        "explicacao": "Condroblastos são as células que produzem a matriz do tecido cartilaginoso."
+      },
+      {
+        "texto": "Miofibroblastos",
+        "explicacao": "Durante o reparo, os fibroblastos podem adquirir características de células musculares lisas (expressando alfa-actina), o que lhes confere capacidade contrátil para ajudar a fechar a ferida."
+      },
+      {
+        "texto": "Osteoblastos",
+        "explicacao": "Osteoblastos são as células responsáveis pela síntese da matriz orgânica do tecido ósseo."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 17,
+    "enunciado": "A principal diferença entre o tecido conjuntivo propriamente dito e os tecidos conjuntivos especializados (como cartilagem e osso) reside em qual aspecto da matriz extracelular?",
+    "nivel": "médio",
+    "subtopico": "classificação do tecido conjuntivo",
+    "tipo": "múltipla escolha",
+    "tags": ["classificação", "matriz", "especializado"],
+    "alternativas": [
+      {
+        "texto": "A presença ou ausência de fibras de colágeno.",
+        "explicacao": "Tanto o tecido conjuntivo propriamente dito quanto os especializados contêm fibras de colágeno, embora os tipos e a organização variem."
+      },
+      {
+        "texto": "A origem embrionária das células.",
+        "explicacao": "Todos os tecidos conjuntivos, de modo geral, se originam do mesênquima."
+      },
+      {
+        "texto": "A consistência da substância fundamental.",
+        "explicacao": "Enquanto no tecido conjuntivo propriamente dito a matriz é um gel, na cartilagem ela é firme e flexível, e no osso ela é rígida e mineralizada."
+      },
+      {
+        "texto": "A capacidade de ser vascularizado.",
+        "explicacao": "A vascularização varia muito. O osso é altamente vascularizado, enquanto a cartilagem é avascular. O conjuntivo propriamente dito pode ser frouxo (vascularizado) ou denso (pouco vascularizado)."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 18,
+    "enunciado": "Os proteoglicanos são macromoléculas compostas por um eixo proteico ao qual se ligam covalentemente um ou mais glicosaminoglicanos (GAGs). Qual é a sua principal função na matriz?",
+    "nivel": "médio",
+    "subtopico": "matriz extracelular",
+    "tipo": "múltipla escolha",
+    "tags": ["proteoglicano", "GAG", "substância fundamental"],
+    "alternativas": [
+      {
+        "texto": "Gerar força contrátil para o tecido.",
+        "explicacao": "A força contrátil é uma propriedade de células musculares ou miofibroblastos, não de componentes da matriz."
+      },
+      {
+        "texto": "Formar uma barreira à difusão de água e resistir à compressão.",
+        "explicacao": "Devido às suas cargas negativas, os GAGs atraem uma grande quantidade de água, formando um gel hidratado que ocupa espaço, resiste a forças de compressão e regula a passagem de moléculas."
+      },
+      {
+        "texto": "Conferir elasticidade e resiliência ao tecido.",
+        "explicacao": "A elasticidade é uma função primária das fibras elásticas, compostas de elastina."
+      },
+      {
+        "texto": "Ancorar as células epiteliais à lâmina basal.",
+        "explicacao": "A ancoragem epitelial é mediada por glicoproteínas como a laminina e estruturas como os hemidesmossomos."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 19,
+    "enunciado": "No tecido conjuntivo denso não modelado, as fibras de colágeno estão dispostas:",
+    "nivel": "fácil",
+    "subtopico": "tipos de tecido conjuntivo",
+    "tipo": "múltipla escolha",
+    "tags": ["denso não modelado", "derme", "organização"],
+    "alternativas": [
+      {
+        "texto": "Em feixes paralelos e organizados em uma única direção.",
+        "explicacao": "A organização paralela é a definição do tecido conjuntivo denso modelado, encontrado em tendões."
+      },
+      {
+        "texto": "Formando uma rede delicada e tridimensional.",
+        "explicacao": "Uma rede delicada é característica das fibras reticulares no tecido conjuntivo reticular."
+      },
+      {
+        "texto": "Em feixes grossos, entrelaçados e sem orientação definida.",
+        "explicacao": "Esta disposição em múltiplas direções permite que o tecido resista a tensões provenientes de vários eixos, como ocorre na derme da pele e nas cápsulas dos órgãos."
+      },
+      {
+        "texto": "De forma esparsa, em meio a uma abundante substância fundamental.",
+        "explicacao": "Fibras esparsas em uma matriz abundante são a marca do tecido conjuntivo frouxo."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 20,
+    "enunciado": "Qual é a principal função do tecido conjuntivo que preenche e envolve a maioria dos órgãos, também conhecido como lâmina própria sob os epitélios?",
+    "nivel": "médio",
+    "subtopico": "funções do tecido conjuntivo",
+    "tipo": "múltipla escolha",
+    "tags": ["função", "suporte", "nutrição", "defesa"],
+    "alternativas": [
+      {
+        "texto": "Apenas armazenamento de energia.",
+        "explicacao": "O armazenamento de energia é a função primária do tecido adiposo, um tipo especializado."
+      },
+      {
+        "texto": "Apenas contração e movimento.",
+        "explicacao": "A contração é uma função do tecido muscular."
+      },
+      {
+        "texto": "Suporte, nutrição, defesa e reparo.",
+        "explicacao": "O tecido conjuntivo frouxo (lâmina própria) fornece suporte estrutural, nutre o epitélio avascular através de seus vasos sanguíneos, abriga células de defesa para a vigilância imunológica e participa ativamente do reparo tecidual."
+      },
+      {
+        "texto": "Apenas transmissão de impulsos nervosos.",
+        "explicacao": "A transmissão de impulsos é a função especializada do tecido nervoso."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 21,
+    "enunciado": "A Síndrome de Ehlers-Danlos é um grupo de doenças hereditárias que resultam em articulações hipermóveis e pele muito elástica e frágil. Essas manifestações são causadas por defeitos na síntese ou estrutura de qual componente?",
+    "nivel": "difícil",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["Ehlers-Danlos", "colágeno", "genética"],
+    "alternativas": [
+      {
+        "texto": "Elastina",
+        "explicacao": "Embora a elastina confira elasticidade, a fragilidade tecidual e a hiperfrouxidão ligamentar na síndrome de Ehlers-Danlos apontam para problemas na principal proteína de resistência."
+      },
+      {
+        "texto": "Colágeno",
+        "explicacao": "Diferentes tipos da síndrome estão ligados a mutações em vários genes de colágeno (como o COL5A1, COL3A1) ou em enzimas que processam o colágeno, comprometendo a integridade estrutural dos tecidos."
+      },
+      {
+        "texto": "Fibrilina",
+        "explicacao": "Defeitos na fibrilina estão associados à Síndrome de Marfan, que possui algumas sobreposições clínicas, mas é uma entidade distinta."
+      },
+      {
+        "texto": "Proteoglicanos",
+        "explicacao": "Alterações em proteoglicanos podem causar displasias esqueléticas, mas não são a causa primária da Síndrome de Ehlers-Danlos."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 22,
+    "enunciado": "O tecido conjuntivo reticular, rico em fibras de colágeno tipo III, forma o estroma de sustentação de qual grupo de órgãos?",
+    "nivel": "médio",
+    "subtopico": "tipos de tecido conjuntivo",
+    "tipo": "múltipla escolha",
+    "tags": ["tecido reticular", "estroma", "órgãos hematopoiéticos"],
+    "alternativas": [
+      {
+        "texto": "Cérebro e medula espinhal.",
+        "explicacao": "O tecido nervoso possui seu próprio sistema de células de suporte, a glia, e não um estroma de fibras reticulares."
+      },
+      {
+        "texto": "Músculos esqueléticos e coração.",
+        "explicacao": "O tecido muscular possui um delicado envoltório de tecido conjuntivo (endomisio), mas seu arcabouço principal não é do tipo reticular."
+      },
+      {
+        "texto": "Medula óssea, baço e linfonodos.",
+        "explicacao": "Nestes órgãos hematopoiéticos e linfoides, a rede de fibras reticulares cria um microambiente que sustenta as células livres (células sanguíneas em desenvolvimento, linfócitos)."
+      },
+      {
+        "texto": "Pele e tendões.",
+        "explicacao": "A pele (derme) e os tendões são compostos por tecido conjuntivo denso, rico em colágeno tipo I."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 23,
+    "enunciado": "Qual célula do tecido conjuntivo possui o citoplasma repleto de grânulos basofílicos contendo histamina e heparina?",
+    "nivel": "fácil",
+    "subtopico": "células do tecido conjuntivo",
+    "tipo": "múltipla escolha",
+    "tags": ["mastócito", "histamina", "heparina", "alergia"],
+    "alternativas": [
+      {
+        "texto": "Plasmócito",
+        "explicacao": "O plasmócito possui um citoplasma basofílico devido ao abundante RER, mas não contém os grandes grânulos de secreção com mediadores inflamatórios."
+      },
+      {
+        "texto": "Macrófago",
+        "explicacao": "O macrófago pode conter lisossomos e vacúolos fagocíticos, mas não os grânulos característicos com histamina."
+      },
+      {
+        "texto": "Mastócito",
+        "explicacao": "Esses grandes grânulos são a principal característica morfológica do mastócito e são liberados em reações alérgicas e inflamatórias."
+      },
+      {
+        "texto": "Fibroblasto",
+        "explicacao": "O fibroblasto é uma célula de síntese de matriz e não possui grânulos de secreção com mediadores inflamatórios."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 24,
+    "enunciado": "O tecido conjuntivo elástico é um tipo de tecido denso modelado com predominância de fibras elásticas. Ele é o principal componente de qual estrutura?",
+    "nivel": "médio",
+    "subtopico": "tipos de tecido conjuntivo",
+    "tipo": "múltipla escolha",
+    "tags": ["tecido elástico", "artérias elásticas", "ligamentos"],
+    "alternativas": [
+      {
+        "texto": "Da cápsula do baço.",
+        "explicacao": "A cápsula do baço é feita de tecido conjuntivo denso não modelado, com algumas fibras musculares lisas."
+      },
+      {
+        "texto": "Do ligamento amarelo da coluna vertebral e da parede de grandes artérias.",
+        "explicacao": "Essas estruturas precisam se deformar sob tensão e retornar à sua forma original, uma propriedade conferida pela abundância de fibras elásticas organizadas."
+      },
+      {
+        "texto": "Da cartilagem da orelha.",
+        "explicacao": "A cartilagem da orelha é do tipo elástica, mas é classificada como tecido cartilaginoso, não como tecido conjuntivo propriamente dito."
+      },
+      {
+        "texto": "Do estroma da córnea.",
+        "explicacao": "O estroma da córnea é composto por tecido conjuntivo denso modelado, com fibras de colágeno perfeitamente arranjadas."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 25,
+    "enunciado": "A substância fundamental do tecido conjuntivo é viscosa e altamente hidratada. Qual molécula é a principal responsável por essa propriedade de reter água?",
+    "nivel": "médio",
+    "subtopico": "matriz extracelular",
+    "tipo": "múltipla escolha",
+    "tags": ["glicosaminoglicanos", "proteoglicanos", "hidratação"],
+    "alternativas": [
+      {
+        "texto": "Fibras de colágeno",
+        "explicacao": "As fibras de colágeno fornecem resistência à tração, mas não são as principais responsáveis pela hidratação da matriz."
+      },
+      {
+        "texto": "Lipídios",
+        "explicacao": "Os lipídios são hidrofóbicos e armazenados dentro dos adipócitos, não compondo a substância fundamental aquosa."
+      },
+      {
+        "texto": "Glicosaminoglicanos (GAGs) e proteoglicanos",
+        "explicacao": "Devido às suas intensas cargas negativas, essas moléculas atraem cátions (como o sódio), que por sua vez atraem osmoticamente uma grande quantidade de água, formando um gel."
+      },
+      {
+        "texto": "Glicoproteínas adesivas como a fibronectina.",
+        "explicacao": "As glicoproteínas têm a função de conectar células e fibras, não de reter grandes volumes de água."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 26,
+    "enunciado": "Durante uma infestação parasitária ou em reações alérgicas, qual célula imune transiente se torna abundante no tecido conjuntivo, especialmente na lâmina própria intestinal?",
+    "nivel": "difícil",
+    "subtopico": "células e inflamação",
+    "tipo": "múltipla escolha",
+    "tags": ["eosinófilo", "parasitas", "alergia"],
+    "alternativas": [
+      {
+        "texto": "Neutrófilo",
+        "explicacao": "Os neutrófilos são a primeira linha de defesa contra infecções bacterianas agudas."
+      },
+      {
+        "texto": "Linfócito",
+        "explicacao": "Linfócitos estão envolvidos na resposta imune específica e são comuns em inflamações crônicas, mas outra célula é mais característica para parasitas."
+      },
+      {
+        "texto": "Basófilo",
+        "explicacao": "Os basófilos são os equivalentes circulantes dos mastócitos e são raros no tecido conjuntivo."
+      },
+      {
+        "texto": "Eosinófilo",
+        "explicacao": "Os eosinófilos são recrutados para locais de reações alérgicas e infestações por helmintos, onde liberam enzimas e mediadores de seus grânulos eosinofílicos característicos."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 27,
+    "enunciado": "A principal diferença morfológica entre um fibroblasto ativo e um fibrócito quiescente é que o fibrócito apresenta:",
+    "nivel": "médio",
+    "subtopico": "células do tecido conjuntivo",
+    "tipo": "múltipla escolha",
+    "tags": ["fibroblasto", "fibrócito", "morfologia"],
+    "alternativas": [
+      {
+        "texto": "Um núcleo maior e mais eucromático.",
+        "explicacao": "Um núcleo grande e com cromatina frouxa (eucromático) é sinal de alta atividade de transcrição, característico do fibroblasto."
+      },
+      {
+        "texto": "Um citoplasma mais escasso e um núcleo menor e heterocromático.",
+        "explicacao": "O estado de baixa atividade sintética do fibrócito se reflete em uma morfologia reduzida, com menos citoplasma e um núcleo com cromatina condensada (heterocromático)."
+      },
+      {
+        "texto": "Múltiplas gotas de lipídios no citoplasma.",
+        "explicacao": "A presença de gotas de lipídios é a marca de um adipócito, não de um fibrócito."
+      },
+      {
+        "texto": "Grânulos de secreção contendo histamina.",
+        "explicacao": "Os grânulos de histamina são encontrados nos mastócitos."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 28,
+    "enunciado": "A capacidade de regeneração do tecido conjuntivo é alta. Após uma lesão, qual célula é a principal responsável pela formação do tecido de granulação e da cicatriz?",
+    "nivel": "fácil",
+    "subtopico": "reparo tecidual",
+    "tipo": "múltipla escolha",
+    "tags": ["reparo", "cicatriz", "fibroblasto", "tecido de granulação"],
+    "alternativas": [
+      {
+        "texto": "Macrófago",
+        "explicacao": "Os macrófagos são essenciais para limpar a área lesionada e secretar fatores de crescimento, mas não produzem a matriz da cicatriz."
+      },
+      {
+        "texto": "Fibroblasto",
+        "explicacao": "Os fibroblastos proliferam intensamente, migram para a área da ferida e sintetizam grandes quantidades de colágeno e outros componentes da matriz para preencher o defeito."
+      },
+      {
+        "texto": "Célula epitelial",
+        "explicacao": "As células epiteliais regeneram a camada superficial (epiderme), mas a cicatriz subjacente é formada no tecido conjuntivo."
+      },
+      {
+        "texto": "Célula mesenquimal",
+        "explicacao": "Células mesenquimais perivasculares podem dar origem a fibroblastos, mas é o fibroblasto ativado a célula efetora do reparo."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 29,
+    "enunciado": "O colágeno tipo I é a proteína mais abundante do corpo humano. Ele se organiza em fibras espessas e feixes para fornecer resistência em quais tecidos?",
+    "nivel": "fácil",
+    "subtopico": "fibras e matriz",
+    "tipo": "múltipla escolha",
+    "tags": ["colágeno tipo I", "resistência", "osso", "derme"],
+    "alternativas": [
+      {
+        "texto": "Apenas na cartilagem hialina.",
+        "explicacao": "A cartilagem hialina é rica em colágeno tipo II, que forma fibrilas mais finas."
+      },
+      {
+        "texto": "Apenas na lâmina basal dos epitélios.",
+        "explicacao": "A lâmina basal é estruturada por uma rede de colágeno tipo IV."
+      },
+      {
+        "texto": "No osso, tendões, derme e cápsulas de órgãos.",
+        "explicacao": "Todos esses tecidos dependem da alta resistência à tração conferida pelos feixes de colágeno tipo I para suas funções de suporte e transmissão de força."
+      },
+      {
+        "texto": "Apenas no estroma de órgãos linfoides.",
+        "explicacao": "O estroma de órgãos linfoides é formado por fibras reticulares, que são compostas de colágeno tipo III."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 30,
+    "enunciado": "As células mesenquimais multipotentes persistem em pequenas quantidades no tecido conjuntivo adulto. Onde elas são tipicamente encontradas?",
+    "nivel": "difícil",
+    "subtopico": "células do tecido conjuntivo",
+    "tipo": "múltipla escolha",
+    "tags": ["célula mesenquimal", "célula-tronco", "pericitos"],
+    "alternativas": [
+      {
+        "texto": "Circulando livremente na corrente sanguínea.",
+        "explicacao": "As células-tronco adultas do tecido conjuntivo são residentes teciduais, não células circulantes."
+      },
+      {
+        "texto": "No interior dos grânulos dos mastócitos.",
+        "explicacao": "Os grânulos dos mastócitos contêm mediadores químicos, não células-tronco."
+      },
+      {
+        "texto": "Associadas à parede de capilares e vênulas (pericitos).",
+        "explicacao": "Muitas das células-tronco mesenquimais do adulto estão localizadas em um nicho perivascular, onde atuam como pericitos. Em caso de lesão, elas podem se ativar e se diferenciar em fibroblastos ou outras células."
+      },
+      {
+        "texto": "Concentradas no centro dos tendões.",
+        "explicacao": "Os tendões são tecidos com baixa celularidade e baixo potencial de regeneração, não sendo um reservatório primário de células-tronco."
+      }
+    ],
+    "respostaCorreta": 2
+  }
+]

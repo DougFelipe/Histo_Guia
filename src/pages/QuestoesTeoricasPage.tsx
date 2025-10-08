@@ -7,6 +7,7 @@ import FiltroAvancado from '../components/FiltroAvancado';
 import QuestaoAccordionList from '../components/QuestaoAccordionList';
 import SEOHead from '../components/SEOHead';
 import { Questao, FiltroState } from '../types';
+import { TEMAS_DISPONIVEIS } from '../utils/temas';
 
 const QuestoesTeoricasPage: React.FC = () => {
   const [questoes, setQuestoes] = useState<Questao[]>([]);
@@ -39,12 +40,9 @@ const QuestoesTeoricasPage: React.FC = () => {
   const carregarQuestoes = async (tema: string) => {
     setLoading(true);
     try {
-      console.log('Carregando questões teóricas para o tema:', tema);
       // Importar dinamicamente o arquivo JSON
       const questoesModule = await import(`../data/temas/${tema}/questoes-teoricas.json`);
       const data = questoesModule.default;
-      
-      console.log('Questões teóricas carregadas:', data);
       // As questões teóricas estão direto no array, não em data.questoes
       const questoesDoTema = Array.isArray(data) ? data.map(questao => ({
         ...questao,
@@ -66,9 +64,7 @@ const QuestoesTeoricasPage: React.FC = () => {
     setLoading(true);
     try {
       const todasQuestoes = [];
-      const temas = ['tecido-epitelial', 'tecido-conjuntivo', 'tecido-muscular', 'tecido-nervoso', 'cartilagem', 'tecido-osseo', 'sistema-circulatorio'];
-      
-      console.log('Carregando questões teóricas de todos os temas...');
+      const temas = TEMAS_DISPONIVEIS;
       
       for (const tema of temas) {
         try {
@@ -83,14 +79,11 @@ const QuestoesTeoricasPage: React.FC = () => {
               temaOrigem: tema
             }));
             todasQuestoes.push(...questoesComTema);
-            console.log(`${data.length} questões carregadas do tema: ${tema}`);
           }
         } catch (error) {
           console.warn(`Erro ao carregar questões do tema ${tema}:`, error);
         }
       }
-      
-      console.log(`Total de questões teóricas carregadas: ${todasQuestoes.length}`);
       setQuestoes(todasQuestoes);
       setQuestoesFiltradas(todasQuestoes);
     } catch (error) {

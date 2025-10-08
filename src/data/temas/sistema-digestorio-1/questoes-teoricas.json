@@ -1,0 +1,813 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "O epitélio que reveste a superfície dorsal da língua, onde se localizam as papilas linguais, é classificado como:",
+    "nivel": "fácil",
+    "subtopico": "língua",
+    "tipo": "múltipla escolha",
+    "tags": ["língua", "epitélio", "papilas"],
+    "alternativas": [
+      {
+        "texto": "Epitélio simples colunar com microvilosidades.",
+        "explicacao": "Este tipo de epitélio é característico do intestino, especializado em absorção."
+      },
+      {
+        "texto": "Epitélio pseudoestratificado ciliado.",
+        "explicacao": "Este epitélio é típico do trato respiratório, para a movimentação de muco."
+      },
+      {
+        "texto": "Epitélio estratificado pavimentoso.",
+        "explicacao": "A superfície dorsal da língua é coberta por um epitélio resistente ao atrito, que pode ser queratinizado em algumas áreas (especialmente nas papilas filiformes)."
+      },
+      {
+        "texto": "Epitélio de transição (urotélio).",
+        "explicacao": "O urotélio é exclusivo do sistema urinário, especializado em distensão."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 2,
+    "enunciado": "Qual tipo de papila lingual é a mais numerosa, tem função primariamente mecânica (atrito) e não possui botões gustativos?",
+    "nivel": "fácil",
+    "subtopico": "língua",
+    "tipo": "múltipla escolha",
+    "tags": ["papila filiforme", "língua", "mecânica"],
+    "alternativas": [
+      {
+        "texto": "Papilas fungiformes",
+        "explicacao": "As papilas fungiformes têm formato de cogumelo, são menos numerosas e contêm botões gustativos."
+      },
+      {
+        "texto": "Papilas valadas (circunvaladas)",
+        "explicacao": "As papilas valadas são grandes, localizadas na região do 'V' lingual e possuem numerosos botões gustativos em suas paredes laterais."
+      },
+      {
+        "texto": "Papilas filiformes",
+        "explicacao": "Estas papilas são pequenas, cônicas e queratinizadas, responsáveis pela textura áspera da língua e pela manipulação do alimento."
+      },
+      {
+        "texto": "Papilas foliadas (folheadas)",
+        "explicacao": "As papilas foliadas estão localizadas nas bordas laterais da língua e contêm botões gustativos, embora possam ser rudimentares em humanos adultos."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 3,
+    "enunciado": "A glândula parótida é a maior das glândulas salivares maiores. Histologicamente, ela é classificada como uma glândula:",
+    "nivel": "fácil",
+    "subtopico": "glândulas salivares",
+    "tipo": "múltipla escolha",
+    "tags": ["parótida", "glândula serosa", "saliva"],
+    "alternativas": [
+      {
+        "texto": "Puramente serosa",
+        "explicacao": "A parótida é composta quase exclusivamente por ácinos serosos, que produzem uma saliva aquosa rica em enzimas, como a amilase."
+      },
+      {
+        "texto": "Puramente mucosa",
+        "explicacao": "Glândulas puramente mucosas são raras; a sublingual é predominantemente mucosa."
+      },
+      {
+        "texto": "Mista, com predomínio mucoso.",
+        "explicacao": "Esta é a descrição da glândula sublingual."
+      },
+      {
+        "texto": "Mista, com predomínio seroso.",
+        "explicacao": "Esta é a descrição da glândula submandibular."
+      }
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "numero": 4,
+    "enunciado": "No lábio, a região de transição entre a pele externa e a mucosa oral interna é chamada de:",
+    "nivel": "fácil",
+    "subtopico": "lábio",
+    "tipo": "múltipla escolha",
+    "tags": ["lábio", "vermelhão", "epitélio"],
+    "alternativas": [
+      {
+        "texto": "Zona cutânea",
+        "explicacao": "A zona cutânea é a parte externa do lábio, coberta por pele delgada com folículos pilosos e glândulas."
+      },
+      {
+        "texto": "Zona da mucosa labial",
+        "explicacao": "Esta é a superfície interna, úmida, revestida por epitélio estratificado pavimentoso não queratinizado."
+      },
+      {
+        "texto": "Vermelhão do lábio (zona de transição)",
+        "explicacao": "Esta área possui um epitélio estratificado pavimentoso delgado e paraqueratinizado, sem glândulas salivares ou sudoríparas, e sua cor vermelha deve-se à proximidade dos capilares sanguíneos."
+      },
+      {
+        "texto": "Comissura labial",
+        "explicacao": "A comissura é o ângulo ou canto da boca, onde os lábios superior e inferior se encontram."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 5,
+    "enunciado": "As células mioepiteliais, localizadas entre as células secretoras e a lâmina basal dos ácinos e ductos salivares, têm qual função?",
+    "nivel": "médio",
+    "subtopico": "glândulas salivares",
+    "tipo": "múltipla escolha",
+    "tags": ["célula mioepitelial", "contração", "secreção"],
+    "alternativas": [
+      {
+        "texto": "Sintetizar as enzimas da saliva.",
+        "explicacao": "A síntese de enzimas é função das células acinares serosas."
+      },
+      {
+        "texto": "Modificar a composição iônica da saliva.",
+        "explicacao": "A modificação iônica ocorre nas células dos ductos estriados."
+      },
+      {
+        "texto": "Contrair para auxiliar na expulsão da secreção.",
+        "explicacao": "Com seus prolongamentos contráteis, as células mioepiteliais 'espremem' o ácino e a porção inicial do ducto, impulsionando a saliva para o lúmen."
+      },
+      {
+        "texto": "Atuar como células-tronco para a renovação glandular.",
+        "explicacao": "A renovação glandular é atribuída a outras populações de células progenitoras nos ductos."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 6,
+    "enunciado": "Os botões gustativos são estruturas especializadas na detecção de sabores. Em qual tipo de papila lingual eles estão mais abundantemente localizados nas paredes laterais do sulco que as circunda?",
+    "nivel": "médio",
+    "subtopico": "língua",
+    "tipo": "múltipla escolha",
+    "tags": ["papila valada", "botão gustativo", "língua"],
+    "alternativas": [
+      {
+        "texto": "Papilas filiformes",
+        "explicacao": "As papilas filiformes não possuem botões gustativos."
+      },
+      {
+        "texto": "Papilas fungiformes",
+        "explicacao": "As papilas fungiformes contêm botões gustativos, mas em menor número e localizados em sua superfície superior."
+      },
+      {
+        "texto": "Papilas valadas (circunvaladas)",
+        "explicacao": "Estas grandes papilas são rodeadas por um sulco profundo, e suas paredes laterais são ricas em botões gustativos, banhados pela secreção das glândulas de von Ebner."
+      },
+      {
+        "texto": "Papilas cônicas",
+        "explicacao": "As papilas cônicas são uma variação das filiformes e também não possuem função gustativa."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 7,
+    "enunciado": "A glândula submandibular produz a maior parte da saliva. Sua composição histológica é de uma glândula:",
+    "nivel": "fácil",
+    "subtopico": "glândulas salivares",
+    "tipo": "múltipla escolha",
+    "tags": ["submandibular", "glândula mista", "saliva"],
+    "alternativas": [
+      {
+        "texto": "Puramente serosa",
+        "explicacao": "A glândula puramente serosa é a parótida."
+      },
+      {
+        "texto": "Mista, com predomínio seroso.",
+        "explicacao": "A glândula submandibular contém tanto ácinos serosos quanto túbulos mucosos, frequentemente com semiluas serosas, mas os componentes serosos predominam."
+      },
+      {
+        "texto": "Puramente mucosa",
+        "explicacao": "Nenhuma das glândulas salivares maiores é puramente mucosa."
+      },
+      {
+        "texto": "Mista, com predomínio mucoso.",
+        "explicacao": "A glândula com predomínio mucoso é a sublingual."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 8,
+    "enunciado": "O núcleo do lábio é formado por feixes de qual tipo de músculo, responsável por seus movimentos?",
+    "nivel": "fácil",
+    "subtopico": "lábio",
+    "tipo": "múltipla escolha",
+    "tags": ["lábio", "músculo esquelético", "orbicular da boca"],
+    "alternativas": [
+      {
+        "texto": "Músculo liso",
+        "explicacao": "O músculo liso é encontrado em órgãos viscerais e vasos sanguíneos, não sendo responsável pelos movimentos voluntários da face."
+      },
+      {
+        "texto": "Músculo estriado cardíaco",
+        "explicacao": "Este músculo é exclusivo do coração."
+      },
+      {
+        "texto": "Músculo estriado esquelético",
+        "explicacao": "O músculo orbicular da boca, um músculo estriado esquelético, forma a massa principal do lábio e permite movimentos como o fechamento e a projeção."
+      },
+      {
+        "texto": "Músculo mioepitelial",
+        "explicacao": "Células mioepiteliais são associadas a glândulas e não formam um músculo macroscópico."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 9,
+    "enunciado": "Qual segmento do sistema de ductos de uma glândula salivar é responsável pela modificação da saliva primária, tornando-a hipotônica através da reabsorção de íons?",
+    "nivel": "médio",
+    "subtopico": "glândulas salivares",
+    "tipo": "múltipla escolha",
+    "tags": ["ducto estriado", "saliva", "modificação iônica"],
+    "alternativas": [
+      {
+        "texto": "Ducto Intralobular",
+        "explicacao": "Os ductos intralobulares são os segmentos posicionados entre os lobulos, compondo parte do sistema de condução da saliva."
+      },
+      {
+        "texto": "Ducto estriado",
+        "explicacao": "As células deste ducto possuem invaginações basais com mitocôndrias alinhadas (as estriações), que fornecem energia para o transporte ativo de íons (reabsorção de Na+ e Cl-)."
+      },
+      {
+        "texto": "Ducto excretor",
+        "explicacao": "Os ductos excretores são os segmentos finais, que conduzem a saliva para a cavidade oral sem modificá-la significativamente."
+      },
+      {
+        "texto": "Ácino seroso",
+        "explicacao": "O ácino produz a saliva primária, que é isotônica, antes de ser modificada nos ductos."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 10,
+    "enunciado": "As glândulas de von Ebner são glândulas salivares linguais menores. Sua secreção serosa é liberada em qual local?",
+    "nivel": "médio",
+    "subtopico": "língua",
+    "tipo": "múltipla escolha",
+    "tags": ["glândulas de von Ebner", "papila valada", "língua"],
+    "alternativas": [
+      {
+        "texto": "Na superfície das papilas filiformes para lubrificação.",
+        "explicacao": "As papilas filiformes não têm glândulas associadas."
+      },
+      {
+        "texto": "No fundo dos sulcos que circundam as papilas valadas.",
+        "explicacao": "A secreção aquosa dessas glândulas lava os sulcos, permitindo que os botões gustativos respondam a novos estímulos de sabor."
+      },
+      {
+        "texto": "Na superfície das papilas fungiformes.",
+        "explicacao": "As papilas fungiformes não possuem glândulas próprias."
+      },
+      {
+        "texto": "Na superfície ventral da língua.",
+        "explicacao": "A superfície ventral é lisa e não possui papilas ou as glândulas de von Ebner."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 11,
+    "enunciado": "Em um corte histológico de uma glândula salivar mista, a estrutura de um 'gorro' de células serosas sobre um túbulo mucoso é conhecida como:",
+    "nivel": "difícil",
+    "subtopico": "glândulas salivares",
+    "tipo": "múltipla escolha",
+    "tags": ["semilua serosa", "glândula mista", "submandibular"],
+    "alternativas": [
+      {
+        "texto": "Ducto estriado",
+        "explicacao": "O ducto estriado é um canal de transporte e modificação, não uma unidade secretora."
+      },
+      {
+        "texto": "Ácino seroso",
+        "explicacao": "Um ácino seroso é uma unidade secretora arredondada, composta apenas por células serosas."
+      },
+      {
+        "texto": "Semilua serosa (ou de Giannuzzi)",
+        "explicacao": "Esta estrutura é um artefato de fixação clássico onde as células serosas, que formariam um ácino terminal misto, são deslocadas para a periferia de um túbulo mucoso, assumindo o formato de uma meia-lua."
+      },
+      {
+        "texto": "Túbulo mucoso",
+        "explicacao": "O túbulo mucoso é a porção composta por células mucosas, mas não inclui o 'gorro' seroso."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 12,
+    "enunciado": "A língua é composta por uma massa complexa de feixes de músculo estriado esquelético. A principal característica de sua organização é:",
+    "nivel": "médio",
+    "subtopico": "língua",
+    "tipo": "múltipla escolha",
+    "tags": ["língua", "músculo", "organização"],
+    "alternativas": [
+      {
+        "texto": "Feixes orientados em uma única direção, longitudinalmente.",
+        "explicacao": "Uma única orientação limitaria severamente os movimentos complexos da língua."
+      },
+      {
+        "texto": "Feixes orientados em três planos perpendiculares entre si.",
+        "explicacao": "Os feixes dos músculos intrínsecos da língua estão dispostos nos planos longitudinal, transversal e vertical, permitindo mudanças precisas em sua forma."
+      },
+      {
+        "texto": "Uma camada circular externa e uma longitudinal interna.",
+        "explicacao": "Esta organização é típica de órgãos tubulares do sistema digestório, como o intestino."
+      },
+      {
+        "texto": "Músculos que se originam nos ossos e se inserem na própria língua.",
+        "explicacao": "Esta descrição corresponde aos músculos extrínsecos, que movem a língua como um todo, mas não descreve a organização interna."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 13,
+    "enunciado": "A glândula sublingual, localizada no assoalho da boca, é classificada como:",
+    "nivel": "médio",
+    "subtopico": "glândulas salivares",
+    "tipo": "múltipla escolha",
+    "tags": ["sublingual", "glândula mista", "mucosa"],
+    "alternativas": [
+      {
+        "texto": "Mista, com predomínio mucoso.",
+        "explicacao": "A sublingual contém principalmente túbulos mucosos ramificados, com poucas semiluas serosas, produzindo uma saliva viscosa."
+      },
+      {
+        "texto": "Puramente serosa.",
+        "explicacao": "A glândula puramente serosa é a parótida."
+      },
+      {
+        "texto": "Mista, com predomínio seroso.",
+        "explicacao": "Esta é a característica da glândula submandibular."
+      },
+      {
+        "texto": "Puramente mucosa.",
+        "explicacao": "Embora seja predominantemente mucosa, ela ainda é considerada uma glândula mista por possuir alguns componentes serosos."
+      }
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "numero": 14,
+    "enunciado": "Os corpúsculos de Fordyce, que podem ser encontrados na mucosa labial e jugal, são:",
+    "nivel": "difícil",
+    "subtopico": "cavidade oral",
+    "tipo": "múltipla escolha",
+    "tags": ["corpúsculos de Fordyce", "glândula sebácea", "ectópica"],
+    "alternativas": [
+      {
+        "texto": "Pequenas glândulas salivares menores.",
+        "explicacao": "As glândulas salivares menores são mucosas ou mistas, não sebáceas."
+      },
+      {
+        "texto": "Terminações nervosas encapsuladas para o tato.",
+        "explicacao": "Terminações nervosas como os corpúsculos de Meissner são encontradas na pele e papilas, mas não são os corpúsculos de Fordyce."
+      },
+      {
+        "texto": "Glândulas sebáceas ectópicas (em localização anormal).",
+        "explicacao": "Normalmente associadas a folículos pilosos, estas glândulas sebáceas podem aparecer na mucosa oral como pequenas pápulas amareladas, sendo uma variação anatômica comum."
+      },
+      {
+        "texto": "Aglomerados de tecido linfoide.",
+        "explicacao": "Aglomerados de tecido linfoide na cavidade oral formam as tonsilas."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 15,
+    "enunciado": "A saliva produzida pelos ácinos serosos é rica em:",
+    "nivel": "fácil",
+    "subtopico": "glândulas salivares",
+    "tipo": "múltipla escolha",
+    "tags": ["ácino seroso", "saliva", "enzimas"],
+    "alternativas": [
+      {
+        "texto": "Mucinas, que conferem viscosidade.",
+        "explicacao": "As mucinas são produzidas pelas células mucosas, tornando a saliva espessa e lubrificante."
+      },
+      {
+        "texto": "Proteínas e enzimas, como a amilase e a lisozima.",
+        "explicacao": "As células serosas têm características de células secretoras de proteínas (RER abundante, grânulos de secreção apicais) e produzem uma secreção aquosa e enzimática."
+      },
+      {
+        "texto": "Íons de bicarbonato para neutralizar o pH.",
+        "explicacao": "O bicarbonato é adicionado principalmente nos ductos, não sendo o principal produto do ácino."
+      },
+      {
+        "texto": "Lipídios e colesterol.",
+        "explicacao": "A saliva é virtualmente isenta de lipídios."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 16,
+    "enunciado": "Histologicamente, as células de um túbulo mucoso se apresentam com:",
+    "nivel": "médio",
+    "subtopico": "glândulas salivares",
+    "tipo": "múltipla escolha",
+    "tags": ["túbulo mucoso", "histologia", "mucina"],
+    "alternativas": [
+      {
+        "texto": "Citoplasma basofílico e núcleo arredondado na base.",
+        "explicacao": "Esta é a aparência clássica de uma célula serosa, devido ao RER abundante."
+      },
+      {
+        "texto": "Citoplasma eosinofílico com estriações basais.",
+        "explicacao": "Esta é a descrição de uma célula de um ducto estriado."
+      },
+      {
+        "texto": "Citoplasma claro ou pálido e núcleo achatado na base.",
+        "explicacao": "As grandes gotas de mucinogênio que preenchem o citoplasma não se coram bem com H&E, dando uma aparência vazia e empurrando o núcleo para a periferia."
+      },
+      {
+        "texto": "Formato fusiforme com núcleo central.",
+        "explicacao": "Esta é a descrição de uma célula muscular lisa."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 17,
+    "enunciado": "A superfície ventral (inferior) da língua é caracterizada por:",
+    "nivel": "fácil",
+    "subtopico": "língua",
+    "tipo": "múltipla escolha",
+    "tags": ["língua", "superfície ventral", "epitélio"],
+    "alternativas": [
+      {
+        "texto": "Presença de numerosas papilas filiformes e fungiformes.",
+        "explicacao": "As papilas linguais são encontradas exclusivamente na superfície dorsal da língua."
+      },
+      {
+        "texto": "Um epitélio estratificado pavimentoso liso e delgado.",
+        "explicacao": "A superfície ventral é lisa, não papilar, e seu epitélio não queratinizado e delgado permite a visualização dos vasos sanguíneos subjacentes."
+      },
+      {
+        "texto": "Uma espessa camada de músculo esquelético logo abaixo do epitélio.",
+        "explicacao": "Há uma submucosa que separa o epitélio da massa muscular principal da língua."
+      },
+      {
+        "texto": "Abertura dos ductos das glândulas parótidas.",
+        "explicacao": "O ducto da parótida (ducto de Stensen) se abre na mucosa jugal, próximo ao segundo molar superior."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 18,
+    "enunciado": "As papilas foliadas são mais desenvolvidas em animais como coelhos, mas em humanos:",
+    "nivel": "médio",
+    "subtopico": "língua",
+    "tipo": "múltipla escolha",
+    "tags": ["papila foliada", "língua", "humano"],
+    "alternativas": [
+      {
+        "texto": "São as mais numerosas e cobrem toda a superfície dorsal.",
+        "explicacao": "As mais numerosas são as filiformes."
+      },
+      {
+        "texto": "Estão localizadas na ponta da língua.",
+        "explicacao": "A ponta da língua é rica em papilas fungiformes."
+      },
+      {
+        "texto": "São encontradas como pregas nas bordas laterais posteriores e podem ser rudimentares.",
+        "explicacao": "Em humanos, especialmente em adultos, as papilas foliadas são menos proeminentes, mas ainda podem conter botões gustativos."
+      },
+      {
+        "texto": "Não existem em nenhuma fase da vida.",
+        "explicacao": "Elas existem, principalmente em crianças, embora possam atrofiar com a idade."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 19,
+    "enunciado": "Dentro de um botão gustativo, qual tipo celular é o quimiorreceptor que faz sinapse com as fibras nervosas aferentes?",
+    "nivel": "difícil",
+    "subtopico": "botão gustativo",
+    "tipo": "múltipla escolha",
+    "tags": ["botão gustativo", "célula neuroepitelial", "sabor"],
+    "alternativas": [
+      {
+        "texto": "Células basais (Tipo IV)",
+        "explicacao": "As células basais são as células-tronco que regeneram os outros tipos celulares do botão gustativo."
+      },
+      {
+        "texto": "Células de sustentação (Tipo I)",
+        "explicacao": "As células de sustentação têm uma função de suporte, similar à da glia, mas não são as células sensoriais primárias."
+      },
+      {
+        "texto": "Células neuroepiteliais (sensoriais, Tipo II e III)",
+        "explicacao": "Essas células possuem microvilosidades apicais com receptores para as moléculas do sabor. Ao serem ativadas, elas liberam neurotransmissores para as terminações nervosas na base."
+      },
+      {
+        "texto": "Células mioepiteliais",
+        "explicacao": "As células mioepiteliais não são encontradas nos botões gustativos."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 20,
+    "enunciado": "O ducto da glândula submandibular (ducto de Wharton) se abre em qual localização na cavidade oral?",
+    "nivel": "médio",
+    "subtopico": "glândulas salivares",
+    "tipo": "múltipla escolha",
+    "tags": ["submandibular", "ducto de Wharton", "assoalho da boca"],
+    "alternativas": [
+      {
+        "texto": "Na mucosa jugal, na altura do segundo molar superior.",
+        "explicacao": "Esta é a abertura do ducto da glândula parótida (ducto de Stensen)."
+      },
+      {
+        "texto": "No assoalho da boca, lateralmente ao frênulo da língua.",
+        "explicacao": "O ducto de Wharton corre anteriormente no assoalho da boca e se abre nas carúnculas sublinguais."
+      },
+      {
+        "texto": "Diretamente no sulco que circunda as papilas valadas.",
+        "explicacao": "Neste local se abrem os ductos das glândulas de von Ebner."
+      },
+      {
+        "texto": "No vestíbulo da boca, atrás do lábio inferior.",
+        "explicacao": "Nesta região se abrem os ductos de glândulas salivares labiais menores."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 21,
+    "enunciado": "A principal função da secreção mucosa das glândulas salivares é:",
+    "nivel": "fácil",
+    "subtopico": "glândulas salivares",
+    "tipo": "múltipla escolha",
+    "tags": ["saliva mucosa", "lubrificação", "mucina"],
+    "alternativas": [
+      {
+        "texto": "Digestão inicial de carboidratos.",
+        "explicacao": "A digestão de carboidratos é iniciada pela amilase salivar, uma enzima presente na secreção serosa."
+      },
+      {
+        "texto": "Ação antibacteriana.",
+        "explicacao": "A ação antibacteriana é mediada por componentes como a lisozima e a lactoferrina, encontrados principalmente na secreção serosa."
+      },
+      {
+        "texto": "Lubrificação e proteção da mucosa.",
+        "explicacao": "As mucinas, ao se hidratarem, formam um muco viscoso que lubrifica o bolo alimentar, facilita a deglutição e protege o epitélio oral."
+      },
+      {
+        "texto": "Tamponamento do pH da cavidade oral.",
+        "explicacao": "A capacidade de tamponamento é devida principalmente ao bicarbonato, um componente da fase aquosa da saliva, mais associado à modificação ductal."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 22,
+    "enunciado": "As estriações vistas ao microscópio de luz na base das células dos ductos estriados correspondem a qual organização ultraestrutural?",
+    "nivel": "difícil",
+    "subtopico": "glândulas salivares",
+    "tipo": "múltipla escolha",
+    "tags": ["ducto estriado", "mitocôndrias", "transporte ativo"],
+    "alternativas": [
+      {
+        "texto": "Feixes de filamentos de actina e miosina.",
+        "explicacao": "Esta organização é encontrada em células musculares."
+      },
+      {
+        "texto": "Sarcômeros alinhados.",
+        "explicacao": "Os sarcômeros são as unidades contráteis do músculo estriado."
+      },
+      {
+        "texto": "Numerosas mitocôndrias alongadas, alinhadas entre invaginações da membrana basal.",
+        "explicacao": "Essa disposição coloca as mitocôndrias (fonte de ATP) em proximidade com as bombas iônicas na membrana, facilitando o transporte ativo necessário para modificar a saliva."
+      },
+      {
+        "texto": "Cisternas empilhadas do retículo endoplasmático rugoso.",
+        "explicacao": "O RER abundante daria um aspecto basofílico, como em células serosas, não estriado."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 23,
+    "enunciado": "O epitélio do vermelhão do lábio é mais delgado e menos queratinizado que o da pele. A ausência de qual estrutura nesta região a torna dependente da umidade da saliva?",
+    "nivel": "fácil",
+    "subtopico": "lábio",
+    "tipo": "múltipla escolha",
+    "tags": ["lábio", "vermelhão", "glândulas"],
+    "alternativas": [
+      {
+        "texto": "Folículos pilosos",
+        "explicacao": "A ausência de pelos é uma característica, mas não a principal razão da necessidade de umedecimento externo."
+      },
+      {
+        "texto": "Músculo orbicular da boca",
+        "explicacao": "O músculo está presente no núcleo do lábio e não está relacionado à hidratação da superfície."
+      },
+      {
+        "texto": "Glândulas salivares e sebáceas",
+        "explicacao": "A zona do vermelhão não possui glândulas próprias. A pele tem glândulas sebáceas e a mucosa oral tem glândulas salivares, mas a zona de transição não tem, por isso resseca facilmente."
+      },
+      {
+        "texto": "Vasos sanguíneos capilares",
+        "explicacao": "A vascularização é, na verdade, muito rica e próxima da superfície, o que confere a cor vermelha à região."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 24,
+    "enunciado": "Na Síndrome de Sjögren, uma doença autoimune, as glândulas salivares e lacrimais são infiltradas por linfócitos. Qual é a consequência histológica e clínica principal?",
+    "nivel": "difícil",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["Síndrome de Sjögren", "xerostomia", "infiltrado linfocitário"],
+    "alternativas": [
+      {
+        "texto": "Hipertrofia dos ácinos e aumento da produção de saliva (sialorreia).",
+        "explicacao": "Ocorre o oposto. A inflamação crônica leva à destruição do parênquima glandular."
+      },
+      {
+        "texto": "Metaplasia das células acinares em células de ductos.",
+        "explicacao": "A metaplasia não é a característica principal; a destruição do tecido é o evento predominante."
+      },
+      {
+        "texto": "Destruição dos ácinos e ductos, levando à secura da boca (xerostomia).",
+        "explicacao": "O infiltrado linfocitário causa a destruição progressiva do tecido secretor, resultando em uma diminuição severa da produção de saliva e lágrimas."
+      },
+      {
+        "texto": "Formação de cálculos (sialólitos) nos ductos excretores.",
+        "explicacao": "A formação de cálculos pode ser uma consequência da estase salivar, mas a causa primária da doença é a destruição autoimune do tecido."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 25,
+    "enunciado": "As papilas fungiformes são mais facilmente visualizadas na ponta e nas margens laterais da língua. Elas se distinguem das filiformes por:",
+    "nivel": "fácil",
+    "subtopico": "língua",
+    "tipo": "múltipla escolha",
+    "tags": ["papila fungiforme", "língua", "botão gustativo"],
+    "alternativas": [
+      {
+        "texto": "Serem mais altas e queratinizadas.",
+        "explicacao": "As papilas filiformes são as que possuem um epitélio queratinizado."
+      },
+      {
+        "texto": "Terem formato de cogumelo e possuírem botões gustativos.",
+        "explicacao": "Elas têm uma base mais estreita e um topo mais largo, e contêm alguns botões gustativos em sua superfície superior."
+      },
+      {
+        "texto": "Estarem arranjadas em uma fileira em forma de 'V'.",
+        "explicacao": "A disposição em 'V' é característica das papilas valadas."
+      },
+      {
+        "texto": "Não possuírem um núcleo de tecido conjuntivo.",
+        "explicacao": "Todas as papilas são projeções da mucosa e possuem um centro de tecido conjuntivo vascularizado."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 26,
+    "enunciado": "A saliva primária, secretada pelos ácinos, é isotônica em relação ao plasma. O que acontece com sua composição à medida que passa pelos ductos?",
+    "nivel": "médio",
+    "subtopico": "glândulas salivares",
+    "tipo": "múltipla escolha",
+    "tags": ["saliva", "ducto estriado", "hipotônica"],
+    "alternativas": [
+      {
+        "texto": "Permanece isotônica, pois os ductos são impermeáveis.",
+        "explicacao": "Os ductos, especialmente os estriados, são metabolicamente ativos e modificam a saliva."
+      },
+      {
+        "texto": "Torna-se hipertônica pela adição de íons.",
+        "explicacao": "Ocorre o inverso; mais íons são reabsorvidos do que secretados."
+      },
+      {
+        "texto": "Torna-se hipotônica pela reabsorção de Na+ e Cl- e secreção de K+ e HCO3-.",
+        "explicacao": "Os ductos reabsorvem mais solutos (sal) do que água, tornando a saliva final menos concentrada que o plasma."
+      },
+      {
+        "texto": "Torna-se ácida pela secreção de íons H+.",
+        "explicacao": "A saliva final é tipicamente neutra ou ligeiramente alcalina devido à secreção de bicarbonato (HCO3-)."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 27,
+    "enunciado": "A grande mobilidade da língua é garantida pela ação combinada de músculos intrínsecos e extrínsecos. Qual é a principal diferença entre eles?",
+    "nivel": "médio",
+    "subtopico": "língua",
+    "tipo": "múltipla escolha",
+    "tags": ["língua", "músculos intrínsecos", "músculos extrínsecos"],
+    "alternativas": [
+      {
+        "texto": "Os intrínsecos são de músculo liso e os extrínsecos de músculo esquelético.",
+        "explicacao": "Todos os músculos da língua são do tipo estriado esquelético."
+      },
+      {
+        "texto": "Os intrínsecos alteram a forma da língua, enquanto os extrínsecos alteram sua posição.",
+        "explicacao": "Os músculos intrínsecos se originam e se inserem dentro da língua. Os extrínsecos se originam em ossos (mandíbula, hioide) e se inserem na língua, sendo responsáveis por protrair, retrair e mover a língua lateralmente."
+      },
+      {
+        "texto": "Os intrínsecos são inervados pelo nervo hipoglosso e os extrínsecos pelo nervo vago.",
+        "explicacao": "Todos os músculos da língua (com exceção do palatoglosso) são inervados pelo nervo hipoglosso (XII par craniano)."
+      },
+      {
+        "texto": "Os intrínsecos são responsáveis pelo paladar e os extrínsecos pela mastigação.",
+        "explicacao": "A musculatura está relacionada ao movimento, não à sensação de paladar."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 28,
+    "enunciado": "O ducto intercalar é o primeiro segmento do sistema de ductos salivares. Ele é revestido por qual tipo de epitélio?",
+    "nivel": "fácil",
+    "subtopico": "glândulas salivares",
+    "tipo": "múltipla escolha",
+    "tags": ["ducto intercalar", "epitélio", "glândula salivar"],
+    "alternativas": [
+      {
+        "texto": "Epitélio simples pavimentoso",
+        "explicacao": "O epitélio simples pavimentoso é encontrado em locais de trocas, como alvéolos e endotélio."
+      },
+      {
+        "texto": "Epitélio simples cúbico",
+        "explicacao": "Os ductos intercalares são canais estreitos revestidos por células cúbicas baixas."
+      },
+      {
+        "texto": "Epitélio simples colunar",
+        "explicacao": "O epitélio colunar (ou prismático) é encontrado nos ductos estriados e excretores maiores."
+      },
+      {
+        "texto": "Epitélio estratificado cúbico",
+        "explicacao": "O epitélio estratificado é encontrado nos segmentos finais dos ductos excretores maiores."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 29,
+    "enunciado": "O muco produzido pelas células mucosas é composto principalmente por mucinogênios, que são:",
+    "nivel": "médio",
+    "subtopico": "glândulas salivares",
+    "tipo": "múltipla escolha",
+    "tags": ["mucina", "glicoproteína", "muco"],
+    "alternativas": [
+      {
+        "texto": "Lipídios de cadeia longa.",
+        "explicacao": "Os lipídios não são o principal componente do muco."
+      },
+      {
+        "texto": "Grandes glicoproteínas.",
+        "explicacao": "Os mucinogênios são glicoproteínas com uma grande porção de carboidratos. Ao serem liberados e se hidratarem, eles se expandem para formar o muco."
+      },
+      {
+        "texto": "Polissacarídeos puros, como o glicogênio.",
+        "explicacao": "Embora ricos em carboidratos, eles são proteínas conjugadas, não polissacarídeos puros."
+      },
+      {
+        "texto": "Enzimas digestivas inativas.",
+        "explicacao": "As enzimas digestivas são proteínas produzidas pelas células serosas."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 30,
+    "enunciado": "A mucosa mastigatória, encontrada em áreas como a gengiva e o palato duro, difere da mucosa de revestimento da bochecha e do lábio por ser:",
+    "nivel": "difícil",
+    "subtopico": "cavidade oral",
+    "tipo": "múltipla escolha",
+    "tags": ["mucosa mastigatória", "queratina", "epitélio"],
+    "alternativas": [
+      {
+        "texto": "Mais delgada e mais elástica.",
+        "explicacao": "A mucosa de revestimento é mais delgada e elástica para permitir o movimento."
+      },
+      {
+        "texto": "Queratinizada ou paraqueratinizada e firmemente aderida ao osso.",
+        "explicacao": "Para resistir ao atrito da mastigação, essa mucosa possui um epitélio mais espesso e queratinizado, e sua lâmina própria se funde ao periósteo do osso subjacente, tornando-a imóvel."
+      },
+      {
+        "texto": "Rica em glândulas salivares menores para lubrificação.",
+        "explicacao": "A mucosa de revestimento é mais rica em glândulas salivares menores."
+      },
+      {
+        "texto": "Desprovida de papilas do tecido conjuntivo.",
+        "explicacao": "A mucosa mastigatória possui papilas conjuntivas altas e numerosas, que ajudam a prender o epitélio firmemente."
+      }
+    ],
+    "respostaCorreta": 1
+  }
+]
+

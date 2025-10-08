@@ -3,6 +3,7 @@ import { ArrowLeft, Settings, Play, Search, Check } from 'lucide-react';
 import { Link, useNavigate } from 'react-router-dom';
 import Header from '../components/Header';
 import { ConfiguracaoSimulado, QuestaoPratica } from '../types';
+import { mapeamentoTemas } from '../utils/temas';
 
 const SimuladoConfiguracaoPage: React.FC = () => {
   const navigate = useNavigate();
@@ -15,17 +16,6 @@ const SimuladoConfiguracaoPage: React.FC = () => {
   const [buscaTema, setBuscaTema] = useState('');
   const [questoesDisponiveis, setQuestoesDisponiveis] = useState<QuestaoPratica[]>([]);
   const [loading, setLoading] = useState(true);
-
-  // Mapeamento de temas (arquivo -> nome de exibição)
-  const mapeamentoTemas: Record<string, string> = {
-    'tecido-conjuntivo': 'Tecido Conjuntivo',
-    'tecido-epitelial': 'Tecido Epitelial',
-    'tecido-muscular': 'Tecido Muscular',
-    'tecido-nervoso': 'Tecido Nervoso',
-    'sistema-circulatorio': 'Sistema Circulatório',
-    'cartilagem': 'Cartilagem',
-    'tecido-osseo': 'Tecido Ósseo'
-  };
 
   // Mapeamento reverso (nome de exibição -> arquivo)
   const mapeamentoReverso = Object.fromEntries(

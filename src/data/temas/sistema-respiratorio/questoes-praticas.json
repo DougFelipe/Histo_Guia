@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "tema": "sistema-respiratorio",
+    "enunciado": "Observe a estrutura histológica mostrada na imagem. Qual estrutura respiratória está sendo apresentada?",
+    "imagem": "/images/temas/sistema-respiratorio/image1.jpg",
+    "alternativas": [
+      {
+        "texto": "Alvéolo pulmonar com pneumócitos tipo I e II",
+        "correta": true,
+        "explicacao": "A imagem mostra a estrutura típica de um alvéolo pulmonar, com pneumócitos tipo I formando a parede alveolar para troca gasosa e pneumócitos tipo II produzindo surfactante."
+      },
+      {
+        "texto": "Bronquíolo terminal",
+        "correta": false,
+        "explicacao": "Os bronquíolos terminais apresentam epitélio cúbico simples e não possuem alvéolos."
+      },
+      {
+        "texto": "Brônquio principal",
+        "correta": false,
+        "explicacao": "Os brônquios principais apresentam epitélio pseudoestratificado cilíndrico ciliado e cartilagem de suporte."
+      },
+      {
+        "texto": "Ducto alveolar",
+        "correta": false,
+        "explicacao": "Os ductos alveolares são passagens que conduzem aos sacos alveolares, mas não são o local principal de troca gasosa."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tema": "sistema-respiratorio",
+    "enunciado": "Analise a lâmina histológica apresentada. Identifique a estrutura que mostra epitélio pseudoestratificado cilíndrico ciliado.",
+    "imagem": "/images/temas/sistema-respiratorio/image2.jpg",
+    "alternativas": [
+      {
+        "texto": "Traqueia",
+        "correta": true,
+        "explicacao": "A traqueia apresenta epitélio pseudoestratificado cilíndrico ciliado com células caliciformes, anéis de cartilagem hialina e glândulas seromucosas na submucosa."
+      },
+      {
+        "texto": "Alvéolo",
+        "correta": false,
+        "explicacao": "Os alvéolos são revestidos por epitélio simples pavimentoso (pneumócitos tipo I)."
+      },
+      {
+        "texto": "Bronquíolo respiratório",
+        "correta": false,
+        "explicacao": "Os bronquíolos respiratórios apresentam epitélio cúbico simples com algumas células ciliadas."
+      },
+      {
+        "texto": "Pleura visceral",
+        "correta": false,
+        "explicacao": "A pleura visceral é revestida por epitélio simples pavimentoso (mesotélio)."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tema": "sistema-respiratorio",
+    "enunciado": "Na imagem histológica, observe as células que apresentam corpos lamelares em seu citoplasma. Qual é a função principal dessas células?",
+    "imagem": "/images/temas/sistema-respiratorio/image3.jpg",
+    "alternativas": [
+      {
+        "texto": "Produção de surfactante",
+        "correta": true,
+        "explicacao": "Os pneumócitos tipo II contêm corpos lamelares que armazenam surfactante, uma substância tensoativa essencial para reduzir a tensão superficial alveolar e prevenir o colapso dos alvéolos."
+      },
+      {
+        "texto": "Troca gasosa direta",
+        "correta": false,
+        "explicacao": "A troca gasosa é realizada principalmente pelos pneumócitos tipo I, que são células muito delgadas."
+      },
+      {
+        "texto": "Fagocitose de partículas",
+        "correta": false,
+        "explicacao": "A fagocitose de partículas é função dos macrófagos alveolares, não dos pneumócitos tipo II."
+      },
+      {
+        "texto": "Produção de muco",
+        "correta": false,
+        "explicacao": "A produção de muco é função das células caliciformes, encontradas principalmente nas vias aéreas condutoras."
+      }
+    ]
+  }
+]

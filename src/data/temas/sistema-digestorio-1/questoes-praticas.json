@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "tema": "sistema-digestorio-1",
+    "enunciado": "Observe a estrutura mostrada na lâmina histológica. Identifique o segmento do trato digestório apresentado.",
+    "imagem": "/images/temas/sistema-digestorio-1/image1.jpg",
+    "alternativas": [
+      {
+        "texto": "Estômago com glândulas gástricas",
+        "correta": true,
+        "explicacao": "A imagem mostra a mucosa gástrica com suas glândulas tubulares simples contendo células parietais (produtoras de HCl), células principais (produtoras de pepsinogênio) e células mucosas."
+      },
+      {
+        "texto": "Esôfago com glândulas mucosas",
+        "correta": false,
+        "explicacao": "O esôfago apresenta epitélio estratificado pavimentoso e glândulas mucosas na submucosa, estrutura diferente da mostrada."
+      },
+      {
+        "texto": "Intestino delgado com vilosidades",
+        "correta": false,
+        "explicacao": "O intestino delgado apresenta vilosidades características revestidas por epitélio absortivo com enterócitos."
+      },
+      {
+        "texto": "Intestino grosso com criptas",
+        "correta": false,
+        "explicacao": "O intestino grosso apresenta criptas profundas sem vilosidades e abundantes células caliciformes."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tema": "sistema-digestorio-1",
+    "enunciado": "Na imagem histológica, identifique as estruturas que caracterizam este segmento do intestino delgado.",
+    "imagem": "/images/temas/sistema-digestorio-1/image2.jpg",
+    "alternativas": [
+      {
+        "texto": "Vilosidades intestinais com enterócitos",
+        "correta": true,
+        "explicacao": "As vilosidades intestinais são projeções da mucosa revestidas por epitélio simples cilíndrico com enterócitos que apresentam borda estriada (microvilosidades), essenciais para absorção."
+      },
+      {
+        "texto": "Glândulas de Brunner na submucosa",
+        "correta": false,
+        "explicacao": "As glândulas de Brunner são específicas do duodeno e localizam-se na submucosa, secretando muco alcalino."
+      },
+      {
+        "texto": "Placas de Peyer na mucosa",
+        "correta": false,
+        "explicacao": "As placas de Peyer são agregados linfoides encontrados principalmente no íleo."
+      },
+      {
+        "texto": "Criptas de Lieberkühn apenas",
+        "correta": false,
+        "explicacao": "Embora as criptas estejam presentes, as vilosidades são a característica mais evidente na imagem."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tema": "sistema-digestorio-1",
+    "enunciado": "Analise as células mostradas na imagem. Qual tipo celular está em maior evidência nas glândulas gástricas?",
+    "imagem": "/images/temas/sistema-digestorio-1/image3.jpg",
+    "alternativas": [
+      {
+        "texto": "Células parietais produtoras de HCl",
+        "correta": true,
+        "explicacao": "As células parietais são grandes, eosinofílicas e possuem numerosas mitocôndrias. Elas secretam ácido clorídrico através de canalículos intracelulares e também produzem fator intrínseco."
+      },
+      {
+        "texto": "Células principais zimogênicas",
+        "correta": false,
+        "explicacao": "As células principais são basofílicas e secretam pepsinogênio, mas não são o tipo celular em evidência nesta imagem."
+      },
+      {
+        "texto": "Células mucosas do colo",
+        "correta": false,
+        "explicacao": "As células mucosas do colo secretam muco e bicarbonato, mas têm aparência diferente das células em evidência."
+      },
+      {
+        "texto": "Células enteroendócrinas",
+        "correta": false,
+        "explicacao": "As células enteroendócrinas são menos numerosas e secretam hormônios reguladores da digestão."
+      }
+    ]
+  }
+]

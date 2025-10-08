@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "tema": "sistema-linfatico",
+    "enunciado": "Observe a estrutura mostrada na lâmina histológica. Identifique o órgão linfático apresentado.",
+    "imagem": "/images/temas/sistema-linfatico/image1.jpg",
+    "alternativas": [
+      {
+        "texto": "Linfonodo com córtex e medula bem definidos",
+        "correta": true,
+        "explicacao": "A imagem mostra um linfonodo com sua organização característica: córtex rico em linfócitos B organizados em folículos, alguns com centros germinativos, e medula com cordões medulares ricos em plasmócitos."
+      },
+      {
+        "texto": "Baço com polpa vermelha e branca",
+        "correta": false,
+        "explicacao": "O baço apresenta organização diferente, com polpa branca contendo folículos linfoides e polpa vermelha com seios venosos."
+      },
+      {
+        "texto": "Timo com córtex e medula",
+        "correta": false,
+        "explicacao": "O timo tem organização lobular com córtex denso em timócitos e medula com corpúsculos de Hassall."
+      },
+      {
+        "texto": "Tonsila palatina",
+        "correta": false,
+        "explicacao": "As tonsilas apresentam epitélio estratificado pavimentoso com criptas e tecido linfoide subjacente."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tema": "sistema-linfatico",
+    "enunciado": "Na imagem histológica, identifique a estrutura que mostra intensa proliferação de linfócitos B.",
+    "imagem": "/images/temas/sistema-linfatico/image2.jpg",
+    "alternativas": [
+      {
+        "texto": "Centro germinativo",
+        "correta": true,
+        "explicacao": "O centro germinativo é uma região clara dentro dos folículos linfoides onde ocorre intensa proliferação, hipermutação somática e seleção de afinidade dos linfócitos B após estimulação antigênica."
+      },
+      {
+        "texto": "Zona marginal",
+        "correta": false,
+        "explicacao": "A zona marginal contém linfócitos B de memória e macrófagos, mas não é o local principal de proliferação ativa."
+      },
+      {
+        "texto": "Cordão medular",
+        "correta": false,
+        "explicacao": "Os cordões medulares contêm principalmente plasmócitos diferenciados, não linfócitos B em proliferação."
+      },
+      {
+        "texto": "Seio subcapsular",
+        "correta": false,
+        "explicacao": "O seio subcapsular é um espaço por onde circula a linfa, não um local de proliferação celular."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tema": "sistema-linfatico",
+    "enunciado": "Analise a estrutura vascular mostrada na imagem. Qual tipo de vaso linfático está representado?",
+    "imagem": "/images/temas/sistema-linfatico/image3.jpg",
+    "alternativas": [
+      {
+        "texto": "Capilar linfático com endotélio descontínuo",
+        "correta": true,
+        "explicacao": "Os capilares linfáticos apresentam endotélio descontínuo com junções intercalares frouxas e ausência de membrana basal contínua, permitindo a entrada de fluidos, proteínas e células do espaço intersticial."
+      },
+      {
+        "texto": "Vaso linfático coletor com válvulas",
+        "correta": false,
+        "explicacao": "Os vasos linfáticos coletores são maiores e apresentam válvulas unidirecionais e músculo liso na parede."
+      },
+      {
+        "texto": "Ducto linfático principal",
+        "correta": false,
+        "explicacao": "Os ductos linfáticos principais são grandes vasos com parede muscular bem desenvolvida."
+      },
+      {
+        "texto": "Seio linfático nodal",
+        "correta": false,
+        "explicacao": "Os seios linfáticos nodais são espaços dentro dos linfonodos por onde a linfa circula."
+      }
+    ]
+  }
+]
