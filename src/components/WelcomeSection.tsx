@@ -10,7 +10,7 @@ const WelcomeSection: React.FC = () => {
             <img 
               src="/logo.png" 
               alt="Histoguia" 
-              className="h-20 md:h-28 lg:h-32 w-auto object-contain"
+              className="h-20 md:h-28 lg:h-40 w-auto object-contain"
             />
           </div>
           <p className="text-lg md:text-xl text-slate-600 mb-8 md:mb-12 animate-fade-in leading-relaxed px-2">

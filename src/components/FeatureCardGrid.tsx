@@ -63,11 +63,11 @@ const FeatureCardGrid: React.FC = () => {
                       </p>
                       <div className="flex flex-wrap gap-4 md:space-x-6">
                         <div className="text-center">
-                          <div className="text-white font-bold text-base md:text-lg">6+</div>
+                          <div className="text-white font-bold text-base md:text-lg">15+</div>
                           <div className="text-white text-opacity-80 text-xs md:text-sm">Temas</div>
                         </div>
                         <div className="text-center">
-                          <div className="text-white font-bold text-base md:text-lg">50+</div>
+                          <div className="text-white font-bold text-base md:text-lg">250+</div>
                           <div className="text-white text-opacity-80 text-xs md:text-sm">Lâminas</div>
                         </div>
                         <div className="text-center">
@@ -100,7 +100,7 @@ const FeatureCardGrid: React.FC = () => {
                     </p>
                     <div className="flex flex-wrap gap-4 md:space-x-6">
                       <div className="text-center">
-                        <div className="text-white font-bold text-base md:text-lg">5+</div>
+                        <div className="text-white font-bold text-base md:text-lg">15+</div>
                         <div className="text-white text-opacity-80 text-xs md:text-sm">Temas</div>
                       </div>
                       <div className="text-center">

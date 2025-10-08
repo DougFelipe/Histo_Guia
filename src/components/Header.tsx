@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Microscope, Menu, X } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 interface HeaderProps {
@@ -22,8 +22,12 @@ const Header: React.FC<HeaderProps> = ({ title = "Histoguia" }) => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center space-x-3 hover:opacity-80 transition-opacity" onClick={closeMenu}>
-            <div className="bg-gradient-to-br from-purple-500 to-violet-600 p-2 rounded-xl">
-              <Microscope className="w-6 h-6 text-white" />
+            <div className="flex items-center justify-center w-10 h-10 rounded-xl overflow-hidden">
+              <img 
+                src="/logo.png" 
+                alt="Histoguia" 
+                className="w-full h-full object-contain"
+              />
             </div>
             <div>
               <h1 className="text-xl md:text-2xl font-bold text-slate-800">{title}</h1>
