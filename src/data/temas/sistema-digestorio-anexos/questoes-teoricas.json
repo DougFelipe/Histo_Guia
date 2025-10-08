@@ -1,1 +1,21 @@
-﻿ 
+﻿[
+  {
+    "numero": 1,
+    "enunciado": "Ufa! De todos os assuntos da sua prova, este é o último que faltava estudar?",
+    "nivel": "brincadeira",
+    "subtopico": "finalização",
+    "tipo": "múltipla escolha",
+    "tags": ["fim", "estudos", "monitor"],
+    "alternativas": [
+      {
+        "texto": "Sim, terminei tudo!",
+        "explicacao": "Parabéns! Fale com o monitor para elaborar mais questões sobre novos temas."
+      },
+      {
+        "texto": "Ainda não.",
+        "explicacao": "Sem problemas! Volte aos temas anteriores e estude até se sentir confiante para chegar aqui."
+      }
+    ],
+    "respostaCorreta": 0
+  }
+]

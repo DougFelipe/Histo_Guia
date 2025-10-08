@@ -4,9 +4,10 @@ import { Link } from 'react-router-dom';
 import Header from '../components/Header';
 import Flashcard from '../components/flashcards/Flashcard';
 import BarraBuscaFlashcard from '../components/flashcards/BarraBuscaFlashcard';
-import FiltroTemaFlashcard from '../components/flashcards/FiltroTemaFlashcard';
 import NavegacaoFlashcard from '../components/flashcards/NavegacaoFlashcard';
+import DropdownTema from '../components/DropdownTema';
 import { FlashcardTeorico, FiltroFlashcardState, Questao } from '../types';
+import { TEMAS_DISPONIVEIS, mapeamentoTemas } from '../utils/temas';
 
 const FlashcardsTeoricosPage: React.FC = () => {
   const [flashcards, setFlashcards] = useState<FlashcardTeorico[]>([]);
@@ -19,15 +20,7 @@ const FlashcardsTeoricosPage: React.FC = () => {
   const [loading, setLoading] = useState(true);
 
   // Lista de temas disponíveis
-  const temasDisponiveis = [
-    'tecido-conjuntivo',
-    'tecido-epitelial', 
-    'tecido-muscular',
-    'tecido-nervoso',
-    'sistema-circulatorio',
-    'cartilagem',
-    'tecido-osseo'
-  ];
+  const temasDisponiveis = TEMAS_DISPONIVEIS;
 
   useEffect(() => {
     carregarFlashcards();
@@ -45,31 +38,34 @@ const FlashcardsTeoricosPage: React.FC = () => {
   const carregarFlashcards = async () => {
     setLoading(true);
     try {
-      console.log('Carregando flashcards teóricos...');
       const todosFlashcards: FlashcardTeorico[] = [];
       
       // Carregar questões de todos os temas e converter para flashcards
       for (const tema of temasDisponiveis) {
         try {
-          console.log(`Carregando questões teóricas do tema: ${tema}`);
           const questoesModule = await import(`../data/temas/${tema}/questoes-teoricas.json`);
           const questoesTema: Questao[] = questoesModule.default;
-          console.log(`Questões teóricas carregadas para ${tema}:`, questoesTema);
           
           if (questoesTema && Array.isArray(questoesTema)) {
             // Converter questões para flashcards
-            const flashcardsTema = questoesTema.map(questao => ({
-              id: `${tema}-${questao.numero}`,
-              tema: tema.split('-').map(palavra => 
-                palavra.charAt(0).toUpperCase() + palavra.slice(1)
-              ).join(' '),
-              frente: questao.enunciado,
-              verso: {
-                resposta: questao.alternativas[questao.respostaCorreta].texto,
-                explicacao: questao.alternativas[questao.respostaCorreta].explicacao
-              },
-              tags: questao.tags
-            }));
+            const temaFormatado = mapeamentoTemas[tema] || tema.split('-').map(palavra => 
+              palavra.charAt(0).toUpperCase() + palavra.slice(1)
+            ).join(' ');
+            
+            const flashcardsTema = questoesTema.map(questao => {
+              const alternativaCorreta = questao.alternativas[questao.respostaCorreta];
+              
+              return {
+                id: `${tema}-${questao.numero}`,
+                tema: temaFormatado,
+                frente: questao.enunciado,
+                verso: {
+                  resposta: alternativaCorreta?.texto || 'Resposta não encontrada',
+                  explicacao: alternativaCorreta?.explicacao || 'Explicação não disponível'
+                },
+                tags: questao.tags || []
+              };
+            });
             
             todosFlashcards.push(...flashcardsTema);
           }
@@ -78,7 +74,7 @@ const FlashcardsTeoricosPage: React.FC = () => {
         }
       }
       
-      console.log('Total de flashcards teóricos carregados:', todosFlashcards.length);
+
       setFlashcards(todosFlashcards);
     } catch (error) {
       console.error('Erro ao carregar flashcards:', error);
@@ -95,6 +91,8 @@ const FlashcardsTeoricosPage: React.FC = () => {
     }
 
     let flashcardsFiltrados = [...flashcards];
+    
+
 
     // Aplicar filtro de tema
     if (filtros.tema && filtros.tema.trim() !== '') {
@@ -116,6 +114,7 @@ const FlashcardsTeoricosPage: React.FC = () => {
         )
       );
     }
+
 
     setFlashcardsFiltrados(flashcardsFiltrados);
   };
@@ -143,10 +142,7 @@ const FlashcardsTeoricosPage: React.FC = () => {
     setFiltros({ tema: '', palavrasChave: '' });
   };
 
-  // Obter temas únicos dos flashcards carregados
-  const getTemasDisponiveis = () => {
-    return Array.from(new Set(flashcards.map(f => f.tema))).sort();
-  };
+
 
   // Get current flashcard safely
   const flashcardAtual = flashcardsFiltrados[indiceAtual];
@@ -200,10 +196,9 @@ const FlashcardsTeoricosPage: React.FC = () => {
               />
             </div>
             
-            <FiltroTemaFlashcard
+            <DropdownTema
               temaSelecionado={filtros.tema}
-              onTemaSelecionado={(tema) => setFiltros(prev => ({ ...prev, tema }))}
-              temasDisponiveis={getTemasDisponiveis()}
+              onTemaSelecionado={(tema: string) => setFiltros(prev => ({ ...prev, tema }))}
             />
           </div>
 

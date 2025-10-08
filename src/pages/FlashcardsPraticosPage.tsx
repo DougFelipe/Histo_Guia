@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import Header from '../components/Header';
 import Flashcard from '../components/flashcards/Flashcard';
 import BarraBuscaFlashcard from '../components/flashcards/BarraBuscaFlashcard';
-import FiltroTemaFlashcard from '../components/flashcards/FiltroTemaFlashcard';
+import DropdownTema from '../components/DropdownTema';
 import NavegacaoFlashcard from '../components/flashcards/NavegacaoFlashcard';
 import { FlashcardPratico, FiltroFlashcardState, QuestaoPratica } from '../types';
 
@@ -139,11 +139,6 @@ const FlashcardsPraticosPage: React.FC = () => {
     setFiltros({ tema: '', palavrasChave: '' });
   };
 
-  // Obter temas únicos dos flashcards carregados
-  const getTemasDisponiveis = () => {
-    return Array.from(new Set(flashcards.map(f => f.tema))).sort();
-  };
-
   // Get current flashcard safely
   const flashcardAtual = flashcardsFiltrados[indiceAtual];
 
@@ -196,10 +191,9 @@ const FlashcardsPraticosPage: React.FC = () => {
               />
             </div>
             
-            <FiltroTemaFlashcard
+            <DropdownTema
               temaSelecionado={filtros.tema}
-              onTemaSelecionado={(tema) => setFiltros(prev => ({ ...prev, tema }))}
-              temasDisponiveis={getTemasDisponiveis()}
+              onTemaSelecionado={(tema: string) => setFiltros(prev => ({ ...prev, tema }))}
             />
           </div>
 
