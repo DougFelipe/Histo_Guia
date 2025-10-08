@@ -91,13 +91,16 @@ const FlashcardsTeoricosPage: React.FC = () => {
     }
 
     let flashcardsFiltrados = [...flashcards];
-    
-
 
     // Aplicar filtro de tema
     if (filtros.tema && filtros.tema.trim() !== '') {
+      // Converter o tema selecionado (slug) para o formato formatado
+      const temaFormatado = mapeamentoTemas[filtros.tema] || filtros.tema.split('-').map(palavra => 
+        palavra.charAt(0).toUpperCase() + palavra.slice(1)
+      ).join(' ');
+      
       flashcardsFiltrados = flashcardsFiltrados.filter(flashcard => 
-        flashcard.tema === filtros.tema
+        flashcard.tema === temaFormatado
       );
     }
 
@@ -114,7 +117,6 @@ const FlashcardsTeoricosPage: React.FC = () => {
         )
       );
     }
-
 
     setFlashcardsFiltrados(flashcardsFiltrados);
   };

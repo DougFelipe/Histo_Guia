@@ -20,16 +20,27 @@ const WelcomeSection: React.FC = () => {
           <section className="mt-8 md:mt-12 lg:mt-16 bg-white rounded-xl md:rounded-2xl shadow-lg p-6 md:p-8 border border-slate-100 mx-2 md:mx-0">
             <div className="text-center">
               <h4 className="text-xl md:text-2xl font-bold text-slate-800 mb-3 md:mb-4">
-                Plataforma em Desenvolvimento
+                Fale conosco sobre o site
               </h4>
-              <p className="text-slate-600 text-sm md:text-base mb-4 md:mb-6 max-w-2xl mx-auto">
-                Tem dúvidas, sugestões ou gostaria de contribuir com o projeto? 
-                Nossa equipe está sempre aberta a colaborações e feedback.
+
+              <p className="text-slate-600 text-sm md:text-base mb-3 md:mb-4 max-w-2xl mx-auto">
+                Estamos abertos a feedbacks relacionados à <span className="font-semibold">aplicação</span>:
               </p>
+
+              <ul className="text-left text-slate-700 text-sm md:text-base mb-4 md:mb-6 max-w-2xl mx-auto list-disc list-inside space-y-1">
+                <li>Uso das funcionalidades e navegação;</li>
+                <li>Erros em questões (conteúdo, correção, gabarito);</li>
+                <li>Problemas de layout/responsividade no seu dispositivo.</li>
+              </ul>
+
+              <p className="text-slate-500 text-xs md:text-sm italic mb-4 md:mb-6 max-w-2xl mx-auto">
+                Importante: não atendemos dúvidas pessoais ou temas que não sejam sobre o funcionamento do site.
+              </p>
+
               <div className="bg-lavender-100 p-4 md:p-6 rounded-xl">
-                <p className="text-slate-700 font-medium mb-2">Email Institucional</p>
-                <a 
-                  href="mailto:guia.histologia.ufrn@gmail.com" 
+                <p className="text-slate-700 font-medium mb-2">Email de Suporte</p>
+                <a
+                  href="mailto:guia.histologia.ufrn@gmail.com"
                   className="text-purple-600 hover:text-purple-700 font-semibold text-sm md:text-base transition-colors duration-200"
                 >
                   guia.histologia.ufrn@gmail.com
@@ -37,6 +48,7 @@ const WelcomeSection: React.FC = () => {
               </div>
             </div>
           </section>
+
           {/* Features Grid
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 mt-8 md:mt-16">
             <div className="flex flex-col items-center p-4 md:p-6 bg-white rounded-2xl shadow-lg hover:shadow-xl transition-shadow duration-300 animate-slide-up mx-4 md:mx-0">
