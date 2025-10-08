@@ -224,7 +224,12 @@ const FlashcardsTeoricosPage: React.FC = () => {
                 <div className="bg-white rounded-2xl shadow-lg p-4 border border-slate-100">
                   <div className="flex items-center justify-between">
                     <h2 className="text-xl font-semibold text-slate-800">
-                      {filtros.tema || 'Todos os Temas'}
+                      {filtros.tema 
+                        ? (mapeamentoTemas[filtros.tema] || filtros.tema.split('-').map(palavra => 
+                            palavra.charAt(0).toUpperCase() + palavra.slice(1)
+                          ).join(' '))
+                        : 'Todos os Temas'
+                      }
                     </h2>
                     <span className="bg-purple-100 text-purple-700 px-3 py-1 rounded-full text-sm font-medium">
                       {flashcardsFiltrados.length} flashcard{flashcardsFiltrados.length !== 1 ? 's' : ''}
