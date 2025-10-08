@@ -33,7 +33,7 @@ const WelcomeSection: React.FC = () => {
               </div>
             </div>
           </section>
-          
+          {/* Features Grid
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 mt-8 md:mt-16">
             <div className="flex flex-col items-center p-4 md:p-6 bg-white rounded-2xl shadow-lg hover:shadow-xl transition-shadow duration-300 animate-slide-up mx-4 md:mx-0">
               <div className="bg-purple-100 p-3 md:p-4 rounded-full mb-3 md:mb-4">
@@ -58,7 +58,9 @@ const WelcomeSection: React.FC = () => {
               <h3 className="text-lg md:text-xl font-semibold text-slate-800 mb-2">Aprendizado Ativo</h3>
 
             </div>
+
           </div>
+           */}
         </div>
       </div>
     </section>

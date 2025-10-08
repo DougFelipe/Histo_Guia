@@ -1,812 +1,1083 @@
 [
   {
     "numero": 1,
-    "enunciado": "Qual célula é a principal responsável pela produção e manutenção da matriz extracelular no tecido conjuntivo propriamente dito?",
+    "enunciado": "Qual é a principal função dos linfonodos no sistema linfático?",
     "nivel": "fácil",
-    "subtopico": "células do tecido conjuntivo",
+    "subtopico": "linfonodo",
     "tipo": "múltipla escolha",
-    "tags": ["fibroblasto", "matriz extracelular", "síntese"],
+    "tags": ["linfonodo", "função", "filtração", "linfa"],
     "alternativas": [
       {
-        "texto": "Macrófago",
-        "explicacao": "O macrófago é uma célula de defesa, especializada em fagocitose de partículas estranhas e restos celulares."
+        "texto": "Produzir a maior parte dos linfócitos do corpo.",
+        "explicacao": "A produção primária de linfócitos ocorre nos órgãos linfoides primários (medula óssea e timo). Os linfonodos são locais de ativação e proliferação, mas não de produção inicial."
       },
       {
-        "texto": "Fibroblasto",
-        "explicacao": "Esta célula alongada sintetiza as fibras proteicas (colágeno, elastina) e os componentes da substância fundamental amorfa."
+        "texto": "Filtrar a linfa e iniciar a resposta imune adaptativa.",
+        "explicacao": "Os linfonodos atuam como filtros que removem antígenos e patógenos da linfa. Células apresentadoras de antígenos ativam linfócitos T e B, iniciando a resposta imune."
       },
       {
-        "texto": "Mastócito",
-        "explicacao": "O mastócito armazena e libera mediadores químicos, como histamina e heparina, participando de processos inflamatórios e alérgicos."
+        "texto": "Remover hemácias envelhecidas do sangue.",
+        "explicacao": "A remoção de hemácias velhas é a principal função da polpa vermelha do baço."
       },
       {
-        "texto": "Plasmócito",
-        "explicacao": "O plasmócito é uma célula diferenciada a partir de linfócitos B, cuja função é a produção de anticorpos."
+        "texto": "Promover a maturação de linfócitos T.",
+        "explicacao": "A maturação e seleção de linfócitos T ocorrem no timo."
       }
     ],
     "respostaCorreta": 1
   },
   {
     "numero": 2,
-    "enunciado": "As fibras colágenas conferem grande resistência à tração aos tecidos. Qual vitamina é essencial para a hidroxilação da prolina e lisina durante a síntese de colágeno?",
-    "nivel": "médio",
-    "subtopico": "fibras e matriz",
-    "tipo": "múltipla escolha",
-    "tags": ["colágeno", "vitamina C", "escorbuto", "síntese"],
-    "alternativas": [
-      {
-        "texto": "Vitamina A",
-        "explicacao": "A vitamina A é crucial para a visão, crescimento e função epitelial, mas não atua como cofator na síntese de colágeno."
-      },
-      {
-        "texto": "Vitamina D",
-        "explicacao": "A vitamina D está envolvida principalmente no metabolismo do cálcio e na saúde óssea."
-      },
-      {
-        "texto": "Vitamina K",
-        "explicacao": "A vitamina K é um cofator essencial para a cascata de coagulação sanguínea."
-      },
-      {
-        "texto": "Vitamina C (ácido ascórbico)",
-        "explicacao": "Esta vitamina atua como cofator para as enzimas prolil e lisil hidroxilase. Sua deficiência (escorbuto) leva à produção de um colágeno instável."
-      }
-    ],
-    "respostaCorreta": 3
-  },
-  {
-    "numero": 3,
-    "enunciado": "O tecido conjuntivo denso modelado é caracterizado por fibras de colágeno organizadas em feixes paralelos. Onde este tipo de tecido é encontrado?",
+    "enunciado": "No baço, a polpa vermelha é especializada em qual função?",
     "nivel": "fácil",
-    "subtopico": "tipos de tecido conjuntivo",
+    "subtopico": "baço",
     "tipo": "múltipla escolha",
-    "tags": ["denso modelado", "tendão", "ligamento", "colágeno"],
+    "tags": ["baço", "polpa vermelha", "hemácias", "filtração de sangue"],
     "alternativas": [
       {
-        "texto": "Na derme profunda da pele.",
-        "explicacao": "A derme profunda é composta por tecido conjuntivo denso não modelado, com fibras de colágeno dispostas em várias direções para resistir a tensões de múltiplos eixos."
+        "texto": "Ativar linfócitos B em resposta a antígenos.",
+        "explicacao": "A ativação de linfócitos B ocorre nos folículos linfoides da polpa branca."
       },
       {
-        "texto": "Nos tendões e ligamentos.",
-        "explicacao": "A organização paralela das fibras de colágeno confere máxima resistência à tração em uma direção específica, característica fundamental da função dos tendões e ligamentos."
+        "texto": "Filtrar o sangue para remover hemácias e plaquetas velhas.",
+        "explicacao": "A polpa vermelha, com seus cordões de Billroth e seios esplênicos, forma um filtro que testa a flexibilidade das hemácias, removendo as senescentes."
       },
       {
-        "texto": "Preenchendo espaços entre órgãos.",
-        "explicacao": "O preenchimento de espaços é uma função do tecido conjuntivo frouxo, que possui menos fibras e mais substância fundamental."
+        "texto": "Promover o encontro de linfócitos T e células dendríticas.",
+        "explicacao": "Esta função ocorre na bainha linfoide periarteriolar (BLPA) da polpa branca."
       },
       {
-        "texto": "Na cápsula de órgãos como o fígado e os rins.",
-        "explicacao": "As cápsulas dos órgãos são formadas por tecido conjuntivo denso não modelado, para fornecer proteção e suporte estrutural."
+        "texto": "Produzir anticorpos contra patógenos da linfa.",
+        "explicacao": "O baço filtra o sangue, não a linfa. A produção de anticorpos é uma função da polpa branca."
       }
     ],
     "respostaCorreta": 1
   },
   {
-    "numero": 4,
-    "enunciado": "Qual componente da substância fundamental é uma glicoproteína multiadesiva que conecta as células da matriz a outros componentes, como o colágeno?",
-    "nivel": "difícil",
-    "subtopico": "matriz extracelular",
+    "numero": 3,
+    "enunciado": "Qual órgão linfoide primário é o principal local de maturação e seleção dos linfócitos T?",
+    "nivel": "fácil",
+    "subtopico": "timo",
     "tipo": "múltipla escolha",
-    "tags": ["fibronectina", "adesão celular", "matriz", "glicoproteína"],
+    "tags": ["timo", "linfócito T", "maturação", "órgão primário"],
     "alternativas": [
       {
-        "texto": "Ácido hialurônico",
-        "explicacao": "O ácido hialurônico é um glicosaminoglicano não sulfatado muito longo que forma um gel viscoso, mas não tem a função primária de adesão celular."
+        "texto": "Baço",
+        "explicacao": "O baço é um órgão linfoide secundário, local de resposta imune a antígenos do sangue, não de maturação de linfócitos T."
       },
       {
-        "texto": "Heparina",
-        "explicacao": "A heparina é um glicosaminoglicano sulfatado com propriedades anticoagulantes, encontrado nos grânulos dos mastócitos."
+        "texto": "Linfonodo",
+        "explicacao": "O linfonodo é um órgão linfoide secundário, onde os linfócitos T já maduros são ativados."
       },
       {
-        "texto": "Fibronectina",
-        "explicacao": "Esta glicoproteína possui sítios de ligação para integrinas (na superfície celular), colágeno e proteoglicanos, atuando como uma 'cola' biológica na matriz."
+        "texto": "Timo",
+        "explicacao": "No timo, os precursores de linfócitos T (timócitos) passam por processos de seleção positiva e negativa para se tornarem linfócitos T maduros e imunocompetentes."
       },
       {
-        "texto": "Colágeno tipo IV",
-        "explicacao": "O colágeno tipo IV forma a rede estrutural da lâmina basal, mas não é a principal glicoproteína de adesão que conecta células na matriz do tecido conjuntivo."
+        "texto": "Medula óssea",
+        "explicacao": "A medula óssea é onde os precursores de linfócitos T são gerados, mas a maturação ocorre no timo. A medula óssea é o local de maturação dos linfócitos B."
       }
     ],
     "respostaCorreta": 2
   },
   {
-    "numero": 5,
-    "enunciado": "O tecido adiposo multilocular (tecido adiposo marrom) é especializado em qual função?",
-    "nivel": "médio",
-    "subtopico": "tecido adiposo",
+    "numero": 4,
+    "enunciado": "A região do córtex de um linfonodo, que não inclui o paracórtex, é caracterizada pela presença de:",
+    "nivel": "fácil",
+    "subtopico": "linfonodo",
     "tipo": "múltipla escolha",
-    "tags": ["adiposo marrom", "termogênese", "mitocôndrias"],
+    "tags": ["linfonodo", "córtex", "folículo linfoide", "linfócito B"],
     "alternativas": [
       {
-        "texto": "Armazenamento de energia a longo prazo em uma única gota de gordura.",
-        "explicacao": "O armazenamento em uma única e grande gota lipídica (unilocular) é característico do tecido adiposo branco (comum)."
+        "texto": "Cordões medulares repletos de plasmócitos.",
+        "explicacao": "Os cordões medulares e plasmócitos são encontrados na região medular do linfonodo."
       },
       {
-        "texto": "Produção de calor (termogênese) sem tremores.",
-        "explicacao": "Suas células são ricas em mitocôndrias que contêm a proteína desacopladora UCP1. Essa proteína dissipa o gradiente de prótons para gerar calor em vez de ATP."
+        "texto": "Folículos linfoides, predominantemente com linfócitos B.",
+        "explicacao": "O córtex superficial contém os folículos (ou nódulos) linfoides, que são as zonas de linfócitos B. Podem ser primários ou secundários (com centro germinativo)."
       },
       {
-        "texto": "Síntese de hormônios esteroides.",
-        "explicacao": "A síntese de hormônios esteroides ocorre principalmente nas gônadas e no córtex adrenal, não no tecido adiposo marrom."
+        "texto": "Vênulas de endotélio alto (HEVs).",
+        "explicacao": "As HEVs são a principal característica da região do paracórtex."
       },
       {
-        "texto": "Proteção mecânica e isolamento térmico em adultos.",
-        "explicacao": "Embora todo tecido adiposo ofereça alguma proteção e isolamento, a principal função do tecido adiposo branco em adultos é a de reserva energética e isolante."
+        "texto": "Uma grande concentração de linfócitos T.",
+        "explicacao": "A zona rica em linfócitos T é o paracórtex, localizado entre o córtex superficial e a medula."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 5,
+    "enunciado": "As tonsilas palatinas possuem invaginações profundas de seu epitélio de revestimento, chamadas de criptas. Qual é a principal função dessas criptas?",
+    "nivel": "médio",
+    "subtopico": "MALT",
+    "tipo": "múltipla escolha",
+    "tags": ["tonsila", "cripta", "MALT", "imunidade"],
+    "alternativas": [
+      {
+        "texto": "Aumentar a área de superfície para a produção de saliva.",
+        "explicacao": "As tonsilas são órgãos linfoides, não glândulas salivares."
+      },
+      {
+        "texto": "Aumentar a área de contato com antígenos para facilitar a resposta imune.",
+        "explicacao": "As criptas aprisionam antígenos da cavidade oral, permitindo que eles entrem em contato com o tecido linfoide subjacente e iniciem uma resposta imune."
+      },
+      {
+        "texto": "Secretar muco para lubrificar a faringe.",
+        "explicacao": "A lubrificação é feita por glândulas salivares; as criptas podem acumular debris, mas não secretam muco ativamente."
+      },
+      {
+        "texto": "Ancorar firmemente a tonsila ao tecido conjuntivo adjacente.",
+        "explicacao": "A ancoragem é feita por uma cápsula de tecido conjuntivo, não pelas criptas."
       }
     ],
     "respostaCorreta": 1
   },
   {
     "numero": 6,
-    "enunciado": "Durante uma resposta inflamatória, os monócitos do sangue migram para o tecido conjuntivo. Em qual tipo celular eles se diferenciam para exercer a função de fagocitose?",
-    "nivel": "fácil",
-    "subtopico": "células do tecido conjuntivo",
+    "enunciado": "Dentro da polpa branca do baço, a estrutura que contém principalmente linfócitos T e envolve uma arteríola é a:",
+    "nivel": "médio",
+    "subtopico": "baço",
     "tipo": "múltipla escolha",
-    "tags": ["macrófago", "monócito", "fagocitose", "inflamação"],
+    "tags": ["baço", "polpa branca", "BLPA", "linfócito T"],
     "alternativas": [
       {
-        "texto": "Em plasmócitos.",
-        "explicacao": "Plasmócitos se diferenciam a partir de linfócitos B, não de monócitos, e sua função é produzir anticorpos."
+        "texto": "Zona marginal",
+        "explicacao": "A zona marginal é a interface entre a polpa branca e a vermelha, importante para a captura de antígenos, mas não é a principal zona de linfócitos T."
       },
       {
-        "texto": "Em fibroblastos.",
-        "explicacao": "Fibroblastos são células residentes do tecido conjuntivo, de origem mesenquimal, e não derivam de células sanguíneas."
+        "texto": "Bainha linfoide periarteriolar (BLPA)",
+        "explicacao": "A BLPA é o análogo da zona T (paracórtex) do linfonodo, onde os linfócitos T se agrupam ao redor da arteríola central."
       },
       {
-        "texto": "Em mastócitos.",
-        "explicacao": "Mastócitos se originam de precursores na medula óssea e têm uma linhagem distinta da dos monócitos."
+        "texto": "Folículo linfoide (corpúsculo de Malpighi)",
+        "explicacao": "O folículo linfoide é a zona de linfócitos B, que pode se desenvolver a partir da BLPA."
       },
       {
-        "texto": "Em macrófagos.",
-        "explicacao": "Monócitos e macrófagos fazem parte do sistema fagocitário mononuclear. Ao saírem da circulação, os monócitos se transformam em macrófagos teciduais."
+        "texto": "Cordão de Billroth",
+        "explicacao": "Os cordões de Billroth são estruturas da polpa vermelha, compostas por macrófagos e outras células sanguíneas."
       }
     ],
-    "respostaCorreta": 3
+    "respostaCorreta": 1
   },
   {
     "numero": 7,
-    "enunciado": "As fibras elásticas, que conferem elasticidade a órgãos como as artérias e os pulmões, são compostas principalmente por qual proteína?",
-    "nivel": "médio",
-    "subtopico": "fibras e matriz",
+    "enunciado": "Os corpúsculos de Hassall são estruturas eosinofílicas, em forma de 'cebola', formadas por células epiteliais reticulares. Eles são encontrados exclusivamente em qual órgão?",
+    "nivel": "fácil",
+    "subtopico": "timo",
     "tipo": "múltipla escolha",
-    "tags": ["fibras elásticas", "elastina", "elasticidade"],
+    "tags": ["timo", "corpúsculo de Hassall", "medula"],
     "alternativas": [
       {
-        "texto": "Colágeno tipo I",
-        "explicacao": "O colágeno tipo I oferece resistência à tração, mas não a capacidade de se esticar e retornar à forma original."
+        "texto": "Na medula do linfonodo",
+        "explicacao": "A medula do linfonodo contém cordões medulares e seios medulares."
       },
       {
-        "texto": "Queratina",
-        "explicacao": "A queratina é uma proteína estrutural encontrada em células epiteliais, cabelo e unhas, conferindo resistência mecânica."
+        "texto": "Na polpa branca do baço",
+        "explicacao": "A polpa branca do baço contém folículos linfoides e a BLPA."
       },
       {
-        "texto": "Elastina",
-        "explicacao": "Esta proteína, organizada em uma rede por microfibrilas de fibrilina, pode ser esticada e retorna passivamente à sua conformação original, conferindo resiliência aos tecidos."
+        "texto": "Na medula do timo",
+        "explicacao": "Essas estruturas são características da medula tímica e acredita-se que estejam envolvidas na diferenciação de linfócitos T reguladores."
       },
       {
-        "texto": "Actina",
-        "explicacao": "A actina é uma proteína do citoesqueleto, envolvida na contração muscular e motilidade celular, não na elasticidade da matriz extracelular."
+        "texto": "Nas criptas das tonsilas",
+        "explicacao": "As criptas das tonsilas são revestidas por epitélio e contêm linfócitos e debris."
       }
     ],
     "respostaCorreta": 2
   },
   {
     "numero": 8,
-    "enunciado": "O tecido conjuntivo frouxo (areolar) é caracterizado por:",
-    "nivel": "fácil",
-    "subtopico": "tipos de tecido conjuntivo",
+    "enunciado": "A principal característica estrutural dos capilares linfáticos que permite a captação de fluido intersticial é:",
+    "nivel": "médio",
+    "subtopico": "vasos linfáticos",
     "tipo": "múltipla escolha",
-    "tags": ["frouxo", "areolar", "matriz"],
+    "tags": ["capilar linfático", "endotélio", "filamentos de ancoragem"],
     "alternativas": [
       {
-        "texto": "Predominância de fibras de colágeno densamente compactadas.",
-        "explicacao": "A alta densidade de fibras de colágeno é a principal característica do tecido conjuntivo denso."
+        "texto": "Uma espessa parede de músculo liso para impulsionar a linfa.",
+        "explicacao": "Os capilares linfáticos não possuem músculo liso; esta é uma característica de vasos linfáticos maiores."
       },
       {
-        "texto": "Abundância de substância fundamental e poucas fibras.",
-        "explicacao": "Sua matriz gelatinosa e flexível, com uma variedade de células e fibras frouxamente arranjadas, permite a difusão de substâncias e a migração de células de defesa."
+        "texto": "Junções oclusivas (tight junctions) entre as células endoteliais.",
+        "explicacao": "Junções oclusivas impediriam a entrada de fluido. Os capilares linfáticos têm junções abertas ou sobrepostas."
       },
       {
-        "texto": "Ser completamente avascular.",
-        "explicacao": "Pelo contrário, o tecido conjuntivo frouxo é altamente vascularizado, sendo responsável pela nutrição do tecido epitelial adjacente."
+        "texto": "Uma lâmina basal contínua e a presença de pericitos.",
+        "explicacao": "Sua lâmina basal é descontínua ou ausente, e não possuem pericitos, o que os torna mais permeáveis que os capilares sanguíneos."
       },
       {
-        "texto": "Ser composto quase exclusivamente por adipócitos.",
-        "explicacao": "Um tecido composto majoritariamente por adipócitos é classificado como tecido adiposo."
+        "texto": "Células endoteliais sobrepostas que formam miniválvulas e filamentos de ancoragem.",
+        "explicacao": "Os filamentos ancoram o capilar ao tecido conjuntivo. Quando o fluido intersticial aumenta, ele puxa os filamentos, abrindo as miniválvulas e permitindo a entrada de fluido, proteínas e células."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 9,
+    "enunciado": "A região do paracórtex do linfonodo é conhecida como 'zona timo-dependente'. Isso se deve ao fato de que:",
+    "nivel": "médio",
+    "subtopico": "linfonodo",
+    "tipo": "múltipla escolha",
+    "tags": ["linfonodo", "paracórtex", "linfócito T", "timo"],
+    "alternativas": [
+      {
+        "texto": "Ela se desenvolve a partir do timo durante a embriogênese.",
+        "explicacao": "O linfonodo e o timo têm origens embrionárias distintas."
+      },
+      {
+        "texto": "Ela é densamente populada por linfócitos T que migraram do timo.",
+        "explicacao": "Esta é a principal zona de residência dos linfócitos T maduros no linfonodo. Em animais timectomizados ao nascer, esta área é depletada."
+      },
+      {
+        "texto": "Ela contém corpúsculos de Hassall, semelhantes aos do timo.",
+        "explicacao": "Os corpúsculos de Hassall são exclusivos do timo."
+      },
+      {
+        "texto": "Ela produz hormônios que dependem da função tímica.",
+        "explicacao": "Os linfonodos não são órgãos endócrinos; o timo produz hormônios como a timosina."
       }
     ],
     "respostaCorreta": 1
   },
   {
-    "numero": 9,
-    "enunciado": "Os plasmócitos são células especializadas na produção de anticorpos. Qual organela citoplasmática é extremamente desenvolvida nessas células para suportar essa função?",
-    "nivel": "médio",
-    "subtopico": "células do tecido conjuntivo",
-    "tipo": "múltipla escolha",
-    "tags": ["plasmócito", "retículo endoplasmático rugoso", "anticorpos"],
-    "alternativas": [
-      {
-        "texto": "Retículo endoplasmático liso",
-        "explicacao": "O retículo liso é desenvolvido em células que sintetizam lipídios e esteroides ou que realizam detoxificação."
-      },
-      {
-        "texto": "Mitocôndrias",
-        "explicacao": "Embora precisem de energia, a característica mais marcante não é o número de mitocôndrias, mas sim a organela de síntese proteica."
-      },
-      {
-        "texto": "Retículo endoplasmático rugoso (RER)",
-        "explicacao": "Como os anticorpos são proteínas destinadas à exportação, os plasmócitos possuem um RER muito abundante para a síntese e modificação dessas imunoglobulinas."
-      },
-      {
-        "texto": "Lisossomos",
-        "explicacao": "Lisossomos são proeminentes em células com alta atividade de digestão intracelular, como os macrófagos."
-      }
-    ],
-    "respostaCorreta": 2
-  },
-  {
     "numero": 10,
-    "enunciado": "As fibras reticulares são formadas por colágeno tipo III e criam uma delicada rede de suporte. Em qual dos seguintes órgãos essa rede é fundamental para a arquitetura?",
-    "nivel": "médio",
-    "subtopico": "fibras e matriz",
+    "enunciado": "Qual é a função da barreira hemato-tímica, presente no córtex do timo?",
+    "nivel": "difícil",
+    "subtopico": "timo",
     "tipo": "múltipla escolha",
-    "tags": ["fibras reticulares", "colágeno tipo III", "órgãos linfoides"],
+    "tags": ["timo", "barreira hemato-tímica", "seleção negativa", "córtex"],
     "alternativas": [
       {
-        "texto": "Córnea do olho",
-        "explicacao": "A córnea é composta por lamelas de colágeno tipo I perfeitamente organizadas para garantir a transparência."
+        "texto": "Impedir a saída de linfócitos T imaturos do timo.",
+        "explicacao": "A saída de linfócitos T maduros ocorre através das vênulas na medula, não sendo controlada por essa barreira cortical."
       },
       {
-        "texto": "Tendão de Aquiles",
-        "explicacao": "O tendão é formado por feixes densos e paralelos de colágeno tipo I para resistir à tração."
+        "texto": "Isolar os timócitos em desenvolvimento de antígenos circulantes no sangue.",
+        "explicacao": "Esta barreira impede que os linfócitos T em maturação sejam expostos a antígenos externos, o que poderia levar à sua eliminação inadequada (seleção negativa) ou ativação."
       },
       {
-        "texto": "Fígado, baço e linfonodos.",
-        "explicacao": "Nesses órgãos, as fibras reticulares formam o estroma de sustentação, uma malha tridimensional que suporta as células parenquimatosas (hepatócitos, linfócitos)."
+        "texto": "Fornecer nutrientes e oxigênio para os timócitos.",
+        "explicacao": "Embora a barreira permita a passagem de nutrientes, sua principal função é de isolamento imunológico."
       },
       {
-        "texto": "Epiderme da pele",
-        "explicacao": "A epiderme é um tecido epitelial, não possuindo fibras em uma matriz extracelular."
+        "texto": "Concentrar linfócitos B e T para iniciar a resposta imune.",
+        "explicacao": "O timo não é um local de resposta imune primária a patógenos; é um local de maturação. Linfócitos B são raros no timo."
       }
     ],
-    "respostaCorreta": 2
+    "respostaCorreta": 1
   },
   {
     "numero": 11,
-    "enunciado": "Qual é a origem embrionária de todos os tipos de tecido conjuntivo?",
+    "enunciado": "A linfa entra em um linfonodo através de múltiplos vasos linfáticos aferentes e sai por um ou dois vasos linfáticos eferentes. Onde o vaso eferente emerge?",
     "nivel": "fácil",
-    "subtopico": "origem e desenvolvimento",
+    "subtopico": "linfonodo",
     "tipo": "múltipla escolha",
-    "tags": ["mesênquima", "mesoderme", "embriologia"],
+    "tags": ["linfonodo", "hilo", "vaso eferente", "circulação"],
     "alternativas": [
       {
-        "texto": "Do ectoderma",
-        "explicacao": "O ectoderma dá origem ao sistema nervoso e à epiderme da pele."
+        "texto": "Na cápsula convexa do linfonodo.",
+        "explicacao": "Os vasos aferentes perfuram a cápsula em vários pontos da sua superfície convexa."
       },
       {
-        "texto": "Do endoderma",
-        "explicacao": "O endoderma forma o revestimento do trato digestório e respiratório, bem como glândulas associadas."
+        "texto": "No hilo do linfonodo.",
+        "explicacao": "O hilo é a região côncava onde artérias e nervos entram, e veias e o vaso linfático eferente saem do órgão."
       },
       {
-        "texto": "Do mesênquima",
-        "explicacao": "O mesênquima é um tecido embrionário derivado principalmente da mesoderme, composto por células indiferenciadas que se diferenciam em todos os tipos de células conjuntivas."
+        "texto": "Diretamente do centro germinativo.",
+        "explicacao": "O centro germinativo é uma estrutura funcional dentro de um folículo, não um ponto de saída do órgão."
       },
       {
-        "texto": "Das células da crista neural",
-        "explicacao": "Embora as células da crista neural (de origem ectodérmica) formem alguns tecidos conjuntivos da cabeça, a origem geral para o restante do corpo é o mesênquima."
+        "texto": "No seio subcapsular.",
+        "explicacao": "O seio subcapsular é o espaço para onde a linfa dos vasos aferentes drena inicialmente."
       }
     ],
-    "respostaCorreta": 2
+    "respostaCorreta": 1
   },
   {
     "numero": 12,
-    "enunciado": "A Síndrome de Marfan é uma doença genética que afeta o tecido conjuntivo, causando problemas esqueléticos e cardiovasculares (como aneurismas da aorta). A mutação ocorre no gene que codifica qual proteína?",
-    "nivel": "difícil",
-    "subtopico": "correlação clínica",
+    "enunciado": "A polpa branca do baço pode ser histologicamente identificada como áreas basofílicas imersas na polpa vermelha eosinofílica. Essa basofilia deve-se a:",
+    "nivel": "médio",
+    "subtopico": "baço",
     "tipo": "múltipla escolha",
-    "tags": ["síndrome de marfan", "fibrilina", "fibras elásticas"],
+    "tags": ["baço", "polpa branca", "basofilia", "linfócitos"],
     "alternativas": [
       {
-        "texto": "Colágeno tipo I",
-        "explicacao": "Mutações no colágeno tipo I causam a osteogênese imperfeita, caracterizada por ossos frágeis."
+        "texto": "Uma grande quantidade de hemácias.",
+        "explicacao": "As hemácias são ricas em hemoglobina, uma proteína que se cora com a eosina (acidófila), sendo a principal causa da cor eosinofílica da polpa vermelha."
       },
       {
-        "texto": "Fibrilina-1",
-        "explicacao": "Esta glicoproteína é essencial para formar as microfibrilas que servem de molde para a deposição de elastina, organizando as fibras elásticas. Sua deficiência compromete a integridade de tecidos ricos nessas fibras, como a aorta."
+        "texto": "A alta densidade de linfócitos.",
+        "explicacao": "Os linfócitos são células pequenas com um núcleo grande e heterocromático que ocupa quase todo o citoplasma. O DNA do núcleo se cora intensamente com a hematoxilina (básica), conferindo a basofilia à polpa branca."
       },
       {
-        "texto": "Laminina",
-        "explicacao": "A laminina é um componente chave da lâmina basal, e suas mutações estão associadas a distrofias musculares congênitas."
+        "texto": "A presença de fibras reticulares de colágeno.",
+        "explicacao": "As fibras reticulares formam o estroma do baço, mas elas não se coram bem com H&E, necessitando de impregnação por prata."
       },
       {
-        "texto": "Queratina",
-        "explicacao": "Mutações nos genes de queratina causam doenças de pele, como a epidermólise bolhosa simples."
+        "texto": "A abundância de macrófagos com hemossiderina.",
+        "explicacao": "Macrófagos com hemossiderina (pigmento acastanhado) são abundantes na polpa vermelha, não na branca."
       }
     ],
     "respostaCorreta": 1
   },
   {
     "numero": 13,
-    "enunciado": "O tecido mucoso, como o encontrado no cordão umbilical (geleia de Wharton), é um tipo de tecido conjuntivo caracterizado por:",
-    "nivel": "médio",
-    "subtopico": "tipos de tecido conjuntivo",
+    "enunciado": "Qual tipo de célula epitelial forma o estroma do timo, criando um cito-retículo para a maturação dos timócitos?",
+    "nivel": "difícil",
+    "subtopico": "timo",
     "tipo": "múltipla escolha",
-    "tags": ["tecido mucoso", "geleia de wharton", "ácido hialurônico"],
+    "tags": ["timo", "célula epitelial reticular", "estroma"],
     "alternativas": [
       {
-        "texto": "Alta densidade de fibras elásticas e fibroblastos.",
-        "explicacao": "O tecido mucoso possui poucas fibras em geral, não sendo denso nem elástico."
+        "texto": "Células reticulares fibroblásticas",
+        "explicacao": "Células reticulares que produzem fibras reticulares (colágeno tipo III) formam o estroma da maioria dos órgãos linfoides (linfonodo, baço), mas não do timo."
       },
       {
-        "texto": "Predominância de substância fundamental rica em ácido hialurônico.",
-        "explicacao": "Sua matriz é extremamente gelatinosa e hidratada devido à grande quantidade de ácido hialurônico, com fibroblastos e poucas fibras de colágeno imersas."
+        "texto": "Células epiteliais reticulares (CERs)",
+        "explicacao": "O timo tem uma origem embriológica epitelial. Suas células estromais, as CERs, são de natureza epitelial e formam uma rede tridimensional, além de participarem ativamente na seleção dos timócitos."
       },
       {
-        "texto": "Ser composto por uma rede tridimensional de fibras reticulares.",
-        "explicacao": "Uma rede de fibras reticulares é a marca do tecido conjuntivo reticular, que forma o estroma de órgãos linfoides."
+        "texto": "Células de Schwann",
+        "explicacao": "Células de Schwann são células da glia do sistema nervoso periférico."
       },
       {
-        "texto": "Grande quantidade de células de defesa, como macrófagos e plasmócitos.",
-        "explicacao": "O tecido mucoso é um tecido embrionário e, em condições normais, não apresenta um infiltrado inflamatório."
+        "texto": "Células endoteliais",
+        "explicacao": "As células endoteliais revestem os vasos sanguíneos, mas não formam o estroma principal do órgão."
       }
     ],
     "respostaCorreta": 1
   },
   {
     "numero": 14,
-    "enunciado": "A histamina, liberada pelos mastócitos, causa vasodilatação e aumenta a permeabilidade vascular. Qual é o efeito imediato desse aumento de permeabilidade no tecido conjuntivo circundante?",
+    "enunciado": "As Placas de Peyer são um componente crucial do GALT. Qual tipo celular especializado é encontrado no epitélio que as recobre?",
     "nivel": "médio",
-    "subtopico": "células e inflamação",
+    "subtopico": "MALT",
     "tipo": "múltipla escolha",
-    "tags": ["histamina", "mastócito", "edema", "inflamação"],
+    "tags": ["placas de Peyer", "célula M", "GALT", "íleo"],
     "alternativas": [
       {
-        "texto": "Aumento da produção de fibras de colágeno (fibrose).",
-        "explicacao": "A fibrose é uma resposta crônica ou de reparo, não um efeito imediato da liberação de histamina."
+        "texto": "Células de Paneth",
+        "explicacao": "As células de Paneth estão na base das criptas e secretam substâncias antimicrobianas, mas não estão associadas especificamente ao epitélio dos folículos."
       },
       {
-        "texto": "Extravasamento de plasma do sangue para a matriz, causando edema.",
-        "explicacao": "O aumento da permeabilidade permite que o fluido e as proteínas do plasma sanguíneo escapem dos vasos para o espaço intersticial, resultando em inchaço (edema)."
+        "texto": "Células caliciformes",
+        "explicacao": "O epitélio associado ao folículo tem poucas ou nenhuma célula caliciforme para facilitar o acesso dos antígenos."
       },
       {
-        "texto": "Constrição dos vasos sanguíneos para impedir a perda de sangue.",
-        "explicacao": "A histamina causa o efeito oposto, a dilatação das arteríolas e o aumento da permeabilidade das vênulas."
+        "texto": "Células M (microfold cells)",
+        "explicacao": "As células M são células epiteliais especializadas em capturar antígenos do lúmen intestinal e transportá-los para as células imunes no interior da Placa de Peyer."
       },
       {
-        "texto": "Diminuição da atividade fagocitária dos macrófagos.",
-        "explicacao": "O processo inflamatório, na verdade, recruta e ativa células fagocitárias como os macrófagos para o local."
+        "texto": "Células parietais",
+        "explicacao": "As células parietais são encontradas exclusivamente nas glândulas do estômago."
       }
     ],
-    "respostaCorreta": 1
+    "respostaCorreta": 2
   },
   {
     "numero": 15,
-    "enunciado": "O tecido adiposo unilocular (branco) não é apenas uma reserva de energia. Ele também funciona como um órgão endócrino, produzindo qual hormônio que regula o apetite e o metabolismo?",
-    "nivel": "difícil",
-    "subtopico": "tecido adiposo",
+    "enunciado": "A circulação da linfa através de um linfonodo ocorre em uma sequência específica de espaços. Qual é a ordem correta do fluxo?",
+    "nivel": "médio",
+    "subtopico": "linfonodo",
     "tipo": "múltipla escolha",
-    "tags": ["adiposo branco", "leptina", "endócrino"],
+    "tags": ["linfonodo", "circulação da linfa", "seios linfáticos"],
     "alternativas": [
       {
-        "texto": "Insulina",
-        "explicacao": "A insulina é produzida pelas células beta do pâncreas e promove o armazenamento de glicose e gordura, mas não é produzida pelo tecido adiposo."
+        "texto": "Seio medular -> Seio subcapsular -> Seios trabeculares -> Hilo",
+        "explicacao": "A ordem está incorreta. O fluxo começa no seio subcapsular."
       },
       {
-        "texto": "Adrenalina",
-        "explicacao": "A adrenalina é produzida pela medula da glândula adrenal em resposta ao estresse, mobilizando as reservas de energia."
+        "texto": "Seio subcapsular -> Seios medulares -> Seios trabeculares -> Hilo",
+        "explicacao": "A ordem está incorreta. Os seios trabeculares vêm antes dos medulares."
       },
       {
-        "texto": "Leptina",
-        "explicacao": "Este hormônio é secretado pelos adipócitos em proporção à quantidade de gordura armazenada. Ele atua no hipotálamo para sinalizar saciedade e aumentar o gasto energético."
+        "texto": "Seio subcapsular -> Seios trabeculares -> Seios medulares -> Hilo",
+        "explicacao": "A linfa entra, drena para o seio subcapsular, flui pelos seios trabeculares (pericorticais), percola pelos seios medulares e converge no hilo para sair pelo vaso eferente."
       },
       {
-        "texto": "Cortisol",
-        "explicacao": "O cortisol é um hormônio esteroide produzido pelo córtex adrenal, relacionado ao estresse e ao metabolismo."
+        "texto": "Seios trabeculares -> Seio subcapsular -> Seios medulares -> Hilo",
+        "explicacao": "A ordem está incorreta. O fluxo se inicia no seio subcapsular."
       }
     ],
     "respostaCorreta": 2
   },
   {
     "numero": 16,
-    "enunciado": "Durante o processo de cicatrização de uma ferida, os fibroblastos se tornam altamente ativos, proliferam e produzem uma grande quantidade de matriz extracelular. Como são chamados esses fibroblastos ativados?",
-    "nivel": "difícil",
-    "subtopico": "reparo tecidual",
+    "enunciado": "A 'involução do timo' é um processo fisiológico que ocorre com a idade. O que caracteriza histologicamente este processo?",
+    "nivel": "fácil",
+    "subtopico": "timo",
     "tipo": "múltipla escolha",
-    "tags": ["cicatrização", "miofibroblasto", "fibroblasto"],
+    "tags": ["timo", "involução", "tecido adiposo"],
     "alternativas": [
       {
-        "texto": "Fibrócitos",
-        "explicacao": "Fibrócito é o termo usado para o fibroblasto em estado quiescente ou menos ativo, com um citoplasma mais escasso."
+        "texto": "Aumento do tamanho do órgão e da densidade de timócitos.",
+        "explicacao": "Ocorre o oposto. O timo atinge seu tamanho máximo na puberdade e depois começa a atrofiar."
       },
       {
-        "texto": "Condroblastos",
-        "explicacao": "Condroblastos são as células que produzem a matriz do tecido cartilaginoso."
+        "texto": "Substituição progressiva do parênquima tímico por tecido adiposo.",
+        "explicacao": "Com a idade, há uma diminuição da linfopoese T e o tecido funcional é gradualmente infiltrado e substituído por adipócitos."
       },
       {
-        "texto": "Miofibroblastos",
-        "explicacao": "Durante o reparo, os fibroblastos podem adquirir características de células musculares lisas (expressando alfa-actina), o que lhes confere capacidade contrátil para ajudar a fechar a ferida."
+        "texto": "Formação de múltiplos centros germinativos no córtex.",
+        "explicacao": "O timo normalmente não possui centros germinativos, que são locais de proliferação de linfócitos B."
       },
       {
-        "texto": "Osteoblastos",
-        "explicacao": "Osteoblastos são as células responsáveis pela síntese da matriz orgânica do tecido ósseo."
+        "texto": "Aumento do número e do tamanho dos corpúsculos de Hassall.",
+        "explicacao": "Embora possam se tornar mais proeminentes e calcificados, o evento principal é a substituição do parênquima por gordura."
       }
     ],
-    "respostaCorreta": 2
+    "respostaCorreta": 1
   },
   {
     "numero": 17,
-    "enunciado": "A principal diferença entre o tecido conjuntivo propriamente dito e os tecidos conjuntivos especializados (como cartilagem e osso) reside em qual aspecto da matriz extracelular?",
+    "enunciado": "Os cordões esplênicos (de Billroth) da polpa vermelha do baço são compostos por uma rede de:",
     "nivel": "médio",
-    "subtopico": "classificação do tecido conjuntivo",
+    "subtopico": "baço",
     "tipo": "múltipla escolha",
-    "tags": ["classificação", "matriz", "especializado"],
+    "tags": ["baço", "cordões de Billroth", "polpa vermelha", "macrófagos"],
     "alternativas": [
       {
-        "texto": "A presença ou ausência de fibras de colágeno.",
-        "explicacao": "Tanto o tecido conjuntivo propriamente dito quanto os especializados contêm fibras de colágeno, embora os tipos e a organização variem."
+        "texto": "Linfócitos T e B densamente compactados.",
+        "explicacao": "Linfócitos densamente compactados formam a polpa branca."
       },
       {
-        "texto": "A origem embrionária das células.",
-        "explicacao": "Todos os tecidos conjuntivos, de modo geral, se originam do mesênquima."
+        "texto": "Células epiteliais reticulares e timócitos.",
+        "explicacao": "Esta é a composição do timo."
       },
       {
-        "texto": "A consistência da substância fundamental.",
-        "explicacao": "Enquanto no tecido conjuntivo propriamente dito a matriz é um gel, na cartilagem ela é firme e flexível, e no osso ela é rígida e mineralizada."
+        "texto": "Fibras reticulares, macrófagos, plasmócitos e células sanguíneas.",
+        "explicacao": "Esses cordões formam um labirinto onde o sangue é filtrado. Os macrófagos fagocitam hemácias velhas, e os plasmócitos liberam anticorpos no sangue."
       },
       {
-        "texto": "A capacidade de ser vascularizado.",
-        "explicacao": "A vascularização varia muito. O osso é altamente vascularizado, enquanto a cartilagem é avascular. O conjuntivo propriamente dito pode ser frouxo (vascularizado) ou denso (pouco vascularizado)."
+        "texto": "Músculo liso e fibras elásticas.",
+        "explicacao": "Músculo liso é encontrado na cápsula e trabéculas do baço de alguns animais, mas não forma os cordões."
       }
     ],
     "respostaCorreta": 2
   },
   {
     "numero": 18,
-    "enunciado": "Os proteoglicanos são macromoléculas compostas por um eixo proteico ao qual se ligam covalentemente um ou mais glicosaminoglicanos (GAGs). Qual é a sua principal função na matriz?",
-    "nivel": "médio",
-    "subtopico": "matriz extracelular",
+    "enunciado": "As vênulas de endotélio alto (HEVs) são especializadas para qual processo?",
+    "nivel": "difícil",
+    "subtopico": "linfonodo",
     "tipo": "múltipla escolha",
-    "tags": ["proteoglicano", "GAG", "substância fundamental"],
+    "tags": ["HEV", "diapedese", "linfócito", "paracórtex"],
     "alternativas": [
       {
-        "texto": "Gerar força contrátil para o tecido.",
-        "explicacao": "A força contrátil é uma propriedade de células musculares ou miofibroblastos, não de componentes da matriz."
+        "texto": "Filtrar a linfa para remover partículas.",
+        "explicacao": "A filtração da linfa ocorre nos seios linfáticos, que são revestidos por células endoteliais e macrófagos."
       },
       {
-        "texto": "Formar uma barreira à difusão de água e resistir à compressão.",
-        "explicacao": "Devido às suas cargas negativas, os GAGs atraem uma grande quantidade de água, formando um gel hidratado que ocupa espaço, resiste a forças de compressão e regula a passagem de moléculas."
+        "texto": "Permitir a passagem de hemácias velhas para serem destruídas.",
+        "explicacao": "Este processo ocorre na polpa vermelha do baço."
       },
       {
-        "texto": "Conferir elasticidade e resiliência ao tecido.",
-        "explicacao": "A elasticidade é uma função primária das fibras elásticas, compostas de elastina."
+        "texto": "Permitir a migração de linfócitos da corrente sanguínea para o parênquima do linfonodo.",
+        "explicacao": "As HEVs, com suas células endoteliais cúbicas, expressam moléculas de adesão que permitem que linfócitos T e B circulantes realizem a diapedese e entrem no linfonodo."
       },
       {
-        "texto": "Ancorar as células epiteliais à lâmina basal.",
-        "explicacao": "A ancoragem epitelial é mediada por glicoproteínas como a laminina e estruturas como os hemidesmossomos."
+        "texto": "Conduzir a linfa do seio subcapsular para os seios medulares.",
+        "explicacao": "A condução da linfa é feita pelos seios trabeculares."
       }
     ],
-    "respostaCorreta": 1
+    "respostaCorreta": 2
   },
   {
     "numero": 19,
-    "enunciado": "No tecido conjuntivo denso não modelado, as fibras de colágeno estão dispostas:",
+    "enunciado": "Qual é a principal diferença entre os órgãos linfoides primários e secundários?",
     "nivel": "fácil",
-    "subtopico": "tipos de tecido conjuntivo",
+    "subtopico": "geral",
     "tipo": "múltipla escolha",
-    "tags": ["denso não modelado", "derme", "organização"],
+    "tags": ["órgão linfoide primário", "órgão linfoide secundário", "maturação", "ativação"],
     "alternativas": [
       {
-        "texto": "Em feixes paralelos e organizados em uma única direção.",
-        "explicacao": "A organização paralela é a definição do tecido conjuntivo denso modelado, encontrado em tendões."
+        "texto": "Os primários filtram a linfa e os secundários filtram o sangue.",
+        "explicacao": "Tanto o linfonodo (secundário) filtra a linfa quanto o baço (secundário) filtra o sangue. Esta não é a distinção fundamental."
       },
       {
-        "texto": "Formando uma rede delicada e tridimensional.",
-        "explicacao": "Uma rede delicada é característica das fibras reticulares no tecido conjuntivo reticular."
+        "texto": "Os primários são onde os linfócitos se originam e amadurecem; os secundários são onde eles são ativados.",
+        "explicacao": "A medula óssea e o timo (primários) fornecem o ambiente para a maturação de linfócitos B e T, respectivamente. Os linfonodos, baço e MALT (secundários) são os locais onde esses linfócitos maduros encontram antígenos."
       },
       {
-        "texto": "Em feixes grossos, entrelaçados e sem orientação definida.",
-        "explicacao": "Esta disposição em múltiplas direções permite que o tecido resista a tensões provenientes de vários eixos, como ocorre na derme da pele e nas cápsulas dos órgãos."
+        "texto": "Os primários são encapsulados e os secundários não.",
+        "explicacao": "Linfonodos e baço (secundários) são encapsulados, enquanto o MALT (secundário) não é. O timo (primário) é encapsulado."
       },
       {
-        "texto": "De forma esparsa, em meio a uma abundante substância fundamental.",
-        "explicacao": "Fibras esparsas em uma matriz abundante são a marca do tecido conjuntivo frouxo."
-      }
-    ],
-    "respostaCorreta": 2
-  },
-  {
-    "numero": 20,
-    "enunciado": "Qual é a principal função do tecido conjuntivo que preenche e envolve a maioria dos órgãos, também conhecido como lâmina própria sob os epitélios?",
-    "nivel": "médio",
-    "subtopico": "funções do tecido conjuntivo",
-    "tipo": "múltipla escolha",
-    "tags": ["função", "suporte", "nutrição", "defesa"],
-    "alternativas": [
-      {
-        "texto": "Apenas armazenamento de energia.",
-        "explicacao": "O armazenamento de energia é a função primária do tecido adiposo, um tipo especializado."
-      },
-      {
-        "texto": "Apenas contração e movimento.",
-        "explicacao": "A contração é uma função do tecido muscular."
-      },
-      {
-        "texto": "Suporte, nutrição, defesa e reparo.",
-        "explicacao": "O tecido conjuntivo frouxo (lâmina própria) fornece suporte estrutural, nutre o epitélio avascular através de seus vasos sanguíneos, abriga células de defesa para a vigilância imunológica e participa ativamente do reparo tecidual."
-      },
-      {
-        "texto": "Apenas transmissão de impulsos nervosos.",
-        "explicacao": "A transmissão de impulsos é a função especializada do tecido nervoso."
-      }
-    ],
-    "respostaCorreta": 2
-  },
-  {
-    "numero": 21,
-    "enunciado": "A Síndrome de Ehlers-Danlos é um grupo de doenças hereditárias que resultam em articulações hipermóveis e pele muito elástica e frágil. Essas manifestações são causadas por defeitos na síntese ou estrutura de qual componente?",
-    "nivel": "difícil",
-    "subtopico": "correlação clínica",
-    "tipo": "múltipla escolha",
-    "tags": ["Ehlers-Danlos", "colágeno", "genética"],
-    "alternativas": [
-      {
-        "texto": "Elastina",
-        "explicacao": "Embora a elastina confira elasticidade, a fragilidade tecidual e a hiperfrouxidão ligamentar na síndrome de Ehlers-Danlos apontam para problemas na principal proteína de resistência."
-      },
-      {
-        "texto": "Colágeno",
-        "explicacao": "Diferentes tipos da síndrome estão ligados a mutações em vários genes de colágeno (como o COL5A1, COL3A1) ou em enzimas que processam o colágeno, comprometendo a integridade estrutural dos tecidos."
-      },
-      {
-        "texto": "Fibrilina",
-        "explicacao": "Defeitos na fibrilina estão associados à Síndrome de Marfan, que possui algumas sobreposições clínicas, mas é uma entidade distinta."
-      },
-      {
-        "texto": "Proteoglicanos",
-        "explicacao": "Alterações em proteoglicanos podem causar displasias esqueléticas, mas não são a causa primária da Síndrome de Ehlers-Danlos."
+        "texto": "Os primários estão presentes apenas na vida fetal.",
+        "explicacao": "A medula óssea funciona por toda a vida, e o timo, embora involua, permanece funcional."
       }
     ],
     "respostaCorreta": 1
   },
   {
-    "numero": 22,
-    "enunciado": "O tecido conjuntivo reticular, rico em fibras de colágeno tipo III, forma o estroma de sustentação de qual grupo de órgãos?",
+    "numero": 20,
+    "enunciado": "Um centro germinativo em um folículo linfoide secundário é um sinal de que:",
     "nivel": "médio",
-    "subtopico": "tipos de tecido conjuntivo",
+    "subtopico": "linfonodo",
     "tipo": "múltipla escolha",
-    "tags": ["tecido reticular", "estroma", "órgãos hematopoiéticos"],
+    "tags": ["centro germinativo", "folículo secundário", "ativação", "linfócito B"],
     "alternativas": [
       {
-        "texto": "Cérebro e medula espinhal.",
-        "explicacao": "O tecido nervoso possui seu próprio sistema de células de suporte, a glia, e não um estroma de fibras reticulares."
+        "texto": "O órgão linfoide está em processo de involução.",
+        "explicacao": "A involução é caracterizada por atrofia, não por proliferação celular."
       },
       {
-        "texto": "Músculos esqueléticos e coração.",
-        "explicacao": "O tecido muscular possui um delicado envoltório de tecido conjuntivo (endomisio), mas seu arcabouço principal não é do tipo reticular."
+        "texto": "Ocorreu uma resposta imune e os linfócitos B estão proliferando e se diferenciando.",
+        "explicacao": "O centro germinativo é uma área de intensa proliferação (centroblastos), seleção (centrócitos) e diferenciação de linfócitos B em plasmócitos e células de memória."
       },
       {
-        "texto": "Medula óssea, baço e linfonodos.",
-        "explicacao": "Nestes órgãos hematopoiéticos e linfoides, a rede de fibras reticulares cria um microambiente que sustenta as células livres (células sanguíneas em desenvolvimento, linfócitos)."
+        "texto": "Os linfócitos T estão sendo selecionados positivamente.",
+        "explicacao": "A seleção positiva de linfócitos T ocorre no córtex do timo."
       },
       {
-        "texto": "Pele e tendões.",
-        "explicacao": "A pele (derme) e os tendões são compostos por tecido conjuntivo denso, rico em colágeno tipo I."
+        "texto": "A filtração da linfa está bloqueada.",
+        "explicacao": "O bloqueio da filtração levaria a edema, não à formação de centros germinativos."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 21,
+    "enunciado": "Qual o tipo de epitélio de revestimento da tonsila faríngea (adenoide)?",
+    "nivel": "difícil",
+    "subtopico": "MALT",
+    "tipo": "múltipla escolha",
+    "tags": ["tonsila faríngea", "adenoide", "epitélio respiratório"],
+    "alternativas": [
+      {
+        "texto": "Epitélio estratificado pavimentoso não queratinizado",
+        "explicacao": "Este epitélio reveste as tonsilas palatinas e linguais."
+      },
+      {
+        "texto": "Epitélio simples colunar com células caliciformes",
+        "explicacao": "Este epitélio é encontrado no intestino."
+      },
+      {
+        "texto": "Epitélio pseudoestratificado colunar ciliado (epitélio respiratório)",
+        "explicacao": "Por estar localizada na nasofaringe, a tonsila faríngea é coberta pelo mesmo epitélio do trato respiratório. Em áreas de atrito, pode haver metaplasia para estratificado pavimentoso."
+      },
+      {
+        "texto": "Epitélio de transição",
+        "explicacao": "Este epitélio é exclusivo do sistema urinário."
       }
     ],
     "respostaCorreta": 2
   },
   {
-    "numero": 23,
-    "enunciado": "Qual célula do tecido conjuntivo possui o citoplasma repleto de grânulos basofílicos contendo histamina e heparina?",
-    "nivel": "fácil",
-    "subtopico": "células do tecido conjuntivo",
+    "numero": 22,
+    "enunciado": "O estroma de todos os órgãos linfoides, exceto o timo, é composto por:",
+    "nivel": "médio",
+    "subtopico": "geral",
     "tipo": "múltipla escolha",
-    "tags": ["mastócito", "histamina", "heparina", "alergia"],
+    "tags": ["estroma", "fibra reticular", "colágeno tipo III"],
     "alternativas": [
       {
-        "texto": "Plasmócito",
-        "explicacao": "O plasmócito possui um citoplasma basofílico devido ao abundante RER, mas não contém os grandes grânulos de secreção com mediadores inflamatórios."
+        "texto": "Células epiteliais reticulares",
+        "explicacao": "O estroma de células epiteliais reticulares é a característica exclusiva do timo."
       },
       {
-        "texto": "Macrófago",
-        "explicacao": "O macrófago pode conter lisossomos e vacúolos fagocíticos, mas não os grânulos característicos com histamina."
+        "texto": "Uma rede de fibras reticulares (colágeno tipo III) e células reticulares.",
+        "explicacao": "No linfonodo, baço e MALT, esta rede forma um arcabouço tridimensional que sustenta as células linfoides e macrófagos."
       },
       {
-        "texto": "Mastócito",
-        "explicacao": "Esses grandes grânulos são a principal característica morfológica do mastócito e são liberados em reações alérgicas e inflamatórias."
+        "texto": "Tecido conjuntivo denso não modelado.",
+        "explicacao": "O tecido conjuntivo denso forma a cápsula e as trabéculas, mas não o delicado estroma interno."
       },
       {
-        "texto": "Fibroblasto",
-        "explicacao": "O fibroblasto é uma célula de síntese de matriz e não possui grânulos de secreção com mediadores inflamatórios."
+        "texto": "Músculo liso",
+        "explicacao": "Músculo liso não forma o estroma desses órgãos."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 23,
+    "enunciado": "A circulação 'aberta' do baço refere-se ao fato de que:",
+    "nivel": "difícil",
+    "subtopico": "baço",
+    "tipo": "múltipla escolha",
+    "tags": ["baço", "circulação aberta", "polpa vermelha"],
+    "alternativas": [
+      {
+        "texto": "O baço não possui cápsula.",
+        "explicacao": "O baço é um órgão encapsulado."
+      },
+      {
+        "texto": "Os capilares arteriais se conectam diretamente aos seios venosos.",
+        "explicacao": "Esta seria a teoria da circulação 'fechada', que também pode ocorrer."
+      },
+      {
+        "texto": "O sangue de alguns capilares é despejado nos cordões da polpa vermelha antes de entrar nos seios.",
+        "explicacao": "Na circulação aberta, predominante em humanos, o sangue precisa percolar através dos cordões de Billroth, sendo exposto aos macrófagos, antes de reentrar na circulação através das fendas nos seios esplênicos."
+      },
+      {
+        "texto": "O sangue flui do baço diretamente para a cavidade peritoneal.",
+        "explicacao": "Isso resultaria em uma hemorragia interna; o sangue permanece contido dentro do órgão."
       }
     ],
     "respostaCorreta": 2
   },
   {
     "numero": 24,
-    "enunciado": "O tecido conjuntivo elástico é um tipo de tecido denso modelado com predominância de fibras elásticas. Ele é o principal componente de qual estrutura?",
+    "enunciado": "Qual célula é a principal responsável pela apresentação de antígenos aos linfócitos T helper no paracórtex do linfonodo?",
     "nivel": "médio",
-    "subtopico": "tipos de tecido conjuntivo",
+    "subtopico": "linfonodo",
     "tipo": "múltipla escolha",
-    "tags": ["tecido elástico", "artérias elásticas", "ligamentos"],
+    "tags": ["célula dendrítica", "apresentação de antígeno", "paracórtex"],
     "alternativas": [
       {
-        "texto": "Da cápsula do baço.",
-        "explicacao": "A cápsula do baço é feita de tecido conjuntivo denso não modelado, com algumas fibras musculares lisas."
+        "texto": "Plasmócito",
+        "explicacao": "O plasmócito é uma célula efetora que secreta anticorpos; ele não apresenta antígenos."
       },
       {
-        "texto": "Do ligamento amarelo da coluna vertebral e da parede de grandes artérias.",
-        "explicacao": "Essas estruturas precisam se deformar sob tensão e retornar à sua forma original, uma propriedade conferida pela abundância de fibras elásticas organizadas."
+        "texto": "Linfócito B",
+        "explicacao": "O linfócito B pode apresentar antígenos, mas a principal célula apresentadora de antígenos (APC) profissional que migra da periferia para o linfonodo é a célula dendrítica."
       },
       {
-        "texto": "Da cartilagem da orelha.",
-        "explicacao": "A cartilagem da orelha é do tipo elástica, mas é classificada como tecido cartilaginoso, não como tecido conjuntivo propriamente dito."
+        "texto": "Macrófago",
+        "explicacao": "O macrófago é uma APC importante, mas as células dendríticas são as mais potentes na ativação de linfócitos T virgens."
       },
       {
-        "texto": "Do estroma da córnea.",
-        "explicacao": "O estroma da córnea é composto por tecido conjuntivo denso modelado, com fibras de colágeno perfeitamente arranjadas."
-      }
-    ],
-    "respostaCorreta": 1
-  },
-  {
-    "numero": 25,
-    "enunciado": "A substância fundamental do tecido conjuntivo é viscosa e altamente hidratada. Qual molécula é a principal responsável por essa propriedade de reter água?",
-    "nivel": "médio",
-    "subtopico": "matriz extracelular",
-    "tipo": "múltipla escolha",
-    "tags": ["glicosaminoglicanos", "proteoglicanos", "hidratação"],
-    "alternativas": [
-      {
-        "texto": "Fibras de colágeno",
-        "explicacao": "As fibras de colágeno fornecem resistência à tração, mas não são as principais responsáveis pela hidratação da matriz."
-      },
-      {
-        "texto": "Lipídios",
-        "explicacao": "Os lipídios são hidrofóbicos e armazenados dentro dos adipócitos, não compondo a substância fundamental aquosa."
-      },
-      {
-        "texto": "Glicosaminoglicanos (GAGs) e proteoglicanos",
-        "explicacao": "Devido às suas intensas cargas negativas, essas moléculas atraem cátions (como o sódio), que por sua vez atraem osmoticamente uma grande quantidade de água, formando um gel."
-      },
-      {
-        "texto": "Glicoproteínas adesivas como a fibronectina.",
-        "explicacao": "As glicoproteínas têm a função de conectar células e fibras, não de reter grandes volumes de água."
-      }
-    ],
-    "respostaCorreta": 2
-  },
-  {
-    "numero": 26,
-    "enunciado": "Durante uma infestação parasitária ou em reações alérgicas, qual célula imune transiente se torna abundante no tecido conjuntivo, especialmente na lâmina própria intestinal?",
-    "nivel": "difícil",
-    "subtopico": "células e inflamação",
-    "tipo": "múltipla escolha",
-    "tags": ["eosinófilo", "parasitas", "alergia"],
-    "alternativas": [
-      {
-        "texto": "Neutrófilo",
-        "explicacao": "Os neutrófilos são a primeira linha de defesa contra infecções bacterianas agudas."
-      },
-      {
-        "texto": "Linfócito",
-        "explicacao": "Linfócitos estão envolvidos na resposta imune específica e são comuns em inflamações crônicas, mas outra célula é mais característica para parasitas."
-      },
-      {
-        "texto": "Basófilo",
-        "explicacao": "Os basófilos são os equivalentes circulantes dos mastócitos e são raros no tecido conjuntivo."
-      },
-      {
-        "texto": "Eosinófilo",
-        "explicacao": "Os eosinófilos são recrutados para locais de reações alérgicas e infestações por helmintos, onde liberam enzimas e mediadores de seus grânulos eosinofílicos característicos."
+        "texto": "Célula dendrítica interdigitante",
+        "explicacao": "Estas células, após capturarem antígenos nos tecidos periféricos, migram para o paracórtex do linfonodo para encontrar e ativar os linfócitos T específicos."
       }
     ],
     "respostaCorreta": 3
   },
   {
-    "numero": 27,
-    "enunciado": "A principal diferença morfológica entre um fibroblasto ativo e um fibrócito quiescente é que o fibrócito apresenta:",
+    "numero": 25,
+    "enunciado": "A seleção positiva, um processo crucial na maturação dos timócitos, ocorre em qual região do timo?",
     "nivel": "médio",
-    "subtopico": "células do tecido conjuntivo",
+    "subtopico": "timo",
     "tipo": "múltipla escolha",
-    "tags": ["fibroblasto", "fibrócito", "morfologia"],
+    "tags": ["timo", "seleção positiva", "córtex"],
     "alternativas": [
       {
-        "texto": "Um núcleo maior e mais eucromático.",
-        "explicacao": "Um núcleo grande e com cromatina frouxa (eucromático) é sinal de alta atividade de transcrição, característico do fibroblasto."
+        "texto": "No córtex",
+        "explicacao": "No córtex, as células epiteliais reticulares corticais apresentam moléculas de MHC próprias. Apenas os timócitos que conseguem reconhecer fracamente essas moléculas sobrevivem (seleção positiva)."
       },
       {
-        "texto": "Um citoplasma mais escasso e um núcleo menor e heterocromático.",
-        "explicacao": "O estado de baixa atividade sintética do fibrócito se reflete em uma morfologia reduzida, com menos citoplasma e um núcleo com cromatina condensada (heterocromático)."
+        "texto": "Na medula",
+        "explicacao": "A medula é o local da seleção negativa, onde os timócitos que reagem fortemente com antígenos próprios são eliminados."
       },
       {
-        "texto": "Múltiplas gotas de lipídios no citoplasma.",
-        "explicacao": "A presença de gotas de lipídios é a marca de um adipócito, não de um fibrócito."
+        "texto": "Na junção córtico-medular",
+        "explicacao": "Esta é uma zona de trânsito e entrada de precursores, mas não o principal local de seleção positiva."
       },
       {
-        "texto": "Grânulos de secreção contendo histamina.",
-        "explicacao": "Os grânulos de histamina são encontrados nos mastócitos."
+        "texto": "Nos corpúsculos de Hassall",
+        "explicacao": "Os corpúsculos de Hassall estão na medula e não estão diretamente envolvidos na seleção positiva."
+      }
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "numero": 26,
+    "enunciado": "A linfa é formada a partir do:",
+    "nivel": "fácil",
+    "subtopico": "vasos linfáticos",
+    "tipo": "múltipla escolha",
+    "tags": ["linfa", "fluido intersticial", "vasos linfáticos"],
+    "alternativas": [
+      {
+        "texto": "Plasma sanguíneo que extravasa dos seios esplênicos.",
+        "explicacao": "A linfa não é formada no baço."
+      },
+      {
+        "texto": "Fluido intersticial que é coletado pelos capilares linfáticos.",
+        "explicacao": "A linfa é essencialmente o fluido que se acumula nos espaços teciduais como resultado da filtração capilar e que não retorna diretamente para os capilares sanguíneos."
+      },
+      {
+        "texto": "Secreção das células epiteliais do timo.",
+        "explicacao": "O timo não produz linfa."
+      },
+      {
+        "texto": "Líquido cefalorraquidiano que drena do cérebro.",
+        "explicacao": "O cérebro possui um sistema de drenagem próprio (sistema glinfático), que eventualmente se conecta ao sistema linfático, mas não é a origem principal da linfa corporal."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 27,
+    "enunciado": "O ducto torácico é o maior vaso linfático do corpo. Ele drena a linfa de qual parte do corpo para a circulação sanguínea?",
+    "nivel": "médio",
+    "subtopico": "vasos linfáticos",
+    "tipo": "múltipla escolha",
+    "tags": ["ducto torácico", "drenagem linfática"],
+    "alternativas": [
+      {
+        "texto": "Apenas do lado direito da cabeça, pescoço e tórax.",
+        "explicacao": "Esta área é drenada pelo ducto linfático direito."
+      },
+      {
+        "texto": "De todo o corpo, exceto o quadrante superior direito.",
+        "explicacao": "O ducto torácico coleta a linfa dos membros inferiores, abdome, membro superior esquerdo, e do lado esquerdo da cabeça, pescoço e tórax."
+      },
+      {
+        "texto": "Apenas dos membros inferiores.",
+        "explicacao": "A linfa dos membros inferiores é coletada na cisterna do quilo antes de ascender pelo ducto torácico."
+      },
+      {
+        "texto": "Apenas do trato gastrointestinal.",
+        "explicacao": "A linfa rica em lipídios (quilo) do intestino é uma parte importante, mas não a totalidade da linfa drenada pelo ducto torácico."
       }
     ],
     "respostaCorreta": 1
   },
   {
     "numero": 28,
-    "enunciado": "A capacidade de regeneração do tecido conjuntivo é alta. Após uma lesão, qual célula é a principal responsável pela formação do tecido de granulação e da cicatriz?",
-    "nivel": "fácil",
-    "subtopico": "reparo tecidual",
+    "enunciado": "Na linfadenopatia reativa (aumento de um linfonodo devido a uma infecção), uma das alterações histológicas esperadas é:",
+    "nivel": "difícil",
+    "subtopico": "correlação clínica",
     "tipo": "múltipla escolha",
-    "tags": ["reparo", "cicatriz", "fibroblasto", "tecido de granulação"],
+    "tags": ["linfadenopatia", "centro germinativo", "hiperplasia"],
     "alternativas": [
       {
-        "texto": "Macrófago",
-        "explicacao": "Os macrófagos são essenciais para limpar a área lesionada e secretar fatores de crescimento, mas não produzem a matriz da cicatriz."
+        "texto": "Atrofia dos folículos linfoides e depleção do paracórtex.",
+        "explicacao": "A atrofia e a depleção seriam sinais de imunossupressão, não de uma resposta ativa a uma infecção."
       },
       {
-        "texto": "Fibroblasto",
-        "explicacao": "Os fibroblastos proliferam intensamente, migram para a área da ferida e sintetizam grandes quantidades de colágeno e outros componentes da matriz para preencher o defeito."
+        "texto": "Hiperplasia folicular com grandes centros germinativos.",
+        "explicacao": "Em resposta a uma infecção, ocorre uma intensa proliferação de linfócitos B, levando ao aumento do número e tamanho dos folículos e à formação de centros germinativos proeminentes."
       },
       {
-        "texto": "Célula epitelial",
-        "explicacao": "As células epiteliais regeneram a camada superficial (epiderme), mas a cicatriz subjacente é formada no tecido conjuntivo."
+        "texto": "Infiltração do linfonodo por tecido adiposo.",
+        "explicacao": "A infiltração por gordura é uma alteração involutiva relacionada à idade, não a uma resposta inflamatória aguda."
       },
       {
-        "texto": "Célula mesenquimal",
-        "explicacao": "Células mesenquimais perivasculares podem dar origem a fibroblastos, mas é o fibroblasto ativado a célula efetora do reparo."
+        "texto": "Destruição da arquitetura do linfonodo por células neoplásicas.",
+        "explicacao": "A destruição da arquitetura é uma característica de malignidade (linfoma ou metástase), não de uma reação benigna."
       }
     ],
     "respostaCorreta": 1
   },
   {
     "numero": 29,
-    "enunciado": "O colágeno tipo I é a proteína mais abundante do corpo humano. Ele se organiza em fibras espessas e feixes para fornecer resistência em quais tecidos?",
-    "nivel": "fácil",
-    "subtopico": "fibras e matriz",
+    "enunciado": "Os seios esplênicos da polpa vermelha possuem um endotélio único, com células alongadas e grandes fendas entre elas. Qual é o propósito dessa estrutura?",
+    "nivel": "difícil",
+    "subtopico": "baço",
     "tipo": "múltipla escolha",
-    "tags": ["colágeno tipo I", "resistência", "osso", "derme"],
+    "tags": ["baço", "seio esplênico", "polpa vermelha", "filtração"],
     "alternativas": [
       {
-        "texto": "Apenas na cartilagem hialina.",
-        "explicacao": "A cartilagem hialina é rica em colágeno tipo II, que forma fibrilas mais finas."
+        "texto": "Impedir a passagem de qualquer célula sanguínea.",
+        "explicacao": "O objetivo é permitir a passagem de células, não impedi-la."
       },
       {
-        "texto": "Apenas na lâmina basal dos epitélios.",
-        "explicacao": "A lâmina basal é estruturada por uma rede de colágeno tipo IV."
+        "texto": "Permitir a passagem de hemácias flexíveis e saudáveis de volta à circulação.",
+        "explicacao": "Para reentrar na circulação a partir dos cordões de Billroth, as hemácias precisam se espremer através das fendas intercelulares. As hemácias velhas e rígidas não conseguem e são fagocitadas por macrófagos."
       },
       {
-        "texto": "No osso, tendões, derme e cápsulas de órgãos.",
-        "explicacao": "Todos esses tecidos dependem da alta resistência à tração conferida pelos feixes de colágeno tipo I para suas funções de suporte e transmissão de força."
+        "texto": "Facilitar a maturação de linfócitos T.",
+        "explicacao": "A maturação de linfócitos T ocorre no timo."
       },
       {
-        "texto": "Apenas no estroma de órgãos linfoides.",
-        "explicacao": "O estroma de órgãos linfoides é formado por fibras reticulares, que são compostas de colágeno tipo III."
+        "texto": "Ancorar firmemente a polpa vermelha às trabéculas.",
+        "explicacao": "Os seios são parte do sistema vascular, não estruturas de ancoragem."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 30,
+    "enunciado": "Após a diferenciação em um centro germinativo, os plasmócitos migram para qual região do linfonodo para secretar anticorpos?",
+    "nivel": "médio",
+    "subtopico": "linfonodo",
+    "tipo": "múltipla escolha",
+    "tags": ["plasmócito", "cordão medular", "linfonodo", "anticorpo"],
+    "alternativas": [
+      {
+        "texto": "Para o paracórtex, para interagir com linfócitos T.",
+        "explicacao": "A interação com linfócitos T ocorre antes da diferenciação final em plasmócito."
+      },
+      {
+        "texto": "Para os cordões medulares.",
+        "explicacao": "Os plasmócitos se alojam nos cordões da medula e liberam grandes quantidades de anticorpos na linfa dos seios medulares, que então entram na circulação."
+      },
+      {
+        "texto": "Para o seio subcapsular, para sair do linfonodo.",
+        "explicacao": "O seio subcapsular é a via de entrada da linfa."
+      },
+      {
+        "texto": "Permanecem no centro germinativo.",
+        "explicacao": "Os plasmócitos são células terminais que migram para fora do folículo."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 31,
+    "enunciado": "A tonsila lingual está localizada na base da língua. Como suas criptas se comparam às das tonsilas palatinas?",
+    "nivel": "médio",
+    "subtopico": "MALT",
+    "tipo": "múltipla escolha",
+    "tags": ["tonsila lingual", "cripta", "MALT"],
+    "alternativas": [
+      {
+        "texto": "São mais profundas e ramificadas.",
+        "explicacao": "As criptas profundas e ramificadas são uma característica das tonsilas palatinas."
+      },
+      {
+        "texto": "São curtas, não ramificadas e cada uma serve um único folículo linfoide.",
+        "explicacao": "A tonsila lingual é formada por múltiplos nódulos, cada um com uma única cripta curta e reta."
+      },
+      {
+        "texto": "Não possuem criptas, apenas dobras na superfície.",
+        "explicacao": "A tonsila faríngea possui dobras ou pregas, não criptas bem definidas como as outras."
+      },
+      {
+        "texto": "São revestidas por epitélio respiratório.",
+        "explicacao": "O epitélio respiratório reveste a tonsila faríngea."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 32,
+    "enunciado": "A 'seleção negativa' no timo é um processo de tolerância central que visa:",
+    "nivel": "difícil",
+    "subtopico": "timo",
+    "tipo": "múltipla escolha",
+    "tags": ["timo", "seleção negativa", "autoimunidade", "medula"],
+    "alternativas": [
+      {
+        "texto": "Eliminar timócitos que não conseguem reconhecer moléculas de MHC próprias.",
+        "explicacao": "Este é o processo de seleção positiva, que ocorre no córtex."
+      },
+      {
+        "texto": "Promover a proliferação de todos os timócitos.",
+        "explicacao": "A seleção é um processo de eliminação, não de proliferação indiscriminada. Mais de 95% dos timócitos morrem no timo."
+      },
+      {
+        "texto": "Eliminar timócitos que reagem fortemente com antígenos próprios.",
+        "explicacao": "Na medula, as células epiteliais reticulares medulares (mTECs) apresentam antígenos de tecidos periféricos. Timócitos que se ligam fortemente a eles são induzidos à apoptose para prevenir a autoimunidade."
+      },
+      {
+        "texto": "Ativar timócitos para combater infecções dentro do timo.",
+        "explicacao": "O timo é um órgão de maturação, protegido de infecções sistêmicas pela barreira hemato-tímica."
       }
     ],
     "respostaCorreta": 2
   },
   {
-    "numero": 30,
-    "enunciado": "As células mesenquimais multipotentes persistem em pequenas quantidades no tecido conjuntivo adulto. Onde elas são tipicamente encontradas?",
-    "nivel": "difícil",
-    "subtopico": "células do tecido conjuntivo",
+    "numero": 33,
+    "enunciado": "O que são seios linfáticos em um linfonodo?",
+    "nivel": "fácil",
+    "subtopico": "linfonodo",
     "tipo": "múltipla escolha",
-    "tags": ["célula mesenquimal", "célula-tronco", "pericitos"],
+    "tags": ["linfonodo", "seio linfático", "linfa"],
     "alternativas": [
       {
-        "texto": "Circulando livremente na corrente sanguínea.",
-        "explicacao": "As células-tronco adultas do tecido conjuntivo são residentes teciduais, não células circulantes."
+        "texto": "Vasos sanguíneos especializados na troca de gases.",
+        "explicacao": "Os vasos sanguíneos do linfonodo incluem artérias, veias e capilares, mas não os seios linfáticos."
       },
       {
-        "texto": "No interior dos grânulos dos mastócitos.",
-        "explicacao": "Os grânulos dos mastócitos contêm mediadores químicos, não células-tronco."
+        "texto": "Canais revestidos por endotélio por onde a linfa flui.",
+        "explicacao": "São espaços vasculares especializados, com um lúmen preenchido por uma rede de células e fibras reticulares, onde a linfa percola lentamente, facilitando a filtração."
       },
       {
-        "texto": "Associadas à parede de capilares e vênulas (pericitos).",
-        "explicacao": "Muitas das células-tronco mesenquimais do adulto estão localizadas em um nicho perivascular, onde atuam como pericitos. Em caso de lesão, elas podem se ativar e se diferenciar em fibroblastos ou outras células."
+        "texto": "Cordões de tecido linfoide denso.",
+        "explicacao": "Os cordões de tecido linfoide são os cordões medulares."
       },
       {
-        "texto": "Concentradas no centro dos tendões.",
-        "explicacao": "Os tendões são tecidos com baixa celularidade e baixo potencial de regeneração, não sendo um reservatório primário de células-tronco."
+        "texto": "Áreas de proliferação de linfócitos B.",
+        "explicacao": "As áreas de proliferação de linfócitos B são os centros germinativos."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 34,
+    "enunciado": "A zona marginal do baço é uma região importante para:",
+    "nivel": "médio",
+    "subtopico": "baço",
+    "tipo": "múltipla escolha",
+    "tags": ["baço", "zona marginal", "imunidade"],
+    "alternativas": [
+      {
+        "texto": "A maturação final dos linfócitos T.",
+        "explicacao": "A maturação de linfócitos T ocorre no timo."
+      },
+      {
+        "texto": "A destruição de plaquetas velhas.",
+        "explicacao": "A destruição de plaquetas e hemácias ocorre nos cordões da polpa vermelha."
+      },
+      {
+        "texto": "A captura de antígenos transportados pelo sangue e apresentação aos linfócitos.",
+        "explicacao": "Localizada na interface entre a polpa vermelha e a branca, a zona marginal é rica em macrófagos e linfócitos B especializados que capturam rapidamente antígenos da circulação."
+      },
+      {
+        "texto": "O armazenamento de grandes volumes de sangue.",
+        "explicacao": "O armazenamento de sangue é uma função da polpa vermelha como um todo."
       }
     ],
     "respostaCorreta": 2
+  },
+  {
+    "numero": 35,
+    "enunciado": "Os vasos linfáticos, diferentemente das veias, possuem:",
+    "nivel": "fácil",
+    "subtopico": "vasos linfáticos",
+    "tipo": "múltipla escolha",
+    "tags": ["vaso linfático", "válvula", "veia"],
+    "alternativas": [
+      {
+        "texto": "Uma parede mais espessa com mais músculo liso.",
+        "explicacao": "As paredes dos vasos linfáticos são geralmente mais finas que as das veias de calibre comparável."
+      },
+      {
+        "texto": "Uma maior quantidade de válvulas, mais próximas umas das outras.",
+        "explicacao": "Para garantir o fluxo unidirecional da linfa, que não é impulsionada por um coração, os vasos linfáticos possuem numerosas válvulas que lhes dão uma aparência de 'colar de contas'."
+      },
+      {
+        "texto": "Ausência de válvulas.",
+        "explicacao": "A presença de válvulas é fundamental para a função dos vasos linfáticos."
+      },
+      {
+        "texto": "Um fluxo sanguíneo de alta pressão.",
+        "explicacao": "Os vasos linfáticos transportam linfa, não sangue, e operam sob um regime de baixíssima pressão."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 36,
+    "enunciado": "Qual célula NÃO é considerada uma célula apresentadora de antígeno (APC) profissional?",
+    "nivel": "difícil",
+    "subtopico": "geral",
+    "tipo": "múltipla escolha",
+    "tags": ["APC", "apresentação de antígeno", "imunidade"],
+    "alternativas": [
+      {
+        "texto": "Célula dendrítica",
+        "explicacao": "As células dendríticas são as APCs mais potentes, especializadas em ativar linfócitos T virgens."
+      },
+      {
+        "texto": "Macrófago",
+        "explicacao": "Os macrófagos fagocitam patógenos e apresentam seus antígenos aos linfócitos T."
+      },
+      {
+        "texto": "Linfócito B",
+        "explicacao": "Os linfócitos B podem internalizar antígenos via seu receptor de célula B (anticorpo de superfície) e apresentá-los aos linfócitos T helper."
+      },
+      {
+        "texto": "Plasmócito",
+        "explicacao": "O plasmócito é uma célula altamente especializada na secreção de anticorpos. Ele perdeu a capacidade de apresentar antígenos em moléculas de MHC de classe II."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 37,
+    "enunciado": "O 'anel de Waldeyer' é uma estrutura formada por qual conjunto de tecidos linfoides?",
+    "nivel": "médio",
+    "subtopico": "MALT",
+    "tipo": "múltipla escolha",
+    "tags": ["anel de Waldeyer", "tonsila", "MALT", "faringe"],
+    "alternativas": [
+      {
+        "texto": "Os linfonodos cervicais superficiais e profundos.",
+        "explicacao": "Os linfonodos cervicais drenam a região, mas não formam o anel linfoide da faringe."
+      },
+      {
+        "texto": "As tonsilas faríngea, tubárias, palatinas e lingual.",
+        "explicacao": "Este conjunto de tecidos linfoides forma um anel na entrada da faringe, atuando como uma primeira linha de defesa contra patógenos inalados e ingeridos."
+      },
+      {
+        "texto": "As Placas de Peyer e o apêndice.",
+        "explicacao": "Estes são componentes do GALT, localizados no intestino."
+      },
+      {
+        "texto": "O timo e o baço.",
+        "explicacao": "Estes são órgãos linfoides encapsulados, não parte do MALT da faringe."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 38,
+    "enunciado": "Uma esplenectomia (remoção do baço) aumenta o risco de infecções por qual tipo de microrganismo?",
+    "nivel": "difícil",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["baço", "esplenectomia", "bactérias encapsuladas"],
+    "alternativas": [
+      {
+        "texto": "Vírus, como o da gripe.",
+        "explicacao": "Embora o baço participe da resposta antiviral, o risco principal após a esplenectomia não é de infecções virais comuns."
+      },
+      {
+        "texto": "Fungos, como Candida albicans.",
+        "explicacao": "Infecções fúngicas estão mais associadas a defeitos na imunidade celular (linfócitos T)."
+      },
+      {
+        "texto": "Bactérias encapsuladas, como Streptococcus pneumoniae.",
+        "explicacao": "A cápsula de polissacarídeo dessas bactérias as protege da fagocitose. O baço, com seus macrófagos e linfócitos B da zona marginal, é crucial para eliminar esses patógenos da corrente sanguínea."
+      },
+      {
+        "texto": "Protozoários, como o plasmódio da malária.",
+        "explicacao": "O baço é importante na remoção de hemácias parasitadas, mas o risco mais agudo e conhecido após a esplenectomia é a sepse por bactérias encapsuladas."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 39,
+    "enunciado": "A arquitetura do timo carece de qual estrutura encontrada em linfonodos e no baço?",
+    "nivel": "fácil",
+    "subtopico": "timo",
+    "tipo": "múltipla escolha",
+    "tags": ["timo", "folículo linfoide", "linfócito B"],
+    "alternativas": [
+      {
+        "texto": "Uma cápsula de tecido conjuntivo.",
+        "explicacao": "O timo é um órgão encapsulado."
+      },
+      {
+        "texto": "Divisão em córtex e medula.",
+        "explicacao": "O timo possui uma clara distinção entre um córtex denso e uma medula mais clara."
+      },
+      {
+        "texto": "Folículos linfoides com centros germinativos.",
+        "explicacao": "Como o timo não é um local de resposta imune a antígenos externos, ele não possui folículos (zonas de linfócitos B) nem centros germinativos."
+      },
+      {
+        "texto": "Vasos sanguíneos.",
+        "explicacao": "O timo é vascularizado, embora a circulação no córtex seja protegida pela barreira hemato-tímica."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 40,
+    "enunciado": "A célula mais abundante na medula do timo, em comparação com o córtex, é:",
+    "nivel": "médio",
+    "subtopico": "timo",
+    "tipo": "múltipla escolha",
+    "tags": ["timo", "medula", "córtex", "timócito"],
+    "alternativas": [
+      {
+        "texto": "O timócito maduro (linfócito T).",
+        "explicacao": "A medula tem uma densidade muito menor de timócitos que o córtex, mas os que estão presentes são os que sobreviveram à seleção e estão maduros, prontos para sair do órgão."
+      },
+      {
+        "texto": "O timócito em proliferação (linfoblasto).",
+        "explicacao": "A proliferação intensa ocorre no córtex externo, não na medula."
+      },
+      {
+        "texto": "O macrófago.",
+        "explicacao": "Os macrófagos são muito mais abundantes no córtex, onde fagocitam os milhões de timócitos que morrem por apoptose durante a seleção."
+      },
+      {
+        "texto": "A célula epitelial reticular.",
+        "explicacao": "As células epiteliais reticulares são mais visíveis na medula devido à menor densidade de timócitos, mas os timócitos maduros são as células linfoides características desta região."
+      }
+    ],
+    "respostaCorreta": 0
   }
 ]
+

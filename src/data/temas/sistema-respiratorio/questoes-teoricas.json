@@ -1,812 +1,1083 @@
 [
   {
     "numero": 1,
-    "enunciado": "Qual célula é a principal responsável pela produção e manutenção da matriz extracelular no tecido conjuntivo propriamente dito?",
+    "enunciado": "O epitélio pseudoestratificado colunar ciliado, conhecido como epitélio respiratório, tem como uma de suas principais funções:",
     "nivel": "fácil",
-    "subtopico": "células do tecido conjuntivo",
+    "subtopico": "epitélio respiratório",
     "tipo": "múltipla escolha",
-    "tags": ["fibroblasto", "matriz extracelular", "síntese"],
+    "tags": ["epitélio respiratório", "cílios", "muco", "limpeza"],
     "alternativas": [
       {
-        "texto": "Macrófago",
-        "explicacao": "O macrófago é uma célula de defesa, especializada em fagocitose de partículas estranhas e restos celulares."
+        "texto": "Realizar trocas gasosas eficientes.",
+        "explicacao": "A troca gasosa é a função do epitélio simples pavimentoso dos alvéolos, que é extremamente delgado."
       },
       {
-        "texto": "Fibroblasto",
-        "explicacao": "Esta célula alongada sintetiza as fibras proteicas (colágeno, elastina) e os componentes da substância fundamental amorfa."
+        "texto": "Secretar surfactante para reduzir a tensão superficial.",
+        "explicacao": "A secreção de surfactante é realizada pelos pneumócitos tipo II nos alvéolos."
       },
       {
-        "texto": "Mastócito",
-        "explicacao": "O mastócito armazena e libera mediadores químicos, como histamina e heparina, participando de processos inflamatórios e alérgicos."
+        "texto": "Promover a 'limpeza mucociliar', movendo muco e partículas para fora das vias aéreas.",
+        "explicacao": "Os cílios batem de forma coordenada para propelir a camada de muco (produzida pelas células caliciformes) em direção à faringe, removendo impurezas."
       },
       {
-        "texto": "Plasmócito",
-        "explicacao": "O plasmócito é uma célula diferenciada a partir de linfócitos B, cuja função é a produção de anticorpos."
+        "texto": "Detectar estímulos olfatórios.",
+        "explicacao": "A detecção de odores é a função do epitélio olfatório, um neuroepitélio especializado localizado no teto da cavidade nasal."
       }
     ],
-    "respostaCorreta": 1
+    "respostaCorreta": 2
   },
   {
     "numero": 2,
-    "enunciado": "As fibras colágenas conferem grande resistência à tração aos tecidos. Qual vitamina é essencial para a hidroxilação da prolina e lisina durante a síntese de colágeno?",
-    "nivel": "médio",
-    "subtopico": "fibras e matriz",
+    "enunciado": "Qual tipo de célula é a principal produtora de muco no epitélio da traqueia e dos brônquios?",
+    "nivel": "fácil",
+    "subtopico": "epitélio respiratório",
     "tipo": "múltipla escolha",
-    "tags": ["colágeno", "vitamina C", "escorbuto", "síntese"],
+    "tags": ["célula caliciforme", "muco", "traqueia", "epitélio"],
     "alternativas": [
       {
-        "texto": "Vitamina A",
-        "explicacao": "A vitamina A é crucial para a visão, crescimento e função epitelial, mas não atua como cofator na síntese de colágeno."
+        "texto": "Células ciliadas",
+        "explicacao": "As células ciliadas são responsáveis por mover o muco, mas não por produzi-lo."
       },
       {
-        "texto": "Vitamina D",
-        "explicacao": "A vitamina D está envolvida principalmente no metabolismo do cálcio e na saúde óssea."
+        "texto": "Células de Club (de Clara)",
+        "explicacao": "As células de Club, encontradas principalmente nos bronquíolos, secretam componentes do surfactante e têm funções de defesa, mas não são as principais produtoras de muco."
       },
       {
-        "texto": "Vitamina K",
-        "explicacao": "A vitamina K é um cofator essencial para a cascata de coagulação sanguínea."
+        "texto": "Células basais",
+        "explicacao": "As células basais são células-tronco que regeneram os outros tipos celulares do epitélio."
       },
       {
-        "texto": "Vitamina C (ácido ascórbico)",
-        "explicacao": "Esta vitamina atua como cofator para as enzimas prolil e lisil hidroxilase. Sua deficiência (escorbuto) leva à produção de um colágeno instável."
+        "texto": "Células caliciformes",
+        "explicacao": "Estas são glândulas unicelulares que sintetizam e secretam mucinogênios, que se hidratam para formar o muco."
       }
     ],
     "respostaCorreta": 3
   },
   {
     "numero": 3,
-    "enunciado": "O tecido conjuntivo denso modelado é caracterizado por fibras de colágeno organizadas em feixes paralelos. Onde este tipo de tecido é encontrado?",
-    "nivel": "fácil",
-    "subtopico": "tipos de tecido conjuntivo",
+    "enunciado": "O epitélio olfatório, responsável pela detecção de odores, se distingue do epitélio respiratório por conter qual tipo celular?",
+    "nivel": "médio",
+    "subtopico": "fossas nasais",
     "tipo": "múltipla escolha",
-    "tags": ["denso modelado", "tendão", "ligamento", "colágeno"],
+    "tags": ["epitélio olfatório", "neurônio", "olfato"],
     "alternativas": [
       {
-        "texto": "Na derme profunda da pele.",
-        "explicacao": "A derme profunda é composta por tecido conjuntivo denso não modelado, com fibras de colágeno dispostas em várias direções para resistir a tensões de múltiplos eixos."
+        "texto": "Células caliciformes",
+        "explicacao": "O epitélio olfatório não possui células caliciformes; a umidade é mantida pelas glândulas de Bowman na lâmina própria."
       },
       {
-        "texto": "Nos tendões e ligamentos.",
-        "explicacao": "A organização paralela das fibras de colágeno confere máxima resistência à tração em uma direção específica, característica fundamental da função dos tendões e ligamentos."
+        "texto": "Neurônios olfatórios (células sensoriais)",
+        "explicacao": "Este epitélio é um neuroepitélio que contém neurônios bipolares que atuam como quimiorreceptores."
       },
       {
-        "texto": "Preenchendo espaços entre órgãos.",
-        "explicacao": "O preenchimento de espaços é uma função do tecido conjuntivo frouxo, que possui menos fibras e mais substância fundamental."
+        "texto": "Pneumócitos tipo I",
+        "explicacao": "Os pneumócitos tipo I são as células de revestimento dos alvéolos pulmonares."
       },
       {
-        "texto": "Na cápsula de órgãos como o fígado e os rins.",
-        "explicacao": "As cápsulas dos órgãos são formadas por tecido conjuntivo denso não modelado, para fornecer proteção e suporte estrutural."
+        "texto": "Células de Club",
+        "explicacao": "As células de Club são encontradas nas porções distais da árvore brônquica (bronquíolos)."
       }
     ],
     "respostaCorreta": 1
   },
   {
     "numero": 4,
-    "enunciado": "Qual componente da substância fundamental é uma glicoproteína multiadesiva que conecta as células da matriz a outros componentes, como o colágeno?",
-    "nivel": "difícil",
-    "subtopico": "matriz extracelular",
-    "tipo": "múltipla escolha",
-    "tags": ["fibronectina", "adesão celular", "matriz", "glicoproteína"],
-    "alternativas": [
-      {
-        "texto": "Ácido hialurônico",
-        "explicacao": "O ácido hialurônico é um glicosaminoglicano não sulfatado muito longo que forma um gel viscoso, mas não tem a função primária de adesão celular."
-      },
-      {
-        "texto": "Heparina",
-        "explicacao": "A heparina é um glicosaminoglicano sulfatado com propriedades anticoagulantes, encontrado nos grânulos dos mastócitos."
-      },
-      {
-        "texto": "Fibronectina",
-        "explicacao": "Esta glicoproteína possui sítios de ligação para integrinas (na superfície celular), colágeno e proteoglicanos, atuando como uma 'cola' biológica na matriz."
-      },
-      {
-        "texto": "Colágeno tipo IV",
-        "explicacao": "O colágeno tipo IV forma a rede estrutural da lâmina basal, mas não é a principal glicoproteína de adesão que conecta células na matriz do tecido conjuntivo."
-      }
-    ],
-    "respostaCorreta": 2
-  },
-  {
-    "numero": 5,
-    "enunciado": "O tecido adiposo multilocular (tecido adiposo marrom) é especializado em qual função?",
+    "enunciado": "A epiglote possui duas faces, uma lingual e uma laríngea. Como o epitélio de revestimento difere entre essas duas faces?",
     "nivel": "médio",
-    "subtopico": "tecido adiposo",
+    "subtopico": "laringe",
     "tipo": "múltipla escolha",
-    "tags": ["adiposo marrom", "termogênese", "mitocôndrias"],
+    "tags": ["epiglote", "laringe", "epitélio"],
     "alternativas": [
       {
-        "texto": "Armazenamento de energia a longo prazo em uma única gota de gordura.",
-        "explicacao": "O armazenamento em uma única e grande gota lipídica (unilocular) é característico do tecido adiposo branco (comum)."
+        "texto": "Ambas as faces são revestidas por epitélio respiratório.",
+        "explicacao": "Apenas a face laríngea, que está em continuidade com as vias aéreas inferiores, é revestida por epitélio respiratório."
       },
       {
-        "texto": "Produção de calor (termogênese) sem tremores.",
-        "explicacao": "Suas células são ricas em mitocôndrias que contêm a proteína desacopladora UCP1. Essa proteína dissipa o gradiente de prótons para gerar calor em vez de ATP."
+        "texto": "A face lingual é estratificada pavimentosa e a laríngea é respiratória.",
+        "explicacao": "A face lingual (anterior), sujeita ao atrito com o alimento, possui epitélio estratificado pavimentoso, enquanto a face laríngea (posterior) possui epitélio pseudoestratificado ciliado."
       },
       {
-        "texto": "Síntese de hormônios esteroides.",
-        "explicacao": "A síntese de hormônios esteroides ocorre principalmente nas gônadas e no córtex adrenal, não no tecido adiposo marrom."
+        "texto": "Ambas as faces são revestidas por epitélio estratificado pavimentoso.",
+        "explicacao": "Apenas a face lingual e a porção superior da face laríngea são revestidas por este tipo de epitélio."
       },
       {
-        "texto": "Proteção mecânica e isolamento térmico em adultos.",
-        "explicacao": "Embora todo tecido adiposo ofereça alguma proteção e isolamento, a principal função do tecido adiposo branco em adultos é a de reserva energética e isolante."
+        "texto": "A face lingual é respiratória e a laríngea é estratificada pavimentosa.",
+        "explicacao": "A disposição é a inversa, refletindo as diferentes funções e exposições de cada face."
       }
     ],
     "respostaCorreta": 1
   },
   {
-    "numero": 6,
-    "enunciado": "Durante uma resposta inflamatória, os monócitos do sangue migram para o tecido conjuntivo. Em qual tipo celular eles se diferenciam para exercer a função de fagocitose?",
+    "numero": 5,
+    "enunciado": "A traqueia é mantida aberta por anéis incompletos de cartilagem. Qual tipo de cartilagem forma esses anéis?",
     "nivel": "fácil",
-    "subtopico": "células do tecido conjuntivo",
+    "subtopico": "traqueia",
     "tipo": "múltipla escolha",
-    "tags": ["macrófago", "monócito", "fagocitose", "inflamação"],
+    "tags": ["traqueia", "cartilagem hialina", "sustentação"],
     "alternativas": [
       {
-        "texto": "Em plasmócitos.",
-        "explicacao": "Plasmócitos se diferenciam a partir de linfócitos B, não de monócitos, e sua função é produzir anticorpos."
+        "texto": "Cartilagem elástica",
+        "explicacao": "A cartilagem elástica, que confere flexibilidade, é encontrada na epiglote e no pavilhão auricular, mas não na traqueia."
       },
       {
-        "texto": "Em fibroblastos.",
-        "explicacao": "Fibroblastos são células residentes do tecido conjuntivo, de origem mesenquimal, e não derivam de células sanguíneas."
+        "texto": "Fibrocartilagem",
+        "explicacao": "A fibrocartilagem, resistente à compressão, é encontrada nos discos intervertebrais e na sínfise púbica."
       },
       {
-        "texto": "Em mastócitos.",
-        "explicacao": "Mastócitos se originam de precursores na medula óssea e têm uma linhagem distinta da dos monócitos."
+        "texto": "Cartilagem hialina",
+        "explicacao": "Os anéis em forma de 'C' da traqueia são compostos por cartilagem hialina, que fornece suporte estrutural e impede o colapso da via aérea."
       },
       {
-        "texto": "Em macrófagos.",
-        "explicacao": "Monócitos e macrófagos fazem parte do sistema fagocitário mononuclear. Ao saírem da circulação, os monócitos se transformam em macrófagos teciduais."
+        "texto": "Não há cartilagem na traqueia, apenas músculo liso.",
+        "explicacao": "A traqueia possui tanto cartilagem para suporte quanto músculo liso (músculo traqueal) para regular o diâmetro."
       }
     ],
-    "respostaCorreta": 3
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 6,
+    "enunciado": "A principal diferença histológica entre as pregas vocais verdadeiras e as falsas (vestibulares) é que as verdadeiras possuem:",
+    "nivel": "difícil",
+    "subtopico": "laringe",
+    "tipo": "múltipla escolha",
+    "tags": ["prega vocal", "laringe", "músculo vocal", "epitélio"],
+    "alternativas": [
+      {
+        "texto": "Um epitélio respiratório e numerosas glândulas seromucosas.",
+        "explicacao": "Esta é a descrição das pregas vocais falsas, que ajudam a lubrificar as pregas verdadeiras."
+      },
+      {
+        "texto": "Um epitélio estratificado pavimentoso e um feixe de músculo estriado esquelético (músculo vocal).",
+        "explicacao": "O epitélio resistente protege contra o atrito durante a fonação, e o músculo vocal permite o tensionamento e o relaxamento para a produção de som."
+      },
+      {
+        "texto": "Um centro de cartilagem elástica.",
+        "explicacao": "A cartilagem elástica forma o esqueleto de estruturas como a epiglote, mas não o núcleo das pregas vocais."
+      },
+      {
+        "texto": "Tecido linfoide difuso na lâmina própria.",
+        "explicacao": "Tecido linfoide pode estar presente, mas a característica distintiva é a presença do músculo vocal."
+      }
+    ],
+    "respostaCorreta": 1
   },
   {
     "numero": 7,
-    "enunciado": "As fibras elásticas, que conferem elasticidade a órgãos como as artérias e os pulmões, são compostas principalmente por qual proteína?",
-    "nivel": "médio",
-    "subtopico": "fibras e matriz",
+    "enunciado": "À medida que os brônquios se ramificam e diminuem de calibre para se tornarem bronquíolos, qual alteração histológica ocorre?",
+    "nivel": "fácil",
+    "subtopico": "brônquios e bronquíolos",
     "tipo": "múltipla escolha",
-    "tags": ["fibras elásticas", "elastina", "elasticidade"],
+    "tags": ["brônquio", "bronquíolo", "cartilagem", "histologia"],
     "alternativas": [
       {
-        "texto": "Colágeno tipo I",
-        "explicacao": "O colágeno tipo I oferece resistência à tração, mas não a capacidade de se esticar e retornar à forma original."
+        "texto": "As placas de cartilagem aumentam de tamanho.",
+        "explicacao": "Ocorre o oposto; as placas de cartilagem diminuem e desaparecem completamente nos bronquíolos."
       },
       {
-        "texto": "Queratina",
-        "explicacao": "A queratina é uma proteína estrutural encontrada em células epiteliais, cabelo e unhas, conferindo resistência mecânica."
+        "texto": "O músculo liso desaparece.",
+        "explicacao": "A camada de músculo liso torna-se relativamente mais proeminente nos bronquíolos em comparação com o seu diâmetro."
       },
       {
-        "texto": "Elastina",
-        "explicacao": "Esta proteína, organizada em uma rede por microfibrilas de fibrilina, pode ser esticada e retorna passivamente à sua conformação original, conferindo resiliência aos tecidos."
+        "texto": "A cartilagem e as glândulas submucosas desaparecem.",
+        "explicacao": "A ausência de cartilagem e glândulas na parede é a principal característica que define histologicamente um bronquíolo."
       },
       {
-        "texto": "Actina",
-        "explicacao": "A actina é uma proteína do citoesqueleto, envolvida na contração muscular e motilidade celular, não na elasticidade da matriz extracelular."
+        "texto": "O epitélio muda de simples cúbico para pseudoestratificado.",
+        "explicacao": "A mudança ocorre na direção oposta, de pseudoestratificado nos brônquios para simples colunar ou cúbico nos bronquíolos."
       }
     ],
     "respostaCorreta": 2
   },
   {
     "numero": 8,
-    "enunciado": "O tecido conjuntivo frouxo (areolar) é caracterizado por:",
-    "nivel": "fácil",
-    "subtopico": "tipos de tecido conjuntivo",
+    "enunciado": "As células de Club (anteriormente células de Clara), predominantes nos bronquíolos terminais, têm qual função?",
+    "nivel": "médio",
+    "subtopico": "bronquíolos",
     "tipo": "múltipla escolha",
-    "tags": ["frouxo", "areolar", "matriz"],
+    "tags": ["célula de Club", "bronquíolo", "surfactante", "defesa"],
     "alternativas": [
       {
-        "texto": "Predominância de fibras de colágeno densamente compactadas.",
-        "explicacao": "A alta densidade de fibras de colágeno é a principal característica do tecido conjuntivo denso."
+        "texto": "Produzir muco para a escada mucociliar.",
+        "explicacao": "Os bronquíolos têm poucas ou nenhuma célula caliciforme; a produção de muco cessa nesta região."
       },
       {
-        "texto": "Abundância de substância fundamental e poucas fibras.",
-        "explicacao": "Sua matriz gelatinosa e flexível, com uma variedade de células e fibras frouxamente arranjadas, permite a difusão de substâncias e a migração de células de defesa."
+        "texto": "Contrair para regular o fluxo de ar.",
+        "explicacao": "A contração é função da camada de músculo liso da parede do bronquíolo."
       },
       {
-        "texto": "Ser completamente avascular.",
-        "explicacao": "Pelo contrário, o tecido conjuntivo frouxo é altamente vascularizado, sendo responsável pela nutrição do tecido epitelial adjacente."
+        "texto": "Secretar um agente tensoativo e detoxificar substâncias nocivas.",
+        "explicacao": "Estas células secretam um componente do surfactante que impede o colapso dos bronquíolos e contêm enzimas (citocromo P450) para metabolizar toxinas inaladas."
       },
       {
-        "texto": "Ser composto quase exclusivamente por adipócitos.",
-        "explicacao": "Um tecido composto majoritariamente por adipócitos é classificado como tecido adiposo."
+        "texto": "Realizar trocas gasosas.",
+        "explicacao": "A troca gasosa ocorre nos bronquíolos respiratórios e alvéolos, não nos terminais."
       }
     ],
-    "respostaCorreta": 1
+    "respostaCorreta": 2
   },
   {
     "numero": 9,
-    "enunciado": "Os plasmócitos são células especializadas na produção de anticorpos. Qual organela citoplasmática é extremamente desenvolvida nessas células para suportar essa função?",
-    "nivel": "médio",
-    "subtopico": "células do tecido conjuntivo",
+    "enunciado": "O que define um bronquíolo como 'respiratório'?",
+    "nivel": "fácil",
+    "subtopico": "bronquíolos",
     "tipo": "múltipla escolha",
-    "tags": ["plasmócito", "retículo endoplasmático rugoso", "anticorpos"],
+    "tags": ["bronquíolo respiratório", "alvéolo", "troca gasosa"],
     "alternativas": [
       {
-        "texto": "Retículo endoplasmático liso",
-        "explicacao": "O retículo liso é desenvolvido em células que sintetizam lipídios e esteroides ou que realizam detoxificação."
+        "texto": "A presença de anéis de cartilagem completos.",
+        "explicacao": "Nenhum bronquíolo possui cartilagem."
       },
       {
-        "texto": "Mitocôndrias",
-        "explicacao": "Embora precisem de energia, a característica mais marcante não é o número de mitocôndrias, mas sim a organela de síntese proteica."
+        "texto": "Ser a primeira porção da árvore brônquica sem células caliciformes.",
+        "explicacao": "A ausência de células caliciformes já ocorre em bronquíolos maiores."
       },
       {
-        "texto": "Retículo endoplasmático rugoso (RER)",
-        "explicacao": "Como os anticorpos são proteínas destinadas à exportação, os plasmócitos possuem um RER muito abundante para a síntese e modificação dessas imunoglobulinas."
+        "texto": "A presença de alvéolos em suas paredes.",
+        "explicacao": "O bronquíolo respiratório é uma zona de transição onde a condução de ar e a troca gasosa ocorrem simultaneamente, devido às aberturas alveolares em sua parede."
       },
       {
-        "texto": "Lisossomos",
-        "explicacao": "Lisossomos são proeminentes em células com alta atividade de digestão intracelular, como os macrófagos."
+        "texto": "Ser revestido por epitélio pseudoestratificado ciliado.",
+        "explicacao": "O epitélio nesta região é simples cúbico, com ou sem cílios."
       }
     ],
     "respostaCorreta": 2
   },
   {
     "numero": 10,
-    "enunciado": "As fibras reticulares são formadas por colágeno tipo III e criam uma delicada rede de suporte. Em qual dos seguintes órgãos essa rede é fundamental para a arquitetura?",
-    "nivel": "médio",
-    "subtopico": "fibras e matriz",
+    "enunciado": "Os pneumócitos tipo I são as células que formam a maior parte da superfície alveolar. Sua principal característica estrutural, relacionada à sua função, é:",
+    "nivel": "fácil",
+    "subtopico": "alvéolos",
     "tipo": "múltipla escolha",
-    "tags": ["fibras reticulares", "colágeno tipo III", "órgãos linfoides"],
+    "tags": ["pneumócito tipo I", "alvéolo", "troca gasosa", "epitélio pavimentoso"],
     "alternativas": [
       {
-        "texto": "Córnea do olho",
-        "explicacao": "A córnea é composta por lamelas de colágeno tipo I perfeitamente organizadas para garantir a transparência."
+        "texto": "Serem células cúbicas com microvilosidades apicais.",
+        "explicacao": "Esta é a descrição dos pneumócitos tipo II."
       },
       {
-        "texto": "Tendão de Aquiles",
-        "explicacao": "O tendão é formado por feixes densos e paralelos de colágeno tipo I para resistir à tração."
+        "texto": "Possuírem numerosos cílios para mover fluidos.",
+        "explicacao": "Não há cílios nos alvéolos."
       },
       {
-        "texto": "Fígado, baço e linfonodos.",
-        "explicacao": "Nesses órgãos, as fibras reticulares formam o estroma de sustentação, uma malha tridimensional que suporta as células parenquimatosas (hepatócitos, linfócitos)."
+        "texto": "Serem células pavimentosas (achatadas) extremamente delgadas.",
+        "explicacao": "Seu citoplasma atenuado minimiza a distância para a difusão dos gases entre o ar alveolar e o sangue capilar."
       },
       {
-        "texto": "Epiderme da pele",
-        "explicacao": "A epiderme é um tecido epitelial, não possuindo fibras em uma matriz extracelular."
+        "texto": "Conterem grandes grânulos de secreção.",
+        "explicacao": "Os grânulos de secreção (corpos lamelares) são encontrados nos pneumócitos tipo II."
       }
     ],
     "respostaCorreta": 2
   },
   {
     "numero": 11,
-    "enunciado": "Qual é a origem embrionária de todos os tipos de tecido conjuntivo?",
+    "enunciado": "Qual é a principal função dos pneumócitos tipo II?",
     "nivel": "fácil",
-    "subtopico": "origem e desenvolvimento",
+    "subtopico": "alvéolos",
     "tipo": "múltipla escolha",
-    "tags": ["mesênquima", "mesoderme", "embriologia"],
+    "tags": ["pneumócito tipo II", "surfactante", "alvéolo"],
     "alternativas": [
       {
-        "texto": "Do ectoderma",
-        "explicacao": "O ectoderma dá origem ao sistema nervoso e à epiderme da pele."
+        "texto": "Formar a barreira para a difusão de gases.",
+        "explicacao": "Esta é a principal função dos pneumócitos tipo I."
       },
       {
-        "texto": "Do endoderma",
-        "explicacao": "O endoderma forma o revestimento do trato digestório e respiratório, bem como glândulas associadas."
+        "texto": "Produzir e secretar o surfactante pulmonar.",
+        "explicacao": "O surfactante, uma mistura de fosfolipídios e proteínas, reduz a tensão superficial e impede o colapso dos alvéolos durante a expiração. Eles também atuam como progenitores dos pneumócitos tipo I."
       },
       {
-        "texto": "Do mesênquima",
-        "explicacao": "O mesênquima é um tecido embrionário derivado principalmente da mesoderme, composto por células indiferenciadas que se diferenciam em todos os tipos de células conjuntivas."
+        "texto": "Fagocitar partículas e microrganismos inalados.",
+        "explicacao": "A fagocitose é a função dos macrófagos alveolares."
       },
       {
-        "texto": "Das células da crista neural",
-        "explicacao": "Embora as células da crista neural (de origem ectodérmica) formem alguns tecidos conjuntivos da cabeça, a origem geral para o restante do corpo é o mesênquima."
-      }
-    ],
-    "respostaCorreta": 2
-  },
-  {
-    "numero": 12,
-    "enunciado": "A Síndrome de Marfan é uma doença genética que afeta o tecido conjuntivo, causando problemas esqueléticos e cardiovasculares (como aneurismas da aorta). A mutação ocorre no gene que codifica qual proteína?",
-    "nivel": "difícil",
-    "subtopico": "correlação clínica",
-    "tipo": "múltipla escolha",
-    "tags": ["síndrome de marfan", "fibrilina", "fibras elásticas"],
-    "alternativas": [
-      {
-        "texto": "Colágeno tipo I",
-        "explicacao": "Mutações no colágeno tipo I causam a osteogênese imperfeita, caracterizada por ossos frágeis."
-      },
-      {
-        "texto": "Fibrilina-1",
-        "explicacao": "Esta glicoproteína é essencial para formar as microfibrilas que servem de molde para a deposição de elastina, organizando as fibras elásticas. Sua deficiência compromete a integridade de tecidos ricos nessas fibras, como a aorta."
-      },
-      {
-        "texto": "Laminina",
-        "explicacao": "A laminina é um componente chave da lâmina basal, e suas mutações estão associadas a distrofias musculares congênitas."
-      },
-      {
-        "texto": "Queratina",
-        "explicacao": "Mutações nos genes de queratina causam doenças de pele, como a epidermólise bolhosa simples."
+        "texto": "Detectar o nível de oxigênio no ar alveolar.",
+        "explicacao": "A detecção de gases para a regulação da respiração ocorre em quimiorreceptores centrais e periféricos, não nos pneumócitos."
       }
     ],
     "respostaCorreta": 1
   },
   {
-    "numero": 13,
-    "enunciado": "O tecido mucoso, como o encontrado no cordão umbilical (geleia de Wharton), é um tipo de tecido conjuntivo caracterizado por:",
+    "numero": 12,
+    "enunciado": "A barreira hematoaérea é a estrutura através da qual ocorrem as trocas gasosas. Qual dos seguintes NÃO é um componente desta barreira?",
     "nivel": "médio",
-    "subtopico": "tipos de tecido conjuntivo",
+    "subtopico": "alvéolos",
     "tipo": "múltipla escolha",
-    "tags": ["tecido mucoso", "geleia de wharton", "ácido hialurônico"],
+    "tags": ["barreira hematoaérea", "alvéolo", "troca gasosa"],
     "alternativas": [
       {
-        "texto": "Alta densidade de fibras elásticas e fibroblastos.",
-        "explicacao": "O tecido mucoso possui poucas fibras em geral, não sendo denso nem elástico."
+        "texto": "O citoplasma do pneumócito tipo I.",
+        "explicacao": "O citoplasma delgado da célula epitelial alveolar é o primeiro componente da barreira do lado do ar."
       },
       {
-        "texto": "Predominância de substância fundamental rica em ácido hialurônico.",
-        "explicacao": "Sua matriz é extremamente gelatinosa e hidratada devido à grande quantidade de ácido hialurônico, com fibroblastos e poucas fibras de colágeno imersas."
+        "texto": "O citoplasma da célula endotelial do capilar.",
+        "explicacao": "O citoplasma da célula que reveste o capilar é o último componente da barreira do lado do sangue."
       },
       {
-        "texto": "Ser composto por uma rede tridimensional de fibras reticulares.",
-        "explicacao": "Uma rede de fibras reticulares é a marca do tecido conjuntivo reticular, que forma o estroma de órgãos linfoides."
+        "texto": "As lâminas basais fundidas do pneumócito e da célula endotelial.",
+        "explicacao": "A fusão das lâminas basais minimiza a espessura da barreira."
       },
       {
-        "texto": "Grande quantidade de células de defesa, como macrófagos e plasmócitos.",
-        "explicacao": "O tecido mucoso é um tecido embrionário e, em condições normais, não apresenta um infiltrado inflamatório."
+        "texto": "Um macrófago alveolar.",
+        "explicacao": "O macrófago está na superfície do epitélio ou no interstício, mas não faz parte da estrutura fixa da barreira de difusão."
+      }
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "numero": 13,
+    "enunciado": "Os macrófagos alveolares, também conhecidos como 'células de poeira', são encontrados:",
+    "nivel": "fácil",
+    "subtopico": "alvéolos",
+    "tipo": "múltipla escolha",
+    "tags": ["macrófago alveolar", "fagocitose", "alvéolo"],
+    "alternativas": [
+      {
+        "texto": "Fixos na parede do capilar alveolar.",
+        "explicacao": "As células que revestem o capilar são as células endoteliais."
+      },
+      {
+        "texto": "No interior do espaço aéreo dos alvéolos e no septo interalveolar.",
+        "explicacao": "Esses fagócitos removem partículas inaladas, como poeira e bactérias, da superfície alveolar. Após fagocitarem, podem migrar para a escada mucociliar ou para o interstício."
+      },
+      {
+        "texto": "Apenas nos bronquíolos respiratórios.",
+        "explicacao": "Eles são mais abundantes e ativos nos alvéolos."
+      },
+      {
+        "texto": "Formando a estrutura dos poros de Kohn.",
+        "explicacao": "Os poros de Kohn são aberturas nos septos alveolares, não são formados por macrófagos."
       }
     ],
     "respostaCorreta": 1
   },
   {
     "numero": 14,
-    "enunciado": "A histamina, liberada pelos mastócitos, causa vasodilatação e aumenta a permeabilidade vascular. Qual é o efeito imediato desse aumento de permeabilidade no tecido conjuntivo circundante?",
+    "enunciado": "Em fumantes crônicos, é comum encontrar uma alteração no epitélio dos brônquios maiores, onde o epitélio respiratório é substituído por epitélio estratificado pavimentoso. Este processo é chamado de:",
     "nivel": "médio",
-    "subtopico": "células e inflamação",
+    "subtopico": "correlação clínica",
     "tipo": "múltipla escolha",
-    "tags": ["histamina", "mastócito", "edema", "inflamação"],
+    "tags": ["metaplasia escamosa", "tabagismo", "epitélio respiratório"],
     "alternativas": [
       {
-        "texto": "Aumento da produção de fibras de colágeno (fibrose).",
-        "explicacao": "A fibrose é uma resposta crônica ou de reparo, não um efeito imediato da liberação de histamina."
+        "texto": "Hiperplasia",
+        "explicacao": "Hiperplasia é o aumento do número de células, não a mudança do tipo celular."
       },
       {
-        "texto": "Extravasamento de plasma do sangue para a matriz, causando edema.",
-        "explicacao": "O aumento da permeabilidade permite que o fluido e as proteínas do plasma sanguíneo escapem dos vasos para o espaço intersticial, resultando em inchaço (edema)."
+        "texto": "Displasia",
+        "explicacao": "A displasia é um crescimento desordenado e pré-maligno, que pode ser uma consequência da metaplasia, mas não é a alteração inicial."
       },
       {
-        "texto": "Constrição dos vasos sanguíneos para impedir a perda de sangue.",
-        "explicacao": "A histamina causa o efeito oposto, a dilatação das arteríolas e o aumento da permeabilidade das vênulas."
+        "texto": "Metaplasia escamosa",
+        "explicacao": "É uma resposta adaptativa na qual o epitélio mais sensível é substituído por um tipo mais resistente à agressão da fumaça do cigarro, porém com perda da função mucociliar."
       },
       {
-        "texto": "Diminuição da atividade fagocitária dos macrófagos.",
-        "explicacao": "O processo inflamatório, na verdade, recruta e ativa células fagocitárias como os macrófagos para o local."
+        "texto": "Anaplasia",
+        "explicacao": "Anaplasia é a perda de diferenciação, uma característica de tumores malignos."
       }
     ],
-    "respostaCorreta": 1
+    "respostaCorreta": 2
   },
   {
     "numero": 15,
-    "enunciado": "O tecido adiposo unilocular (branco) não é apenas uma reserva de energia. Ele também funciona como um órgão endócrino, produzindo qual hormônio que regula o apetite e o metabolismo?",
+    "enunciado": "Os corpos lamelares, vistos na microscopia eletrônica dentro dos pneumócitos tipo II, contêm:",
     "nivel": "difícil",
-    "subtopico": "tecido adiposo",
+    "subtopico": "alvéolos",
     "tipo": "múltipla escolha",
-    "tags": ["adiposo branco", "leptina", "endócrino"],
+    "tags": ["pneumócito tipo II", "corpo lamelar", "surfactante"],
     "alternativas": [
       {
-        "texto": "Insulina",
-        "explicacao": "A insulina é produzida pelas células beta do pâncreas e promove o armazenamento de glicose e gordura, mas não é produzida pelo tecido adiposo."
+        "texto": "Enzimas lisossômicas para digestão.",
+        "explicacao": "Estas seriam organelas do tipo lisossomos."
       },
       {
-        "texto": "Adrenalina",
-        "explicacao": "A adrenalina é produzida pela medula da glândula adrenal em resposta ao estresse, mobilizando as reservas de energia."
+        "texto": "Pigmentos de hemossiderina.",
+        "explicacao": "A hemossiderina é encontrada em macrófagos após a fagocitose de hemácias."
       },
       {
-        "texto": "Leptina",
-        "explicacao": "Este hormônio é secretado pelos adipócitos em proporção à quantidade de gordura armazenada. Ele atua no hipotálamo para sinalizar saciedade e aumentar o gasto energético."
+        "texto": "Os precursores do surfactante pulmonar.",
+        "explicacao": "Essas organelas são os locais de armazenamento dos fosfolipídios e proteínas que compõem o surfactante, que são liberados no espaço alveolar por exocitose."
       },
       {
-        "texto": "Cortisol",
-        "explicacao": "O cortisol é um hormônio esteroide produzido pelo córtex adrenal, relacionado ao estresse e ao metabolismo."
+        "texto": "Mitocôndrias para produção de energia.",
+        "explicacao": "As mitocôndrias são organelas separadas, não os corpos lamelares."
       }
     ],
     "respostaCorreta": 2
   },
   {
     "numero": 16,
-    "enunciado": "Durante o processo de cicatrização de uma ferida, os fibroblastos se tornam altamente ativos, proliferam e produzem uma grande quantidade de matriz extracelular. Como são chamados esses fibroblastos ativados?",
-    "nivel": "difícil",
-    "subtopico": "reparo tecidual",
+    "enunciado": "A pleura, que reveste os pulmões e a cavidade torácica, é uma membrana serosa composta por:",
+    "nivel": "fácil",
+    "subtopico": "pleura",
     "tipo": "múltipla escolha",
-    "tags": ["cicatrização", "miofibroblasto", "fibroblasto"],
+    "tags": ["pleura", "mesotélio", "serosa"],
     "alternativas": [
       {
-        "texto": "Fibrócitos",
-        "explicacao": "Fibrócito é o termo usado para o fibroblasto em estado quiescente ou menos ativo, com um citoplasma mais escasso."
+        "texto": "Epitélio pseudoestratificado ciliado.",
+        "explicacao": "Este é o epitélio respiratório, encontrado dentro das vias aéreas."
       },
       {
-        "texto": "Condroblastos",
-        "explicacao": "Condroblastos são as células que produzem a matriz do tecido cartilaginoso."
+        "texto": "Uma camada de mesotélio (epitélio simples pavimentoso) sobre tecido conjuntivo.",
+        "explicacao": "Como outras membranas serosas (peritônio, pericárdio), a pleura possui um epitélio simples que secreta um fluido lubrificante."
       },
       {
-        "texto": "Miofibroblastos",
-        "explicacao": "Durante o reparo, os fibroblastos podem adquirir características de células musculares lisas (expressando alfa-actina), o que lhes confere capacidade contrátil para ajudar a fechar a ferida."
+        "texto": "Tecido conjuntivo denso e cartilagem.",
+        "explicacao": "A cartilagem é encontrada nas paredes das vias aéreas maiores, não na pleura."
       },
       {
-        "texto": "Osteoblastos",
-        "explicacao": "Osteoblastos são as células responsáveis pela síntese da matriz orgânica do tecido ósseo."
+        "texto": "Múltiplas camadas de músculo liso.",
+        "explicacao": "Músculo liso não é o principal componente da pleura."
       }
     ],
-    "respostaCorreta": 2
+    "respostaCorreta": 1
   },
   {
     "numero": 17,
-    "enunciado": "A principal diferença entre o tecido conjuntivo propriamente dito e os tecidos conjuntivos especializados (como cartilagem e osso) reside em qual aspecto da matriz extracelular?",
+    "enunciado": "No enfisema pulmonar, a principal alteração histopatológica é:",
     "nivel": "médio",
-    "subtopico": "classificação do tecido conjuntivo",
+    "subtopico": "correlação clínica",
     "tipo": "múltipla escolha",
-    "tags": ["classificação", "matriz", "especializado"],
+    "tags": ["enfisema", "alvéolo", "destruição", "elastina"],
     "alternativas": [
       {
-        "texto": "A presença ou ausência de fibras de colágeno.",
-        "explicacao": "Tanto o tecido conjuntivo propriamente dito quanto os especializados contêm fibras de colágeno, embora os tipos e a organização variem."
+        "texto": "O espessamento da barreira hematoaérea por fibrose.",
+        "explicacao": "O espessamento da barreira é característico de doenças pulmonares intersticiais fibróticas, não do enfisema."
       },
       {
-        "texto": "A origem embrionária das células.",
-        "explicacao": "Todos os tecidos conjuntivos, de modo geral, se originam do mesênquima."
+        "texto": "A contração excessiva do músculo liso dos bronquíolos.",
+        "explicacao": "A broncoconstrição é a principal característica da asma."
       },
       {
-        "texto": "A consistência da substância fundamental.",
-        "explicacao": "Enquanto no tecido conjuntivo propriamente dito a matriz é um gel, na cartilagem ela é firme e flexível, e no osso ela é rígida e mineralizada."
+        "texto": "A destruição das paredes alveolares e a formação de espaços aéreos aumentados.",
+        "explicacao": "A inflamação crônica leva à degradação das fibras elásticas e outras matrizes, resultando em perda de área de superfície para troca gasosa e diminuição da retração elástica do pulmão."
       },
       {
-        "texto": "A capacidade de ser vascularizado.",
-        "explicacao": "A vascularização varia muito. O osso é altamente vascularizado, enquanto a cartilagem é avascular. O conjuntivo propriamente dito pode ser frouxo (vascularizado) ou denso (pouco vascularizado)."
+        "texto": "O preenchimento dos alvéolos por exsudato inflamatório.",
+        "explicacao": "O preenchimento alveolar por fluido e células inflamatórias é a característica da pneumonia."
       }
     ],
     "respostaCorreta": 2
   },
   {
     "numero": 18,
-    "enunciado": "Os proteoglicanos são macromoléculas compostas por um eixo proteico ao qual se ligam covalentemente um ou mais glicosaminoglicanos (GAGs). Qual é a sua principal função na matriz?",
+    "enunciado": "O músculo traqueal é uma faixa de músculo liso que conecta as extremidades posteriores dos anéis de cartilagem da traqueia. Qual sua função?",
     "nivel": "médio",
-    "subtopico": "matriz extracelular",
+    "subtopico": "traqueia",
     "tipo": "múltipla escolha",
-    "tags": ["proteoglicano", "GAG", "substância fundamental"],
+    "tags": ["traqueia", "músculo traqueal", "tosse"],
     "alternativas": [
       {
-        "texto": "Gerar força contrátil para o tecido.",
-        "explicacao": "A força contrátil é uma propriedade de células musculares ou miofibroblastos, não de componentes da matriz."
+        "texto": "Manter a traqueia permanentemente aberta.",
+        "explicacao": "A patência da traqueia é garantida pelos anéis de cartilagem."
       },
       {
-        "texto": "Formar uma barreira à difusão de água e resistir à compressão.",
-        "explicacao": "Devido às suas cargas negativas, os GAGs atraem uma grande quantidade de água, formando um gel hidratado que ocupa espaço, resiste a forças de compressão e regula a passagem de moléculas."
+        "texto": "Controlar o diâmetro da traqueia, especialmente durante a tosse.",
+        "explicacao": "A contração deste músculo diminui o diâmetro da traqueia, aumentando a velocidade do ar expelido e tornando a tosse mais eficaz na remoção de secreções."
       },
       {
-        "texto": "Conferir elasticidade e resiliência ao tecido.",
-        "explicacao": "A elasticidade é uma função primária das fibras elásticas, compostas de elastina."
+        "texto": "Gerar o movimento peristáltico para ajudar na limpeza mucociliar.",
+        "explicacao": "A limpeza é feita pelos cílios; não há peristaltismo na traqueia."
       },
       {
-        "texto": "Ancorar as células epiteliais à lâmina basal.",
-        "explicacao": "A ancoragem epitelial é mediada por glicoproteínas como a laminina e estruturas como os hemidesmossomos."
+        "texto": "Auxiliar na fonação.",
+        "explicacao": "A fonação é uma função da laringe e das pregas vocais."
       }
     ],
     "respostaCorreta": 1
   },
   {
     "numero": 19,
-    "enunciado": "No tecido conjuntivo denso não modelado, as fibras de colágeno estão dispostas:",
-    "nivel": "fácil",
-    "subtopico": "tipos de tecido conjuntivo",
+    "enunciado": "As células em escova, um tipo celular raro no epitélio respiratório, são caracterizadas por microvilosidades apicais grossas e acredita-se que funcionem como:",
+    "nivel": "difícil",
+    "subtopico": "epitélio respiratório",
     "tipo": "múltipla escolha",
-    "tags": ["denso não modelado", "derme", "organização"],
+    "tags": ["célula em escova", "receptor", "epitélio"],
     "alternativas": [
       {
-        "texto": "Em feixes paralelos e organizados em uma única direção.",
-        "explicacao": "A organização paralela é a definição do tecido conjuntivo denso modelado, encontrado em tendões."
+        "texto": "Células secretoras de surfactante.",
+        "explicacao": "A secreção de surfactante é feita pelos pneumócitos tipo II e células de Club."
       },
       {
-        "texto": "Formando uma rede delicada e tridimensional.",
-        "explicacao": "Uma rede delicada é característica das fibras reticulares no tecido conjuntivo reticular."
+        "texto": "Células-tronco progenitoras.",
+        "explicacao": "As células-tronco são as células basais."
       },
       {
-        "texto": "Em feixes grossos, entrelaçados e sem orientação definida.",
-        "explicacao": "Esta disposição em múltiplas direções permite que o tecido resista a tensões provenientes de vários eixos, como ocorre na derme da pele e nas cápsulas dos órgãos."
+        "texto": "Quimiorreceptores ou mecanorreceptores.",
+        "explicacao": "Acredita-se que essas células tenham uma função sensorial, fazendo sinapse com terminações nervosas aferentes na base para detectar estímulos na via aérea."
       },
       {
-        "texto": "De forma esparsa, em meio a uma abundante substância fundamental.",
-        "explicacao": "Fibras esparsas em uma matriz abundante são a marca do tecido conjuntivo frouxo."
+        "texto": "Células de defesa imunológica.",
+        "explicacao": "As células de defesa no epitélio são principalmente linfócitos ou células dendríticas."
       }
     ],
     "respostaCorreta": 2
   },
   {
     "numero": 20,
-    "enunciado": "Qual é a principal função do tecido conjuntivo que preenche e envolve a maioria dos órgãos, também conhecido como lâmina própria sob os epitélios?",
+    "enunciado": "As glândulas de Bowman são encontradas na lâmina própria de qual região e qual a sua função?",
     "nivel": "médio",
-    "subtopico": "funções do tecido conjuntivo",
+    "subtopico": "fossas nasais",
     "tipo": "múltipla escolha",
-    "tags": ["função", "suporte", "nutrição", "defesa"],
+    "tags": ["glândula de Bowman", "epitélio olfatório", "olfato"],
     "alternativas": [
       {
-        "texto": "Apenas armazenamento de energia.",
-        "explicacao": "O armazenamento de energia é a função primária do tecido adiposo, um tipo especializado."
+        "texto": "Na traqueia, para produzir muco espesso.",
+        "explicacao": "As glândulas da traqueia estão na submucosa e são seromucosas."
       },
       {
-        "texto": "Apenas contração e movimento.",
-        "explicacao": "A contração é uma função do tecido muscular."
+        "texto": "Nos alvéolos, para secretar surfactante.",
+        "explicacao": "O surfactante é produzido pelos pneumócitos tipo II."
       },
       {
-        "texto": "Suporte, nutrição, defesa e reparo.",
-        "explicacao": "O tecido conjuntivo frouxo (lâmina própria) fornece suporte estrutural, nutre o epitélio avascular através de seus vasos sanguíneos, abriga células de defesa para a vigilância imunológica e participa ativamente do reparo tecidual."
+        "texto": "Sob o epitélio olfatório, para secretar um fluido que dissolve odorantes.",
+        "explicacao": "A secreção serosa dessas glândulas umedece a superfície do epitélio olfatório, dissolve as moléculas odoríferas e lava a superfície para permitir a detecção de novos odores."
       },
       {
-        "texto": "Apenas transmissão de impulsos nervosos.",
-        "explicacao": "A transmissão de impulsos é a função especializada do tecido nervoso."
+        "texto": "Na laringe, para lubrificar as pregas vocais.",
+        "explicacao": "As pregas vocais são lubrificadas por glândulas nas pregas vestibulares."
       }
     ],
     "respostaCorreta": 2
   },
   {
     "numero": 21,
-    "enunciado": "A Síndrome de Ehlers-Danlos é um grupo de doenças hereditárias que resultam em articulações hipermóveis e pele muito elástica e frágil. Essas manifestações são causadas por defeitos na síntese ou estrutura de qual componente?",
-    "nivel": "difícil",
+    "enunciado": "Na asma, a dificuldade respiratória é causada principalmente por qual alteração histofisiológica nos bronquíolos?",
+    "nivel": "médio",
     "subtopico": "correlação clínica",
     "tipo": "múltipla escolha",
-    "tags": ["Ehlers-Danlos", "colágeno", "genética"],
+    "tags": ["asma", "broncoconstrição", "músculo liso", "bronquíolo"],
     "alternativas": [
       {
-        "texto": "Elastina",
-        "explicacao": "Embora a elastina confira elasticidade, a fragilidade tecidual e a hiperfrouxidão ligamentar na síndrome de Ehlers-Danlos apontam para problemas na principal proteína de resistência."
+        "texto": "Destruição das paredes alveolares.",
+        "explicacao": "A destruição alveolar é a marca do enfisema."
       },
       {
-        "texto": "Colágeno",
-        "explicacao": "Diferentes tipos da síndrome estão ligados a mutações em vários genes de colágeno (como o COL5A1, COL3A1) ou em enzimas que processam o colágeno, comprometendo a integridade estrutural dos tecidos."
+        "texto": "Hipertrofia da cartilagem da parede.",
+        "explicacao": "Os bronquíolos não possuem cartilagem."
       },
       {
-        "texto": "Fibrilina",
-        "explicacao": "Defeitos na fibrilina estão associados à Síndrome de Marfan, que possui algumas sobreposições clínicas, mas é uma entidade distinta."
+        "texto": "Brococonstrição devido à contração do músculo liso, inflamação e excesso de muco.",
+        "explicacao": "A asma é caracterizada por uma hiper-reatividade das vias aéreas que leva ao estreitamento do lúmen dos bronquíolos."
       },
       {
-        "texto": "Proteoglicanos",
-        "explicacao": "Alterações em proteoglicanos podem causar displasias esqueléticas, mas não são a causa primária da Síndrome de Ehlers-Danlos."
+        "texto": "Substituição do epitélio por tecido cicatricial.",
+        "explicacao": "A fibrose é mais característica de outras doenças pulmonares, embora possa ocorrer remodelamento na asma crônica."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 22,
+    "enunciado": "A cartilagem da epiglote e das cartilagens cuneiformes e corniculadas da laringe é do tipo:",
+    "nivel": "fácil",
+    "subtopico": "laringe",
+    "tipo": "múltipla escolha",
+    "tags": ["laringe", "epiglote", "cartilagem elástica"],
+    "alternativas": [
+      {
+        "texto": "Hialina",
+        "explicacao": "A cartilagem hialina forma as cartilagens maiores da laringe (tireoide, cricoide) e os anéis da traqueia, fornecendo suporte rígido."
+      },
+      {
+        "texto": "Elástica",
+        "explicacao": "Essas estruturas precisam ser flexíveis para desempenhar suas funções no fechamento da laringe durante a deglutição, e a cartilagem elástica proporciona essa propriedade."
+      },
+      {
+        "texto": "Fibrosa (fibrocartilagem)",
+        "explicacao": "A fibrocartilagem é encontrada em locais que suportam grande compressão, como os discos intervertebrais."
+      },
+      {
+        "texto": "Óssea",
+        "explicacao": "As cartilagens da laringe podem se ossificar com a idade, mas são originalmente cartilaginosas."
       }
     ],
     "respostaCorreta": 1
   },
   {
-    "numero": 22,
-    "enunciado": "O tecido conjuntivo reticular, rico em fibras de colágeno tipo III, forma o estroma de sustentação de qual grupo de órgãos?",
-    "nivel": "médio",
-    "subtopico": "tipos de tecido conjuntivo",
-    "tipo": "múltipla escolha",
-    "tags": ["tecido reticular", "estroma", "órgãos hematopoiéticos"],
-    "alternativas": [
-      {
-        "texto": "Cérebro e medula espinhal.",
-        "explicacao": "O tecido nervoso possui seu próprio sistema de células de suporte, a glia, e não um estroma de fibras reticulares."
-      },
-      {
-        "texto": "Músculos esqueléticos e coração.",
-        "explicacao": "O tecido muscular possui um delicado envoltório de tecido conjuntivo (endomisio), mas seu arcabouço principal não é do tipo reticular."
-      },
-      {
-        "texto": "Medula óssea, baço e linfonodos.",
-        "explicacao": "Nestes órgãos hematopoiéticos e linfoides, a rede de fibras reticulares cria um microambiente que sustenta as células livres (células sanguíneas em desenvolvimento, linfócitos)."
-      },
-      {
-        "texto": "Pele e tendões.",
-        "explicacao": "A pele (derme) e os tendões são compostos por tecido conjuntivo denso, rico em colágeno tipo I."
-      }
-    ],
-    "respostaCorreta": 2
-  },
-  {
     "numero": 23,
-    "enunciado": "Qual célula do tecido conjuntivo possui o citoplasma repleto de grânulos basofílicos contendo histamina e heparina?",
+    "enunciado": "Os poros de Kohn são pequenas aberturas que conectam:",
     "nivel": "fácil",
-    "subtopico": "células do tecido conjuntivo",
+    "subtopico": "alvéolos",
     "tipo": "múltipla escolha",
-    "tags": ["mastócito", "histamina", "heparina", "alergia"],
+    "tags": ["poro de Kohn", "alvéolo", "ventilação colateral"],
     "alternativas": [
       {
-        "texto": "Plasmócito",
-        "explicacao": "O plasmócito possui um citoplasma basofílico devido ao abundante RER, mas não contém os grandes grânulos de secreção com mediadores inflamatórios."
+        "texto": "Bronquíolos terminais a bronquíolos respiratórios.",
+        "explicacao": "A conexão entre bronquíolos é sequencial."
       },
       {
-        "texto": "Macrófago",
-        "explicacao": "O macrófago pode conter lisossomos e vacúolos fagocíticos, mas não os grânulos característicos com histamina."
+        "texto": "Alvéolos adjacentes.",
+        "explicacao": "Esses poros nos septos interalveolares permitem a ventilação colateral, que ajuda a equalizar a pressão do ar entre os alvéolos e pode prevenir o colapso de uma unidade pulmonar se seu bronquíolo estiver obstruído."
       },
       {
-        "texto": "Mastócito",
-        "explicacao": "Esses grandes grânulos são a principal característica morfológica do mastócito e são liberados em reações alérgicas e inflamatórias."
+        "texto": "Capilares arteriais e venosos.",
+        "explicacao": "A conexão entre arteríolas e vênulas ocorre através da rede de capilares."
       },
       {
-        "texto": "Fibroblasto",
-        "explicacao": "O fibroblasto é uma célula de síntese de matriz e não possui grânulos de secreção com mediadores inflamatórios."
+        "texto": "O espaço pleural ao lúmen alveolar.",
+        "explicacao": "Não há comunicação direta entre o espaço pleural e os alvéolos em um pulmão saudável."
       }
     ],
-    "respostaCorreta": 2
+    "respostaCorreta": 1
   },
   {
     "numero": 24,
-    "enunciado": "O tecido conjuntivo elástico é um tipo de tecido denso modelado com predominância de fibras elásticas. Ele é o principal componente de qual estrutura?",
+    "enunciado": "O BALT (tecido linfoide associado aos brônquios) é uma forma de MALT encontrada na parede das vias aéreas. Onde ele está tipicamente localizado?",
     "nivel": "médio",
-    "subtopico": "tipos de tecido conjuntivo",
+    "subtopico": "brônquios e bronquíolos",
     "tipo": "múltipla escolha",
-    "tags": ["tecido elástico", "artérias elásticas", "ligamentos"],
+    "tags": ["BALT", "MALT", "tecido linfoide", "brônquio"],
     "alternativas": [
       {
-        "texto": "Da cápsula do baço.",
-        "explicacao": "A cápsula do baço é feita de tecido conjuntivo denso não modelado, com algumas fibras musculares lisas."
+        "texto": "Dentro dos anéis de cartilagem.",
+        "explicacao": "A cartilagem é avascular e não contém tecido linfoide."
       },
       {
-        "texto": "Do ligamento amarelo da coluna vertebral e da parede de grandes artérias.",
-        "explicacao": "Essas estruturas precisam se deformar sob tensão e retornar à sua forma original, uma propriedade conferida pela abundância de fibras elásticas organizadas."
+        "texto": "Na lâmina própria e submucosa, especialmente nos pontos de ramificação.",
+        "explicacao": "O BALT consiste em nódulos linfoides não encapsulados situados estrategicamente para amostrar antígenos que entram nas vias aéreas."
       },
       {
-        "texto": "Da cartilagem da orelha.",
-        "explicacao": "A cartilagem da orelha é do tipo elástica, mas é classificada como tecido cartilaginoso, não como tecido conjuntivo propriamente dito."
+        "texto": "No interior do espaço aéreo alveolar.",
+        "explicacao": "O espaço aéreo alveolar contém macrófagos, mas não tecido linfoide organizado."
       },
       {
-        "texto": "Do estroma da córnea.",
-        "explicacao": "O estroma da córnea é composto por tecido conjuntivo denso modelado, com fibras de colágeno perfeitamente arranjadas."
+        "texto": "Revestindo a superfície da pleura.",
+        "explicacao": "A pleura não contém BALT."
       }
     ],
     "respostaCorreta": 1
   },
   {
     "numero": 25,
-    "enunciado": "A substância fundamental do tecido conjuntivo é viscosa e altamente hidratada. Qual molécula é a principal responsável por essa propriedade de reter água?",
+    "enunciado": "O septo interalveolar, a parede entre dois alvéolos, é composto principalmente por:",
     "nivel": "médio",
-    "subtopico": "matriz extracelular",
+    "subtopico": "alvéolos",
     "tipo": "múltipla escolha",
-    "tags": ["glicosaminoglicanos", "proteoglicanos", "hidratação"],
+    "tags": ["septo interalveolar", "capilar", "alvéolo"],
     "alternativas": [
       {
-        "texto": "Fibras de colágeno",
-        "explicacao": "As fibras de colágeno fornecem resistência à tração, mas não são as principais responsáveis pela hidratação da matriz."
+        "texto": "Uma espessa camada de músculo liso.",
+        "explicacao": "Não há músculo liso nos septos alveolares."
       },
       {
-        "texto": "Lipídios",
-        "explicacao": "Os lipídios são hidrofóbicos e armazenados dentro dos adipócitos, não compondo a substância fundamental aquosa."
+        "texto": "Uma rede de capilares sanguíneos sustentada por tecido conjuntivo fino.",
+        "explicacao": "O septo é essencialmente um 'sanduíche' com uma rica rede capilar no centro, revestido por epitélio alveolar em ambos os lados, e contendo fibras elásticas e reticulares."
       },
       {
-        "texto": "Glicosaminoglicanos (GAGs) e proteoglicanos",
-        "explicacao": "Devido às suas intensas cargas negativas, essas moléculas atraem cátions (como o sódio), que por sua vez atraem osmoticamente uma grande quantidade de água, formando um gel."
+        "texto": "Cartilagem hialina.",
+        "explicacao": "A cartilagem está presente apenas nas vias aéreas maiores."
       },
       {
-        "texto": "Glicoproteínas adesivas como a fibronectina.",
-        "explicacao": "As glicoproteínas têm a função de conectar células e fibras, não de reter grandes volumes de água."
+        "texto": "Apenas pneumócitos tipo II.",
+        "explicacao": "Os pneumócitos tipo II estão presentes, mas a estrutura principal é o leito capilar e o tecido conjuntivo."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 26,
+    "enunciado": "As células neuroendócrinas (ou de Kulchitsky) do epitélio brônquico são caracterizadas por:",
+    "nivel": "difícil",
+    "subtopico": "epitélio respiratório",
+    "tipo": "múltipla escolha",
+    "tags": ["célula neuroendócrina", "DNES", "hormônio"],
+    "alternativas": [
+      {
+        "texto": "Produzirem muco espesso.",
+        "explicacao": "A produção de muco é função das células caliciformes."
+      },
+      {
+        "texto": "Possuírem numerosos cílios.",
+        "explicacao": "Estas células não são ciliadas."
+      },
+      {
+        "texto": "Conterem pequenos grânulos de secreção na base da célula.",
+        "explicacao": "Elas pertencem ao sistema neuroendócrino difuso (DNES) e secretam peptídeos (como a bombesina) que regulam o tônus muscular e vascular local. Os grânulos são basais para a liberação na lâmina própria."
+      },
+      {
+        "texto": "Serem as células mais abundantes do epitélio.",
+        "explicacao": "Elas são relativamente raras e podem ocorrer isoladas ou em grupos (corpos neuroepiteliais)."
       }
     ],
     "respostaCorreta": 2
   },
   {
-    "numero": 26,
-    "enunciado": "Durante uma infestação parasitária ou em reações alérgicas, qual célula imune transiente se torna abundante no tecido conjuntivo, especialmente na lâmina própria intestinal?",
-    "nivel": "difícil",
-    "subtopico": "células e inflamação",
-    "tipo": "múltipla escolha",
-    "tags": ["eosinófilo", "parasitas", "alergia"],
-    "alternativas": [
-      {
-        "texto": "Neutrófilo",
-        "explicacao": "Os neutrófilos são a primeira linha de defesa contra infecções bacterianas agudas."
-      },
-      {
-        "texto": "Linfócito",
-        "explicacao": "Linfócitos estão envolvidos na resposta imune específica e são comuns em inflamações crônicas, mas outra célula é mais característica para parasitas."
-      },
-      {
-        "texto": "Basófilo",
-        "explicacao": "Os basófilos são os equivalentes circulantes dos mastócitos e são raros no tecido conjuntivo."
-      },
-      {
-        "texto": "Eosinófilo",
-        "explicacao": "Os eosinófilos são recrutados para locais de reações alérgicas e infestações por helmintos, onde liberam enzimas e mediadores de seus grânulos eosinofílicos característicos."
-      }
-    ],
-    "respostaCorreta": 3
-  },
-  {
     "numero": 27,
-    "enunciado": "A principal diferença morfológica entre um fibroblasto ativo e um fibrócito quiescente é que o fibrócito apresenta:",
-    "nivel": "médio",
-    "subtopico": "células do tecido conjuntivo",
+    "enunciado": "A principal diferença entre a pleura visceral e a pleura parietal é:",
+    "nivel": "fácil",
+    "subtopico": "pleura",
     "tipo": "múltipla escolha",
-    "tags": ["fibroblasto", "fibrócito", "morfologia"],
+    "tags": ["pleura visceral", "pleura parietal"],
     "alternativas": [
       {
-        "texto": "Um núcleo maior e mais eucromático.",
-        "explicacao": "Um núcleo grande e com cromatina frouxa (eucromático) é sinal de alta atividade de transcrição, característico do fibroblasto."
+        "texto": "O tipo de epitélio que as reveste.",
+        "explicacao": "Ambas são revestidas pelo mesmo tipo de epitélio, o mesotélio."
       },
       {
-        "texto": "Um citoplasma mais escasso e um núcleo menor e heterocromático.",
-        "explicacao": "O estado de baixa atividade sintética do fibrócito se reflete em uma morfologia reduzida, com menos citoplasma e um núcleo com cromatina condensada (heterocromático)."
+        "texto": "A estrutura que cada uma recobre.",
+        "explicacao": "A pleura visceral está aderida à superfície do pulmão, enquanto a pleura parietal reveste a parede interna da cavidade torácica."
       },
       {
-        "texto": "Múltiplas gotas de lipídios no citoplasma.",
-        "explicacao": "A presença de gotas de lipídios é a marca de um adipócito, não de um fibrócito."
+        "texto": "A presença de cartilagem na pleura parietal.",
+        "explicacao": "Nenhuma das pleuras contém cartilagem."
       },
       {
-        "texto": "Grânulos de secreção contendo histamina.",
-        "explicacao": "Os grânulos de histamina são encontrados nos mastócitos."
+        "texto": "A capacidade de realizar trocas gasosas.",
+        "explicacao": "Nenhuma das pleuras realiza trocas gasosas; sua função é de revestimento e lubrificação."
       }
     ],
     "respostaCorreta": 1
   },
   {
     "numero": 28,
-    "enunciado": "A capacidade de regeneração do tecido conjuntivo é alta. Após uma lesão, qual célula é a principal responsável pela formação do tecido de granulação e da cicatriz?",
-    "nivel": "fácil",
-    "subtopico": "reparo tecidual",
+    "enunciado": "Qual dos seguintes componentes diminui em quantidade ou desaparece à medida que se avança da traqueia para os bronquíolos?",
+    "nivel": "médio",
+    "subtopico": "brônquios e bronquíolos",
     "tipo": "múltipla escolha",
-    "tags": ["reparo", "cicatriz", "fibroblasto", "tecido de granulação"],
+    "tags": ["gradiente histológico", "árvore brônquica", "célula caliciforme"],
     "alternativas": [
       {
-        "texto": "Macrófago",
-        "explicacao": "Os macrófagos são essenciais para limpar a área lesionada e secretar fatores de crescimento, mas não produzem a matriz da cicatriz."
+        "texto": "Músculo liso",
+        "explicacao": "A camada de músculo liso se torna relativamente mais proeminente e contínua nos bronquíolos."
       },
       {
-        "texto": "Fibroblasto",
-        "explicacao": "Os fibroblastos proliferam intensamente, migram para a área da ferida e sintetizam grandes quantidades de colágeno e outros componentes da matriz para preencher o defeito."
+        "texto": "Fibras elásticas",
+        "explicacao": "As fibras elásticas são abundantes em toda a árvore brônquica e nos septos alveolares."
       },
       {
-        "texto": "Célula epitelial",
-        "explicacao": "As células epiteliais regeneram a camada superficial (epiderme), mas a cicatriz subjacente é formada no tecido conjuntivo."
+        "texto": "Células caliciformes",
+        "explicacao": "As células caliciformes, assim como as glândulas submucosas e a cartilagem, diminuem progressivamente e estão ausentes nos bronquíolos terminais."
       },
       {
-        "texto": "Célula mesenquimal",
-        "explicacao": "Células mesenquimais perivasculares podem dar origem a fibroblastos, mas é o fibroblasto ativado a célula efetora do reparo."
+        "texto": "Células de Club",
+        "explicacao": "As células de Club aumentam em número nas porções mais distais, tornando-se as células predominantes nos bronquíolos terminais."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 29,
+    "enunciado": "A síndrome da angústia respiratória neonatal (doença da membrana hialina) é causada por uma deficiência de:",
+    "nivel": "médio",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["surfactante", "SARA neonatal", "pneumócito tipo II"],
+    "alternativas": [
+      {
+        "texto": "Macrófagos alveolares",
+        "explicacao": "A ausência de macrófagos aumentaria o risco de infecção, mas não causaria o colapso alveolar difuso."
+      },
+      {
+        "texto": "Surfactante pulmonar",
+        "explicacao": "Em bebês prematuros, os pneumócitos tipo II podem ainda não estar maduros o suficiente para produzir surfactante, levando a um aumento da tensão superficial e ao colapso dos alvéolos."
+      },
+      {
+        "texto": "Cartilagem nos brônquios",
+        "explicacao": "A cartilagem brônquica já está formada nesta fase."
+      },
+      {
+        "texto": "Cílios no epitélio respiratório",
+        "explicacao": "Defeitos ciliares causam outras condições (discinesia ciliar primária), mas não esta síndrome."
       }
     ],
     "respostaCorreta": 1
   },
   {
-    "numero": 29,
-    "enunciado": "O colágeno tipo I é a proteína mais abundante do corpo humano. Ele se organiza em fibras espessas e feixes para fornecer resistência em quais tecidos?",
-    "nivel": "fácil",
-    "subtopico": "fibras e matriz",
+    "numero": 30,
+    "enunciado": "O suprimento sanguíneo do parênquima pulmonar (brônquios, pleura visceral) é fornecido pelas:",
+    "nivel": "difícil",
+    "subtopico": "vascularização",
     "tipo": "múltipla escolha",
-    "tags": ["colágeno tipo I", "resistência", "osso", "derme"],
+    "tags": ["artérias brônquicas", "vascularização", "circulação pulmonar"],
     "alternativas": [
       {
-        "texto": "Apenas na cartilagem hialina.",
-        "explicacao": "A cartilagem hialina é rica em colágeno tipo II, que forma fibrilas mais finas."
+        "texto": "Artérias pulmonares",
+        "explicacao": "As artérias pulmonares transportam sangue venoso para os capilares alveolares para oxigenação (circulação funcional)."
       },
       {
-        "texto": "Apenas na lâmina basal dos epitélios.",
-        "explicacao": "A lâmina basal é estruturada por uma rede de colágeno tipo IV."
+        "texto": "Veias pulmonares",
+        "explicacao": "As veias pulmonares drenam o sangue oxigenado dos pulmões para o coração."
       },
       {
-        "texto": "No osso, tendões, derme e cápsulas de órgãos.",
-        "explicacao": "Todos esses tecidos dependem da alta resistência à tração conferida pelos feixes de colágeno tipo I para suas funções de suporte e transmissão de força."
+        "texto": "Artérias brônquicas",
+        "explicacao": "As artérias brônquicas são ramos da aorta (circulação sistêmica) e fornecem sangue oxigenado e nutrientes para os tecidos de suporte do pulmão."
       },
       {
-        "texto": "Apenas no estroma de órgãos linfoides.",
-        "explicacao": "O estroma de órgãos linfoides é formado por fibras reticulares, que são compostas de colágeno tipo III."
+        "texto": "Capilares linfáticos",
+        "explicacao": "Os capilares linfáticos são responsáveis pela drenagem do fluido intersticial."
       }
     ],
     "respostaCorreta": 2
   },
   {
-    "numero": 30,
-    "enunciado": "As células mesenquimais multipotentes persistem em pequenas quantidades no tecido conjuntivo adulto. Onde elas são tipicamente encontradas?",
-    "nivel": "difícil",
-    "subtopico": "células do tecido conjuntivo",
+    "numero": 31,
+    "enunciado": "As células basais do epitélio respiratório e olfatório funcionam como:",
+    "nivel": "fácil",
+    "subtopico": "epitélio respiratório",
     "tipo": "múltipla escolha",
-    "tags": ["célula mesenquimal", "célula-tronco", "pericitos"],
+    "tags": ["célula basal", "célula-tronco", "regeneração"],
     "alternativas": [
       {
-        "texto": "Circulando livremente na corrente sanguínea.",
-        "explicacao": "As células-tronco adultas do tecido conjuntivo são residentes teciduais, não células circulantes."
+        "texto": "Células sensoriais",
+        "explicacao": "As células sensoriais são os neurônios olfatórios ou as células em escova."
       },
       {
-        "texto": "No interior dos grânulos dos mastócitos.",
-        "explicacao": "Os grânulos dos mastócitos contêm mediadores químicos, não células-tronco."
+        "texto": "Células-tronco ou progenitoras.",
+        "explicacao": "Essas células pequenas e indiferenciadas, localizadas na base do epitélio, são capazes de se dividir e diferenciar para substituir os outros tipos celulares que são perdidos."
       },
       {
-        "texto": "Associadas à parede de capilares e vênulas (pericitos).",
-        "explicacao": "Muitas das células-tronco mesenquimais do adulto estão localizadas em um nicho perivascular, onde atuam como pericitos. Em caso de lesão, elas podem se ativar e se diferenciar em fibroblastos ou outras células."
+        "texto": "Células secretoras de muco.",
+        "explicacao": "A secreção de muco é função das células caliciformes."
       },
       {
-        "texto": "Concentradas no centro dos tendões.",
-        "explicacao": "Os tendões são tecidos com baixa celularidade e baixo potencial de regeneração, não sendo um reservatório primário de células-tronco."
+        "texto": "Células de sustentação.",
+        "explicacao": "As células de sustentação são colunares e dão suporte aos neurônios no epitélio olfatório."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 32,
+    "enunciado": "O que são 'células da insuficiência cardíaca' (heart failure cells)?",
+    "nivel": "difícil",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["macrófago alveolar", "hemossiderina", "insuficiência cardíaca"],
+    "alternativas": [
+      {
+        "texto": "Pneumócitos tipo II hipertrofiados.",
+        "explicacao": "A hipertrofia de pneumócitos tipo II é uma resposta a uma lesão alveolar, não específica da insuficiência cardíaca."
+      },
+      {
+        "texto": "Macrófagos alveolares carregados de hemossiderina.",
+        "explicacao": "Na insuficiência cardíaca congestiva, a alta pressão nos capilares pulmonares causa extravasamento de hemácias para os alvéolos. Os macrófagos fagocitam essas hemácias e digerem a hemoglobina, acumulando o pigmento de ferro (hemossiderina)."
+      },
+      {
+        "texto": "Células musculares lisas que migraram para os septos alveolares.",
+        "explicacao": "A fibrose e a presença de miofibroblastos podem ocorrer, mas não são as 'células da insuficiência cardíaca'."
+      },
+      {
+        "texto": "Células endoteliais danificadas dos capilares.",
+        "explicacao": "O dano endotelial ocorre, mas o termo se refere aos macrófagos."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 33,
+    "enunciado": "A transição do epitélio de colunar/cúbico ciliado simples para um epitélio pavimentoso simples ocorre entre:",
+    "nivel": "médio",
+    "subtopico": "bronquíolos e alvéolos",
+    "tipo": "múltipla escolha",
+    "tags": ["transição epitelial", "bronquíolo respiratório", "ducto alveolar"],
+    "alternativas": [
+      {
+        "texto": "A traqueia e os brônquios principais.",
+        "explicacao": "Ambos são revestidos por epitélio pseudoestratificado ciliado."
+      },
+      {
+        "texto": "Os brônquios e os bronquíolos.",
+        "explicacao": "A transição aqui é de pseudoestratificado para simples colunar ou cúbico."
+      },
+      {
+        "texto": "Os bronquíolos respiratórios e os ductos alveolares.",
+        "explicacao": "Os bronquíolos respiratórios ainda possuem um epitélio cúbico entre as aberturas alveolares, enquanto os ductos alveolares são essencialmente vias revestidas por pneumócitos tipo I."
+      },
+      {
+        "texto": "A laringe e a traqueia.",
+        "explicacao": "Ambas são majoritariamente revestidas por epitélio respiratório."
       }
     ],
     "respostaCorreta": 2
+  },
+  {
+    "numero": 34,
+    "enunciado": "A principal fibra de tecido conjuntivo responsável pela retração elástica do pulmão durante a expiração é a:",
+    "nivel": "fácil",
+    "subtopico": "tecido conjuntivo",
+    "tipo": "múltipla escolha",
+    "tags": ["fibra elástica", "expiração", "tecido conjuntivo"],
+    "alternativas": [
+      {
+        "texto": "Fibra de colágeno tipo I",
+        "explicacao": "O colágeno tipo I fornece resistência à tração, mas não elasticidade. Um excesso de colágeno leva à fibrose e rigidez pulmonar."
+      },
+      {
+        "texto": "Fibra reticular (colágeno tipo III)",
+        "explicacao": "As fibras reticulares formam um delicado arcabouço de suporte, mas não são responsáveis pela retração."
+      },
+      {
+        "texto": "Fibra elástica",
+        "explicacao": "Uma densa rede de fibras elásticas está presente nos septos alveolares e ao redor das vias aéreas, permitindo que o pulmão se distenda na inspiração e retorne passivamente ao seu volume de repouso na expiração."
+      },
+      {
+        "texto": "Fibronectina",
+        "explicacao": "A fibronectina é uma glicoproteína adesiva da matriz extracelular, não uma fibra estrutural para retração."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 35,
+    "enunciado": "As conchas (ou cornetos) nasais são estruturas ósseas revestidas por mucosa. Qual é a principal função do plexo venoso abundante (corpos cavernosos) na sua lâmina própria?",
+    "nivel": "médio",
+    "subtopico": "fossas nasais",
+    "tipo": "múltipla escolha",
+    "tags": ["conchas nasais", "vascularização", "aquecimento do ar"],
+    "alternativas": [
+      {
+        "texto": "Drenar o excesso de muco produzido.",
+        "explicacao": "A drenagem do muco é feita pelo batimento ciliar."
+      },
+      {
+        "texto": "Aquecer o ar inalado.",
+        "explicacao": "O grande volume de sangue que flui lentamente por este plexo irradia calor, aquecendo o ar antes que ele chegue aos pulmões. O ingurgitamento deste plexo também pode causar obstrução nasal."
+      },
+      {
+        "texto": "Ancorar a mucosa ao osso subjacente.",
+        "explicacao": "A ancoragem é feita pelo periósteo, ao qual a lâmina própria se funde."
+      },
+      {
+        "texto": "Iniciar a resposta imune a patógenos.",
+        "explicacao": "A resposta imune é iniciada por células linfoides na mucosa, não pelo plexo vascular em si."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 36,
+    "enunciado": "O ligamento vocal, uma faixa de tecido conjuntivo elástico, é um componente essencial de qual estrutura?",
+    "nivel": "fácil",
+    "subtopico": "laringe",
+    "tipo": "múltipla escolha",
+    "tags": ["ligamento vocal", "prega vocal", "laringe"],
+    "alternativas": [
+      {
+        "texto": "Da prega vocal falsa (vestibular)",
+        "explicacao": "As pregas vestibulares são dobras de mucosa com tecido conjuntivo frouxo e glândulas."
+      },
+      {
+        "texto": "Da prega vocal verdadeira",
+        "explicacao": "O ligamento vocal, juntamente com o músculo vocal, forma o núcleo da prega vocal verdadeira. Sua vibração é o que produz o som."
+      },
+      {
+        "texto": "Da epiglote",
+        "explicacao": "A epiglote possui um esqueleto de cartilagem elástica."
+      },
+      {
+        "texto": "Da parede da traqueia",
+        "explicacao": "A parede da traqueia é sustentada por cartilagem hialina."
+      }
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "numero": 37,
+    "enunciado": "O epitélio dos bronquíolos é predominantemente:",
+    "nivel": "médio",
+    "subtopico": "bronquíolos",
+    "tipo": "múltipla escolha",
+    "tags": ["bronquíolo", "epitélio", "célula de Club"],
+    "alternativas": [
+      {
+        "texto": "Pseudoestratificado colunar ciliado com células caliciformes.",
+        "explicacao": "Este é o epitélio dos brônquios e da traqueia."
+      },
+      {
+        "texto": "Estratificado pavimentoso não queratinizado.",
+        "explicacao": "Este epitélio é encontrado em locais de atrito, como o esôfago e partes da laringe."
+      },
+      {
+        "texto": "Simples cúbico a colunar, com células ciliadas e células de Club.",
+        "explicacao": "Nos bronquíolos maiores, o epitélio é simples colunar ciliado, que transita para simples cúbico com predomínio de células de Club nos bronquíolos terminais."
+      },
+      {
+        "texto": "Simples pavimentoso.",
+        "explicacao": "O epitélio simples pavimentoso é encontrado nos alvéolos (pneumócitos tipo I)."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 38,
+    "enunciado": "A capacidade de regeneração do epitélio alveolar após uma lesão depende principalmente da proliferação e diferenciação de qual célula?",
+    "nivel": "médio",
+    "subtopico": "alvéolos",
+    "tipo": "múltipla escolha",
+    "tags": ["regeneração", "pneumócito tipo II", "célula-tronco", "alvéolo"],
+    "alternativas": [
+      {
+        "texto": "Pneumócitos tipo I",
+        "explicacao": "Os pneumócitos tipo I são células terminais altamente diferenciadas e incapazes de se dividir."
+      },
+      {
+        "texto": "Macrófagos alveolares",
+        "explicacao": "Os macrófagos limpam os detritos, mas não regeneram o epitélio."
+      },
+      {
+        "texto": "Pneumócitos tipo II",
+        "explicacao": "Além de produzirem surfactante, os pneumócitos tipo II atuam como células progenitoras que podem se dividir para dar origem a novos pneumócitos tipo II e se diferenciar em pneumócitos tipo I."
+      },
+      {
+        "texto": "Células endoteliais dos capilares",
+        "explicacao": "As células endoteliais podem se regenerar, mas não dão origem às células epiteliais alveolares."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 39,
+    "enunciado": "Qual estrutura anatômica marca o fim da zona condutora e o início da zona respiratória do sistema respiratório?",
+    "nivel": "médio",
+    "subtopico": "geral",
+    "tipo": "múltipla escolha",
+    "tags": ["zona condutora", "zona respiratória", "bronquíolo terminal", "bronquíolo respiratório"],
+    "alternativas": [
+      {
+        "texto": "A bifurcação da traqueia (carina).",
+        "explicacao": "A carina é parte da zona condutora."
+      },
+      {
+        "texto": "A transição de brônquio para bronquíolo.",
+        "explicacao": "Os bronquíolos ainda fazem parte da zona condutora."
+      },
+      {
+        "texto": "O bronquíolo terminal.",
+        "explicacao": "O bronquíolo terminal é a última porção da zona condutora. A zona respiratória começa logo após, com os bronquíolos respiratórios."
+      },
+      {
+        "texto": "O saco alveolar.",
+        "explicacao": "O saco alveolar é a porção terminal da zona respiratória."
+      }
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "numero": 40,
+    "enunciado": "As fibras elásticas do parênquima pulmonar são degradadas no enfisema por enzimas como a elastase, liberadas por qual célula em resposta à inflamação crônica?",
+    "nivel": "difícil",
+    "subtopico": "correlação clínica",
+    "tipo": "múltipla escolha",
+    "tags": ["enfisema", "elastase", "neutrófilo", "macrófago"],
+    "alternativas": [
+      {
+        "texto": "Pneumócito tipo II",
+        "explicacao": "O pneumócito tipo II tenta reparar o dano, mas não é a fonte das enzimas destrutivas."
+      },
+      {
+        "texto": "Fibroblasto",
+        "explicacao": "O fibroblasto produz as fibras da matriz, incluindo a elastina, mas não a degrada em condições patológicas como esta."
+      },
+      {
+        "texto": "Linfócito T",
+        "explicacao": "O linfócito T coordena a resposta inflamatória, mas não libera elastase diretamente."
+      },
+      {
+        "texto": "Neutrófilo e macrófago",
+        "explicacao": "A fumaça do cigarro e outros irritantes recrutam neutrófilos e ativam macrófagos no pulmão. Essas células liberam proteases, incluindo a elastase, que, na ausência de antiproteases suficientes (como a alfa-1-antitripsina), destroem as fibras elásticas."
+      }
+    ],
+    "respostaCorreta": 3
   }
 ]
+
