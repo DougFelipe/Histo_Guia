@@ -27,7 +27,7 @@ const Header: React.FC<HeaderProps> = ({ title = "Histoguia" }) => {
             </div>
             <div>
               <h1 className="text-xl md:text-2xl font-bold text-slate-800">{title}</h1>
-              <p className="text-xs md:text-sm text-slate-600">Plataforma de Histologia</p>
+              <p className="text-xs md:text-sm text-slate-600">Plataforma de Estudos</p>
             </div>
           </Link>
 

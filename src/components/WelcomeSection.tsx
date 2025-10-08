@@ -6,12 +6,16 @@ const WelcomeSection: React.FC = () => {
     <section className="py-8 md:py-16 bg-gradient-to-br from-lavender-50 to-purple-50">
       <div className="container mx-auto px-4 text-center">
         <div className="max-w-4xl mx-auto">
-          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-slate-800 mb-4 md:mb-6 animate-fade-in">
-            Bem-vindo ao Histoguia
-          </h2>
+          <div className="flex justify-center mb-4 md:mb-6 animate-fade-in">
+            <img 
+              src="/logo.png" 
+              alt="Histoguia" 
+              className="h-20 md:h-28 lg:h-32 w-auto object-contain"
+            />
+          </div>
           <p className="text-lg md:text-xl text-slate-600 mb-8 md:mb-12 animate-fade-in leading-relaxed px-2">
             Explore questões organizadas por temas, com explicações detalhadas 
-            e feedback interativo para potencializar seu aprendizado
+            e feedback interativo
           </p>
           <section className="mt-8 md:mt-12 lg:mt-16 bg-white rounded-xl md:rounded-2xl shadow-lg p-6 md:p-8 border border-slate-100 mx-2 md:mx-0">
             <div className="text-center">
