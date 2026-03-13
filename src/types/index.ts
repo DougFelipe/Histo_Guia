@@ -87,3 +87,48 @@ export interface ResultadoSimulado {
   tempoTotal: number;
   percentualAcerto: number;
 }
+
+export type StudyModuleId =
+  | 'questoes-teoricas'
+  | 'questoes-praticas'
+  | 'flashcards-teoricos'
+  | 'flashcards-praticos'
+  | 'simulado-pratico'
+  | 'glossario';
+
+export type StudyModuleHeaderGroup = 'main' | 'flashcards';
+
+export type StudyModuleIconKey =
+  | 'brain'
+  | 'microscope'
+  | 'layers'
+  | 'zap'
+  | 'clock'
+  | 'book-open';
+
+export interface StudyModuleMetric {
+  value: string;
+  label: string;
+}
+
+export interface StudyModuleDefinition {
+  id: StudyModuleId;
+  title: string;
+  description: string;
+  primaryPath: string;
+  paths: string[];
+  sitemapPaths: string[];
+  showInHome: boolean;
+  showInHeader: boolean;
+  showInSitemap: boolean;
+  headerGroup: StudyModuleHeaderGroup;
+  iconKey: StudyModuleIconKey;
+  homeGradientClass: string;
+  homeMetrics: StudyModuleMetric[];
+  sitemapTopics: string[];
+}
+
+export interface HeaderNavConfig {
+  mainItems: StudyModuleDefinition[];
+  flashcardItems: StudyModuleDefinition[];
+}

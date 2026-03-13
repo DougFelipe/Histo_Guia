@@ -439,3 +439,17 @@ SOFTWARE.
 [⬆️ Voltar ao topo](#-histoguia)
 
 </div>
+
+## Feature Flags de Modulos
+
+A aplicacao permite ativar/desativar modulos de estudo via `VITE_ENABLED_STUDY_MODULES` (CSV).
+
+- IDs aceitos: `questoes-teoricas`, `questoes-praticas`, `flashcards-teoricos`, `flashcards-praticos`, `simulado-pratico`, `glossario`
+- Valor padrao (quando ausente/vazio): `questoes-teoricas,flashcards-teoricos,glossario`
+- O `npm run build` executa `prebuild` para gerar `public/sitemap.xml` com base nessa mesma variavel.
+
+Exemplo:
+
+```bash
+VITE_ENABLED_STUDY_MODULES=questoes-teoricas,flashcards-teoricos,glossario
+```

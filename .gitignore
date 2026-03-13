@@ -152,6 +152,7 @@ build/
 # Temporary files
 tmp/
 temp/
+.archive
 
 # GitLab CI/CD
 .gitlab-ci-local/
