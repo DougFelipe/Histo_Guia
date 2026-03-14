@@ -2,6 +2,7 @@ import React from 'react';
 import Header from '../components/Header';
 import WelcomeSection from '../components/WelcomeSection';
 import FeatureCardGrid from '../components/FeatureCardGrid';
+import ContactCardSection from '../components/ContactCardSection';
 import SEOHead from '../components/SEOHead';
 
 const HomePage: React.FC = () => {
@@ -41,6 +42,7 @@ const HomePage: React.FC = () => {
         <main role="main">
           <WelcomeSection />
           <FeatureCardGrid />
+          <ContactCardSection />
         </main>
       </div>
     </>

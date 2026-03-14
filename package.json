@@ -27,6 +27,9 @@
   },
   "scripts": {
     "dev": "vite",
+    "analyze:glossary": "node scripts/analyze-glossary-terms.mjs",
+    "analyze:glossary:similarity": "node scripts/analyze-glossary-similarity.mjs",
+    "dedupe:glossary": "node scripts/dedupe-glossary.mjs",
     "prebuild": "node scripts/generate-sitemap.mjs",
     "build": "vite build",
     "lint": "eslint .",
