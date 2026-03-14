@@ -1,13 +1,16 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { ArrowLeft } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import Header from '../components/Header';
 import DropdownTema from '../components/DropdownTema';
 import FiltroAvancado from '../components/FiltroAvancado';
 import QuestaoAccordionList from '../components/QuestaoAccordionList';
+import Paginacao from '../components/Paginacao';
 import SEOHead from '../components/SEOHead';
 import { Questao, FiltroState } from '../types';
 import { TEMAS_DISPONIVEIS } from '../utils/temas';
+
+const QUESTOES_POR_PAGINA = 20;
 
 const QuestoesTeoricasPage: React.FC = () => {
   const [questoes, setQuestoes] = useState<Questao[]>([]);
@@ -18,6 +21,7 @@ const QuestoesTeoricasPage: React.FC = () => {
     palavrasChave: '',
   });
   const [loading, setLoading] = useState(false);
+  const [paginaAtual, setPaginaAtual] = useState(1);
 
   useEffect(() => {
     // Limpar filtros quando o tema muda
@@ -35,6 +39,7 @@ const QuestoesTeoricasPage: React.FC = () => {
 
   useEffect(() => {
     aplicarFiltros();
+    setPaginaAtual(1);
   }, [questoes, filtros]);
 
   const carregarQuestoes = async (tema: string) => {
@@ -63,27 +68,29 @@ const QuestoesTeoricasPage: React.FC = () => {
   const carregarTodasQuestoes = async () => {
     setLoading(true);
     try {
-      const todasQuestoes = [];
       const temas = TEMAS_DISPONIVEIS;
-      
-      for (const tema of temas) {
-        try {
-          // Usar import dinâmico em vez de fetch
-          const questoesModule = await import(`../data/temas/${tema}/questoes-teoricas.json`);
-          const data = questoesModule.default;
-          
-          if (data && Array.isArray(data)) {
-            // Adicionar o tema a cada questão para facilitar a identificação
-            const questoesComTema = data.map((questao: Questao) => ({
-              ...questao,
-              temaOrigem: tema
-            }));
-            todasQuestoes.push(...questoesComTema);
+
+      // Carregamento paralelo de todos os temas
+      const resultados = await Promise.all(
+        temas.map(async (tema) => {
+          try {
+            const questoesModule = await import(`../data/temas/${tema}/questoes-teoricas.json`);
+            const data = questoesModule.default;
+            if (data && Array.isArray(data)) {
+              return data.map((questao: Questao) => ({
+                ...questao,
+                temaOrigem: tema
+              }));
+            }
+            return [];
+          } catch (error) {
+            console.warn(`Erro ao carregar questões do tema ${tema}:`, error);
+            return [];
           }
-        } catch (error) {
-          console.warn(`Erro ao carregar questões do tema ${tema}:`, error);
-        }
-      }
+        })
+      );
+
+      const todasQuestoes = resultados.flat();
       setQuestoes(todasQuestoes);
       setQuestoesFiltradas(todasQuestoes);
     } catch (error) {
@@ -140,6 +147,13 @@ const QuestoesTeoricasPage: React.FC = () => {
 
     setQuestoesFiltradas(questoesFiltradas);
   };
+
+  // Paginação
+  const totalPaginas = Math.ceil(questoesFiltradas.length / QUESTOES_POR_PAGINA);
+  const questoesPaginadas = useMemo(() => {
+    const inicio = (paginaAtual - 1) * QUESTOES_POR_PAGINA;
+    return questoesFiltradas.slice(inicio, inicio + QUESTOES_POR_PAGINA);
+  }, [questoesFiltradas, paginaAtual]);
 
   const formatarNomeTema = (tema: string) => {
     return tema.split('-').map(palavra => 
@@ -218,9 +232,14 @@ const QuestoesTeoricasPage: React.FC = () => {
             </aside>
             <section className="lg:col-span-3" role="main">
               <QuestaoAccordionList 
-                questoes={questoesFiltradas}
+                questoes={questoesPaginadas}
                 loading={loading}
                 temaSelecionado={temaSelecionado}
+              />
+              <Paginacao
+                paginaAtual={paginaAtual}
+                totalPaginas={totalPaginas}
+                onPaginaChange={setPaginaAtual}
               />
             </section>
           </div>

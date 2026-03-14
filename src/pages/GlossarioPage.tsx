@@ -172,6 +172,7 @@ const GlossarioPage: React.FC = () => {
                 loading={loading}
                 letraSelecionada={letraSelecionada}
                 termoBusca={busca}
+                temFiltroAtivo={letraSelecionada !== '' || busca.trim() !== ''}
               />
             </section>
           </div>

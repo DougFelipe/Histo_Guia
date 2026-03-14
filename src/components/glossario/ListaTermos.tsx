@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { BookOpen, Tag } from 'lucide-react';
 import { TermoGlossario } from '../../types';
 
@@ -7,14 +7,24 @@ interface ListaTermosProps {
   loading: boolean;
   letraSelecionada?: string;
   termoBusca?: string;
+  temFiltroAtivo?: boolean;
 }
+
+const ITENS_POR_LOTE = 20;
 
 const ListaTermos: React.FC<ListaTermosProps> = ({ 
   termos, 
   loading, 
   letraSelecionada = '', 
-  termoBusca = '' 
+  termoBusca = '',
+  temFiltroAtivo = false
 }) => {
+  const [itensVisiveis, setItensVisiveis] = useState(ITENS_POR_LOTE);
+
+  // Resetar itens visíveis quando filtros mudam
+  useEffect(() => {
+    setItensVisiveis(ITENS_POR_LOTE);
+  }, [letraSelecionada, termoBusca]);
   if (loading) {
     return (
       <div className="space-y-4">
@@ -102,18 +112,39 @@ const ListaTermos: React.FC<ListaTermosProps> = ({
         </div>
       </div>
 
-      {termosOrdenados.map((termo, index) => (
-        <div key={index} className="bg-white rounded-2xl shadow-lg p-6 border border-slate-100 hover:shadow-xl transition-shadow duration-300">
-          <div className="flex items-start justify-between mb-3">
-            <h3 className="text-xl font-bold text-slate-800">{termo.termo}</h3>
-            <span className={`px-3 py-1 rounded-full text-sm font-medium flex items-center space-x-1 ${getCategoriaColor(termo.categoria)}`}>
-              <Tag className="w-4 h-4" />
-              <span>{termo.categoria}</span>
-            </span>
-          </div>
-          <p className="text-slate-700 leading-relaxed text-lg">{termo.definicao}</p>
-        </div>
-      ))}
+      {/* Aplicar limite quando não há filtro ativo */}
+      {(() => {
+        const termosParaExibir = temFiltroAtivo ? termosOrdenados : termosOrdenados.slice(0, itensVisiveis);
+        const termosRestantes = temFiltroAtivo ? 0 : termosOrdenados.length - itensVisiveis;
+
+        return (
+          <>
+            {termosParaExibir.map((termo, index) => (
+              <div key={index} className="bg-white rounded-2xl shadow-lg p-6 border border-slate-100 hover:shadow-xl transition-shadow duration-300">
+                <div className="flex items-start justify-between mb-3">
+                  <h3 className="text-xl font-bold text-slate-800">{termo.termo}</h3>
+                  <span className={`px-3 py-1 rounded-full text-sm font-medium flex items-center space-x-1 ${getCategoriaColor(termo.categoria)}`}>
+                    <Tag className="w-4 h-4" />
+                    <span>{termo.categoria}</span>
+                  </span>
+                </div>
+                <p className="text-slate-700 leading-relaxed text-lg">{termo.definicao}</p>
+              </div>
+            ))}
+
+            {!temFiltroAtivo && termosRestantes > 0 && (
+              <div className="flex justify-center">
+                <button
+                  onClick={() => setItensVisiveis(prev => prev + ITENS_POR_LOTE)}
+                  className="px-6 py-3 bg-purple-600 text-white rounded-xl font-medium hover:bg-purple-700 transition-colors duration-200 shadow-md hover:shadow-lg"
+                >
+                  Carregar mais ({Math.min(termosRestantes, ITENS_POR_LOTE)} de {termosRestantes} restantes)
+                </button>
+              </div>
+            )}
+          </>
+        );
+      })()}
     </div>
   );
 };
